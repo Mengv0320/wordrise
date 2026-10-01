@@ -1,0 +1,170 @@
+﻿﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>专升本英语进化之路</title>
+<link rel="stylesheet" href="css/style.css?v=5">
+</head>
+<body>
+<div id="app">
+  <!-- 顶部：标题 + 总进度 -->
+  <header id="topbar">
+    <div class="topbar-inner">
+      <h1>⚔️ 专升本英语进化之路</h1>
+      <div id="progress-wrap" title="学习进度">
+        <div id="progress-bar"><div id="progress-fill"></div></div>
+        <span id="progress-text">0%</span>
+      </div>
+      <button id="btn-home" class="ghost-btn" onclick="App.goHome()">🗺 世界地图</button>
+      <button id="btn-reset" class="ghost-btn" onclick="App.resetProgress()">↺ 重置存档</button>
+    </div>
+  </header>
+
+  <!-- 世界地图（章节选择） -->
+  <section id="map-view">
+    <div class="map-intro">
+      <p class="map-slogan">「单词不是背出来的，是在故事里活出来的。」</p>
+      <p class="map-tip">每章流程：读故事（点词知义）→ 攻核心词 → 易混词对决 → 长难句拆解 → 短语弹药库 → 语法碉堡 → 关卡测验。通关一章自动解锁下一章。</p>
+      <button class="training-entry" onclick="App.goTraining()">🎯 进入题型特训营 · 阅读理解 / 完形填空 / 改错</button>
+    </div>
+    <div id="chapter-grid" class="chapter-grid"></div>
+  </section>
+
+  <!-- 题型特训营 -->
+  <main id="training-view" class="hidden">
+    <div class="training-header">
+      <h2>🎯 题型特训营</h2>
+      <p>近五年真题 + 预测卷提炼：先学方法，再打真题示范，逐题看解析。</p>
+    </div>
+    <div class="training-tabs">
+      <button class="t-tab active" data-t="reading" onclick="App.switchTraining('reading')">📖 阅读理解 40分</button>
+      <button class="t-tab" data-t="cloze" onclick="App.switchTraining('cloze')">🕳 完形填空 20分</button>
+      <button class="t-tab" data-t="error" onclick="App.switchTraining('error')">✏️ 短文改错 20分</button>
+    </div>
+    <div id="training-body"></div>
+    <div class="chapter-nav">
+      <button class="nav-btn" onclick="App.goHome()">🗺 回地图</button>
+    </div>
+  </main>
+
+  <!-- 章节内容 -->
+  <main id="chapter-view" class="hidden">
+    <div id="chapter-header"></div>
+
+    <!-- 双栏布局容器 -->
+    <div class="chapter-split">
+
+      <!-- 左栏：故事（sticky） -->
+      <aside class="split-left">
+        <section class="module" id="mod-story">
+          <h2 class="mod-title">📖 第一幕 · 故事剧场</h2>
+          <p class="mod-tip">高亮的词就是本章核心词，<b>点一下</b>看释义。先通读一遍不求全懂，再点词精读。</p>
+          <div class="story-box">
+            <h3 id="story-title"></h3>
+            <div id="story-text" class="story-text"></div>
+            <div class="story-trans">
+              <button class="ghost-btn" onclick="App.toggleTrans()">🇨🇳 展开/收起全文翻译</button>
+              <p id="story-translation" class="hidden"></p>
+            </div>
+          </div>
+        </section>
+      </aside>
+
+      <!-- 右栏：知识点（独立滚动） -->
+      <div class="split-right">
+        <!-- 模块2：核心词汇 -->
+        <section class="module" id="mod-words">
+          <h2 class="mod-title">🔑 第二幕 · 核心词军火库</h2>
+          <p class="mod-tip">点卡片翻面：正面是单词，背面是音标+释义+真题风格例句+助记。</p>
+          <div id="word-cards" class="word-cards"></div>
+        </section>
+
+        <!-- 模块3：易混词对决 -->
+        <section class="module" id="mod-confuse">
+          <h2 class="mod-title">⚔️ 第三幕 · 易混词竞技场</h2>
+          <p class="mod-tip">最容易一混混整篇的杀手词，全在这了。先看对比，再看口诀。</p>
+          <div id="confuse-list"></div>
+        </section>
+
+        <!-- 模块4：长难句 -->
+        <section class="module" id="mod-sentence">
+          <h2 class="mod-title">🏗 第四幕 · 长难句拆解工坊</h2>
+          <p class="mod-tip">先自己读，再看主干拆解，最后看翻译。句子看懂了，阅读就赢了一半。</p>
+          <div id="sentence-list"></div>
+        </section>
+
+        <!-- 模块5：短语 -->
+        <section class="module" id="mod-phrase">
+          <h2 class="mod-title">💬 第五幕 · 短语弹药库</h2>
+          <p class="mod-tip">完形填空爱考搭配，改错爱考介词。带 ⚠️ 的是改错高频雷区。</p>
+          <div id="phrase-list" class="phrase-list"></div>
+        </section>
+
+        <!-- 模块5.5：语法考点 -->
+        <section class="module" id="mod-grammar">
+          <h2 class="mod-title">📐 第五点五幕 · 语法碉堡</h2>
+          <p class="mod-tip">真题高频语法点：规则 + 例句 + 标志词。翻译改错写作全靠它。</p>
+          <div id="grammar-list"></div>
+        </section>
+
+        <!-- 模块6：测验 -->
+        <section class="module" id="mod-quiz">
+          <h2 class="mod-title">🎯 终幕 · 关卡测验</h2>
+          <p class="mod-tip">80 分及以上即通关本章，解锁下一章。错题有解析，别怕错。</p>
+          <div id="quiz-list"></div>
+          <div id="quiz-result" class="hidden"></div>
+        </section>
+
+        <div class="chapter-nav">
+          <button class="nav-btn" id="btn-prev" onclick="App.goHome()">🗺 回地图</button>
+          <button class="nav-btn next" id="btn-next" onclick="App.nextChapter()">下一章 →</button>
+        </div>
+      </div><!-- /split-right -->
+
+    </div><!-- /chapter-split -->
+  </main>
+
+  <!-- 单词弹层 -->
+  <div id="word-popup" class="hidden"></div>
+  <!-- 地图路径 canvas -->
+  <canvas id="map-canvas" style="position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:0;opacity:.5"></canvas>
+</div>
+
+<script src="js/data/ch01.js?v=3"></script>
+<script src="js/data/ch02.js?v=3"></script>
+<script src="js/data/ch03.js?v=3"></script>
+<script src="js/data/ch04.js?v=3"></script>
+<script src="js/data/ch05.js?v=3"></script>
+<script src="js/data/ch06.js?v=3"></script>
+<script src="js/data/ch07.js?v=3"></script>
+<script src="js/data/ch08.js?v=3"></script>
+<script src="js/data/ch09.js?v=3"></script>
+<script src="js/data/ch10.js?v=3"></script>
+<script src="js/data/ch11.js?v=3"></script>
+<script src="js/data/ch12.js?v=3"></script>
+<script src="js/data/ch13.js?v=3"></script>
+<script src="js/data/ch14.js?v=3"></script>
+<script src="js/data/ch15.js?v=3"></script>
+<script src="js/data/ch16.js?v=3"></script>
+<script src="js/data/ch17.js?v=3"></script>
+<script src="js/data/ch18.js?v=3"></script>
+<script src="js/data/ch19.js?v=3"></script>
+<script src="js/data/ch20.js?v=3"></script>
+<script src="js/data/ch21.js?v=3"></script>
+<script src="js/data/ch22.js?v=3"></script>
+<script src="js/data/ch23.js?v=3"></script>
+<script src="js/data/ch24.js?v=3"></script>
+<script src="js/data/ch25.js?v=3"></script>
+<script src="js/data/ch26.js?v=3"></script>
+<script src="js/data/ch27.js?v=3"></script>
+<script src="js/data/ch28.js?v=3"></script>
+<script src="js/data/ch29.js?v=3"></script>
+<script src="js/data/ch30.js?v=3"></script>
+<script src="js/data/core800.js?v=3"></script>
+<script src="js/data/training.js?v=3"></script>
+<script src="js/data/structure.js?v=5"></script>
+<script src="js/app.js?v=5"></script>
+</body>
+</html>
+
