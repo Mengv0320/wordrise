@@ -181,6 +181,196 @@ const App = {
       dBox.innerHTML = html;
       body.appendChild(dBox);
     }
+
+    // ===== 翻译特训渲染 =====
+    if (key === "translation" && window.TRAINING_TRANS) {
+      this._renderTranslation(body);
+      return;
+    }
+    // ===== 写作特训渲染 =====
+    if (key === "writing" && window.TRAINING_WRITE) {
+      this._renderWriting(body);
+      return;
+    }
+    // ===== 额外真题集（阅读/完形/改错）=====
+    const TT = window.TRAINING;
+    if (key === "reading" && TT && TT.extraPassages && TT.extraPassages.length) {
+      this._renderExtraReadings(body, TT.extraPassages);
+    }
+    if (key === "cloze" && TT && TT.extraClozeSets && TT.extraClozeSets.length) {
+      this._renderExtraCloze(body, TT.extraClozeSets);
+    }
+    if (key === "error" && TT && TT.extraErrorSets && TT.extraErrorSets.length) {
+      this._renderExtraErrors(body, TT.extraErrorSets);
+    }
+  },
+
+  /* ---------- 翻译特训渲染 ---------- */
+  _renderTranslation(body) {
+    const T = window.TRAINING_TRANS;
+    if (!T) { body.innerHTML = "<p style='color:var(--sub);padding:20px'>数据加载中...</p>"; return; }
+    // 英译汉
+    const e2c = T.e2c;
+    let html = `<h3>🇬🇧→🇨🇳 英译汉 · 20分</h3>`;
+    html += `<div class="train-steps">`;
+    (e2c.skills||[]).forEach(s => {
+      html += `<div class="train-step"><b>【${s.name}】</b> ${s.rule}<br><span style="color:var(--blue);font-style:italic">${s.ex}</span><br><span style="color:var(--sub);font-size:12px">${s.excn}</span></div>`;
+    });
+    html += `</div>`;
+    html += `<h3>📝 英译汉练习句（${(e2c.sentences||[]).length}句）</h3>`;
+    (e2c.sentences||[]).forEach((s,i) => {
+      html += `<div class="sentence-item" style="margin-bottom:12px">
+        <div class="sen-en" style="margin-bottom:8px"><b>${i+1}.</b> ${s.en}</div>
+        <div style="font-size:12px;color:var(--gold);margin-bottom:6px">📌 句型：${s.type}</div>
+        <details style="margin-bottom:6px"><summary style="cursor:pointer;color:var(--blue);font-size:13px">查看拆解步骤</summary>
+          <div class="sen-parts">${(s.steps||[]).map(p=>`<p>${p}</p>`).join("")}</div>
+        </details>
+        <details><summary style="cursor:pointer;color:var(--green);font-size:13px">查看参考译文</summary>
+          <div class="sen-cn" style="margin-top:6px">${s.cn}</div>
+          ${s.tips ? `<div style="color:var(--red);font-size:12px;margin-top:4px">⚠️ ${s.tips}</div>` : ""}
+        </details>
+      </div>`;
+    });
+    // 汉译英
+    const c2e = T.c2e;
+    html += `<h3>🇨🇳→🇬🇧 汉译英 · 20分</h3>`;
+    html += `<div class="train-steps">`;
+    (c2e.templates||[]).forEach(t => {
+      html += `<div class="train-step"><b>【${t.name}】</b> <code style="background:rgba(255,215,0,.1);padding:2px 6px;border-radius:4px">${t.pattern}</code><br><span style="color:var(--sub);font-size:12.5px">例：${t.ex_cn} → <em style="color:var(--blue)">${t.ex_en}</em></span>${t.note ? `<br><span style="color:var(--orange);font-size:11.5px">💡 ${t.note}</span>` : ""}</div>`;
+    });
+    html += `</div>`;
+    html += `<h3>📝 汉译英练习句（${(c2e.sentences||[]).length}句）</h3>`;
+    (c2e.sentences||[]).forEach((s,i) => {
+      html += `<div class="sentence-item" style="margin-bottom:12px">
+        <div style="font-size:14.5px;font-weight:700;color:var(--ink);margin-bottom:6px"><b>${i+1}.</b> ${s.cn}</div>
+        <div style="font-size:12px;color:var(--gold);margin-bottom:6px">📌 考点：${s.type}</div>
+        <details><summary style="cursor:pointer;color:var(--green);font-size:13px">查看参考译文</summary>
+          <div class="sen-cn" style="margin-top:6px"><em>${s.en}</em></div>
+          <div style="color:var(--blue);font-size:12px;margin-top:4px">🔑 ${s.keypoint}</div>
+          ${s.traps ? `<div style="color:var(--red);font-size:12px;margin-top:2px">⚠️ 易错：${s.traps}</div>` : ""}
+        </details>
+      </div>`;
+    });
+    body.innerHTML = html;
+  },
+
+  /* ---------- 写作特训渲染 ---------- */
+  _renderWriting(body) {
+    const W = window.TRAINING_WRITE;
+    if (!W) { body.innerHTML = "<p style='color:var(--sub);padding:20px'>数据加载中...</p>"; return; }
+    let html = `<h3>✍️ 写作概览</h3><div class="train-steps"><div class="train-step">${W.overview||"30分，120-150词，书写工整，结构清晰。"}</div></div>`;
+    // 万能句型
+    if (W.powerPhrases && W.powerPhrases.length) {
+      html += `<h3>💡 万能句型库（${W.powerPhrases.length}条）</h3>`;
+      const groups = {};
+      W.powerPhrases.forEach(p => { if (!groups[p.type]) groups[p.type]=[];  groups[p.type].push(p); });
+      Object.keys(groups).forEach(g => {
+        html += `<div style="margin-bottom:10px"><div style="color:var(--gold);font-weight:800;margin-bottom:6px">${g}</div>`;
+        groups[g].forEach(p => {
+          html += `<div class="grammar-item" style="margin-bottom:8px">
+            <div class="gr-title">${p.cn}</div>
+            <div class="gr-ex">${p.en}</div>
+            ${p.note ? `<div class="gr-signal">💡 ${p.note}</div>` : ""}
+          </div>`;
+        });
+        html += `</div>`;
+      });
+    }
+    // 三大文体
+    (W.genres||[]).forEach(g => {
+      html += `<h3>📂 ${g.name}</h3>`;
+      (g.types||[]).forEach(t => {
+        html += `<div class="confuse-group" style="margin-bottom:14px">
+          <h4>${t.name}</h4>
+          <div style="font-size:13px;color:var(--sub);margin-bottom:8px">结构：${(t.structure||[]).join(" → ")}</div>
+          <div style="background:rgba(255,215,0,.06);border:1px solid rgba(255,215,0,.2);border-radius:8px;padding:10px;margin-bottom:8px;font-size:13px">
+            <b style="color:var(--gold)">模板：</b><pre style="white-space:pre-wrap;font-family:inherit;font-size:13px;color:var(--sub)">${t.template||""}</pre>
+          </div>
+          ${t.demo ? `<details><summary style="cursor:pointer;color:var(--green);font-weight:700">📄 查看范文（${t.demo.topic}）</summary>
+            <div style="background:rgba(255,255,255,.03);border:1px solid var(--border);border-radius:8px;padding:12px;margin-top:8px">
+              <div style="font-size:14px;line-height:2;color:var(--ink)">${t.demo.essay}</div>
+              <div style="color:var(--sub);font-size:12px;margin-top:8px">📋 评分要点：${t.demo.notes}</div>
+            </div>
+          </details>` : ""}
+        </div>`;
+      });
+    });
+    // 历年真题
+    if (W.pastTopics && W.pastTopics.length) {
+      html += `<h3>📅 近5年真题题目</h3>`;
+      W.pastTopics.forEach(t => {
+        html += `<div class="sp-item"><span class="sp-tag">${t.year} · ${t.genre}</span>
+          <div class="sp-q">${t.topic}</div>
+          <div class="sp-n">要点：${(t.keypoints||[]).join(" · ")}</div>
+        </div>`;
+      });
+    }
+    body.innerHTML = html;
+  },
+
+  /* ---------- 额外真题集渲染 ---------- */
+  _renderExtraReadings(body, passages) {
+    let html = `<h3 style="color:var(--green);border-left-color:var(--green)">📚 真题阅读练习（共 ${passages.length} 篇）</h3>`;
+    passages.forEach((p, pi) => {
+      html += `<div class="train-demo" style="margin-bottom:16px">
+        <h3 style="color:var(--blue)">阅读 ${pi + 2}：${p.topic}</h3>
+        <div class="demo-passage">${p.passage.replace(/\n/g, '<br>')}</div>`;
+      (p.questions || []).forEach((q, qi) => {
+        html += `<div class="demo-q">
+          <div class="dq">${qi + 1}. ${q.q}</div>
+          <div class="dopts">${q.options.map((o, oi) =>
+            `<span class="${oi === q.answer ? 'dopt ok' : 'dopt'}">${String.fromCharCode(65 + oi)}. ${o}</span>`
+          ).join('')}</div>
+          <div class="dloc">📍 定位：${q.locate || ''}</div>
+          <div class="dex">💡 ${q.explain}</div>
+        </div>`;
+      });
+      html += `</div>`;
+    });
+    body.insertAdjacentHTML('beforeend', html);
+  },
+
+  _renderExtraCloze(body, sets) {
+    let html = `<h3 style="color:var(--green);border-left-color:var(--green)">📝 完形填空练习（共 ${sets.length} 套）</h3>`;
+    sets.forEach((s, si) => {
+      html += `<div class="train-demo" style="margin-bottom:16px">
+        <h3 style="color:var(--purple)">完形 ${si + 2}：${s.topic}</h3>
+        <div class="demo-passage">${s.passage.replace(/\n/g, '<br>').replace(/___(\d+)___/g, '<b style="color:var(--gold)">___$1___</b>')}</div>`;
+      (s.questions || []).forEach((q) => {
+        html += `<div class="demo-q">
+          <div class="dq"><b>${q.num}.</b> ${q.options.map((o, oi) => String.fromCharCode(65 + oi) + '. ' + o).join('　')}</div>
+          <div class="dopts">${q.options.map((o, oi) =>
+            `<span class="${oi === q.answer ? 'dopt ok' : 'dopt'}">${String.fromCharCode(65 + oi)}. ${o}</span>`
+          ).join('')}</div>
+          <div class="dex">💡 ${q.explain}</div>
+        </div>`;
+      });
+      html += `</div>`;
+    });
+    body.insertAdjacentHTML('beforeend', html);
+  },
+
+  _renderExtraErrors(body, sets) {
+    let html = `<h3 style="color:var(--green);border-left-color:var(--green)">✏️ 改错练习（共 ${sets.length} 篇）</h3>`;
+    sets.forEach((s, si) => {
+      html += `<div class="train-demo" style="margin-bottom:16px">
+        <h3 style="color:var(--orange)">改错 ${si + 2}：${s.topic}</h3>
+        <div class="demo-passage">${s.passage.replace(/\n/g, '<br>')}</div>
+        <h4 style="color:var(--gold);margin:10px 0 8px;font-size:14px">📋 错误清单（${(s.errors||[]).length}处）</h4>`;
+      (s.errors || []).forEach((e, ei) => {
+        html += `<div class="demo-q" style="padding:8px 0">
+          <div class="dq"><b>${ei + 1}.</b> <span style="color:var(--sub)">${e.line}</span></div>
+          <div style="display:flex;gap:12px;flex-wrap:wrap;margin:5px 0">
+            <span class="dopt" style="color:var(--red)">❌ ${e.wrong}</span>
+            <span class="dopt ok">✅ ${e.right}</span>
+            <span class="dopt" style="color:var(--purple)">${e.type}</span>
+          </div>
+          <div class="dex">💡 ${e.explain}</div>
+        </div>`;
+      });
+      html += `</div>`;
+    });
+    body.insertAdjacentHTML('beforeend', html);
   },
 
   /* ---------- 打开章节 ---------- */
