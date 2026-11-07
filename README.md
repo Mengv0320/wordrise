@@ -7,8 +7,6 @@
 
 ![vanilla-js](https://img.shields.io/badge/JavaScript-vanilla-f7df1e) ![no-build](https://img.shields.io/badge/build-无构建-blue) ![offline](https://img.shields.io/badge/使用-离线可用-success) ![license](https://img.shields.io/badge/license-MIT-green)
 
-> GitHub 仓库名建议：`wordrise` · 推荐 topics：`english-learning` `gamification` `vanilla-javascript` `spaced-repetition` `shengben-zhuanshengben`
-
 ---
 
 ## 为什么做这个
@@ -67,7 +65,7 @@
 **零依赖、零构建、零安装**——纯原生 JavaScript + CSS。
 
 ```bash
-git clone https://github.com/你的用户名/wordrise.git
+git clone https://github.com/Mengv0320/wordrise.git
 cd wordrise
 ```
 
