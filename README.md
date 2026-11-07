@@ -3,7 +3,9 @@
 > 一款**纯前端、零依赖、游戏化**的河南专升本英语备考系统。
 > 不背单词表——在 30 章连续剧情里，把 157 张语法考点卡和 5500+ 词条「活」下来。
 
-<!-- 建议在此处放置 2-3 张截图：世界地图 / 章节学习双栏 / 军火库总览 / Boss 战测验 -->
+![章节学习：故事剧场 + 熟词生义晴雨阵](docs/chapter-reading.png)
+
+*章节学习双栏：左边读剧情（高亮词点一下即释义），右边同步攻知识点*
 
 ![vanilla-js](https://img.shields.io/badge/JavaScript-vanilla-f7df1e) ![no-build](https://img.shields.io/badge/build-无构建-blue) ![offline](https://img.shields.io/badge/使用-离线可用-success) ![license](https://img.shields.io/badge/license-MIT-green)
 
