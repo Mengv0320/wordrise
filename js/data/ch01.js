@@ -1,223 +1,271 @@
 window.CHAPTERS = window.CHAPTERS || [];
 window.CHAPTERS.push({
   id: 1,
-  title: "启程 · 会说话的录取通知书",
-  desc: "九月，一张会说话的羊皮纸把阿洛拖进了英语大陆。知识银行开账户，五关考核倒计时——背单词，就是存钱。",
-  tag: "教育类高频词",
+  title: "觉醒 · 词力为零",
+  desc: "测词大会，词碑无言；青梅变脸，仇人踩脸。深夜图书管，一团雾与一卷空白古卷，把「零」改写成「空」。考点：12 个觉醒高频词 + so/such、enough to do、was doing...when、主动表被动。",
+  tag: "觉醒篇 · 情感与行动词域",
   story: {
-    title: "The Talking Letter 会说话的录取通知书",
-    text: `It was September in Henan, hot as a steamer. A-Luo was holding a strange [[admission]] letter. Suddenly, the paper began to talk!
+    title: "The Day of Zero 零分之日",
+    text: `The Word-Testing Ceremony began at nine. Three hundred freshmen stood before the Word Stone, a black pillar carved with ten thousand glowing characters.
 
-"Welcome to Qingmeng Academy!" said the letter. "I am Juanjuan, the spirit of the Ancient Scroll. To get the [[degree]] of this continent, you must pass five gates: Reading, Cloze, Error Correction, Translation and Writing. Fail one gate, and you stay here... forever."
+A-Luo had walked three days from Stone Creek Village. His grandmother had sold the family ox for his tuition; he carried one [[ambition]]: to become a word-warrior and never watch her bow to anyone again. That morning he was so [[eager]] that he stood in the first row, ready for a [[bold]] walk toward his future.
 
-"Can I quit?" A-Luo asked. "No. You have already [[applied]], and the [[campus]] gate is closing now. Besides, you opened a Knowledge Bank account the moment you touched me."
+Zhou Qing, the Dean's son, went first. When he laid two fingers on the stone, light burst upward, and the whole square [[applaud]]ed, [[amaze]]d by the [[brilliant]] number: 902, Word-Master rank. Su Nian, A-Luo's childhood friend, scored 640, still smiling — until her eyes met his.
 
-"A bank?"
+Then A-Luo pressed his hand on the stone — and it stayed cold. One breath. Three. Ten. No light, no number, nothing. "The stone marked him absent," Zhou Qing said slowly. "Zero. Roll back to your village, farm boy." Laughter swept the square, meant to [[embarrass]] him. It worked. Su Nian looked away as if his zero might stain her robe; that evening her roommate came to [[claim]] back the red charm she had once tied to his bag. A-Luo wanted to [[blame]] the stone, the road, anyone but himself. He made one last [[attempt]] at a smile. It died halfway.
 
-"Look." The letter flew up and drew golden lines in the air. "Every word you remember is a coin. Every coin you deposit into your [[account]] will [[contribute to]] your final score. Lazy students borrow from tomorrow; wise students [[benefit]] from today. Save enough coins, and the bank even pays a [[scholarship]] — real money, unlike the pocket money you beg from home. And here is the secret: an [[efficient]] learner reviews at the right time. You, my friend, are not efficient. You are... creative in your sleeping schedule."
+"A freshman who measures zero leaves at sunset," the Dean said. "However — one retest, three days from now. If it shows zero again, the expulsion is permanent." Zhou Qing smiled like poisoned honey. "Between him and me, Father — whoever loses leaves the academy."
 
-BOOM. The gate shut behind him. A floating auntie appeared. "Freshman? Your [[dormitory]] is on the third floor. Lights off at 10:30. [[Attendance]] depends on yourself — but exams never depend on yourself."
+That night he was desperate enough to try anything: he slipped into the old library. Behind the last shelf, the watchman Grandpa Sha was feeding a grey fog with paper slips, and the fog [[capture]]d every slip with a sigh. "Forgotten words," the old man said. "I sweep what people drop."
 
-On the first morning, A-Luo was late. The professor looked at him coldly: "Being late will [[affect]] your final grade. And grades are the interest of your Knowledge Bank — poor deposits, poor interest."
+Then the fog tasted A-Luo's emptiness and turned. He was backing away when a black scroll no one had ever opened began to hum. It unfolded, page after white page — and the Ancient Scroll, silent for ten years, was [[awake]].
 
-A-Luo sat down quickly and decided to [[concentrate]]. His [[major]] course had a big [[assignment]], and the [[deadline]] was next Friday. "I must make an [[effort]]," he thought. "Knowledge never comes for free. Those who work hard will [[achieve]] their goals; those who sleep will [[require]] an alarm clock... and a miracle."
+"Ding! Blank Page constitution detected," a sharp voice announced. "You are not zero, freshman — you are empty. Others bind one meaning to a word — you swallow all of them." Golden light poured into his chest. "Word-power zero, rising to Word-Apprentice. But memory leaks — skip your reviews, and in three days you will be a commoner again." When A-Luo looked up, the old man was gone. Three days. Behind him, the fog pressed itself against the window and watched him go.`,
+    translation: `测词大会上午九点开始。三百名新生站在词碑前——一根刻着上万个发光字符的黑色石柱。
 
-That afternoon, he went to the library. The librarian handed him a card. "With this card, you have [[access]] to the whole reading room — two hundred thousand books, free of charge. Use it, or the card is just plastic."
+阿洛从石溪村走了三天才到这里。奶奶卖掉了家里的耕牛给他凑学费；他揣着一个志向：成为词师，再也不看奶奶向任何人弯腰。那天早上他心气太高，一早就站在第一排，准备向自己的未来迈出大胆的一步。
 
-A-Luo looked at the card, then at the golden lines still floating in the air. Two things in this continent were certain: words were money, and time was the exchange rate.
+教务长之子周擎第一个上场。他两指按上词碑，光轰然升起，全场鼓掌，为那个出彩的数字惊叹：902，词师阶。苏念——阿洛的青梅——考出 640，还带着笑，直到目光撞上阿洛的。
 
-That night, he made a study plan and started to [[review]] his lessons. He read for one hour, rested for ten minutes, and read again. It was not heroism; it was [[improve]]ment — slow, boring, and real.
+然后阿洛把手按上词碑——碑一直是冷的。一息。三息。十息。没有光，没有数字，什么都没有。「词碑把他标成了缺席，」周擎缓缓说，「零。滚回你的村子去，乡下小子。」笑声扫过广场，本就是用来让他难堪的。它做到了。苏念移开目光，仿佛他的零分会弄脏她的袍子；当晚，她的室友来把那条她曾系在他书包上的红平安符要了回去。阿洛想怪词碑，怪那条路，怪一切除了自己。他做了最后一次尝试，挤出一个笑。笑到一半就死了。
 
-Juanjuan smiled in the drawer: "Good. The journey of ten thousand miles begins with one word. Now sleep, freshman. Tomorrow the real game begins — your roommates are waiting. One of them has never seen the sunrise. Another one eats like a black hole. Good luck."`,
-    translation: `九月，热得像蒸笼。阿洛手里捏着一封奇怪的录取通知书。突然，纸开始说话了！
-「欢迎来到青盟学院！」通知书说，「我是古卷精灵卷卷。想拿到这个大陆的学位，你必须闯过五关：阅读、完形、改错、翻译和写作。挂掉一关……你就永远留在这儿。」
-「我能退学吗？」阿洛问。「不能。你已经申请成功了，校园大门正在关闭。而且，你碰我的那一刻，就已经开通了知识银行账户。」
-「银行？」
-「看。」通知书飞起来，在空中画出金色线条。「你记住的每个单词都是一枚硬币。存进账户的每一枚硬币，都会为你的最终分数做贡献。懒惰的学生向明天借钱；聪明的学生从今天获益。存够了硬币，银行还会发奖学金——真金白银，不像你管家里伸手要的零花钱。告诉你个秘密：高效的学习者会在正确的时间复习。而你，我的朋友，谈不上高效——你在睡眠时间表上倒是很有创造力。」
-轰——大门在他身后关上。一位悬浮的宿管阿姨飘了过来：「新生？宿舍在三楼。晚上十点半熄灯。出勤全靠自觉——但考试从不自觉。」
-第一天早上，阿洛就迟到了。教授冷冷地看着他：「迟到会影响你的期末成绩。而成绩就是你知识银行的利息——存款少，利息就少。」
-阿洛赶紧坐下，决定专心听课。他的专业课有一份大作业，截止日期就在下周五。「我必须努力，」他想，「知识从来不是免费的。努力的人会实现目标；睡觉的人……需要一个闹钟，外加一个奇迹。」
-下午，他去了图书馆。管理员递给他一张卡：「有了这张卡，你可以使用整个阅览室——二十万册书，分文不取。用起来，不然它就只是一块塑料片。」
-阿洛看看卡，又看看空中未散的金色线条。这片大陆上有两件事是确定的：单词就是钱，时间就是汇率。
-当晚，他做了学习计划，开始复习功课。读一小时，歇十分钟，再读一小时。这不是什么英雄主义，这就是进步——缓慢、枯燥、但真实。
-卷卷在抽屉里笑了：「很好。万里长征，始于一个单词。睡吧新生，明天真正的游戏才开始——你的室友们正等着呢。一个从没见过日出，另一个吃饭像黑洞。祝你好运。」`
+「凡测出零的新生，日落时逐出，」教务长说。「不过——补测一次，三天后。若仍是零，逐出即为定局。」周擎笑得像淬蜜的毒。「父亲，在他和我之间——输的那个离开学院。」
+
+当晚，他绝望到什么都肯试：他溜进了老图书管。最后一排书架后面，守夜人扫爷正用纸条喂着一团灰雾，雾吞下每一张，发出一声叹息。「被遗忘的词，」老人说，「我扫的是人们掉下来的东西。」
+
+然后雾尝到了阿洛的空，转了向。他正要后退，一卷从没人打开过的黑色古卷开始嗡嗡作响。它自己舒展开来，一页又一页白纸——沉默十年的古卷，醒了。
+
+「叮！检测到空白书页体质，」一个尖锐的声音宣布。「你不是零，新生——你是空。别人把一个释义绑在一个词上——而你吞下全部。」金色的光灌进他的胸膛。「词力零，晋升词徒。但记忆会漏——不复习，三天后你又会变成白丁。」等阿洛抬起头，老人已经不见了。三天。他身后，那团雾把自己压在窗上，目送他走远。`
   },
 
-
   storyPoints: [
-    { "p": "不定式 to do", "q": "And grades are the interest of your Knowledge Bank — poor deposits, poor interest.\" A-Luo sat down quickly and decided to concentrate.", "n": "这些动词后接 to do：want/decide/hope/refuse/afford/plan" },
-    { "p": "情态动词", "q": "To get the degree of this continent, you must pass five gates: Reading, Cloze, Error Correction, Translation and Writing.", "n": "情态动词 + 动词原形；must be 表肯定推测，can't be 表否定推测" },
-    { "p": "一般过去时", "q": "Two things in this continent were certain: words were money, and time was the exchange rate.", "n": "was/were 系表结构也是一般过去时：过去的状态；行为动词过去式见 -ed" },
-    { "p": "一般过去时", "q": "forever.\" \"Can I quit?\" A-Luo asked.", "n": "动词过去式：过去发生且结束的动作；时间标志 yesterday/last week/…ago" },
-    { "p": "频率副词", "q": "Attendance depends on yourself — but exams never depend on yourself.\" On the first morning, A-Luo was late.", "n": "频率副词是一般现在时的标志词；位置在实义动词前、be 动词后" },
-    { "p": "搭配 · contribute to", "q": "Every coin you deposit into your account will contribute to your final score.", "n": "促成；有助于；捐献（改错雷区）" }
+    { p: "so...that 结果状语从句", q: "That morning he was so eager that he stood in the first row", n: "so + 形容词/副词 + that 从句，表示「如此……以至于」；such 后面必须接名词短语（such an eager boy）。" },
+    { p: "adj + enough to do", q: "That night he was desperate enough to try anything", n: "enough 修饰形容词时必须后置：desperate enough；enough to do 表结果「足以做某事」，改错爱把 enough 挪到形容词前面挖坑。" },
+    { p: "be meant to do", q: "Laughter swept the square, meant to embarrass him. It worked.", n: "be meant to do 打算/意在做某事；mean 的过去分词是 meant（不规则变化，不是 meaned）。" },
+    { p: "was doing...when 打断句型", q: "He was backing away when a black scroll no one had ever opened began to hum", n: "过去进行时 + when + 一般过去时：正要做某事，这时（突然）……；这里的 when = and then，不是「当……时」。" },
+    { p: "blame 搭配与 be to blame", q: "A-Luo wanted to blame the stone, the road, anyone but himself", n: "blame sb for sth = blame sth on sb；「某人该受责备」要说 be to blame，主动形式表被动含义。" },
+    { p: "if 条件句「主将从现」", q: "If it shows zero again, the expulsion is permanent", n: "if 条件句用一般现在时表将来（shows），主句用将来/一般时；主将从现是汉译英与改错双高频。" },
+    { p: "过去完成时 had done", q: "His grandmother had sold the family ox for his tuition", n: "had + 过去分词表「过去的过去」：卖牛发生在走进学院之前；for + 时间段也常与完成时连用。" },
+    { p: "定语从句关系词省略", q: "the red charm she had once tied to his bag", n: "she had once tied 前省略了作宾语的关系代词 that/which：(that) she had once tied to his bag；关系词作宾语可省略，作主语不可省。" }
   ],
+
   words: [
-    { w: "admission", ipa: "/ədˈmɪʃn/", pos: "n.", cn: "录取；准许进入", ex: "He received a letter of admission.", excn: "他收到了一封录取通知书。", memo: "admit（承认/录取）的名词，admission letter = 录取通知书" },
-    { w: "degree", ipa: "/dɪˈgriː/", pos: "n.", cn: "学位；程度", ex: "She is working hard for a bachelor's degree.", excn: "她在为学士学位努力。", memo: "专升本上岸 = 拿到 bachelor's degree（学士学位）" },
-    { w: "apply", ipa: "/əˈplaɪ/", pos: "v.", cn: "申请；应用", ex: "He applied for the scholarship.", excn: "他申请了奖学金。", memo: "apply for + 事物（申请奖学金）；apply to + 机构（向学校申请）" },
-    { w: "campus", ipa: "/ˈkæmpəs/", pos: "n.", cn: "校园", ex: "Students live on campus.", excn: "学生住在校园里。", memo: "固定搭配 on campus，不加 the" },
-    { w: "dormitory", ipa: "/ˈdɔːmətri/", pos: "n.", cn: "宿舍（口语说 dorm）", ex: "My dormitory has four beds.", excn: "我们宿舍有四张床。", memo: "dorm 睡觉的地方，dormitory 是全称" },
-    { w: "attendance", ipa: "/əˈtendəns/", pos: "n.", cn: "出勤；出席", ex: "Regular attendance is required.", excn: "要求定期出勤。", memo: "attend 的名词；attendance rate 出勤率" },
-    { w: "affect", ipa: "/əˈfekt/", pos: "v.", cn: "影响", ex: "Smoking affects your health.", excn: "吸烟影响健康。", memo: "阅读高频动词！affect 是动词，effect 是名词" },
-    { w: "concentrate", ipa: "/ˈkɒnsntreɪt/", pos: "v.", cn: "集中（注意力）", ex: "I can't concentrate in a noisy room.", excn: "房间太吵我没法专心。", memo: "concentrate on + sth，固定介词 on" },
-    { w: "major", ipa: "/ˈmeɪdʒə/", pos: "n./adj./v.", cn: "专业；主要的；主修", ex: "English is my major.", excn: "英语是我的专业。", memo: "major in = 主修；majority = 大多数" },
-    { w: "assignment", ipa: "/əˈsaɪnmənt/", pos: "n.", cn: "作业；任务", ex: "The assignment is due on Friday.", excn: "作业周五截止。", memo: "assign(分配) + -ment → 分给你的活儿" },
-    { w: "deadline", ipa: "/ˈdedlaɪn/", pos: "n.", cn: "截止日期", ex: "Don't miss the deadline.", excn: "别错过截止日期。", memo: "dead(死) + line(线) → 死线，过了就凉" },
-    { w: "effort", ipa: "/ˈefət/", pos: "n.", cn: "努力", ex: "Great efforts lead to success.", excn: "巨大的努力通向成功。", memo: "make an effort / make efforts 固定搭配" },
-    { w: "knowledge", ipa: "/ˈnɒlɪdʒ/", pos: "n.", cn: "知识", ex: "Knowledge is power.", excn: "知识就是力量。", memo: "不可数名词！不能说 a knowledge" },
-    { w: "achieve", ipa: "/əˈtʃiːv/", pos: "v.", cn: "实现；达到", ex: "She achieved her goal.", excn: "她实现了目标。", memo: "achievement 成就；achieve a goal 搭配" },
-    { w: "require", ipa: "/rɪˈkwaɪə/", pos: "v.", cn: "要求；需要", ex: "This job requires patience.", excn: "这份工作需要耐心。", memo: "require sb. to do sth. 要求某人做某事" },
-    { w: "graduate", ipa: "/ˈgrædʒueɪt/", pos: "v./n.", cn: "毕业；毕业生", ex: "He will graduate next June.", excn: "他明年六月毕业。", memo: "graduate from + 学校，从某校毕业" },
-    { w: "scholarship", ipa: "/ˈskɒləʃɪp/", pos: "n.", cn: "奖学金", ex: "She won a scholarship.", excn: "她赢得了奖学金。", memo: "scholar(学者) + ship → 给学者的钱" },
-    { w: "review", ipa: "/rɪˈvjuː/", pos: "v./n.", cn: "复习；评论", ex: "Review your notes before the exam.", excn: "考前复习笔记。", memo: "re-(再) + view(看) → 再看一遍 → 复习" },
-    { w: "account", ipa: "/əˈkaʊnt/", pos: "n./v.", cn: "账户；描述；解释", ex: "He opened a bank account.", excn: "他开了一个银行账户。", memo: "真题高频：account for 解释/占比例；take...into account 考虑" },
-    { w: "benefit", ipa: "/ˈbenɪfɪt/", pos: "n./v.", cn: "好处；受益", ex: "Students benefit from regular exercise.", excn: "学生从规律运动中受益。", memo: "benefit from/by 从……受益；to one's benefit 对……有好处" },
-    { w: "contribute", ipa: "/kənˈtrɪbjuːt/", pos: "v.", cn: "贡献；促成", ex: "Hard work contributes to success.", excn: "努力促成成功。", memo: "contribute to + 名词/doing；to 是介词！改错爱考 contributed to success ❌时态" },
-    { w: "efficient", ipa: "/ɪˈfɪʃnt/", pos: "adj.", cn: "高效的", ex: "She is an efficient learner.", excn: "她是个高效的学习者。", memo: "efficient 高效（省时省力）↔ effective 有效（达到目的）；efficiency n." },
-    { w: "access", ipa: "/ˈækses/", pos: "n.", cn: "使用权；通道", ex: "Students have access to the library.", excn: "学生可以使用图书馆。", memo: "have access to 固定搭配；accessible 可进入的；真题完形高频" },
-    { w: "improve", ipa: "/ɪmˈpruːv/", pos: "v.", cn: "改进；提高", ex: "Practice can improve your English.", excn: "练习能提高你的英语。", memo: "improvement n. 提高；improve 既是及物也是不及物：improve (one's English)" }
+    { w: "amaze", ipa: "/əˈmeɪz/", pos: "v.", cn: "使惊奇，使惊愕", ex: "The whole square was amazed by the brilliant number: 902.", excn: "全场都被那个出彩的数字——902——惊到了。", memo: "a + maze(迷宫) → 像走迷宫一样晕头转向 → 使惊奇；amazed(人感到惊讶) vs amazing(令人惊讶)，主语是人是事要分清" },
+    { w: "attempt", ipa: "/əˈtempt/", pos: "n./v.", cn: "尝试，试图", ex: "He made one last attempt at a smile. It died halfway.", excn: "他做了最后一次尝试，挤出一个笑。笑到一半就僵住了。", memo: "at-(去) + tempt(尝试) → 试一把；attempt to do = make an attempt to do；attempt doing 也可（两栖动词）" },
+    { w: "awake", ipa: "/əˈweɪk/", pos: "adj./v.", cn: "醒着的；唤醒；觉醒", ex: "The Ancient Scroll, silent for ten years, was awake.", excn: "沉默十年的古卷，醒了。", memo: "a-(加强) + wake(醒)；过去式 awoke。形容词用法最常考：wide awake 完全清醒 ↔ fast asleep 熟睡" },
+    { w: "ambition", ipa: "/æmˈbɪʃn/", pos: "n.", cn: "雄心，抱负，志向", ex: "He carried one ambition: to become a word-warrior.", excn: "他怀着一个志向：成为词师。", memo: "amb-(四处) + it(走) + -ion → 候选人四处奔走 → 抱负；ambitious adj. 有野心的；full of ambition 满怀抱负" },
+    { w: "applaud", ipa: "/əˈplɔːd/", pos: "v.", cn: "鼓掌；称赞", ex: "The whole square applauded when the number 902 appeared.", excn: "当 902 亮出时，全场鼓掌。", memo: "ap-(向) + plaud(拍) → 朝某人拍手；applause n. 掌声；applaud sb for sth 因某事为某人喝彩" },
+    { w: "blame", ipa: "/bleɪm/", pos: "v./n.", cn: "责备，责怪；责任", ex: "A-Luo wanted to blame the stone, the road, anyone but himself.", excn: "阿洛想怪词碑，怪那条路，怪一切除了自己。", memo: "对比记：blame 责备 ↔ praise 表扬；blame sb for sth = blame sth on sb；be to blame 该受责备（主动表被动）" },
+    { w: "bold", ipa: "/bəʊld/", pos: "adj.", cn: "大胆的，勇敢的；粗体的", ex: "That morning he was ready for a bold walk toward his future.", excn: "那天早上他准备好向自己的未来迈出大胆的一步。", memo: "别混 bald(秃的)：大胆的人不怕秃 → bold；boldly adv.；印刷里 bold = 粗体字" },
+    { w: "brilliant", ipa: "/ˈbrɪliənt/", pos: "adj.", cn: "杰出的；辉煌的；明亮的", ex: "The whole square applauded, amazed by the brilliant number.", excn: "全场鼓掌，为那个出彩的数字惊叹。", memo: "brilli(宝石闪光) + -ant → 亮得晃眼 → 才华横溢；brilliance n. 才华；口语里 = 极好的（比 good 高八度）" },
+    { w: "capture", ipa: "/ˈkæptʃə/", pos: "v./n.", cn: "捕获，俘获；夺取", ex: "The fog captured every slip with a sigh.", excn: "雾伴着一声叹息吞下每一张纸条。", memo: "capt(抓) + -ure → 抓住；同根 captive 俘虏；capture one's attention 吸引注意（完形同义替换常客）" },
+    { w: "claim", ipa: "/kleɪm/", pos: "v./n.", cn: "声称；认领；索取", ex: "That evening her roommate came to claim back the red charm.", excn: "当晚她的室友来把红平安符要了回去。", memo: "claim(喊) → 开口要 → 索取/认领；家族：exclaim 呼喊 / proclaim 宣布 / acclaim 喝彩；claim to be 声称是" },
+    { w: "embarrass", ipa: "/ɪmˈbærəs/", pos: "v.", cn: "使尴尬，使窘迫", ex: "Laughter swept the square, meant to embarrass him.", excn: "笑声扫过广场，本就是用来让他难堪的。", memo: "em-(进入) + barr(栏，同 barrier) + -ass → 被围在栏里 → 尴尬；embarrassed(人) / embarrassing(事)；双 r 双 s 别写漏" },
+    { w: "eager", ipa: "/ˈiːɡə/", pos: "adj.", cn: "渴望的，热切的", ex: "That morning he was so eager that he stood in the first row.", excn: "那天早上他心气太高，一早就站在了第一排。", memo: "谐音「一搁」→ 一刻也搁不住 → 迫切；be eager to do 渴望做 / be eager for sth 渴望得到" }
   ],
+
   confusions: [
     {
-      group: "affect / effect / effort — 三胞胎血案",
+      group: "adapt / adopt / adept — 三胞胎血案",
       items: [
-        { w: "affect (v.)", cn: "影响（动词）", note: "Smoking affects health. 吸烟影响健康。" },
-        { w: "effect (n.)", cn: "影响、效果（名词）", note: "have a bad effect on 搭配，前面有 have a 要名词" },
-        { w: "effort (n.)", cn: "努力", note: "make an effort 努力一把，跟「影响」没关系" }
+        { w: "adapt (v.)", cn: "适应；改写", note: "adapt to the new life 适应新生活；adapt the novel for screen 把小说改编成剧本" },
+        { w: "adopt (v.)", cn: "收养；采用", note: "adopt a child 收养孩子 / adopt a new method 采用新方法" },
+        { w: "adept (adj.)", cn: "熟练的，内行的", note: "be adept at doing 擅长做某事，比 skilled 更书面" }
       ],
-      tip: "口诀：A 开头是动作（affect 动词），E 开头是东西（effect 名词），effort 是你自己的付出。2024 真题完形语境：The medicine had a good ___ on him → effect（had a 后面必须名词）。"
+      tip: "口诀：中间字母定乾坤——d-a-p 适应要调整，d-o-p 收养要接纳，d-e-p 内行有技艺。完形空后是 to life 选 adapt，空后是 a child 选 adopt，空前是 be ... at 选 adept。"
     },
     {
-      group: "attend / join / take part in — 三种「参加」",
+      group: "awake / wake / awaken / waken — 醒来一家四口（本章 awake）",
       items: [
-        { w: "attend", cn: "出席、参加（会议、课程、婚礼）", note: "attend a meeting / attend class，人到场就行" },
-        { w: "join", cn: "加入（组织、党派、人群）", note: "join the army 参军 / join us 加入我们" },
-        { w: "take part in", cn: "参加（活动，并在其中出力）", note: "take part in the sports meeting 参加运动会" }
+        { w: "awake (adj./v.)", cn: "醒着的；唤醒", note: "形容词用法最常考：be wide awake 完全醒着 ↔ be fast asleep 熟睡；过去式 awoke" },
+        { w: "wake (v.)", cn: "醒来；叫醒", note: "wake up 口语最常用；wake-woke-woken" },
+        { w: "awaken (v.)", cn: "唤醒；唤起（正式）", note: "awaken one's interest 唤起兴趣，多接抽象事物" },
+        { w: "waken (v.)", cn: "弄醒（正式）", note: "与 wake 同义的书面语，考试认得出即可" }
       ],
-      tip: "口诀：attend 去露脸，join 入团伙，take part in 是真的下场玩。完形常考 attend the lecture（听讲座用 attend，不用 join）。"
+      tip: "考试最爱考 awake 的形容词身份：The child was still ___. → awake（表语位置）；wide awake 是固定搭配，wide 不换 very。觉醒类文章标题也爱用 awaken（动词，更庄重）。"
     },
     {
-      group: "acquire / require / inquire — -quire 三兄弟",
+      group: "deny / refuse / reject — 三个「不」，宾语天差地别（本章 deny）",
       items: [
-        { w: "acquire", cn: "获得、习得", note: "acquire knowledge 获得知识（ac- 向外拿）" },
-        { w: "require", cn: "要求、需要", note: "The job requires English.（re- 反复问你要）" },
-        { w: "inquire", cn: "询问、打听", note: "inquire about the price 询问价格（in- 进去问）" }
+        { w: "deny (v.)", cn: "否认；拒绝给予", note: "deny doing sth 否认做过（❌ deny to do）；deny sb sth 拒绝给某人某物：deny him a chance" },
+        { w: "refuse (v.)", cn: "拒绝（去做）", note: "refuse to do sth 拒绝做（❌ refuse doing）" },
+        { w: "reject (v.)", cn: "拒绝接受；驳回", note: "reject an offer/suggestion 回绝提议，比 refuse 更硬、更正式" }
       ],
-      tip: "口诀：acquire 拿到手，require 逼你做，inquire 开口问。完形看到 knowledge 前面的空，十有八九选 acquire（gain/obtain 也行，但 acquire 最地道）。"
+      tip: "口诀：deny 后面动名词，refuse 后面带 to。改错高频：He denied to steal → denied stealing；真题单选考过 deny taking bribes 否认受贿。"
+    },
+    {
+      group: "alive / live / lively / living — 「活」的四副面孔",
+      items: [
+        { w: "alive (adj.)", cn: "活着的（表语/后置定语）", note: "The old man is still alive. / the greatest poet alive 当世最伟大的诗人" },
+        { w: "live (adj./adv.)", cn: "现场的；活的（前置定语）", note: "a live concert 现场演唱会 / live fish 活鱼；副词：broadcast live 现场直播" },
+        { w: "lively (adj.)", cn: "活泼的，生动的", note: "a lively girl 一个活泼的女孩（≠ 活的！）" },
+        { w: "living (adj./n.)", cn: "活的；生计", note: "living things 生物 / make a living 谋生" }
+      ],
+      tip: "口诀：alive 表语活，live 前置现场活，lively 活泼不活，living 生计活。英译汉陷阱：a live broadcast 不是「活的广播」，是「现场直播」。"
+    },
+    {
+      group: "claim 家族 — 一根词根蔓上四个瓜（本章 claim）",
+      items: [
+        { w: "claim (v./n.)", cn: "声称；认领；索取", note: "claim to be 声称是 / claim back 认领回 / lay claim to 对……提出权利要求" },
+        { w: "exclaim (v.)", cn: "呼喊，惊叫", note: "ex-(向外) → 叫出声：\"Look out!\" she exclaimed." },
+        { w: "proclaim (v.)", cn: "宣布，声明", note: "pro-(向前) → 当众宣告：proclaim war 宣战" },
+        { w: "acclaim (v./n.)", cn: "欢呼喝彩；赞誉", note: "ac-(朝向) → 朝某人鼓掌：a highly acclaimed novel 备受赞誉的小说" }
+      ],
+      tip: "词根 claim/clam = 喊叫。方向定词义：向外喊 exclaim，向前喊 proclaim，朝他喊 acclaim，开口要 claim。选词填空看到「宣称/认领」优先 claim。"
     }
   ],
+
+  hidden: [
+    { w: "book", known: "书；书本", hidden: "v. 预订（房间、票、座位）；n. 账簿（keep the books 记账）", ex: "The trap question read \"book a room\" — Zhou Qing only knew the noun and lost three points.", excn: "那道陷阱题写着「预订房间」——周擎只知道名词义，丢了三分。" },
+    { w: "address", known: "地址", hidden: "v. 发表演讲；称呼；处理、解决（问题）", ex: "The dean addressed the freshmen on the square, but never addressed their real problem.", excn: "教务长在广场上向新生发表演讲，却从没处理过他们真正的问题。" },
+    { w: "interest", known: "兴趣", hidden: "n. 利益（常用复数 interests）；利息", ex: "The old clause protected the interests of village students.", excn: "那条古老条款保护着村庄学生的利益。" },
+    { w: "party", known: "聚会；党派", hidden: "n. 当事人，（合同、纠纷中的）一方", ex: "Both parties agreed to the retest clause before the Word Stone.", excn: "双方都同意了词碑前的补测条款。" },
+    { w: "spell", known: "拼写", hidden: "n. 咒语；一段时间（a cold spell 寒潮期）；v. 招致（spell trouble 招来麻烦）", ex: "In Lexica, every spell is just a word spoken true.", excn: "在词陆，每一个咒语都只是一个被说准了的词。" }
+  ],
+
   sentences: [
     {
-      en: "What many students fail to realize is that the <mark>effort</mark> they make in the first year will <mark>affect</mark> their chances of winning a <mark>scholarship</mark>.",
+      en: "When he laid two fingers on the stone, light burst upward, and the whole square <mark>applaud</mark>ed, <mark>amaze</mark>d by the <mark>brilliant</mark> number: 902, Word-Master rank.",
       parts: [
-        "主干：What many students fail to realize is + 表语从句（主系表结构）",
-        "What 引导主语从句 = 「……的东西」，很多学生没能意识到的东西",
-        "表语从句里套了个定语从句：the effort (that) they make 他们付出的努力",
-        "affect 是动词「影响」——如果你背成了 effect，这句直接读崩"
+        "主干：light burst upward（主谓）+ the whole square applauded（主谓），when 引导时间状语从句，and 连接两个分句",
+        "amazed by... 过去分词短语作伴随状语，逻辑主语是 the whole square：全场「被」数字惊到",
+        "902 与 Word-Master rank 都是同位语，补充说明 the brilliant number",
+        "考点：amazed(人感到惊讶) vs amazing(令人惊讶)，分词作状语用 amazed 因为逻辑主语是人"
       ],
-      cn: "许多学生没有意识到的是：他们第一年的努力将影响他们赢得奖学金的机会。"
+      cn: "他两指按上词碑，光轰然升起，全场鼓掌，为那个出彩的数字惊叹：902，词师阶。"
     },
     {
-      en: "Only when you <mark>concentrate</mark> on what you are learning can knowledge truly become your own.",
+      en: "Su Nian looked away as if his zero might stain her robe; that evening her roommate came to <mark>claim</mark> back the red charm she had once tied to his bag.",
       parts: [
-        "Only + 状语从句放在句首 → 主句必须部分倒装：can knowledge become",
-        "正常语序：knowledge can truly become your own",
-        "concentrate on 固定搭配「专注于」；what you are learning 是介词 on 的宾语从句",
-        "看懂倒装的信号：句首 Only / Never / Not until，后面找 be/情态动词提前"
+        "分号连接两个并列分句；前半句核心：Su Nian looked away",
+        "as if his zero might stain her robe：as if 引导方式状语从句，might + 动词原形，虚拟语气（与事实相反的假设）",
+        "she had once tied to his bag 是省略 that/which 的定语从句，修饰 the red charm（关系词作宾语可省略）",
+        "考点：claim back 认领回；that evening 中 that 指「事发当晚」，时态一致用一般过去时 came"
       ],
-      cn: "只有当你专注于所学的东西时，知识才能真正变成你自己的。"
+      cn: "苏念移开目光，仿佛他的零分会弄脏她的袍子；当晚，她的室友来把那条她曾系在他书包上的红平安符要了回去。"
+    },
+    {
+      en: "Behind the last shelf, the watchman Grandpa Sha was feeding a grey fog with paper slips, and the fog <mark>capture</mark>d every slip with a sigh.",
+      parts: [
+        "主干：the watchman was feeding a grey fog（过去进行时）+ the fog captured every slip（一般过去时），and 连接",
+        "Behind the last shelf 地点状语前置；Grandpa Sha 是 the watchman 的同位语",
+        "was feeding 过去进行时：过去某一时刻正在进行的动作，与后句一般过去时 captured 形成「背景+事件」",
+        "考点：with paper slips / with a sigh 介词短语作方式状语；capture 及物动词直接接宾语"
+      ],
+      cn: "最后一排书架后面，守夜人扫爷正用纸条喂着一团灰雾，雾吞下每一张，发出一声叹息。"
     }
   ],
+
   phrases: [
-    { p: "apply for", cn: "申请（事物）", note: "apply for a job / a scholarship" },
-    { p: "apply to", cn: "向……申请；适用于", note: "⚠️ 改错高频：apply to the university，for 和 to 别混", warn: true },
-    { p: "be required to do", cn: "被要求做……", note: "Students are required to wear uniforms." },
-    { p: "concentrate on / focus on", cn: "专注于", note: "介词固定是 on，改错爱挖这个坑", warn: true },
-    { p: "achieve one's goal", cn: "实现目标", note: "achieve + goal/dream/success" },
-    { p: "make an effort", cn: "做出努力", note: "⚠️ make efforts 也可以，但不能说 make an effect", warn: true },
-    { p: "take an active part in", cn: "积极参加", note: "完形高频，part 前的冠词别丢" },
-    { p: "hand in", cn: "上交（作业）", note: "hand in your assignment；hand out 是分发，方向反了" },
-    { p: "deal with / cope with", cn: "处理、应对", note: "how to deal with sth. 完形高频" },
-    { p: "graduate from", cn: "毕业于", note: "⚠️ 改错高频：介词 from 不能丢", warn: true },
-    { p: "have access to", cn: "有权使用；能接近", note: "2025 真题语境：instant access to the internet 秒连网络；to 后接名词" },
-    { p: "contribute to", cn: "促成；有助于；捐献", note: "⚠️ to 是介词：contribute to solving 解决问题；Exercise contributes to health", warn: true },
-    { p: "benefit from", cn: "从……受益", note: "= profit from；benefit sb. 使某人受益：Exercise benefits us all" },
-    { p: "account for", cn: "解释；占（比例）", note: "Reading accounts for 40% of the score. 阅读占 40 分——两大真题词义都考" },
-    { p: "by no means", cn: "绝不；绝非", note: "Learning English is by no means easy. 放句首倒装：By no means is it easy", warn: true },
-    { p: "have no choice but to do", cn: "别无选择只能做", note: "but 前面没有 do，后面必须带 to：had no choice but to stay" }
+    { p: "be absent from", cn: "缺席；不在", note: "He was absent from the ceremony. 反义词 present；absent 后接 from 是铁律", warn: true },
+    { p: "be eager to do", cn: "渴望做某事", note: "be eager for sth 渴望得到；近义链：be eager to = be anxious to = be thirsty for" },
+    { p: "make an attempt to do / at doing", cn: "尝试做某事", note: "attempt 接 to do 和 at doing 都对，真题两种都认；名词 attempt 常搭配 make" },
+    { p: "applaud sb for sth", cn: "因某事为某人鼓掌/称赞", note: "The crowd applauded him for his courage. applause n. 一阵掌声 a burst of applause" },
+    { p: "be to blame", cn: "该受责备", note: "⚠️ 主动形式表被动含义，不说 be to be blamed；Who is to blame? 谁该负责？", warn: true },
+    { p: "blame sb for sth", cn: "因某事责备某人", note: "= blame sth on sb 把某事归咎于某人：He blamed the fog on lazy students." },
+    { p: "deny doing sth", cn: "否认做过某事", note: "⚠️ deny to do 是错误搭配，改错高频；deny sb sth 拒绝给某人某物", warn: true },
+    { p: "belong to", cn: "属于", note: "⚠️ 无被动语态、无进行时：is belonged to ✘ / is belonging to ✘", warn: true },
+    { p: "devote...to doing", cn: "把……奉献给；致力于", note: "⚠️ to 是介词，后面接 doing：devote himself to studying；devotion n. 奉献", warn: true },
+    { p: "have a good command of", cn: "精通；掌握", note: "have a good command of English 精通英语，写作里替换 learn well 高级感立现" },
+    { p: "be cautious about/of", cn: "对……谨慎", note: "Be cautious about making promises. 介词 about/of 都行，被偷换成 for 就是改错点" },
+    { p: "not have a clue", cn: "一无所知", note: "I haven't a clue what to do. 口语书面都高频，比 don't know 更强调茫然" },
+    { p: "a delicate balance", cn: "微妙的平衡", note: "keep a delicate balance between A and B，写作高级搭配，描述利弊关系专用" },
+    { p: "capture one's attention", cn: "吸引某人的注意", note: "= attract/draw/catch one's attention，完形同义替换四大常客" },
+    { p: "wide awake", cn: "完全清醒", note: "固定搭配 wide awake ↔ fast/sound asleep；wide 不能换 very，改错爱挖这个" },
+    { p: "roll back to", cn: "滚回（贬义）；（价格）回落", note: "周擎的羞辱原话 roll back to your village；字面义：The prices were rolled back. 物价回落了" }
   ],
+
   grammar: [
     {
-      t: "三大时态 + 标志词（汉译英第一题永远从这里出）",
-      rule: "一般现在时：经常/习惯/真理 → do/does，标志词 always, usually, often, every day, on Sundays。一般过去时：过去某时发生且结束 → did，标志词 yesterday, last week, in 2024, two years ago, just now。一般将来时：还没发生 → will do / be going to do，标志词 tomorrow, next week, soon, in + 时间段（in ten months）。",
-      ex: "He usually reviews words every day, applied for the exam last month, and will take it in ten months.",
-      excn: "他通常每天复习单词，上个月报了名，十个月后参加考试。",
-      signal: "一句话三个空：every day → does；last month → did；in ten months → will do。标志词 = 时间的身份证"
+      t: "so...that 与 such...that 结果状语从句",
+      rule: "so + 形容词/副词 + that 从句：如此……以至于。四个例外走 so：so many/much/few/little + 名词。其余名词短语一律 such：such + a/an + adj + n（单数）、such + adj + 复数/不可数名词。两种可互换：so + adj + a/an + n = such a/an + adj + n。",
+      ex: "Zhou Qing's score was so brilliant that the elders nodded like spring flowers. It was such a brilliant score that even the elders applauded.",
+      excn: "周擎的分数如此出彩，长老们点头点得像春天的花。那是如此出彩的一个分数，连长老们都鼓了掌。",
+      signal: "空后是形容词/副词 → so；空后是 a/an/名词短语 → such；看到 many/much/few/little 无脑选 so。",
+      quiz: { s: "It was ___ a brilliant score that even the elders applauded.", opts: ["such", "so", "very"], a: 0, why: "空后是 a brilliant score（冠词+形容词+名词）→ such；so 后面直接接形容词，不能接 a；very 不与 that 从句连用。" }
     },
     {
-      t: "现在完成时 have/has done（2024 真题单选+完形双考）",
-      rule: "过去发生，对现在有影响或持续到现在 → have/has + 过去分词。三大标志：① since + 过去时间点（since 2019）/ for + 时间段（for five years）② already/yet/just/ever/never ③ in the last few years / so far / recently（最近几年以来）。",
-      ex: "The prices of houses in this area have increased in the last few years.",
-      excn: "这个地区的房价在最近几年里涨了很多。（2024 真题原句型）",
-      signal: "看到 in the last few years / so far 秒选现在完成；since 2019 vs for five years 一个接点一个接段，改错最爱对调它们"
+      t: "enough to do 与 too...to do（不定式表结果）",
+      rule: "形容词/副词 + enough + to do：足够……能够做。too + 形容词/副词 + to do：太……而不能做（否定结果）。enough 修饰形容词、副词必须后置（old enough），修饰名词才前置（enough time）。not...enough to do = too...to do。",
+      ex: "By midnight A-Luo was desperate enough to try anything, but the stone was too cold to wake.",
+      excn: "到了半夜，阿洛已经绝望到什么都肯试，可词碑太冷，怎么都弄不醒。",
+      signal: "enough 在形容词后面 ✔ / 形容词前面 ✘（改错高频）；too...to do 要翻译成否定「不能」，别翻成「太……所以能」。",
+      quiz: { s: "The rope is not long ___, so we need another one.", opts: ["enough", "too", "much"], a: 0, why: "enough 修饰形容词 long 必须后置：not long enough 不够长；too 要放在 long 前面（too long），不能放后面。" }
     },
     {
-      t: "It 句型三剑客（汉译英写作双高频）",
-      rule: "① It takes/took sb. + 时间 + to do sth.：做某事花某人多少时间。② It's time (for sb.) to do sth.：到做某事的时间了。③ It is + adj. + (for/of sb.) + to do sth.：对某人来说做某事怎么样——形式主语 it，真正主语是 to do。",
-      ex: "It took me more than a year to learn to draw a horse in five minutes. It is important for students to review on time.",
-      excn: "学会在五分钟内画一匹马花了我一年多。对学生来说按时复习很重要。",
-      signal: "句子开头是 It，后面找不到它指代的东西 → 八成是形式主语，真正主语在后面 to do 里；改错题常把 to do 换成 doing 考你"
+      t: "过去进行时 was/were doing + when（被打断句型）",
+      rule: "过去进行时表示过去某一时刻正在进行的动作。经典结构：was/were doing sth when + 一般过去时（短暂动作）——正在做某事，这时突然……。这里的 when = and then / at that moment，不是「当……时」。",
+      ex: "He was turning to run when the scroll on the desk began to hum.",
+      excn: "他正要转身逃跑，这时桌上的古卷开始嗡嗡作响。",
+      signal: "看到 was/were doing...when... 或句意是「正在……这时突然」，when 从句用一般过去时；时间标志 at that time yesterday, at eight last night。",
+      quiz: { s: "She ___ the shelves when the lights went out.", opts: ["cleaned", "was cleaning", "cleans"], a: 1, why: "lights went out 是打断的短暂动作（一般过去时），前面用过去进行时 was cleaning：正在擦书架，这时灯灭了。" }
+    },
+    {
+      t: "真题高频 · 主动表被动：be to blame / belong to / need doing（单选+改错双高频）",
+      rule: "主动形式表被动含义——主语是「被处理」的一方，动词却用主动语态。① be to blame 该受责备：绝不写 be to be blamed。② belong to 属于：无被动、无进行时——is belonged to ✘。③ need / want / require / deserve + doing = need to be done：The house needs painting.（= needs to be painted 需要粉刷）——主语是物、表「需要被做」用 doing；主语是人、表「亲自去做」用 need to do：He needs to paint the house.（他亲自去刷）。④ 属性类：The book sells well（好卖）/ The pen writes smoothly（好写）/ This cloth washes easily（易洗）/ The door won't lock（锁不上）——物作主语 + 副词，表固有属性。",
+      ex: "Nobody is to blame for the zero — and this scroll does not belong to the library. The ancient pages need mending, yet the tale sells well among freshmen.",
+      excn: "零分怪不到任何人头上——而这部古卷并不属于图书管。那些古老的页码需要修补，可这个故事在新生中却很畅销。",
+      signal: "中文出现「被责怪 / 被属于 / 需要被…… / 值得被……」时，英文反而用主动。口诀：物作主语 + 主动动词 = 被动含义；改错三类直接改——is to be blamed ✘ / is belonged to ✘ / needs to be painted 该用 painting。",
+      quiz: { s: "The ancient scroll is so fragile that it needs ___ at once.", opts: ["mending", "to mend", "mended"], a: 0, why: "主语 the scroll 是「被修补」的一方 → need doing = need to be done。to mend 是「主语自己修」（人做主语才用）；mended 语法不通。" }
+    },
+    {
+      t: "真题高频 · 只接 doing 的动词军团（单选+完形双高频）",
+      rule: "deny doing 否认做、admit doing 承认做、avoid doing 避免做、mind doing 介意做、finish doing 完成做、practise doing 练习做、suggest doing 建议做——这批动词后只能接动名词，不能接不定式。对比 attempt：attempt to do / attempt doing 两者皆可。",
+      ex: "Su Nian denied knowing him, and Zhou Qing avoided looking at the blank stone.",
+      excn: "苏念否认认识他，周擎则躲着不去看那块空白的词碑。",
+      signal: "口诀：否认承认要避免，介意完成别建议——后接 doing 没商量；deny to do / avoid to do 都是改错雷区。",
+      quiz: { s: "The thief denied ___ the ancient scroll from the reading desk.", opts: ["to steal", "stole", "stealing"], a: 2, why: "deny 后接动名词 denied stealing 否认偷过；deny to steal 和 denied stole 都是错误结构。" }
     }
   ],
+
   quiz: [
     {
-      q: "Smoking seriously ______ your health, so give it up.",
-      options: ["effect", "affects", "efforts", "effective"],
-      answer: 1,
-      explain: "空前有副词 seriously，空后是名词，缺谓语动词 → affect。effect 是名词，efforts 是努力，effective 是形容词。"
+      q: "The grey fog ______ every forgotten word the students dropped, and grew thicker each night.",
+      options: ["captured", "carried", "commanded", "claimed"], answer: 0, explain: "captured 捕获吞下，贴合「雾吃掉被遗忘的词」的剧情；claim 声称/认领，command 命令，词义不符。"
     },
     {
-      q: "More than 300 students will ______ the job interview tomorrow morning.",
-      options: ["join", "attend", "take part", "acquire"],
-      answer: 1,
-      explain: "interview 面试属于到场性质的场合 → attend。join 接组织或人，take part in 才是参加活动，acquire 是获得。"
+      q: "The whole square began to ______ when Zhou Qing's score of 902 burned in the air.",
+      options: ["capture", "claim", "alarm", "applaud"], answer: 3, explain: "applaud 鼓掌；看到分数亮出、全场喝彩的语境选 applaud；claim 认领，capture 捕获。"
     },
     {
-      q: "The ______ for handing in your assignment is next Friday.",
-      options: ["deadline", "campus", "degree", "attendance"],
-      answer: 0,
-      explain: "交作业的最后期限 = deadline。校园生活高频词，完形改错都爱考。"
+      q: "Grandma kept her eyes wide ______ all night, waiting for news of A-Luo.",
+      options: ["awoke", "awake", "waking", "wake"], answer: 1, explain: "wide awake 固定搭配「完全醒着」，awake 在这里是形容词作表语；awoke 是过去式动词，waking 是现在分词，都不能作表语。"
     },
     {
-      q: "She has been studying English ______ she was five years old.",
-      options: ["for", "since", "from", "in"],
-      answer: 1,
-      explain: "since + 过去时间点（she was five），for + 时间段。2024 真题原题：has been studying...since...，现在完成时标志词。"
+      q: "The score was ______ brilliant that the elders nodded like spring flowers.",
+      options: ["such", "very", "so", "too"], answer: 2, explain: "so + 形容词 + that 结果状语从句；such 后面必须接名词短语，very 不与 that 从句连用。"
     },
     {
-      q: "It ______ me two hours to review the notes every night.",
-      options: ["spends", "pays", "takes", "costs"],
+      q: "He was backing away when the scroll ______ to hum.",
+      options: ["beginning", "began", "begun", "begins"], answer: 1, explain: "was doing...when... 打断句型，when 从句用一般过去时 began；begins 是现在时，beginning 是分词。"
+    },
+    {
+      q: "What did Su Nian do when A-Luo measured zero on the Word Stone?",
+      options: ["She looked away as if his zero might stain her robe", "She tied a new charm to his bag", "She asked the Dean for mercy", "She applauded for him"], answer: 0, explain: "细节题：青梅变脸——她移开目光，仿佛零分会弄脏她的袍子；当晚室友还取走了红平安符。"
+    },
+    {
+      q: "What does the grey fog in the library feed on?",
+      options: ["Paper lanterns", "Golden scripts", "Forgotten words", "Blank pages"],
       answer: 2,
-      explain: "It takes sb. + 时间 + to do 固定句型，it 作形式主语。spend 主语必须是人，cost 主语是物，pay 主语是人且花钱。"
+      explain: "扫爷说它吃「遗忘」：学生忘掉的词飘到图书管，被他一张张喂给雾——这是 ch04 雾夜的关键伏笔。"
     },
     {
-      q: "In China, most students live ______ campus during the school term.",
-      options: ["in the", "at a", "on", "into"],
-      answer: 2,
-      explain: "固定搭配 on campus 在校园里，中间不加冠词。介词搭配是完形填空的第一大考点。"
+      q: "What makes A-Luo a Blank Page, different from every ordinary learner?",
+      options: ["Use words without learning them", "Read the Word Stone's mind", "Feed the fog at night", "Swallow all meanings of a word, including the hidden ones"],
+      answer: 3,
+      explain: "卷卷原话：凡人一词绑一义，他能吞下全部释义、变形与熟词生义——这就是「空」与「零」的区别。"
     },
     {
-      q: "改错：Last week he applies for the exam, but he missed the deadline.",
-      options: ["applies → applied", "but → and", "missed → misses", "for → to"],
+      q: "改错：Su Nian denied to know the farm boy when the elders asked her about the zero on the Word Stone.",
+      options: ["to know → knowing", "denied → denies", "asked → ask", "about → of"],
       answer: 0,
-      explain: "改错雷区①时态不一致：last week 是过去时标志词，but 连接的前后谓语时态要一致 → applied。后半句 missed 已经是过去时。"
+      explain: "改错雷区·非谓语（只接 doing 的动词）：deny 后只能接动名词，deny to do 是错误搭配，应改为 denied knowing（否认认识）；B 时态错误，长老们发问是过去的事；C 主谓一致无误，the elders 复数配 asked 正确；D ask about 是固定搭配。正如苏念当众否认认识阿洛，deny doing 否认做过某事。"
     },
     {
-      q: "英译汉选择：Hard work will benefit you in the long run.",
-      options: ["努力会让你在长跑中喘不过气。", "努力终将使你长期受益。", "努力会在长期的奔跑中帮助你。", "努力让你受益于长跑。"],
-      answer: 1,
-      explain: "benefit sb. 使某人受益（及物用法）；in the long run 固定搭配「从长远来看」。望文生义是英译汉选择的最大陷阱。"
+      q: "汉译英：他正要退出图书管，这时那团灰雾拦住了他。",
+      options: ["He was about to leave the library when the grey fog stopped him.", "He was about to leave the library while the grey fog was stopping him.", "He was about to leaving the library when the grey fog stopped him.", "He is about to leave the library when the grey fog stopped him."],
+      answer: 0,
+      explain: "考点：was/were about to do...when... 正要做某事，这时……（when = and then）；B 错在 while 引导持续性动作，且 was stopping 误用进行时，打断性动作用一般过去时；C 错在 about to 后必须接动词原形，to leaving 错误；D 前后时态不呼应，主句 is 与从句 stopped 冲突。"
     }
   ]
 });

@@ -1,242 +1,237 @@
 window.CHAPTERS = window.CHAPTERS || [];
 window.CHAPTERS.push({
   id: 15,
-  title: "运动会风云 · 一秒的差距",
-  desc: "五国大陆运动会开幕！肌肉哥挂帅，胖达守门，飞哥的主场在午夜。冠军只有一个，但胜利可以人人都有。",
-  tag: "体育竞技类高频词",
+  title: "秘境篇 · 选词填空猎场",
+  desc: "五关第五关：十只词性猎物，十发定生死。阿洛弃「猎词」改「猎句子」，用纪律与顺序合围大猎物——散场时猎场主盯着他说：「你和他年轻时一个眼神。」",
+  tag: "词性词域 · 猎场高频词",
   story: {
-    title: "The Sports Meet 运动会风云",
-    text: `The five kingdoms of the realm held their grand [[competition]] — every [[sport]] you can name, plus Pang-Da's invention: competitive sitting. Muscle Bro became the [[coach]] of Team A-Luo. "A [[team]] is not five players," he said. "A team is one spirit in five bodies. Training starts at six tomorrow. In order to stand on the top step, first defeat the laziest opponent here — yourselves."
+    title: "The Hunting Ground of Word-Choice 选词填空猎场",
+    text: `Dawn broke over the Hunting Ground of Word-Choice: mist that seemed to [[penetrate]] every coat, a white [[tent]] by the gate, ten pens of beasts with words for hides — the field's one strange [[feature]]. The master sat apart, cleaning his bow. "Ten game, ten shots, one [[genuine]] [[outcome]]." "Whether a beast kneels or walks free depends on the slot, not the bow — hunting takes [[discipline]], not luck."
 
-"Six in the MORNING?" Fei-Ge cried. "That breaks my [[habit]] — and my heart."
+The first beast wore a hide of fog: A ___ OF GREY COVERED THE PLAIN. "Noun slot" — A-Luo fired "blanket"; the beast knelt. The second [[demanded]] a verb: TO ___ THE VALLEY, THE FOG NEEDED A VOICE — "to wants the base form." The third was sly: THE MORNING STAYED ___ AND COLD. Pangda believed "quickly" — the beast struck his arm, the lesson [[immediate]]. "Stayed is a linking verb; it wants an adjective — the slot decides," Shen Zhibai said. In [[contrast]] to the maze, the hunt shows no choices — ten words ride on you.
 
-"No [[effort]], no muscle," the coach replied. "Rule one, remember?"
+Then the traps began: two identical beasts, one wanting a noun, one a verb — only the suffix told them apart. One hide wanted the noun "discipline"; another, the verb. The purpose of every cage is the slot. "Judge the part of speech first — make it a habit — then [[simplify]]. The fog made everything [[vague]]; a slot never is — grammar and knowledge [[justify]] the word."
 
-They [[practiced]] like machines: running for [[speed]], lifting stones for [[strength]], passing until their arms forgot how to drop. Pang-Da was put on a diet. "Coach," he whispered, "my [[purpose]] in life is eating." "Your new purpose," said the coach, "is guarding that [[goal]]."
+By noon one beast remained — the great Word of the plain, blank on both sides. "Ten years no hunter managed to [[obtain]] its hide," the master said. "I never [[postpone]] its hunt — its cage opens for whole sentences, not single words." Zhou Qing lost his [[temper]] twice; [[restraint]] was gone. "Change the attitude," A-Luo said. "Hunt sentences, not words." He chose to [[propose]] an order: read the line, mark the slot, test each word, let the field [[confirm]] the kill. "Each wrong shot costs energy — the challenge is here," Juanjuan warned.
 
-Match one: football against the Rain Monsters. The field was wet — more pool than pitch. Pang-Da stood in front of the goal like a friendly mountain, saving five shots without moving. "Moving is a waste of energy," he explained. At the last minute, Fei-Ge appeared — night was his home field — and [[scored]] the winning goal. The [[audience]] stood up and cheered for ten minutes.
+The order worked: beast by beast, ten words found their cages, the plain brightened. What had looked [[apparent]] at dawn — strong arms win hunts — seemed small next to method. The last beast driven into its cage, the plain went quiet. [[Weary]] but proud, Pangda lowered his bow. "Courage without order is noise — keep calm, and order holds," Shen Zhibai said; even Zhou Qing spoke with respect. The outcome was clear: with discipline and effort, ten loose words became one sentence; without them, a genius hunts alone. "A [[reasonable]] order beats a loud bow," the master said. "The plains [[entitle]] patient hunters to [[freedom]] — only clean kills [[qualify]]."
 
-Then came the final: the 400-meter relay against the Error Dragon's team, last year's [[champion]]. Muscle Bro gathered everyone. "They beat everybody," he said. "In order to beat them, we need no miracles — just zero mistakes." A-Luo ran the third leg. All was perfect until the baton touched his hand — and slipped, hitting the track with a sound worse than thunder. The Error Dragon's runner flew past — three meters, five — and the whole crowd went silent.
+The master studied A-Luo. "Your father stood here ten years ago," he said. "You have his young eyes — the look before a hard shot. His [[fame]] reached this plain; so did his silence." No one moved. "What hunts you now lives beyond the map," he added, turning away. Juanjuan whispered the count — "Reserve: ninety-one percent, real progress" — but nobody counted.`,
+    translation: `黎明照进选词填空猎场：雾气像是要渗进每一件外套，门边支着一顶白帐篷，十座兽栏里关着以词为皮的野兽——这是猎场唯一怪异的景致。猎场主坐在一旁擦拭弓弩。「十只猎物，十箭，一个真实的结果。」「野兽跪下还是走脱，取决于槽位，不取决于弓——狩猎靠纪律，不靠运气。」
 
-"Catch up! Catch UP!" Juanjuan screamed from the air. A-Luo's legs burned; his lungs begged him to stop. He was not running to win — he ran in order not to let the [[team]] down. He crossed the line second. Their [[defeat]] was one second long.
+第一头兽披着雾做的皮：一片________的灰色覆盖了平原。「名词槽」——阿洛射出「blanket」，野兽跪了。第二头要动词：雾要________山谷，就得有声音——「to 后面要动词原形。」第三头很狡猾：清晨________而寒冷。胖达相信「quickly」能行——野兽一箭回敬他的手臂，教训立竿见影。「stayed 是系动词，后面要形容词——槽位说了算，这才是重点。」与迷宫相比，猎场从不给你选项——十个词全压在你身上。
 
-Silence again. Then Pang-Da patted A-Luo's back: "One second today, zero seconds tomorrow." Nobody knew whether he meant to [[encourage]] A-Luo or the noodles. Fei-Ge nodded: "And I scored a goal in daylight. Do you know what that costs a night owl?" Sao-Ye pushed up his glasses: "Data says his last 100 meters were two seconds faster than last month. That, gentlemen, is [[progress]] — and the data has [[convinced]] me of it."
+然后陷阱开始了：两头一模一样的兽，一只要名词，一只要动词——后缀是唯一的线索。一张皮要名词 discipline；另一张，要动词。「每个兽栏教的都是槽位，」沈知白说。「先判词性——让它成为习惯——再做简化。雾让一切模糊；槽位从不模糊——语法和知识说了算，是它们为你射出的词作证。」
 
-"A victory [[shared]] is a victory doubled," Muscle Bro said. "Last year's champion beat us. But the A-Luo of yesterday? We [[defeated]] him by a mile. Every [[athlete]] runs two races: one against rivals, one against yesterday."
+正午时分只剩一头兽——平原上的大词，两侧都是空格。「十年来它打败了每一个猎人；没人成功拿到过它的皮，」猎场主说。「我从不推迟对它的狩猎——它的笼子只为整句打开，不为单词。」周擎两次发了火，克制碎了一地。「换态度，」阿洛说。「别猎单词了，猎句子。」他提出一套顺序：先读整行，再标槽位，逐词入位试放，让猎场自己确认猎杀。「每射错一箭都耗能量，」卷卷警告。「真正的考验就在这儿。」
 
-That evening the team [[recovered]] around a hot pot. The one-second defeat [[greatly]] improved everyone's appetite. Pang-Da [[ordered]] six bowls of noodles and called it balanced nutrition. Juanjuan unrolled a new map: green mountains, a silver river, and one tiny word: START. "Second place is not the goal — it is the road sign pointing at one," she said. "Rest well. Next week, the Mountain-and-Water Journey begins. Pack light shoes, heavy snacks... and warn the mountains: this team never walks alone."`,
-    translation: `五国大陆举办了一场大赛——你能叫出名字的运动全都有，外加胖达发明的项目：竞坐。肌肉哥当上了阿洛队的教练。「一支队伍不是五个人，」他说，「一支队伍是一个精神住在五具身体里。训练明早六点开始。想站上最高领奖台，你得先打败这里最懒的对手——你们自己。」
-「早上六点？！」飞哥哀嚎，「这违反我的习惯——还可能伤心。」
-「没有努力就没有肌肉，」教练答道，「这片大陆第一条规矩，还记得吧？」
-于是他们像机器一样练习：跑步练速度，举石练力量，传球传到手忘了怎么下垂。胖达被安排节食。「教练，」他小声说，「我的人生目的是吃。」「你的新目的，」教练说，「是守住那个球门。」
-第一场：对战雨怪队。场地湿透了——与其说是球场，不如说是泳池。胖达像一座友好的山挡在球门前，一动不动扑出五记射门。「移动是浪费能量，」他解释。最后一分钟，飞哥登场——夜晚是他的主场——打进了制胜一球。观众起立欢呼了十分钟。
-然后是决赛：四百米接力，对战改错巨龙队，去年的冠军。肌肉哥把大家聚起来：「他们打败所有人。但要打败他们，我们不需要奇迹——需要零失误。」阿洛跑第三棒。一切都很完美，直到接力棒碰到他的手——滑掉了。棒子砸在跑道上，声音比雷还难听。改错队的飞毛腿呼啸而过。三米。五米。全场安静。
-「追上！追上啊！」卷卷在空中尖叫。阿洛双腿火烧，肺在求他停下。他不是在跑向胜利——他是在跑，为了不辜负这支队伍。他第二个冲线。他们的失败，恰好一秒长。
-又是寂静。然后胖达拍拍阿洛的背：「今天一秒，明天零秒。」没人知道他是在鼓励阿洛，还是在鼓励晚饭等着的面条。飞哥点头：「我还在白天进了一球呢。你知道这要让夜猫子付出什么代价吗？」扫爷推了推眼镜：「数据显示，阿洛最后一百米比上个月快了两秒。各位，这叫进步——数据已经让我深信不疑。」
-「分享出去的胜利是加倍的胜利，」肌肉哥说，「去年的冠军赢了。但昨天的阿洛？我们赢他一大截。每个运动员都跑两场比赛：一场对手，一场昨天的自己。」
-当晚全队围着火锅恢复元气。那一秒的差距，大大激发了每个人的食欲。胖达点了六碗面，称之为均衡营养。卷卷展开一张新地图：青山、银色长河，还有一个小小的「起点」标记。「第二名不是终点目标——它只是指向目标的路牌，」她说，「好好休息。下周，山水之旅启程。轻装，多带零食……顺便给大山带个话：这支队伍从不独行。」`
+顺序奏效了：十只词一头接一头找到各自的笼子，平原渐渐亮了。黎明时看似明显的东西——力气大就能赢——在方法面前显得渺小。最后一头兽被赶进笼子，平原安静下来。疲惫却骄傲的胖达放下了弓。「没有秩序的勇气是噪音——保持冷静，秩序就守得住，」沈知白说。连周擎说话都带着敬意。结局很清楚：有纪律、有努力，十个散词连成一句话；没有它们，天才也只能独自狩猎。「合理的顺序胜过响亮的弓，」猎场主说。「这片平原把自由赐给有耐心的猎人——只认干净的猎杀。」
+
+猎场主久久打量阿洛。「你父亲十年前站在这里，」他说。「你有着他年轻时的眼神——开硬弓前一模一样的眼神。他的名气传到过这片平原；他的沉默也是。」没人动。「现在猎着你的东西，活在地图之外。」他补了一句，先转过身去。卷卷低声报出计数——「词力储备：百分之九十一，进步真大」——但已经没有人在数了。`
   },
 
-
   storyPoints: [
-    { "p": "现在完成时", "q": "That, gentlemen, is progress — and the data has convinced me of it.\" \"A victory shared is a victory doubled,\" Muscle Bro said.", "n": "have/has + 过去分词；看到 already/yet/just/in the last few years 秒选" },
-    { "p": "被动语态", "q": "\"A team is one spirit in five bodies.", "n": "be + 过去分词：主语是动作承受者；无被动动词例外：happen/take place/consist of" },
-    { "p": "宾语从句", "q": "Then Pang-Da patted A-Luo's back: \"One second today, zero seconds tomorrow.\" Nobody knew whether he meant to encourage A-Luo or the noodles.", "n": "宾语从句用陈述语序；主过从过：主句过去时从句跟过去时态" },
-    { "p": "比较级/最高级", "q": "The field was wet — more pool than pitch.", "n": "比较级 + than；最高级 + the；much/even 可修饰比较级" },
-    { "p": "使役动词", "q": "He was not running to win — he ran in order not to let the team down.", "n": "make/let/have sb do：使役动词后接动词原形（不带 to）" },
-    { "p": "情态动词", "q": "The five kingdoms of the realm held their grand competition — every sport you can name, plus Pang-Da's invention: competitive sitting.", "n": "情态动词 + 动词原形；must be 表肯定推测，can't be 表否定推测" },
-    { "p": "一般过去时", "q": "At the last minute, Fei-Ge appeared — night was his home field — and scored the winning goal.", "n": "was/were 系表结构也是一般过去时：过去的状态；行为动词过去式见 -ed" },
-    { "p": "搭配 · in order to", "q": "In order to stand on the top step, first defeat the laziest opponent here — yourselves.\" \"Six in the MORNING?\" Fei-Ge cried.", "n": "为了（做某事）（改错雷区）" }
+    { "p": "选词填空第一步：词性槽位判定", "q": "A ___ OF GREY COVERED THE PLAIN. — \"Noun slot.\"", "n": "空前 A、空后 of → 名词槽；to 后 → 动词原形槽；系动词 stayed 后 → 形容词槽。选词填空先判槽位再选词，顺序错了满盘输" },
+    { p: "一词多性：discipline 既名词又动词", "q": "One hide read THE HUNT NEEDS ___ , wanting the noun \"discipline\"; another read YOU MUST ___ YOURSELF , wanting the verb.", "n": "同形词性由句法决定：needs 后填名词「纪律」，must 后填动词原形「自律」——10 选 10 卷最爱用同形词设陷阱" },
+    { "p": "独立主格结构", "q": "The last beast driven into its cage, the plain went quiet.", "n": "名词 + 过去分词（beast 与 drive 是被动关系）构成独立主格作时间状语，= After the last beast had been driven...；主句与独立主格用逗号隔开" },
+    { "p": "entitle sb. to sth.（把自由赐给猎人）", "q": "The plains entitle patient hunters to freedom.", "n": "entitle sb. to sth. 使某人有资格享有某物；被动式 be entitled to（有权享有）——一个动词双种写法，完形翻译都爱考" },
+    { "p": "what 引导主语从句", "q": "\"What hunts you now lives beyond the map.\"", "n": "What hunts you now = 现在猎着你的东西，整个从句作主语，谓语用单数 lives；what = the thing that，既引导又充当从句主语" },
+    { "p": "seem to do（似乎……）", "q": "mist that seemed to penetrate every coat", "n": "seem + to do 表「似乎做……」；that 引导定语从句修饰 mist 并在从句中作主语，seem 三单 → seemed；penetrate 用原形（to 后）" },
+    { "p": "with/without 对比收束（写作金句结构）", "q": "with discipline and effort, ten loose words became one true sentence; without them, even a genius hunts alone.", "n": "with + 抽象名词作状语，without them 对比反衬；分号连接正反两面——作文结尾万能框架" }
   ],
   words: [
-    { w: "sport", ipa: "/spɔːt/", pos: "n.", cn: "运动；体育运动", ex: "Swimming is my favorite sport.", excn: "游泳是我最喜欢的运动。", memo: "do sports 做运动；sports meeting 运动会；sport car 跑车" },
-    { w: "competition", ipa: "/ˌkɒmpəˈtɪʃn/", pos: "n.", cn: "比赛；竞争", ex: "He took part in a singing competition.", excn: "他参加了歌唱比赛。", memo: "compete v. 竞争；competitor 竞争者；in competition with 与……竞争" },
-    { w: "match", ipa: "/mætʃ/", pos: "n.", cn: "比赛；火柴", ex: "We watched a basketball match last night.", excn: "昨晚我们看了一场篮球赛。", memo: "⚠️ 一词两义：球赛场次 / 火柴；have a match 有一场比赛" },
-    { w: "team", ipa: "/tiːm/", pos: "n.", cn: "队；团队", ex: "Our team won the game.", excn: "我们队赢了比赛。", memo: "team spirit 团队精神；on the team 在队里；team 谓语可单可复" },
-    { w: "coach", ipa: "/kəʊtʃ/", pos: "n./v.", cn: "教练；训练", ex: "The coach taught us how to pass the ball.", excn: "教练教我们如何传球。", memo: "head coach 主教练；coach 也有「长途大巴」和「辅导」义" },
-    { w: "score", ipa: "/skɔː/", pos: "n./v.", cn: "比分；得分", ex: "The final score was 2:1.", excn: "最终比分是2比1。", memo: "score a goal 进一球；the final score 最终比分；考试分数也可用 score" },
-    { w: "goal", ipa: "/ɡəʊl/", pos: "n.", cn: "目标；进球；球门", ex: "He scored the winning goal.", excn: "他打进了制胜一球。", memo: "一词三义：目标/进球/球门；achieve one's goal 实现目标；score a goal 进球；keep goal 守门" },
-    { w: "victory", ipa: "/ˈvɪktəri/", pos: "n.", cn: "胜利", ex: "They won a great victory.", excn: "他们取得了伟大的胜利。", memo: "复数 victories（y→ies）；victory over sb. 战胜某人；反义 defeat" },
-    { w: "defeat", ipa: "/dɪˈfiːt/", pos: "v./n.", cn: "击败；失败", ex: "They defeated the champions 3:0.", excn: "他们3比0击败了冠军队。", memo: "defeat + 对手；suffer a defeat 遭受失败；和 win 的区别见易混区" },
-    { w: "champion", ipa: "/ˈtʃæmpiən/", pos: "n.", cn: "冠军", ex: "She is the champion of the contest.", excn: "她是比赛冠军。", memo: "champion 是「冠军这个人」；championship 是「冠军头衔/锦标赛」" },
-    { w: "athlete", ipa: "/ˈæθliːt/", pos: "n.", cn: "运动员", ex: "A good athlete needs both talent and practice.", excn: "好运动员需要天赋和练习。", memo: "注意发音 /ˈæθliːt/ 两个音节；professional athlete 职业运动员；真题高频词" },
-    { w: "audience", ipa: "/ˈɔːdiəns/", pos: "n.", cn: "观众；听众", ex: "The audience enjoyed the game a lot.", excn: "观众非常享受这场比赛。", memo: "集合名词：a large audience 一大群观众；谓语可单可复（看整体/成员）" },
-    { w: "effort", ipa: "/ˈefət/", pos: "n.", cn: "努力", ex: "No effort, no muscle — the first rule of the gym.", excn: "没有努力就没有肌肉——健身房第一条规矩。", memo: "复现 ch01：make an effort / spare no effort 不遗余力；ch05 健身房老口号，肌肉哥原产地" },
-    { w: "achieve", ipa: "/əˈtʃiːv/", pos: "v.", cn: "实现；达到", ex: "They achieved second place — and their personal bests.", excn: "他们取得了第二名，也刷新了个人最好成绩。", memo: "复现 ch01：achieve one's goal 实现目标；achievement n. 成就；achieve + goal/dream/success" },
-    { w: "habit", ipa: "/ˈhæbɪt/", pos: "n.", cn: "习惯", ex: "Training at six broke Fei-Ge's favorite habit.", excn: "六点训练打破了飞哥最爱的习惯。", memo: "复现 ch02：form good habits 养成好习惯 / break the habit 改掉习惯；熬夜 habit 是全队公敌" },
-    { w: "strength", ipa: "/streŋθ/", pos: "n.", cn: "力量；优势", ex: "Lifting stones built up the team's strength.", excn: "举石头练出了全队的力量。", memo: "复现 ch03：strengths and weaknesses 优势与弱点；build up strength 增强力量；strong adj. / strengthen v." },
-    { w: "share", ipa: "/ʃeə/", pos: "v./n.", cn: "分享；一份", ex: "A victory shared is a victory doubled.", excn: "分享出去的胜利是加倍的胜利。", memo: "复现 ch04：share...with sb. 和某人分享；do one's share 出一份力" },
-    { w: "recover", ipa: "/rɪˈkʌvə/", pos: "v.", cn: "恢复；痊愈", ex: "The team recovered around a hot pot after the final.", excn: "决赛后全队围着火锅恢复元气。", memo: "复现 ch05：recover from + 病/打击，介词 from 别丢；本章队医疗法：火锅" },
-    { w: "encourage", ipa: "/ɪnˈkʌrɪdʒ/", pos: "v.", cn: "鼓励", ex: "Pang-Da's one-second speech encouraged everyone.", excn: "胖达的一秒论演讲鼓励了所有人。", memo: "复现 ch08：encourage sb. to do 鼓励某人做；en（使）+ courage（勇气）→ 鼓励；反义 discourage" },
-    { w: "purpose", ipa: "/ˈpɜːpəs/", pos: "n.", cn: "目的", ex: "My purpose in life is eating, said Pang-Da.", excn: "我的人生目的是吃，胖达说。", memo: "复现 ch09：on purpose 故意；the purpose of... 是主旨题信号词" },
-    { w: "progress", ipa: "/ˈprəʊɡres/", pos: "n./v.", cn: "进步", ex: "Two seconds faster — that is real progress.", excn: "快了两秒——这才是真正的进步。", memo: "复现 ch10：不可数！make (great) progress，make a progress ❌；对手是昨天的自己" },
-    { w: "speed", ipa: "/spiːd/", pos: "n./v.", cn: "速度；加速", ex: "He ran the last 100 meters at full speed.", excn: "他以全速跑完了最后一百米。", memo: "复现 ch12：at a speed of... 以……速度；speed up 加速；speed-sped-sped" },
-    { w: "practice", ipa: "/ˈpræktɪs/", pos: "n./v.", cn: "练习", ex: "Practice makes perfect, and tired legs.", excn: "熟能生巧，外加腿部酸痛。", memo: "复现 ch13：practice doing 练习做某事；Practice makes perfect——接力失误的唯一解药" },
-    { w: "order", ipa: "/ˈɔːdə/", pos: "v./n.", cn: "点餐；命令；顺序", ex: "Pang-Da ordered six bowls of noodles.", excn: "胖达点了六碗面。", memo: "复现 ch14：order food 点餐；in order to do 为了（本章语法③主角）；in order 按顺序" },
-    { w: "convince", ipa: "/kənˈvɪns/", pos: "v.", cn: "使确信；说服", ex: "The data convinced us that practice makes perfect.", excn: "数据使我们确信熟能生巧。", memo: "真题高频：convince sb. of sth. / convince sb. that 使某人相信；be convinced that 确信" },
-    { w: "greatly", ipa: "/ˈɡreɪtli/", pos: "adv.", cn: "大大地；非常", ex: "The one-second defeat greatly encouraged the team.", excn: "一秒的差距极大地激励了全队。", memo: "真题高频：修饰动词的副词，常放实义动词前：greatly encouraged / greatly influenced" }
+    { w: "penetrate", ipa: "/ˈpenɪtreɪt/", pos: "v.", cn: "渗透，穿透；洞察", ex: "Mist seemed to penetrate every coat.", excn: "雾气像是要渗进每一件外套。", memo: "pen（尖）+ etrate → 像笔尖一样扎进去 → 渗透；penetrate into 穿透；名词 penetration——雾渗进衣，词渗进心" },
+    { w: "discipline", ipa: "/ˈdɪsəplɪn/", pos: "n./v.", cn: "纪律；自律；训练；v. 自律，惩戒", ex: "Hunting takes discipline, not luck.", excn: "狩猎靠纪律，不靠运气。", memo: "disciple（门徒）+ ine → 门徒守的规矩 → 纪律；self-discipline 自律（写作高频）；一词两性：needs 后是名词，must 后是动词" },
+    { w: "contrast", ipa: "/ˈkɒntrɑːst/", pos: "n./v.", cn: "对比，对照；差异", ex: "In contrast to the maze, the hunt shows no choices.", excn: "与迷宫相比，猎场从不给你选项。", memo: "contra（相反）+ st（站）→ 对着站 → 对比；in contrast to/with 与……相比；by contrast 相比之下——名词重音在前" },
+    { w: "confirm", ipa: "/kənˈfɜːm/", pos: "v.", cn: "确认，证实；批准", ex: "Read the line, mark the slot, and let the field confirm the kill.", excn: "先读整行，标出槽位，让猎场自己确认猎杀。", memo: "con（加强）+ firm（坚定）→ 使更坚定 → 确认；confirm that + 从句；名词 confirmation——证据确认，不过度推断" },
+    { w: "postpone", ipa: "/pəˈspəʊn/", pos: "v.", cn: "推迟，延期", ex: "I never postpone its hunt; no one ever asked me to.", excn: "我从不推迟对它的狩猎；也没人求我推过。", memo: "post（后）+ pone（放，同 position 家族）→ 往后放 → 推迟；postpone doing（❌ postpone to do）——改错钉子户" },
+    { w: "propose", ipa: "/prəˈpəʊz/", pos: "v.", cn: "提议，建议；求婚", ex: "He chose to propose an order: read, mark, test, confirm.", excn: "他提出一套顺序：读、标、试、确认。", memo: "pro（向前）+ pose（放）→ 把想法放到前面 → 提议；propose doing / propose that...(should) do；名词 proposal——postpone 是「往后放」，propose 是「往前放」，一母双胞方向反" },
+    { w: "entitle", ipa: "/ɪnˈtaɪtl/", pos: "v.", cn: "使有权享有；给……题名", ex: "The plains entitle patient hunters to freedom.", excn: "这片平原把自由赐给有耐心的猎人。", memo: "en（使）+ title（头衔）→ 给头衔 → 使有权；entitle sb. to sth.；be entitled to 有权享有；书名也在它手上（The book is entitled...）" },
+    { w: "reasonable", ipa: "/ˈriːznəbl/", pos: "adj.", cn: "合理的；通情达理的；公道的", ex: "A reasonable order beats a loud bow.", excn: "合理的顺序胜过响亮的弓。", memo: "reason（理性）+ able → 讲得通道理的；a reasonable price 公道的价格；副词 reasonably——「合理」是议论文的万能评价词" },
+    { w: "feature", ipa: "/ˈfiːtʃə/", pos: "n./v.", cn: "特征，特色；v. 以……为特色", ex: "The field's strangest feature: ten pens in one line.", excn: "猎场最怪异的景致：一线上十座兽栏。", memo: "feat（技艺，同 finish 家族）+ ure → 做出来的标志 → 特征；a common feature 共同点；feature films 故事片——一词三景：特征/放映/收录" },
+    { w: "outcome", ipa: "/ˈaʊtkʌm/", pos: "n.", cn: "结果，结局", ex: "Ten game, ten shots, one outcome.", excn: "十只猎物，十箭，一个结局。", memo: "out + come → 走出来的东西 → 结果；the final outcome 最终结果；result 的正式版——先有纪律，后有 outcome" },
+    { w: "freedom", ipa: "/ˈfriːdəm/", pos: "n.", cn: "自由", ex: "The plains entitle patient hunters to freedom.", excn: "这片平原把自由赐给有耐心的猎人。", memo: "free + dom（名词后缀，同 wisdom/kingdom）→ 自由；freedom of speech 言论自由；-dom 家族：wise→wisdom 智慧，king→kingdom 王国" },
+    { w: "tent", ipa: "/tent/", pos: "n.", cn: "帐篷", ex: "A white tent pitched by the gate.", excn: "门边支着一顶白帐篷。", memo: "pitch a tent 搭帐篷（动词固定用 pitch）；tent 与 tend / tense / tent 词条形近——注意别把「帐篷」写成 tend「倾向」" }
   ],
   confusions: [
     {
-      group: "win / beat — 赢「物」还是赢「人」",
+      group: "confirm / conform / confine — con- 开头三兄弟",
       items: [
-        { w: "win", cn: "赢得比赛/奖品/战争", note: "win the match / win the game / win the first prize，后接「物」" },
-        { w: "beat", cn: "击败对手", note: "beat the other team / beat sb.，后接「人/队」" },
-        { w: "defeat", cn: "击败（正式，= beat）", note: "defeat the champions 击败冠军队，正式书面" }
+        { w: "confirm (v.)", cn: "确认，证实", note: "confirm the kill 确认猎杀；confirm that + 从句" },
+        { w: "conform (v.)", cn: "遵守，符合（to/with）", note: "conform to the rules 遵守规则——to 是介词" },
+        { w: "confine (v.)", cn: "限制，禁闭", note: "be confined to bed 卧床；confine...to... 把……限制在" }
       ],
-      tip: "口诀：win 后面是「物」（比赛奖品），beat/defeat 后面是「人」（对手队伍）。改错钉子户：win us ❌ → beat us！",
-      drill: [
-        { s: "Li Na ___ the first prize in the singing competition.", opts: ["won", "beat", "defeated"], a: 0, why: "prize 是「物」→ win the first prize；beat/defeat 后面接人/队" },
-        { s: "In the end we ___ the Error Dragon's team by two points.", opts: ["defeated", "won", "hit"], a: 0, why: "对手队伍是「人」→ beat/defeat；win 后面接比赛/奖品等「物」" }
-      ]
+      tip: "firm 坚定 → confirm 把事情钉死（确认）；form 形状 → conform 装进统一形状（遵守）；fine 界线 → confine 关进界线（限制）。猎场口号：先 confirm 槽位，再 conform 语法，最后 confine 答案。"
     },
     {
-      group: "attend / join / take part in — 复现 ch01，运动会版",
+      group: "propose / postpone — 一母双胞方向反",
       items: [
-        { w: "attend", cn: "出席（会议课程典礼）", note: "attend the opening ceremony 出席开幕式，人到场就行" },
-        { w: "join", cn: "加入（组织队伍人群）", note: "join the team 加入球队 / join us 加入我们" },
-        { w: "take part in", cn: "参加（活动并出力）", note: "take part in the sports meeting 参加运动会——真的下场跑" }
+        { w: "propose (v.)", cn: "提议；求婚", note: "propose an order 提议一套顺序；pro- 向前放" },
+        { w: "postpone (v.)", cn: "推迟", note: "postpone the hunt 推迟狩猎；post- 向后放；后接 doing" }
       ],
-      tip: "复现复习！口诀不变：attend 去露脸，join 入团伙，take part in 是真的下场玩。运动会语境：观众 attend，队员 join，选手 take part in。",
-      drill: [
-        { s: "Thousands of runners took ___ in the city marathon last week.", opts: ["part", "place", "action"], a: 0, why: "take part in 参加活动固定搭配；take place 是「发生」，主语是活动本身" }
-      ]
+      tip: "同是「放」（pone = put），pro 向前放是提议，post 向后放是推迟。完形最爱把这两个词同时放进选项——看清前缀再放箭。"
     },
     {
-      group: "match / competition / game — 三种「比赛」",
+      group: "feature / creature / failure — -ure 结尾三兄弟",
       items: [
-        { w: "match", cn: "球类/对抗性场次", note: "a football match 一场足球赛，有对手有回合" },
-        { w: "competition", cn: "正式竞赛（赛道多项目广）", note: "a singing competition 歌唱比赛；contest 近义" },
-        { w: "game", cn: "游戏；一局；大局", note: "play games；the Olympic Games 奥运会必须复数！" }
+        { w: "feature (n./v.)", cn: "特征；以……为特色", note: "the field's strangest feature 最怪的景致" },
+        { w: "creature (n.)", cn: "生物，创造物", note: "strange creatures 奇怪的生物——create 的名词亲戚" },
+        { w: "failure (n.)", cn: "失败；失败者；故障", note: "failure to do 未能做……；power failure 停电" }
       ],
-      tip: "口诀：球场看 match，赛场看 competition，玩起来叫 game。奥运会固定 the Olympic Games，单数 Olympic Game ❌。",
-      drill: [
-        { s: "The Olympic ___ attract athletes from all over the world every four years.", opts: ["Games", "Match", "Competition"], a: 0, why: "奥运会固定 the Olympic Games，必须复数；match 是球类场次" }
-      ]
+      tip: "feature 是「做出来的标志」（特征），creature 是「被造出来的东西」（生物），failure 是「没做成」（失败）。猎场上：读不懂 feature 就把猎物看成 creature，最后 failure。"
+    },
+    {
+      group: "discipline / principle — 纪律与原则",
+      items: [
+        { w: "discipline (n./v.)", cn: "纪律；自律", note: "self-discipline 自律；keep discipline 守纪律" },
+        { w: "principle (n.)", cn: "原则；原理", note: "a matter of principle 原则问题；in principle 原则上" },
+        { w: "principal (adj./n.)", cn: "主要的；校长", note: "principal reason 主要原因——与 principle 同音形近天敌" }
+      ],
+      tip: "discipline 是每天练的（可数也可泛指），principle 是心里守的（原则），principal 是最大的那个（校长/首要）。拼词口诀：pal 是人（校长），le 是理（原则）。"
     }
+  ],
+  hidden: [
+    { w: "game", known: "n. 游戏；比赛", hidden: "n. 猎物，野味", ex: "Ten game, ten shots — the hunter counts heads, not points.", excn: "十只猎物，十箭——猎人数的是猎物，不是得分。" },
+    { w: "season", known: "n. 季节", hidden: "n. 狩猎季/旺季；v. 调味", ex: "The hunting season opens at dawn and closes with mercy.", excn: "狩猎季黎明开猎，带着仁慈收弓。" },
+    { w: "mine", known: "pron. 我的", hidden: "n. 矿，矿井；v. 开采", ex: "The plain hides a mine of old words under the fog.", excn: "平原的雾下埋着一座旧词矿。" },
+    { w: "current", known: "adj. 当前的", hidden: "n. 水流，气流；思潮", ex: "The fog moved in a slow current across the plain.", excn: "雾随着一股缓慢的水流漫过平原。" },
+    { w: "raise", known: "v. 举起；养育", hidden: "v. 提出（问题）；筹集（资金）", ex: "The master raised a question no hunter dared to answer.", excn: "猎场主提出了一个没有猎人敢回答的问题。" }
   ],
   sentences: [
     {
-      en: "No matter how difficult the <mark>match</mark> is, the players never <mark>lose heart</mark>, because they believe that team spirit matters more than the final <mark>score</mark>.",
+      en: "Dawn broke over the Hunting Ground of Word-Choice — mist that seemed to <mark>penetrate</mark> every coat, a white <mark>tent</mark> pitched by the gate, and the field's strangest <mark>feature</mark>: ten pens, each holding a beast with a word for a hide.",
       parts: [
-        "No matter how + adj. 「无论多么……」让步状语从句（= however difficult）",
-        "⚠️ lose heart 灰心 ≠ lose one's heart 爱上——丢了 the 心是坠入爱河，丢了 heart 是泄气",
-        "matter 是动词「要紧」：team spirit matters 团队精神要紧",
-        "more...than... 比较结构：A matters more than B"
+        "主干：Dawn broke over...（黎明照亮/降临于……）",
+        "破折号后三个并列名词短语作同位展开：mist... / a tent... / the feature...",
+        "that seemed to penetrate... 定语从句修饰 mist；pitched 过去分词作后置定语（帐篷「被支起」）；each holding... 独立主格"
       ],
-      cn: "无论比赛多么艰难，队员们从不灰心，因为他们相信团队精神比最终比分更重要。",
-      slots: [
-        { s: "___ difficult the match is（让步，= however difficult）", opts: ["No matter how", "No matter what", "Whatever"], a: 0, why: "No matter how + adj./adv.「无论多么」；what 不能修饰形容词" },
-        { s: "they believe ___ team spirit matters more than the final score（引导词）", opts: ["that", "what", "whether"], a: 0, why: "believe 后接宾语从句，从句成分完整用 that（可省略）" }
-      ]
+      cn: "黎明照进选词填空猎场——雾气像是要渗进每一件外套，门边支着一顶白帐篷，而猎场最怪异的景致是：十只兽栏，每栏关着一头以词为皮的野兽。"
     },
     {
-      en: "It was the first time that our school team had <mark>defeated</mark> the defending <mark>champion</mark>, which greatly encouraged all the students on campus.",
+      en: "The last beast <mark>driven</mark> into its cage, the plain went quiet.",
       parts: [
-        "It was the first time that + 过去完成时：固定句型「这是第一次……」（was → had done）",
-        "had defeated 过去完成时：击败发生在「这是第一次」之前，过去的过去",
-        "which 引导非限制性定语从句，指代前面整件事「校队击败卫冕冠军」",
-        "encourage v. 鼓舞（复现 ch08）；on campus 在校园里（复现 ch01）"
+        "独立主格：名词 the last beast + 过去分词 driven（兽「被赶入」，被动关系）",
+        "整体作时间状语 = After the last beast had been driven into its cage",
+        "主句 the plain went quiet：go + adj. 表「变得」（go bad / go mad 同族）"
       ],
-      cn: "这是我们校队第一次击败卫冕冠军，这极大地鼓舞了全校学生。",
-      slots: [
-        { s: "It was the first time that our school team ___ defeated the champion（时态）", opts: ["had", "has", "was"], a: 0, why: "It was the first time that + 过去完成时，固定句型" },
-        { s: "...champion, ___ greatly encouraged all the students（which 指代什么）", opts: ["前面整件事", "the champion 一个词", "the team 一个词"], a: 0, why: "非限制性定语从句 which 指代「校队击败卫冕冠军」这整件事" }
-      ]
+      cn: "最后一头兽被赶进笼子，平原安静下来。"
+    },
+    {
+      en: "\"<mark>What</mark> hunts you now lives beyond the map,\" he added, and turned away first.",
+      parts: [
+        "What hunts you now 主语从句：what = the thing that，既引导又在从句中作主语",
+        "主语从句作主语时谓语用单数 lives",
+        "beyond the map 超出地图之外——介词短语作地点状语，留下钩子"
+      ],
+      cn: "「现在猎着你的东西，活在地图之外。」他补了一句，先转过身去。"
     }
   ],
   phrases: [
-    { p: "take part in", cn: "参加（活动并出力）", note: "ch01 易混区三兄弟返场：attend 去露脸 / join 入团伙 / take part in 真下场；= participate in", gap: { s: "Everyone must take part ___ the sports meet next week.", opts: ["in", "on", "at"], a: 0, why: "take part in 参加活动，介词固定 in" } },
-    { p: "cheer up", cn: "（使）振作起来", note: "Cheer up! It's not the end of the world. 高兴点，比分不是世界末日" },
-    { p: "cheer for", cn: "为……欢呼加油", note: "We cheered for our team. = root for（美式）；观众席的生产力全靠它", gap: { s: "The audience cheered ___ our team for ten minutes.", opts: ["for", "up", "with"], a: 0, why: "cheer for sb. 为某人加油；cheer up 是（使）振作" } },
-    { p: "lose heart", cn: "灰心；泄气", note: "⚠️ lose heart 灰心 ≠ lose one's heart (to) 爱上（某人）——丢不丢 the，心不一样", warn: true, gap: { s: "Whatever happens, never lose ___ — one second today, zero tomorrow.", opts: ["heart", "the heart", "hearts"], a: 0, why: "lose heart 灰心（heart 前无冠词）；lose one's heart (to) 才是爱上" } },
-    { p: "give up", cn: "放弃", note: "复现 ch05：give up doing 放弃做；代词放中间 give it up；never give up 永不放弃" },
-    { p: "keep on doing", cn: "继续做", note: "keep on training 坚持训练；= keep doing，on 强调毅力" },
-    { p: "win the first prize", cn: "获得一等奖", note: "ch07 易混组三胞胎返场：prize 奖品 ≠ price 价格 ≠ praise 表扬" },
-    { p: "score a goal", cn: "进一球", note: "score two goals 进两球（goal 复数加 s）；守住球门是 keep goal" },
-    { p: "be ahead of", cn: "领先于", note: "We are ahead of them by two points. 领先两分；反义 fall behind 落后" },
-    { p: "in the end", cn: "最后；终于", note: "= at last / finally；⚠️ in the end 后不接 of，at the end of 才接", warn: true },
-    { p: "play against", cn: "与……对阵", note: "We played against the champions. 对阵冠军队；against 也表「反对」：be against the plan" },
-    { p: "catch up with", cn: "追上；赶上", note: "接力赛救命短语：catch up with the leader 追上领先者；= keep up with（不掉队）", gap: { s: "After the baton slipped, A-Luo sped up to catch up ___ the leader.", opts: ["with", "up", "of"], a: 0, why: "catch up with 追上固定搭配；反义 fall behind 落后" } },
-    { p: "fall behind", cn: "落后；掉队", note: "Fall behind in a relay = 心脏骤停体验卡；反义 catch up / be ahead of" },
-    { p: "make up for", cn: "弥补", note: "make up for lost time 弥补失去的时间；⚠️ for 后接名词/doing，不接动词原形", warn: true },
-    { p: "be proud of", cn: "为……骄傲", note: "We are proud of you. 介词固定 of，不是 for；虽败犹荣专用句", warn: true, gap: { s: "We are proud ___ you — second place is still glory.", opts: ["of", "for", "with"], a: 0, why: "be proud of 介词固定 of，不是 for" } },
-    { p: "in order to", cn: "为了（做某事）", note: "⚠️ 后接动词原形：in order to win；句首句中皆可；so as to 只能放句中，见本章语法③", warn: true }
+    { p: "on the hunt for", cn: "正在寻找", note: "be on the hunt for the missing half 正在寻找缺失的另一半——hunt 名词用法" },
+    { p: "track down", cn: "追捕到，追查到", note: "track down the great Word 追捕到大词——hunt down 同义", warn: true },
+    { p: "take aim at", cn: "瞄准；把矛头对准", note: "take aim at the slot 对准槽位；aim at + 目标", warn: true },
+    { p: "lie in wait", cn: "埋伏以待", note: "traps lay in wait 陷阱埋伏在途中——lie-lay-lain 注意与「说谎」lied 区分" },
+    { p: "hunting season", cn: "狩猎季", note: "season 名词双义：季节/旺季；动词 season = 调味——一词两景" },
+    { p: "be entitled to", cn: "有权享有", note: "be entitled to freedom/to do sth.——to 后可接名词或动词原形", warn: true },
+    { p: "entitle sb. to sth.", cn: "使某人有资格享有某物", note: "The plains entitle patient hunters to freedom. 主动用法" },
+    { p: "in contrast to/with", cn: "与……相比", note: "介词短语，后接名词；contrast 作名词重音在前 /ˈkɒntrɑːst/", warn: true },
+    { p: "keep discipline", cn: "保持纪律", note: "keep discipline / keep calm 并列——纪律与冷静同框" },
+    { p: "discipline oneself to do", cn: "自律去做……", note: "discipline 作动词：discipline yourself to read the whole line" },
+    { p: "a reasonable price/offer", cn: "公道的价格/出价", note: "reasonable 的三层：合理的/通情达理的/公道的——阅读判断常客" },
+    { p: "a common feature", cn: "共同特征", note: "share a common feature 有共同点——写作对比段金句" },
+    { p: "the final outcome", cn: "最终结果", note: "the final outcome of the hunt；outcome = result 的正式版" },
+    { p: "confirm one's suspicion", cn: "证实某人的怀疑", note: "confirm the kill 确认猎杀——confirm 后接名词或 that 从句" },
+    { p: "propose doing / propose that...", cn: "提议做……", note: "propose that...(should) do 从句用虚拟——同 suggest", warn: true },
+    { p: "postpone doing", cn: "推迟做……", note: "postpone 后接 doing（❌ postpone to do）——与 delay 同义同用法", warn: true }
   ],
   grammar: [
     {
-      t: "过去进行时 vs 一般过去（while 两长一短）",
-      rule: "过去进行时 was/were doing：过去某时「正在进行」的动作，作背景，偏长；一般过去时 did：过去发生并完成的短动作、新事件。while 表一段时间，从句常配进行时；when + 短动作常「打断」进行中的长动作。口诀：when 短 while 长，两长可同框。",
-      ex: "While the coach was explaining the plan, Pang-Da fell asleep, and the audience were cheering loudly at that time.",
-      excn: "教练正在讲解战术时，胖达睡着了；那时观众正在高声欢呼。",
-      signal: "标志词：while / at that time / at eight last night / this time yesterday。改错坑：把 While...was doing 改成 did，或把 when 后的短动作硬改成进行时",
-      quiz: { s: "While the players ___ (cheer), the coach was drawing the plan. → ___", opts: ["were cheering", "cheered", "had cheered"], a: 0, why: "while 从句表进行中的背景动作 → 过去进行时；players 复数 → were" }
+      t: "选词填空第一步：三秒判槽位（名词/动词/形容词）",
+      rule: "名词槽信号：a/an/the/形容词 + ___；___ + of/介词。动词槽信号：to + ___；情态动词 + ___；主语后缺谓语。形容词槽信号：系动词（be/stay/look）后；名词前。先判槽位，再用后缀筛词——顺序错，全盘输。",
+      ex: "A ___ OF GREY COVERED THE PLAIN — the article A and the preposition of lock a noun into the slot.",
+      excn: "冠词 A 和介词 of 把名词锁死在槽位里——先看信号，再选词。",
+      signal: "空前 a/an/the/形容词 → 名词；to/情态动词后 → 动词原形；系动词后 → 形容词；动词前后无信号 → 查副词",
+      quiz: { s: "The morning stayed ___ and cold, so we kept the fire alive.", opts: ["quietly", "quiet", "quietness"], a: 1, why: "stayed 是系动词，后接形容词作表语 → quiet；quietly 是副词不能作表语；quietness 是名词" }
     },
     {
-      t: "play / go / do 运动搭配三选一",
-      rule: "play + 球类棋类名词：play football / basketball / chess（球类前不加 the，乐器才加：play the piano）；go + 运动-ing：go swimming / skating / boating / fishing（出行动感型）；do + 锻炼类名词：do sports / exercise / kung fu / yoga。",
-      ex: "He plays football on Monday, goes swimming in summer, and does sports to keep fit.",
-      excn: "他周一踢足球，夏天去游泳，平时做运动保持身材。",
-      signal: "改错高频：play swimming ❌ → go swimming；play the basketball ❌ → play basketball。口诀：球棋 play，水陆 go，锻炼 do",
-      quiz: { s: "In summer we often ___ (swim) in the river. → ___ swimming", opts: ["go", "play", "do"], a: 0, why: "go + 运动-ing：go swimming 水陆用 go；球类用 play，锻炼类用 do" }
+      t: "构词法后缀：选词填空的筛词器",
+      rule: "名词后缀：-tion/-sion（decision）、-ment（movement）、-ness（kindness）、-ity（ability）；形容词后缀：-ive（active）、-ous（famous）、-ful（useful）、-able（reasonable）；副词后缀：-ly。一词多性词（discipline/increase）看句法槽位，不加后缀。",
+      ex: "The hunt needs discipline, and you must discipline yourself before the fog thickens.",
+      excn: "狩猎需要纪律，而你必须先自律，趁雾还没变浓。",
+      signal: "the/形容词后 → 找 -tion/-ment/-ness 名词；be/系动词后 → 找 -ive/-ous/-able 形容词；修饰动词 → 找 -ly 副词；同形词看槽位",
+      quiz: { s: "His ___ to postpone the hunt surprised every hunter.", opts: ["refuse", "refusal", "refusing"], a: 1, why: "His 后接名词 → refusal（refuse 的名词）；refuse 是动词原形；refusing 是动名词，his 后需正式名词" }
     },
     {
-      t: "不定式作目的状语：in order to / so as to",
-      rule: "「为了做某事」：in order to do（句首句中都行）、so as to do（只能句中，不能放句首）、直接 to do（最口语）。否定目的：in order not to do / so as not to do。后接完整从句时改用 in order that / so that + 从句（常配 can/could）。",
-      ex: "In order to catch the early bus, he got up at five. He got up early so as not to miss it.",
-      excn: "为了赶上早班车，他五点就起床了。他早起是为了不错过车。",
-      signal: "改错双坑：①So as to 放句首 ❌ ②in order to seeing ❌ → to 是不定式符号，后面必须接动词原形",
-      quiz: { s: "___ catch the early bus, he got up at five.（句首「为了」）→ ___", opts: ["In order to", "So as to", "In order that"], a: 0, why: "in order to 可放句首；so as to 只能放句中；in order that 后接从句" }
+      t: "代词衔接：it / they / one / that / those 在语篇中的指代",
+      rule: "it 指代前文单数事物（同类同物）；one 指同类不同物（a + one）；that 指代前文单数名词（常带后置修饰 the...of...）；those 指代复数（those who...）；they 指前文复数。选词填空与完形的指代题：先找指代对象，再对单复数。",
+      ex: "The fog of the maze was thick, but that of the hunting ground moved — it breathed.",
+      excn: "迷宫的雾浓，而猎场的雾会动——它会呼吸。",
+      signal: "that of... = 前文单数名词的同类（the fog of...）；those who 后接定语从句；it 指同名同物，one 指同类不同物",
+      quiz: { s: "The bow of the master was older than ___ of the Dean.", opts: ["that", "one", "it"], a: 0, why: "比较对象是「猎场主的弓」vs「教务长的弓」→ 同类不同物且有限定 of the Dean → that；one 需与 a 连用；it 指同一张弓" }
+    },
+    {
+      t: "真题高频 · 否定词置句首的部分倒装",
+      rule: "never / seldom / hardly / not only / no sooner 等否定或半否定词放句首强调时，句子部分倒装：助动词/情态动词提到主语前。Never before had he seen...；Not only does he read, but he also writes。时态决定助动词：过去完成 had，一般过去 did，一般现在 do/does。",
+      ex: "Never before had a hunter read the whole line before shooting — the great Word trembled.",
+      excn: "从来没有猎人在开弓前先读完整行——大词颤抖了。",
+      signal: "句首见到 never/seldom/not only → 助动词提前；Never before + had done（过去的过去）；not only...but also 前后倒装对称",
+      quiz: { s: "Never before ___ the team entered a gate so well prepared.", opts: ["had", "has", "was"], a: 0, why: "Never before + 过去完成时倒装 → had the team entered；叙事回顾过去的过去用 had；has 时态不符；was 不能与 entered 连用" }
+    },
+    {
+      t: "真题高频 · despite / in spite of 与 although 之别",
+      rule: "despite / in spite of 是介词，后接名词或 doing（尽管……）；although/though 是连词，后接完整从句（主语+谓语）。四大雷：❌ despite of；❌ although...but；❌ despite 后接完整句子；⚠️ in spite of 与 despite 完全同义可互换。",
+      ex: "Despite the fog, the hunt went on — although the mist penetrated every coat, no one stepped back.",
+      excn: "尽管有雾，狩猎照常进行——尽管雾气渗进每件外套，没人后退半步。",
+      signal: "空后是名词/doing → despite/in spite of；空后是主谓完整从句 → although；despite of ❌ 是改错高频答案；although 与 but 不能共存",
+      quiz: { s: "___ the warning about energy, Zhou Qing fired twice more.", opts: ["Despite", "Although", "Because"], a: 0, why: "空后 the warning 是名词短语 → 介词 Despite；Although 后必须接完整从句；Because 表原因语义不通" }
     }
   ],
   quiz: [
     {
-      q: "The match attracted a large ______ of over 20,000 people.",
-      options: ["audience", "audiences", "viewer", "watcher"],
+      q: "A green flash across the field will ___ the kill.",
+      options: ["confirm", "conform", "confine", "confront"],
       answer: 0,
-      explain: "audience 观众（集合名词，不加 s）：a large audience 一大群观众。viewer 是（电视）观看者，watcher 是监视者。"
+      explain: "confirm 确认、证实（con 加强 + firm 坚定）；conform 遵守（to）；confine 限制；confront 面对——con- 开头四兄弟，先 confirm 槽位再放箭。"
     },
     {
-      q: "They suffered a heavy ______ in the first game, but they didn't lose heart.",
-      options: ["victory", "defeat", "win", "prize"],
-      answer: 1,
-      explain: "suffer a defeat 遭受失败固定搭配；后面说「没灰心」说明先输了。victory/win 是胜利，与语境相反；prize 是奖品。"
+      q: "Hunting without ___ is noise with arrows — the master said it twice.",
+      options: ["discipline", "shadow", "distance", "pleasure"], answer: 0, explain: "discipline 纪律、自律（ Hunting takes discipline, not luck）；distance 距离；shadow 影子；pleasure 乐趣——没有纪律的狩猎只是带箭的噪音。"
     },
     {
-      q: "Our team ______ theirs 3:2 in the final match.",
-      options: ["won", "beat", "got", "hit"],
-      answer: 1,
-      explain: "beat + 对手（人/队）→ beat theirs。win 后接「物」：won the match/the game。won theirs ❌，见本章易混组。"
+      q: "The field's strangest ___ is ten cages standing in one line.",
+      options: ["failure", "furniture", "creature", "feature"], answer: 3, explain: "feature 特征、景致；creature 生物；failure 失败；furniture 家具——ure 结尾三兄弟加一个来凑热闹的，靠语义锁定。"
     },
     {
-      q: "While Muscle Bro ______ the players how to pass the ball, Pang-Da fell asleep on the grass.",
-      options: ["was showing", "showed", "shows", "is showing"],
+      q: "___ the warning about energy, Zhou Qing fired twice more.",
+      options: ["Although", "Because", "Despite", "However"], answer: 2, explain: "空后 the warning 是名词短语 → 介词 Despite（尽管）；Although 后须接完整从句；Because 表原因；However 是副词不能直接接名词。"
+    },
+    {
+      q: "Never before ___ a hunter read the whole line before shooting.",
+      options: ["has", "had", "did", "was"], answer: 1, explain: "Never before 置句首 → 部分倒装，且指「过去之前从没有过」→ had + 主语 + 过去分词（过去完成时）；has 时态不符；was 不能接动词原形 read。"
+    },
+    {
+      q: "The ___ of every cage is the slot itself — grammar decides.",
+      options: ["porpoise", "propose", "purpose", "postpone"], answer: 2, explain: "复现旧词 purpose 目的（the purpose of...）；propose 提议、postpone 推迟（动词，语法不合）、porpoise 海豚（凑热闹）——p 开头形近四连。"
+    },
+    {
+      q: "The team entered the last round with a new ___ : sentence first, word second.",
+      options: ["aptitude", "attitude", "altitude", "latitude"], answer: 1, explain: "复现旧词 attitude 态度：with a new attitude 带着新态度；altitude 高度；aptitude 天资；latitude 纬度——a 开头形近四兄弟再聚首。"
+    },
+    {
+      q: "\"Reserve: ninety-one percent — real ___ ,\" Juanjuan whispered.",
+      options: ["progress", "promise", "produce", "process"], answer: 0, explain: "复现旧词 progress 进步（不可数，make progress）；promise 承诺/前途；process 过程；produce 产品/生产——pro- 家族词义各奔东西。"
+    },
+    {
+      q: "改错：Each miss proved that courage without discipline was uselessly on the hunting ground.",
+      options: ["uselessly → useless", "proved → proves", "what → that", "discipline → disciplines"],
       answer: 0,
-      explain: "while 引导的从句表「正在进行」的背景动作 → 过去进行时 was showing；后面 fell asleep 是一般过去时短动作插入——when 短 while 长。"
+      explain: "改错雷区·词性（构词法）：was 是系动词，后接形容词作表语，副词 uselessly 不能作表语 → useless（use + less 否定后缀）；B 叙述过去用一般过去时 proved 正确；C 宾语从句由 that 引导（从句成分完整），what 需在从句中充当成分；D discipline 表「纪律」是不可数抽象名词，不加 s。"
     },
     {
-      q: "In winter, children like to ______ skating on the frozen lake.",
-      options: ["do", "play", "go", "make"],
-      answer: 2,
-      explain: "go + 运动-ing：go skating 去滑冰。play 接球类名词，do 接 sports/exercise。口诀：球棋 play，水陆 go，锻炼 do。"
-    },
-    {
-      q: "改错：In order to winning the relay race, the team trained every morning.",
-      options: ["winning → win", "trained → training", "race → racing", "in → on"],
+      q: "汉译英：他的失败源于缺乏自律。",
+      options: ["His failure resulted from a lack of self-discipline.", "His failed resulted from a lack of self-discipline.", "His failure was resulted from a lack of self-discipline.", "His failure resulted from lacking of self-discipline."],
       answer: 0,
-      explain: "非谓语雷区：in order to 后接动词原形表目的 → in order to win。这里 to 是不定式符号不是介词，后面不能接 doing。"
-    },
-    {
-      q: "英译汉选择：To everyone's surprise, the dark horse beat the defending champion in the final.",
-      options: ["让所有人惊讶的是，那匹黑色的马在决赛中打败了卫冕冠军。", "让所有人惊讶的是，那位爆冷的黑马选手在决赛中击败了卫冕冠军。", "让所有人惊讶的是，黑马选手在决赛中被卫冕冠军击败了。", "大家惊喜地发现，黑马和卫冕冠军在决赛中打成了平手。"],
-      answer: 1,
-      explain: "dark horse 黑马 = 实力隐藏、爆冷取胜的人，不是真的马；beat the champion 主动击败（beat + 人）。望文生义是英译汉选择的第一陷阱。"
-    },
-    {
-      q: "Run faster, A-Luo! At this speed you will never catch ______ with the runner ahead of you.",
-      options: ["up", "on", "over", "back"],
-      answer: 0,
-      explain: "catch up with 固定搭配「追上，赶上」；反义 fall behind 落后。题干里的 at this speed 和 ahead of 也都是本章考点词。"
+      explain: "考点：构词法 fail(v.)→failure(n.)，result from 源于；a lack of + 名词表「缺乏」；B 错在 his 后必须接名词，failed 是动词过去式，词性错误；C 错在 result 是不及物动词，无被动语态，was resulted 结构错误；D 错在 lacking of 搭配错误，应为 a lack of 或直接接动名词 lacking（不带 of）。"
     }
   ]
 });

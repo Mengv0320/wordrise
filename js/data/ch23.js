@@ -1,248 +1,241 @@
 window.CHAPTERS = window.CHAPTERS || [];
 window.CHAPTERS.push({
   id: 23,
-  title: "城市漫步 · 迷路记",
-  desc: "老城地图一折，迷路自动到账。阿洛与钱少进城买半价教材，拐角长得一模一样，猫坐在地图上当路霸——there be 和方位介词不管饱，问路才能走出迷宫。",
-  tag: "城市生活高频词",
-  radar: ["there be 句型（就近原则）", "方位介词", "定语从句 where", "city / town / village 区分", "ask the way 问路句型"],
+  title: "词帝篇 · 职场街·实习风波",
+  desc: "登塔前缺盘缠，小队上职场街打工：简历造假怪兜售辉煌履历，面试全是话术陷阱。阿洛用数字拆穿话术，老板娘却认出旧工牌——十年前，你父亲独自守住了洪水墙，救过整条街。",
+  tag: "职场求职 · 招聘面试高频词",
   story: {
-    title: "Lost in the Old Town 老城迷路记",
-    text: `[[Today]] is Saturday. [[Yesterday]] evening, Qian-Shao found golden news: a [[market]] in the old town sells textbooks at half price. This [[morning]], the two friends took the first bus into the [[city]], with a [[month]] of pocket money burning holes in their pockets. "My home is a small [[town]]," said Qian-Shao, "and my grandma lives in a [[village]] with one shop and two dogs. But this [[city]]? Every [[street]] looks the same. It is a puzzle made by an angry ghost." The [[weather]] report had promised a [[sunny]] day; the sky kept the promise — until the [[wind]] turned [[windy]] and the map began to fight back.
+    title: "Honest Work, Heavy Badge 诚实的工作，沉重的工牌",
+    text: `The road to the Word-Emperor Tower was free, but everything before it was not: supplies, rope, lanterns, shoes. Their coins were [[scarce]] — the [[previous]] [[voyage]] had eaten most of them — so the team went job-hunting on Job Street. A beast in a silk tie was selling glorious [[resumes]] there, three silver coins a page, [[willing]] to promise anyone a bright future. Sao-Ye checked one page and handed it back. "The ink is [[genuine]]; the deeds are not. A fake [[resume]] is a fake leg — it breaks on the first mountain." They chose honest work instead: mending shelves at the Old Compass Inn.
 
-The old town keeps its [[history]] well. The [[street]] where they got off is one [[century]] old; around the first [[corner]] stands an old [[theatre]]; and down a quiet [[road]] there is a [[bridge]] over the green river. "The market is next to that bridge," said A-Luo. "Probably. Maybe. Let us walk." They turned corner after corner. There were [[cafe]]s on the left, a [[hotel]] on the right, and an old man with a [[dog]] in the middle. Every corner looked like the last corner. Qian-Shao's genius navigation died quietly at the third one.
+Work did not go smoothly at first. Pangda liked to [[complain]] about everything — the early bell, the flour dust, the soup of unknown meat. The [[manager]] was a bent old woman with needles in her collar; she paid a [[moderate]] wage, never wasted a word, and never lost her [[temper]]. "Complaining mends nothing," she said, handing Pangda a hammer. "Learn to [[cooperate]] first, and [[mend]] that shelf before lunch." Pangda sighed: "I [[suppose]] honest work pays slower. But it pays."
 
-They sat down in a small [[park]] by the river to save the map's life. Soft [[grass]], tall [[tree]]s, small [[flower]]s, one singing [[bird]] — and one gray [[cat]] sitting on the map like a king. "This [[animal]] owns the park," sighed Qian-Shao, and took a [[photo]]. The [[picture]] of the cat on the map became his phone wallpaper at once.
+At noon the [[Resume]]-Faking Beast came hunting. It offered the inn owner's son an interview at a rich trading house — a trap of beautiful words: "Overtime here is [[voluntary]]. The salary starts [[moderate]] and grows boundless." No contract, no figures, only smooth [[expression]]. The son found it hard to refuse such a shining offer. A-Luo [[recognize]]d the trick at once: "Every promise without a number is fog. [[Demand]] the contract first." Shen Zhibai went to [[verify]] the trading house's fate in the harbor records: it had collapsed last winter; its glory was printed, not earned.
 
-Then the sky went [[cloudy]]. "One morning, four [[season]]s," said Qian-Shao. "[[Spring]] at eight, [[summer]] at ten, [[autumn]] at noon, and now [[winter]] is early. If it [[snow]]s, I will sell my textbooks and buy an umbrella." Soon the rain came and it turned [[rainy]], so they hid in a little cafe across from the City [[Museum]] of [[Art]].
+The beast turned [[jealous]] the moment it was seen through, and jealousy began to [[transform]] its silk tie into a whip of shining empty words. The four began to cooperate without a command — Pangda lured, Shen Zhibai bound, Sao-Ye swept, and A-Luo finished it with one true sentence: "Work is built by hands; adjectives [[accomplish]] nothing." The beast burst into [[blank]] paper. The owner's son tore up his shining [[resume]] and asked for honest work, [[willing]] to start from the bottom, washing cups beside Pangda.
 
-Inside, an old waiter drew them a map on a napkin. "I have worked on this street for forty [[years]]," he said. "Listen: go along this street to the second corner, turn left, and there is an old bridge. The [[market]] is next to the bridge, behind a [[garden]], across from a Sichuan [[restaurant]] — you will smell it before you see it. It is the only market in this city where every [[textbook]] costs half price. This street has one century of [[history]]: the [[museum]] keeps the city's [[culture]] and [[art]], and the old [[theatre]] next door now works as a [[cinema]], still playing [[film]]s from fifty years ago."
+Payday came with honest rain. The manager counted coins into their hands — moderate again, but real. Then she saw the badge on A-Luo's chest, and her whole expression changed. "Child, where did you get this?" she whispered. "Ten years ago a young clerk wearing this badge held the flood wall alone all night. The whole street still stands because of him. We thought the fog had taken him." A-Luo closed his hand around the badge: an [[achievement]] no ledger had recorded, a [[sacrifice]] no one had named. The old woman pressed a yellowed map into his palm. "The tower's back gate," she said. "His street remembers."`,
+    translation: `去词帝塔的路不要钱，但它之前的每样东西都要：补给、绳索、提灯、鞋子。他们的硬币所剩无几——上一段航程吃掉了大半——于是小队上了职场街找工作。一条系丝绸领带的怪物正在兜售辉煌简历，三枚银币一页，乐意许诺任何人一个光明未来。扫爷检查了一页，还了回去。「墨是真的，事迹不是。假简历就是一条假腿——第一座山就会断。」他们选了诚实的活儿：去老罗盘客栈修架子。
 
-"Like a [[movie]]," smiled A-Luo, while street [[music]] came in from a violin at the door. They followed the napkin: second corner, left, the bridge, the garden, the smell of Sichuan food — and there it was, a whole street of books. By [[noon]] the deal was done: grammar books, word books, and two wallets that were not so empty after all.
+活儿起初并不顺。胖达什么都想抱怨——早钟、面粉灰、来历不明的肉汤。女掌柜是位衣领上别着针的驼背老太太；她开的工资不多不少，从不浪费一个字，也从不发脾气。「抱怨修不好任何东西，」她一边说，一边把锤子塞给胖达。「先学会配合，午饭前把那个架子修好。」胖达叹气：「我承认诚实的活儿来钱慢。但它来的是真钱。」
 
-They spent the [[afternoon]] walking along the river, took the bus back in the [[evening]], and told the dorm the whole story at [[night]]. "If we had been lost at [[midnight]]," said Qian-Shao, "that hotel would be our second home." At the bus stop, a bright poster stopped A-Luo: MUSCLE BROTHER'S GYM — HEALTHY COOKING CONTEST, next [[week]]. A-Luo took a photo of it. "[[Tomorrow]]," he said slowly, "the dorm kitchen will never be the same. And this poster must never reach Pang-Da first."`,
-    translation: `今天是周六。昨天傍晚，钱少挖到黄金消息：老城区有个市场，教材半价。于是今天早上，两人揣着快烧穿口袋的一个月零花钱，坐上了进城的头班车。「我家是个小镇，」钱少说，「我奶奶住的村子只有一家小卖部和两条狗。可这座城市？每条街长得一模一样，简直是暴躁幽灵设计的拼图。」天气预报许诺了一个晴天；天空也守约——直到风变得狂野，地图开始反抗。
+中午，简历造假怪来打猎了。它给客栈老板的儿子安排了一场豪门商行的面试——一场漂亮话堆成的陷阱：「这里的加班是自愿的。薪水起步温和，涨起来没有边界。」没有合同，没有数字，只有顺滑的话术。老板的儿子觉得这份闪亮的工作实在难以拒绝。阿洛立刻认出了这套把戏：「没有数字的承诺都是雾。先要合同。」沈知白去港口档案里查证了那家商行的下场：去年冬天就倒闭了；它的辉煌是印出来的，不是挣出来的。
 
-老城把历史保存得很好。他们下车的那条街已有一百年；第一个拐角处立着一座老剧院；一条安静的路尽头，绿河上有一座桥。「市场就在桥旁边，」阿洛说，「大概。可能。走吧。」他们拐过一个又一个拐角。左边是咖啡馆，右边是旅馆，中间还有一位遛狗的老人。每个拐角都长得像上一个。钱少的天才导航在第三个拐角处悄悄阵亡。
+被当场识破的那一刻，怪物妒火中烧，妒忌开始把它的丝绸领带变成一条甩着空洞亮词的鞭子。四个人不需要口令就开始配合——胖达引开，沈知白捆住，扫爷扫尾，阿洛用一句真话收工：「工作是手建起来的，形容词什么也建不成。」怪物炸成了一叠白纸。老板的儿子撕了那份闪亮的简历，讨了一份诚实的活儿，愿意从底层干起，在胖达旁边洗杯子。
 
-他们在河边的小公园坐下，抢救地图的命。软软的草，高高的树，小小的花，一只唱歌的鸟——还有一只灰色猫咪，像国王一样坐在地图上。「这只动物才是公园的主人，」钱少叹气，顺手拍了张照片。猫咪坐地图的这张图片立刻成了他的手机壁纸。
-
-然后天空转阴。「一个早晨，四季齐活，」钱少说。「八点春天，十点夏天，正午秋天，今天冬天提前营业。要是下雪，我就把教材卖了买伞。」很快雨来了，天转入雨天模式，两人躲进城市艺术博物馆对面的一家小咖啡馆。
-
-店里，一位老服务员在餐巾纸上给他们画了张地图。「我在这条街上干了四十年，」他说。「听好：沿这条街走到第二个拐角，左转，有一座老桥。市场就在桥旁边、花园后面，与一家川菜馆隔街相望——你会先闻到它再看到它。那是全城唯一教材半价的市场。这条街有一百年历史：博物馆保存着城市的文化与艺术，隔壁的老剧院如今改作电影院，还在放五十年前的电影。」
-
-「像电影一样，」阿洛笑着说，门口小提琴的街头音乐飘了进来。两人照着餐巾纸走：第二个拐角，左转，桥，花园，川菜的香味——到了，一整条街的书。正午之前交易完成：语法书、单词书，还有两个终于没那么空的钱包。
-
-下午他们沿河散步，傍晚坐大巴回校，晚上向全宿舍复述了一遍历险。「要是午夜还困在城里，」钱少说，「那家旅馆就是我们的第二个家。」公交站牌下，一张鲜艳的海报拦住了阿洛：肌肉哥健身房——健康烹饪大赛，下周举行。阿洛给它拍了张照。「明天，」他缓缓地说，「宿舍厨房将再也不一样了。这张海报绝不能让胖达先看到。」`
+发薪日伴着诚实的雨来了。女掌柜把硬币数进他们手心——还是不多，但是真的。然后她看见了阿洛胸前的工牌，整个表情都变了。「孩子，你这工牌哪来的？」她压低声音问。「十年前，一个戴这工牌的年轻店员，独自守了一夜洪水墙。整条街到现在还站着，就是因为他。我们都以为雾把他带走了。」阿洛握紧工牌：一桩没被任何账本记下的功绩，一场没人叫得出名字的牺牲。老太太把一张泛黄的地图按进他的掌心。「塔的后门，」她说，「他救过的这条街，记得他。」`
   },
 
-
   storyPoints: [
-    { "p": "现在完成时", "q": "\"I have worked on this street for forty years,\" he said.", "n": "have/has + 过去分词；看到 already/yet/just/in the last few years 秒选" },
-    { "p": "过去完成时", "q": "\"If we had been lost at midnight,\" said Qian-Shao, \"that hotel would be our second home.\" At the bus stop, a bright poster stopped A-Luo: MUSCLE BR...", "n": "had + 过去分词：过去的过去；标志词 by the time / before" },
-    { "p": "过去完成时", "q": "It is a puzzle made by an angry ghost.\" The weather report had promised a sunny day; the sky kept the promise — until the wind turned windy and the...", "n": "had + 过去分词：过去的过去" },
-    { "p": "被动语态", "q": "The street where they got off is one century old; around the first corner stands an old theatre; and down a quiet road there is a bridge over the g...", "n": "be + 过去分词：主语是动作承受者；无被动动词例外：happen/take place/consist of" },
-    { "p": "定语从句", "q": "It is the only market in this city where every textbook costs half price.", "n": "先行词 + 关系词：人用 who，物用 which/that，地点用 where" },
-    { "p": "主将从现", "q": "If it snows, I will sell my textbooks and buy an umbrella.\" Soon the rain came and it turned rainy, so they hid in a little cafe across from the Ci...", "n": "时间/条件从句用一般现在时，主句才用将来时——主将从现" },
-    { "p": "使役动词", "q": "Let us walk.\" They turned corner after corner.", "n": "make/let/have sb do：使役动词后接动词原形（不带 to）" },
-    { "p": "搭配 · across from", "q": "If it snows, I will sell my textbooks and buy an umbrella.\" Soon the rain came and it turned rainy, so they hid in a little cafe across from the Ci...", "n": "在……对面（改错雷区）" },
-    { "p": "搭配 · go along", "q": "\"Listen: go along this street to the second corner, turn left, and there is an old bridge.", "n": "沿着……走" }
+    { "p": "动名词作主语", "q": "Complaining mends nothing.", "n": "动名词（短语）作主语谓语用单数：Complaining mends...；对比不定式作主语 To complain mends nothing 也对，但动名词更常表抽象习惯行为" },
+    { "p": "it 作形式宾语", "q": "The son found it hard to refuse such a shining offer.", "n": "find/think/make/consider + it + adj. + to do：it 是形式宾语，真正的宾语是不定式 to refuse——❌ found to refuse was hard" },
+    { "p": "so...that 结果状语从句", "q": "It offered the inn owner's son an interview at a rich trading house — a trap of beautiful words", "n": "正文配套句：The salary starts moderate and grows boundless 中系动词 start/grow + 形容词作表语；so + adj. + that = 如此……以至于（见 07 语法碉堡③）" },
+    { "p": "while 表对比", "q": "she paid a moderate wage, never wasted a word, and never lost her temper.", "n": "三个 never 并列谓语省略重复主语（she paid..., (she) never wasted..., and (she) never lost...）——平行结构省略主语是写作减重利器" },
+    { "p": "过去完成时（倒闭在查证之前）", "q": "it had collapsed last winter; its glory was printed, not earned.", "n": "had collapsed：商行倒闭发生在沈知白查证之前 → 过去的过去；printed, not earned 过去分词平行对比，省略 it was" },
+    { "p": "because of 介词短语", "q": "The whole street still stands because of him.", "n": "because of + 名词/代词（him），because + 从句；二者改错最爱互换挖坑：because him ❌ / because of he saved us ❌" },
+    { "p": "现在分词作后置定语", "q": "A beast in a silk tie was selling glorious resumes there, three silver coins a page, willing to promise anyone a bright future.", "n": "willing 形容词短语作后置定语修饰 beast；three silver coins a page 是「每页三银币」的价钱表达（= three silver coins per page）" }
   ],
   words: [
-    { w: "city", ipa: "/ˈsɪti/", pos: "n.", cn: "城市", ex: "The city is a maze for strangers.", excn: "对陌生人来说城市是迷宫。", memo: "city > town > village 尺寸链；the city of Zhengzhou 郑州市" },
-    { w: "town", ipa: "/taʊn/", pos: "n.", cn: "镇；城镇", ex: "My home is a small town.", excn: "我家在一个小镇。", memo: "in town（不加 the）；go to town 进城" },
-    { w: "village", ipa: "/ˈvɪlɪdʒ/", pos: "n.", cn: "村庄", ex: "My grandma lives in a village.", excn: "我奶奶住在村里。", memo: "复数 villages；village life 乡村生活" },
-    { w: "street", ipa: "/striːt/", pos: "n.", cn: "街道", ex: "Every street looks the same.", excn: "每条街长得一样。", memo: "城市里两旁有建筑的街；in the street 在街上" },
-    { w: "road", ipa: "/rəʊd/", pos: "n.", cn: "路；公路", ex: "Down a quiet road there is a bridge.", excn: "一条安静的路尽头有座桥。", memo: "连接两地的路；on the road 在路上" },
-    { w: "corner", ipa: "/ˈkɔːnə/", pos: "n.", cn: "拐角；角落", ex: "We turned corner after corner.", excn: "我们拐过一个又一个拐角。", memo: "at the corner 在拐角；in the corner 在室内角落" },
-    { w: "bridge", ipa: "/brɪdʒ/", pos: "n.", cn: "桥", ex: "There is a bridge over the green river.", excn: "绿河上有一座桥。", memo: "cross the bridge 过桥；a bridge between... 沟通的桥梁" },
-    { w: "park", ipa: "/pɑːk/", pos: "n./v.", cn: "公园；停车", ex: "They sat down in a small park.", excn: "他们在小公园坐下。", memo: "双词性：公园/停车；parking lot 停车场" },
-    { w: "garden", ipa: "/ˈɡɑːdn/", pos: "n.", cn: "花园", ex: "The market is behind a garden.", excn: "市场在花园后面。", memo: "复数 gardens；garden 花园，yard 院子" },
-    { w: "tree", ipa: "/triː/", pos: "n.", cn: "树", ex: "Tall trees protect the park.", excn: "高树守护公园。", memo: "复数 trees；family tree 家谱" },
-    { w: "flower", ipa: "/ˈflaʊə/", pos: "n.", cn: "花", ex: "Small flowers opened along the path.", excn: "小花沿路开放。", memo: "复数 flowers；in flower 正在开花" },
-    { w: "grass", ipa: "/ɡrɑːs/", pos: "n.", cn: "草；草地", ex: "Soft grass under the trees.", excn: "树下软软的草。", memo: "不可数；a blade of grass 一根草" },
-    { w: "bird", ipa: "/bɜːd/", pos: "n.", cn: "鸟", ex: "One singing bird woke the park.", excn: "一只唱歌的鸟叫醒了公园。", memo: "the early bird gets the worm 早起的鸟儿有虫吃" },
-    { w: "dog", ipa: "/dɒɡ/", pos: "n.", cn: "狗", ex: "An old man with a dog.", excn: "一位遛狗的老人。", memo: "a lucky dog 幸运儿；hot dog 热狗" },
-    { w: "cat", ipa: "/kæt/", pos: "n.", cn: "猫", ex: "A gray cat sat on the map.", excn: "一只灰猫坐在地图上。", memo: "rain cats and dogs 倾盆大雨；copycat 模仿者" },
-    { w: "animal", ipa: "/ˈænɪml/", pos: "n.", cn: "动物", ex: "This animal owns the park.", excn: "这只动物是公园的主人。", memo: "复数 animals；animal world 动物世界" },
-    { w: "weather", ipa: "/ˈweðə/", pos: "n.", cn: "天气", ex: "The weather report promised a sunny day.", excn: "天气预报许诺了晴天。", memo: "不可数；⚠️ weather 天气，whether 是否，拼写像双胞胎" },
-    { w: "sunny", ipa: "/ˈsʌni/", pos: "adj.", cn: "晴朗的", ex: "A sunny morning in September.", excn: "九月一个晴朗的早晨。", memo: "sun → sunny 双写 n；反义 cloudy/rainy/windy" },
-    { w: "rainy", ipa: "/ˈreɪni/", pos: "adj.", cn: "多雨的", ex: "It turned rainy after ten.", excn: "十点后转雨。", memo: "rain n./v. → rainy adj.；the rainy season 雨季" },
-    { w: "windy", ipa: "/ˈwɪndi/", pos: "adj.", cn: "有风的", ex: "The wind turned windy enough to steal maps.", excn: "风大到能偷地图。", memo: "wind → windy；a windy day 大风天" },
-    { w: "cloudy", ipa: "/ˈklaʊdi/", pos: "adj.", cn: "多云的", ex: "The sky went cloudy at ten.", excn: "十点天空转阴。", memo: "cloud → cloudy；every cloud has a silver lining 黑暗中总有一线光明" },
-    { w: "snow", ipa: "/snəʊ/", pos: "n./v.", cn: "雪；下雪", ex: "If it snows, I will buy an umbrella.", excn: "要是下雪，我就买伞。", memo: "snow 雪/下雪双词性；Snow White 白雪公主" },
-    { w: "season", ipa: "/ˈsiːzn/", pos: "n.", cn: "季节", ex: "One morning, four seasons.", excn: "一个早晨，四季齐活。", memo: "four seasons 四季；in season 应季的" },
-    { w: "spring", ipa: "/sprɪŋ/", pos: "n.", cn: "春天；泉水", ex: "Spring at eight.", excn: "八点是春天。", memo: "春天/泉水/跳跃三义；Spring Festival 春节" },
-    { w: "summer", ipa: "/ˈsʌmə/", pos: "n.", cn: "夏天", ex: "Summer at ten.", excn: "十点是夏天。", memo: "in summer（不加 the）；summer camp 夏令营" },
-    { w: "autumn", ipa: "/ˈɔːtəm/", pos: "n.", cn: "秋天", ex: "Autumn at noon.", excn: "正午是秋天。", memo: "英式 autumn，美式 fall；mid-autumn 中秋" },
-    { w: "winter", ipa: "/ˈwɪntə/", pos: "n.", cn: "冬天", ex: "Winter is early today.", excn: "今天冬天提前营业。", memo: "in winter；winter holiday 寒假" },
-    { w: "morning", ipa: "/ˈmɔːnɪŋ/", pos: "n.", cn: "早晨", ex: "This morning they took the first bus.", excn: "今天早上他们坐了头班车。", memo: "in the morning；Good morning 早上好" },
-    { w: "noon", ipa: "/nuːn/", pos: "n.", cn: "正午", ex: "By noon the deal was done.", excn: "正午之前交易完成。", memo: "at noon 固定用 at；noon 前不加 in" },
-    { w: "afternoon", ipa: "/ˌɑːftəˈnuːn/", pos: "n.", cn: "下午", ex: "They spent the afternoon by the river.", excn: "下午他们沿河散步。", memo: "in the afternoon；this afternoon 今天下午" },
-    { w: "evening", ipa: "/ˈiːvnɪŋ/", pos: "n.", cn: "傍晚；晚上", ex: "They took the bus back in the evening.", excn: "傍晚坐大巴回校。", memo: "in the evening；⚠️ Good evening 晚上好，Good night 晚安" },
-    { w: "night", ipa: "/naɪt/", pos: "n.", cn: "夜晚", ex: "They told the story at night.", excn: "晚上他们复述历险。", memo: "at night 固定用 at；all night 整夜" },
-    { w: "midnight", ipa: "/ˈmɪdnaɪt/", pos: "n.", cn: "午夜", ex: "If we had been lost at midnight...", excn: "要是午夜还迷路……", memo: "at midnight；mid（中）+ night = 夜中央" },
-    { w: "today", ipa: "/təˈdeɪ/", pos: "adv./n.", cn: "今天", ex: "Today is Saturday.", excn: "今天是周六。", memo: "可作名词/副词；today's newspaper 今天的报纸" },
-    { w: "tomorrow", ipa: "/təˈmɒrəʊ/", pos: "adv./n.", cn: "明天", ex: "Tomorrow the dorm kitchen will change.", excn: "明天宿舍厨房将改变。", memo: "不加 the；the day after tomorrow 后天" },
-    { w: "yesterday", ipa: "/ˈjestədeɪ/", pos: "adv./n.", cn: "昨天", ex: "Yesterday evening Qian-Shao found the news.", excn: "昨天傍晚钱少发现消息。", memo: "the day before yesterday 前天；yesterday's map 昨天的地图" },
-    { w: "week", ipa: "/wiːk/", pos: "n.", cn: "星期；周", ex: "The contest is next week.", excn: "比赛在下周。", memo: "next week 下周；once a week 每周一次" },
-    { w: "month", ipa: "/mʌnθ/", pos: "n.", cn: "月", ex: "A month of pocket money.", excn: "一个月的零花钱。", memo: "复数 months（th 要咬舌）；last month 上个月" },
-    { w: "year", ipa: "/jɪə/", pos: "n.", cn: "年", ex: "I have worked here for forty years.", excn: "我在这干了四十年。", memo: "year after year 年复一年；复数 years" },
-    { w: "century", ipa: "/ˈsentʃəri/", pos: "n.", cn: "世纪；百年", ex: "The street is one century old.", excn: "这条街一百年了。", memo: "复数 centuries；the 21st century 21 世纪" },
-    { w: "history", ipa: "/ˈhɪstri/", pos: "n.", cn: "历史", ex: "The old town keeps its history well.", excn: "老城把历史保存得很好。", memo: "不可数；a history of... 一段……历史；historic adj." },
-    { w: "culture", ipa: "/ˈkʌltʃə/", pos: "n.", cn: "文化", ex: "The museum keeps the city's culture.", excn: "博物馆保存城市文化。", memo: "不可数；traditional culture 传统文化；cultural adj." },
-    { w: "art", ipa: "/ɑːt/", pos: "n.", cn: "艺术；美术", ex: "The City Museum of Art.", excn: "城市艺术博物馆。", memo: "不可数；work of art 艺术品；artist 艺术家" },
-    { w: "music", ipa: "/ˈmjuːzɪk/", pos: "n.", cn: "音乐", ex: "Street music came from a violin.", excn: "街头音乐来自小提琴。", memo: "不可数；a piece of music 一首曲子；musician 音乐家" },
-    { w: "film", ipa: "/fɪlm/", pos: "n.", cn: "电影；胶片", ex: "The old cinema still plays films from fifty years ago.", excn: "老影院还在放五十年前的电影。", memo: "英式说法；film star 电影明星；see a film 看电影" },
-    { w: "movie", ipa: "/ˈmuːvi/", pos: "n.", cn: "电影", ex: "Like a movie, said A-Luo.", excn: "像电影一样，阿洛说。", memo: "美式口语；go to the movies 去看电影；movie theater 影院" },
-    { w: "photo", ipa: "/ˈfəʊtəʊ/", pos: "n.", cn: "照片", ex: "He took a photo of the cat.", excn: "他给猫拍了张照。", memo: "photograph 的缩写；take photos 拍照；复数 photos" },
-    { w: "picture", ipa: "/ˈpɪktʃə/", pos: "n.", cn: "图片；图画", ex: "The picture became his phone wallpaper.", excn: "这张图片成了手机壁纸。", memo: "picture 泛指图片/图画；picture book 图画书" },
-    { w: "museum", ipa: "/mjuˈziːəm/", pos: "n.", cn: "博物馆", ex: "The City Museum of Art.", excn: "城市艺术博物馆。", memo: "复数 museums；science museum 科学博物馆" },
-    { w: "theatre", ipa: "/ˈθɪətə/", pos: "n.", cn: "剧院", ex: "An old theatre stands at the first corner.", excn: "第一个拐角立着老剧院。", memo: "英式 theatre = 美式 theater；演戏剧/歌剧的地方" },
-    { w: "cinema", ipa: "/ˈsɪnəmə/", pos: "n.", cn: "电影院", ex: "The theatre now works as a cinema.", excn: "老剧院如今改作电影院。", memo: "go to the cinema 去看电影（英式习惯说法）" },
-    { w: "restaurant", ipa: "/ˈrestrɒnt/", pos: "n.", cn: "餐馆", ex: "Across from a Sichuan restaurant.", excn: "在一家川菜馆对面。", memo: "⚠️ 中间是 au，注意拼写；restaurant chain 连锁餐厅" },
-    { w: "cafe", ipa: "/ˈkæfeɪ/", pos: "n.", cn: "咖啡馆", ex: "They hid in a little cafe.", excn: "他们躲进一家小咖啡馆。", memo: "复数 cafes；coffee 咖啡（饮品）≠ cafe（店）" },
-    { w: "hotel", ipa: "/həʊˈtel/", pos: "n.", cn: "旅馆；酒店", ex: "That hotel would be our second home.", excn: "那家旅馆就是我们第二个家。", memo: "stay at a hotel 住旅馆；five-star hotel 五星酒店" },
-    { w: "market", ipa: "/ˈmɑːkɪt/", pos: "n.", cn: "市场；集市", ex: "The old town market sells textbooks at half price.", excn: "老城市场教材半价。", memo: "flea market 跳蚤市场；on the market 在出售" },
-    { w: "textbook", ipa: "/ˈtekstbʊk/", pos: "n.", cn: "教科书；课本", ex: "I bought two textbooks at the market.", excn: "我在市场买了两本教材。", memo: "text(课文)+book(书)；真题高频：read the textbook 预习课本" }
+    { w: "achievement", ipa: "/əˈtʃiːvmənt/", pos: "n.", cn: "成就，成绩；完成", ex: "An achievement no ledger had recorded, a sacrifice no one had named.", excn: "一桩没被任何账本记下的功绩，一场没人叫得出名字的牺牲。", memo: "achieve（实现）+ ment → 实现了的东西 → 成就；make great achievements 取得巨大成就；动词 achieve one's goal 实现目标" },
+    { w: "complain", ipa: "/kəmˈpleɪn/", pos: "v.", cn: "抱怨，发牢骚；投诉", ex: "Pangda liked to complain about everything — the early bell, the flour dust.", excn: "胖达什么都想抱怨——早钟、面粉灰、来历不明的肉汤。", memo: "com（加强）+ plain（捶胸）→ 捶着胸口说 → 抱怨；complain about/of sth. 抱怨某事，complain to sb. 向某人投诉；⚠️ 不接 to do；名词 complaint" },
+    { w: "cooperate", ipa: "/kəʊˈɒpəreɪt/", pos: "v.", cn: "合作，配合", ex: "The four began to cooperate without a command.", excn: "四个人不需要口令就开始配合。", memo: "co（共同）+ operate（操作）→ 一起操作 → 合作；cooperate with sb. on/in sth. 与某人合作做某事；名词 cooperation 合作；形容词 cooperative" },
+    { w: "manager", ipa: "/ˈmænɪdʒə(r)/", pos: "n.", cn: "经理，管理人", ex: "The manager paid a moderate wage and never wasted a word.", excn: "女掌柜开的工资不多，也从不多说一个字。", memo: "manage（管理）+ er → 管理者；general manager 总经理；manage to do sth. 设法做成——管理的是事，经理管的是人" },
+    { w: "recognize", ipa: "/ˈrekəɡnaɪz/", pos: "v.", cn: "认出，识别；承认", ex: "A-Luo recognized the trick at once: every promise without a number is fog.", excn: "阿洛立刻认出了这套把戏：没有数字的承诺都是雾。", memo: "re（再）+ cogn（知道，同 know）+ ize → 重新认出来 → 认出；recognize...as... 承认……是……；名词 recognition 认出/赞誉" },
+    { w: "sacrifice", ipa: "/ˈsækrɪfaɪs/", pos: "n./v.", cn: "牺牲；献祭；舍弃", ex: "A sacrifice no one had named for ten years.", excn: "一场十年没人提起的牺牲。", memo: "sacr（神圣）+ fic（做）→ 做成神圣之事 → 献祭；sacrifice A for B 为 B 牺牲 A；make sacrifices 做出牺牲" },
+    { w: "voluntary", ipa: "/ˈvɒləntəri/", pos: "adj.", cn: "自愿的，志愿的；无偿的", ex: "Overtime here is voluntary — the beast said it with a smile.", excn: "「这里的加班是自愿的」——怪物笑着说这话。", memo: "vol（意愿，同 will）+ untary → 出自意愿的；voluntary work 志愿工作；反义 compulsory 强制的；名词 volunteer 志愿者" },
+    { w: "willing", ipa: "/ˈwɪlɪŋ/", pos: "adj.", cn: "愿意的，乐意的", ex: "He was willing to start from the bottom, washing cups beside Pangda.", excn: "他愿意从底层干起，在胖达旁边洗杯子。", memo: "will（意愿）+ ing → 有意愿的；be willing to do 乐意做某事；反义 unwilling 不情愿的——正好反向吃掉 ch19 旧词" },
+    { w: "jealous", ipa: "/ˈdʒeləs/", pos: "adj.", cn: "妒忌的，羡慕的；猜忌的", ex: "The beast turned jealous the moment it was seen through.", excn: "被识破的那一刻，怪物妒火中烧。", memo: "形近对比：jealous 妒忌的 vs zealous 热心的——一个红眼一个热血；be jealous of 妒忌/羡慕；名词 jealousy" },
+    { w: "mend", ipa: "/mend/", pos: "v.", cn: "修理，缝补；改善", ex: "Complaining mends nothing. Mend that shelf first.", excn: "抱怨修不好任何东西。先把那个架子修好。", memo: "mend 小修小补（衣服/栅栏，还有 mend fences 修好关系/和解），repair 修机器大件，fix 口语万能；mend one's ways 改过自新" },
+    { w: "moderate", ipa: "/ˈmɒdərət/", pos: "adj./v.", cn: "适度的，温和的；（v. /ˈmɒdəreɪt/）缓和", ex: "She paid a moderate wage, never wasted a word.", excn: "她开的工资不多不少，也从不浪费一个字。", memo: "mod（分寸，同 model 模型有模有样）+ erate → 有分寸的 → 适度的；a moderate price 适中的价格；名词 moderation 节制" },
+    { w: "expression", ipa: "/ɪkˈspreʃn/", pos: "n.", cn: "表达，措辞；表情；表达式", ex: "No contract, no figures, only smooth expression.", excn: "没有合同，没有数字，只有顺滑的话术。", memo: "express（表达，快件）+ ion → 表达出来的东西；beyond expression 无法形容；「表情」义看语境：her expression changed 她表情变了" }
   ],
   confusions: [
     {
-      group: "city / town / village — 城市三兄弟",
+      group: "job / work / career — 职业三层楼",
       items: [
-        { w: "city", cn: "n. 大城市（人口多、楼高）", note: "the biggest city of the province 省里最大的城市" },
-        { w: "town", cn: "n. 镇（比 city 小）", note: "a small town 一个小镇；in town 在城里（固定不加 the）" },
-        { w: "village", cn: "n. 村庄（最小，乡下）", note: "my grandma's village 我奶奶的村子；one shop and two dogs" }
+        { w: "job (n.)", cn: "工作（可数，一份活）", note: "take a part-time job 打一份零工；a good job 一份好工作——可数具体" },
+        { w: "work (n./v.)", cn: "工作（不可数，泛指）", note: "go to work 上班；⚠️ 不可数，不说 a work ❌（a work 指「一件作品」）" },
+        { w: "career (n.)", cn: "事业，职业生涯", note: "a career in teaching 教书生涯；career development 职业发展——一生的事业线" }
       ],
-      tip: "尺寸口诀：city > town > village。城市设施从全到无：city 有 museum 和 cinema，town 有 market，village 只有一家小卖部。"
+      tip: "楼层记法：job 是一层楼（一份活），work 是整栋楼（工作总量），career 是整片街区（一辈子方向）。面试问 career plan（职业规划），不问 job plan。"
     },
     {
-      group: "road / street / way — 三种「路」",
+      group: "employer / employee / manager / colleague — 职场四方",
       items: [
-        { w: "road", cn: "n. 公路；大路（连接两地）", note: "down a quiet road 沿一条安静的路；the road to the city 通往城市的公路" },
-        { w: "street", cn: "n. 街道（两旁有建筑）", note: "in the street 在街上；every street looks the same 每条街都一样" },
-        { w: "way", cn: "n. 路线；路径（抽象）", note: "ask the way 问路；on the way to 在去……的路上；lost one's way 迷路" }
+        { w: "employer (n.)", cn: "雇主，老板", note: "er 发出动作 → 雇别人的那方" },
+        { w: "employee (n.)", cn: "雇员，员工", note: "ee 接受动作 → 被雇的那方；同构 trainee 受训者" },
+        { w: "manager (n.)", cn: "经理", note: "受 employer 之托管事的人；manage v. 管理/设法做到" },
+        { w: "colleague (n.)", cn: "同事", note: "同单位共事的人，不分上下级；⚠️ 重音在第一音节 /ˈkɒliːɡ/" }
       ],
-      tip: "问路固定说 ask the way，不说 ask the road；road 连两地，street 管城市，way 是抽象路线。顺带：by the way 顺便说一句。"
+      tip: "词缀分方向：-er/-or 是「做的人」（employer 雇人的），-ee 是「被做的人」（employee 被雇的）。面试填表 employer 填公司，employee 填你自己。"
     },
     {
-      group: "film / movie / photo / picture — 影像四件套",
+      group: "jealous / envy / envious — 妒忌的词性矩阵",
       items: [
-        { w: "film", cn: "n. 电影（英式正式）；胶片", note: "films from fifty years ago 五十年前的老电影" },
-        { w: "movie", cn: "n. 电影（美式口语）", note: "go to the movies 去看电影；like a movie 像电影一样" },
-        { w: "photo", cn: "n. 照片（拍出来的）", note: "take a photo of the cat 给猫拍照；photograph 缩写" },
-        { w: "picture", cn: "n. 图片；图画（泛指）", note: "picture 范围更大，画、图片、照片都能叫 picture" }
+        { w: "jealous (adj.)", cn: "妒忌的；猜忌的", note: "be jealous of sb./sth. 妒忌……；还有「怕失去」的猜忌义（a jealous guard 猜忌的守卫）" },
+        { w: "envy (v./n.)", cn: "羡慕，妒忌", note: "envy sb. sth. 羡慕某人某物：I envy you your luck.；名词 green with envy 妒忌得眼红" },
+        { w: "envious (adj.)", cn: "羡慕的", note: "be envious of = be jealous of；envy 的形容词，比 jealous 中性些" }
       ],
-      tip: "film 与 movie 都是电影：英式爱 film，美式爱 movie。photo 专指拍出来的照片，picture 是图片总称——猫坐地图那件事，photo 和 picture 都成立。"
+      tip: "词性对位：动词 envy ↔ 形容词 jealous/envious。本章怪物被识破后 turned jealous（系动词 + 形容词表状态变化）。写作夸人别用 jealous（红眼病），用 envious of your success 更安全。"
+    },
+    {
+      group: "mend / repair / fix — 修补三兄弟",
+      items: [
+        { w: "mend (v.)", cn: "修补（小件），改善", note: "mend clothes/shelves 修补衣物/架子；mend fences 修好关系；mend one's ways 改过自新" },
+        { w: "repair (v./n.)", cn: "修理（大件，机器）", note: "repair a car/the roof 修车/修屋顶；in repair 在修理中 / under repair 同义" },
+        { w: "fix (v.)", cn: "修理（口语）；固定；安装", note: "fix the bike 修自行车（口语万能）；fix a meeting 定下会议；fix...to... 把……固定在" }
+      ],
+      tip: "体型定词：袜子裂缝用 mend，发动机用 repair，日常口语全用 fix。老掌柜那句「Complaining mends nothing」妙在 mend 兼有「补好」与「改善」双义——抱怨连「改善」都做不到。"
     }
+  ],
+  hidden: [
+    { w: "apply", known: "v. 申请（apply for a job）", hidden: "v. 涂抹，敷用；适用（apply to）", ex: "The rule applies to every clerk on Job Street, not only to freshmen.", excn: "这条规则适用于职场街每个店员，不只是新生。" },
+    { w: "reference", known: "n. 参考，参照", hidden: "n. 推荐信；证明人（a reference from one's employer）", ex: "The honest son got a written reference from the old manager.", excn: "诚实的孩子从老掌柜那里拿到了一封书面推荐信。" },
+    { w: "position", known: "n. 位置，姿势", hidden: "n. 职位；立场，观点（take a firm position）", ex: "The inn had one open position: cup washer and shelf mender.", excn: "客栈有一个空缺职位：洗杯工兼修架工。" },
+    { w: "notice", known: "v. 注意到", hidden: "n. 通知，布告；辞职信（hand in one's notice）", ex: "The clerk handed in his notice the moment he learned the truth.", excn: "职员一得知真相就递交了辞呈。" },
+    { w: "check", known: "v. 检查，核对", hidden: "n. 支票；账单；（美）工资支票", ex: "The manager paid them by check, signed in careful old handwriting.", excn: "女掌柜用支票付工钱，签名的字迹苍老而工整。" }
   ],
   sentences: [
     {
-      en: "There <mark>is</mark> a bridge over the river ahead, and the market next to it is the only place <mark>where</mark> textbooks cost half price.",
+      en: "Complaining <mark>mends</mark> nothing. Mend that shelf first.",
       parts: [
-        "There is...：there be 表「存在有」，真实主语 a bridge 是单数 → is",
-        "next to it 介词短语作后置定语，修饰 the market",
-        "where 引导定语从句修饰 the only place，where 在从句中作地点状语（= at which）",
-        "cost half price：cost 以物作主语表「花费」，没有被动语态"
+        "Complaining 动名词作主语，谓语用单数 mends",
+        "mends nothing：nothing 作宾语，全否定",
+        "第二句是祈使句，省略主语 you，动词原形 Mend 开头",
+        "一静一动：动名词句讲道理，祈使句下指令——职场英语两种最常见句式"
       ],
-      cn: "前面的河上有一座桥，桥旁边那个市场是唯一教材半价的地方。"
+      cn: "抱怨修不好任何东西。先把那个架子修好。"
     },
     {
-      en: "The old street <mark>where</mark> they got lost is a century old, and at its second corner <mark>there are</mark> two cafes facing each other.",
+      en: "Ten years ago a young clerk <mark>wearing</mark> this badge held the flood wall alone all night.",
       parts: [
-        "where they got lost：where 定语从句修饰 the old street，从句主谓完整不缺主宾 → 用 where 不用 which",
-        "a century old：表语说明街道年龄；one century 一百年",
-        "there are two cafes：there be 就近原则，cafes 是复数 → are",
-        "facing each other：现在分词短语作后置定语，表「面对面开着」"
+        "主干：a young clerk held the flood wall（年轻店员守住了洪水墙）",
+        "wearing this badge 现在分词作后置定语，修饰 clerk（主动：店员「戴着」工牌）",
+        "Ten years ago 一般过去时标志；all night 延续时间状语",
+        "alone 形容词作后置定语/表语性质，修饰 clerk 独自一人"
       ],
-      cn: "他们迷路的那条老街已有一百年历史，第二个拐角处有两家咖啡馆面对面开着。"
+      cn: "十年前，一个戴这工牌的年轻店员，独自守了一夜洪水墙。"
+    },
+    {
+      en: "The son found <mark>it</mark> hard to refuse such a shining offer.",
+      parts: [
+        "found + it + adj. + to do：it 是形式宾语，代替真正宾语 to refuse...",
+        "真主语还原：To refuse such a shining offer was hard（不定式作主语版）",
+        "shining 现在分词作定语：闪亮的（诱惑感）",
+        "such a + adj. + 名词：such a shining offer；对比 so shining an offer 也对"
+      ],
+      cn: "老板的儿子觉得这份闪亮的工作实在难以拒绝。"
     }
   ],
   phrases: [
-    { p: "get lost", cn: "迷路", note: "get lost in the old town 在老城迷路；= lose one's way；⚠️ get lost 口语单独用有「走开」的粗鲁义", warn: true },
-    { p: "ask the way", cn: "问路", note: "ask sb the way to + 地点：ask the waiter the way to the market；固定用 way 不用 road" },
-    { p: "go along", cn: "沿着……走", note: "go along this street 沿这条街走；指路高频短语" },
-    { p: "next to", cn: "紧挨着；在……旁边", note: "the market is next to the bridge 市场在桥旁边；= beside" },
-    { p: "across from", cn: "在……对面", note: "⚠️ 别丢 from：across from the museum 在博物馆对面；across 单独用是「穿过」", warn: true },
-    { p: "turn left / right", cn: "左转 / 右转", note: "turn left at the second corner 在第二个拐角左转；指路万能句" },
-    { p: "at the corner of", cn: "在……拐角处", note: "around the first corner 在第一个拐角附近；on the corner 在角上" },
-    { p: "half price", cn: "半价", note: "sell at half price 半价出售；cost half price 花半价" },
-    { p: "look the same", cn: "看起来一样", note: "Every street looks the same. 系动词 look + 形容词，不用副词" },
-    { p: "take a photo", cn: "拍照", note: "take a photo of + 对象：take a photo of the cat；复数 take photos" },
-    { p: "in the end", cn: "最后；终于", note: "⚠️ in the end = finally（最终结果，不接 of）；at the end of + 名词（……的末尾）", warn: true },
-    { p: "between...and...", cn: "在……和……之间", note: "between the cafe and the museum 在咖啡馆和博物馆之间；必须 and 配对" }
+    { p: "take a part-time job", cn: "打一份零工", note: "part-time 兼职的 / full-time 全职的；job 可数，take/find a job" },
+    { p: "apply for", cn: "申请（职位/学校）", note: "apply for a job/a position；apply to sb. for sth. 向某人申请某物；apply to 适用", warn: true },
+    { p: "be willing to do", cn: "愿意做某事", note: "be willing to start from the bottom；反义 be unwilling to do（ch19 旧词反向绑定）" },
+    { p: "complain about", cn: "抱怨某事", note: "complain about the wage；complain to sb. about sth. 向某人抱怨某事，介词各归各", warn: true },
+    { p: "cooperate with", cn: "与……合作", note: "cooperate with each other on the project；in cooperation with 与……合作（名词版）" },
+    { p: "make sacrifices", cn: "做出牺牲", note: "make sacrifices for the team；sacrifice A for B 为 B 舍弃 A" },
+    { p: "earn one's living", cn: "谋生", note: "＝ make a living；earn 此处是「挣得」，不是「赢得比赛（win）」", warn: true },
+    { p: "make ends meet", cn: "收支相抵，勉强糊口", note: "ends 是复数；can hardly make ends meet 几乎入不敷出——职场阅读高频" },
+    { p: "work overtime", cn: "加班", note: "overtime 副词/名词均可：work overtime tonight；voluntary overtime 「自愿加班」是话术重灾区" },
+    { p: "in exchange for", cn: "作为对……的交换", note: "work in exchange for board and lodging 以工换食宿；for 后接换来的东西" },
+    { p: "start from the bottom", cn: "从底层做起", note: "start from the bottom and work up 从底层干起往上爬；bottom 反义 top" },
+    { p: "lose one's temper", cn: "发脾气", note: "never loses her temper 从不发脾气；lose 与 temper 固定搭配，temper 是「脾气」不是「温度」；复现 ch08", warn: true },
+    { p: "hand in one's notice", cn: "递交辞呈", note: "notice 此处是「辞职通知」，不是「注意到」；hand in 上交" },
+    { p: "get along with", cn: "与……相处融洽", note: "get along/on well with colleagues；get along 还有「进展」义" },
+    { p: "burst into", cn: "突然爆发出；闯入", note: "burst into blank paper（本章戏言）/ burst into tears/laughter 突然哭/笑起来，后接名词；复现 ch04", warn: true }
   ],
   grammar: [
     {
-      t: "there be 句型（某地有某物，be 就近）",
-      rule: "there be 表示「某地存在某物」：there is + 单数/不可数，there are + 复数。当 be 后有多个主语时，be 与最近的那个主语一致（就近原则）：There were cafes on the left（cafes 复数 → were）。注意：there be 已表示「有」，不能再加 have；有确切主语时才用 have/has（The town has a bridge）。",
-      ex: "There were cafes on the left, a hotel on the right, and an old man with a dog in the middle.",
-      excn: "左边是几家咖啡馆，右边是一家旅馆，中间还有一位遛狗的老人。",
-      signal: "标志场景：描述位置、景物。改错雷区：①There have a bridge ❌ → There is a bridge ✅；②就近原则：There is a bank and two cafes（is 对 a bank）；③there be 与 have/has 不共存"
+      t: "动名词作主语与表语（职场箴言句型）",
+      rule: "动名词（doing）作主语表抽象、习惯、一般化的行为，谓语用单数：Complaining mends nothing. / Reading makes a full man. 对比不定式 to do 作主语偏具体一次性行为：To complain now is useless. 判定口诀：泛指讲道理用 doing，特指某一次用 to do。动名词短语还常作表语：His job is mending shelves.（这份活儿就是修架子）",
+      ex: "Honest work pays slower, but it pays. Complaining mends nothing, and neither does jealousy.",
+      excn: "诚实的活儿来钱慢，但它来的是真钱。抱怨修不好任何东西，妒忌也一样。",
+      signal: "句首动词 + ing 且无主语 → 动名词主语；谓语永远单数；表「职业内容」用 His job is doing... 结构",
+      quiz: { s: "___ about the fog will not drive it away.", opts: ["Complaining", "Complain", "Complained"], a: 0, why: "句首需要名词性成分作主语 → 动名词 Complaining；Complain 是动词原形不能作主语；Complained 是过去分词" }
     },
     {
-      t: "方位介词（next to / behind / across from / between...and）",
-      rule: "方位介词描述相对位置：next to 紧挨着；behind 在……后面；in front of 在……前面；across from 在……对面；between A and B 在 A 和 B 之间；at the corner of 在拐角。介词后接名词或代词宾格，不接动词原形。",
-      ex: "The market is next to the bridge, behind a garden, across from a Sichuan restaurant.",
-      excn: "市场在桥旁边、花园后面，与一家川菜馆隔街相望。",
-      signal: "标志场景：问路、指路、看地图。改错雷区：①across from 别丢 from（单用 across 是「穿过」）；②in front of 外部前面 vs in the front of 内部前部；③between 后必须用 and 连接两个对象"
+      t: "it 作形式宾语与形式主语（真宾语在后面）",
+      rule: "find/think/make/consider/feel + it + adj./n. + to do：it 占住宾语位置，真宾语是不定式 → The son found it hard to refuse. 主语版：It is hard to refuse a shining offer.（it 形式主语，真主语 to refuse）。改错雷区：❌ found that hard to refuse（that 不能作形式宾语）；❌ found to refuse was hard。that 从句作真宾语时不加 it：I find that he is honest. ✓",
+      ex: "A-Luo found it easy to see through the trap, but the son found it hard to refuse the shining words.",
+      excn: "阿洛觉得看穿这个陷阱很容易，但老板的儿子觉得那些闪亮的话很难拒绝。",
+      signal: "谓语 + it + 形容词 → 后面必须找到 to do 真宾语；没有 it 就直接接 that 从句，二选一不能混用",
+      quiz: { s: "The freshmen found ___ impossible to refuse the sweet clerk.", opts: ["it", "that", "this"], a: 0, why: "find it + adj. + to do 固定结构，it 是形式宾语；that/this 无此功能" }
     },
     {
-      t: "定语从句 where（先行词是地点）",
-      rule: "where 引导定语从句，先行词是地点名词（street / city / market / cafe / place），where 在从句中作地点状语（= in / at which）。判断法：把先行词放回从句，若句子完整是「主语 + 谓语（+地点状语）」→ 用 where；若从句缺主语或宾语 → 用 which / that。",
-      ex: "It is the only market in this city where every textbook costs half price.",
-      excn: "那是全城唯一一个教材半价的市场。",
-      signal: "标志结构：地点先行词 + 从句不缺主宾。改错雷区：①the street where we got lost ✅（get lost 不及物，缺状语）；②the street which we visited ✅（visit 缺宾语，用 which）；③where 前不能加 in/at（in where ❌）"
+      t: "so...that / such...that 结果状语从句",
+      rule: "① so + adj./adv. + that：The offer was so tempting that he nearly signed. ② such + (a/an) + (adj.) + 名词 + that：It was such a tempting offer that he nearly signed. ③ 特殊语序：so + adj. + a/an + 名词 = so shining an offer（只有 so 能这样倒）。数量词搭配：so many/much/few/little + n. + that（little 表「少」时），其余用 such。",
+      ex: "The beast's words were so smooth that no one asked for numbers — it was such a perfect trap that even adults nodded.",
+      excn: "怪物的话术太顺滑，以致没人要数字——那是个如此完美的陷阱，连大人都点头。",
+      signal: "空后有 that 从句表结果 → so/such 二选一；so 配形容词副词，such 配名词短语；many/much/few/little 前用 so",
+      quiz: { s: "The offer was ______ tempting that the son nearly signed at once.", opts: ["so", "such", "very"], a: 0, why: "tempting 是形容词 → so...that；such 后面要接名词短语；very 不能引导结果从句" }
+    },
+    {
+      t: "真题高频 · 过去分词作定语（被动+完成两重含义）",
+      rule: "过去分词（done）作定语：① 与被修饰名词是被动关系，② 动作已完成：printed, not earned 印出来的，不是挣出来的 / a collapsed company 已倒闭的公司 / the fog taken by night. 单音节分词常前置（a broken shelf），短语分词必后置（a resume printed in gold 一份烫金印的简历）。对比现在分词 doing 作定语表主动进行：a beast selling resumes。改错口诀：被动选 -ed，主动选 -ing。",
+      ex: "Its glory was printed, not earned — a fate written in the harbor records, waiting for anyone who trusted shining words.",
+      excn: "它的辉煌是印出来的，不是挣出来的——这个下场写在港口档案里，等着所有轻信漂亮话的人。",
+      signal: "名词与动词是被动/完成关系 → done；主动/进行 → doing；短语分词一律后置，别忘逗号",
+      quiz: { s: "The glory of the trading house was ______ , not earned.", opts: ["printed", "printing", "print"], a: 0, why: "glory 与 print 是被动关系（辉煌「被印出来」）→ 过去分词 printed；printing 表主动进行，意思反了；print 是动词原形" }
+    },
+    {
+      t: "真题高频 · while 的三用法（时间/对比/让步）",
+      rule: "① 时间：while + 进行性动作，主句短暂动作：While Pangda was sweeping, the beast crept in. ② 对比（然而，句中）：The wage was moderate, while the work was honest.（while 前后是两个平行分句）③ 让步（虽然，句首，书面）：While the offer looked bright, it had no numbers in it. 判定三步：看位置（句首多让步/时间），看逻辑（前后相反→对比/让步），看时态（进行中→时间）。while 从句动词必须是延续性动词。",
+      ex: "While the beast promised mountains of gold, the old manager paid a moderate wage — but hers was real.",
+      excn: "虽然怪物许诺金山，但老掌柜只付一份不多的工资——可她的是真的。",
+      signal: "while 句首 + 前后语义转折 → 「虽然/尽管」；while 句中连接两个平行分句 → 「然而」；短暂动词（arrive/notice）不能进 while 从句",
+      quiz: { s: "The beast promised a bright future, ______ the manager offered honest coins.", opts: ["while", "when", "because"], a: 0, why: "前后两个平行分句语义对照（空头许诺 vs 真金白银）→ while 表「然而」；when 表时间，because 表原因均不合逻辑" }
     }
   ],
   quiz: [
     {
-      q: "We got lost at a quiet ______ where four streets meet.",
-      options: ["corner", "century", "museum", "menu"],
+      q: "The two departments must ______ closely to finish the project on time.",
+      options: ["cooperate", "corporate", "operate", "celebrate"],
       answer: 0,
-      explain: "corner 拐角——四条街相交之处，the first corner 第一个拐角。century 世纪、museum 博物馆、menu 菜单都与「迷路地点」无关。"
+      explain: "cooperate 合作、配合（co- 共同 + operate 操作）；corporate 公司的（形容词）；operate 操作、运转；celebrate 庆祝。部门间「配合」用 cooperate。"
     },
     {
-      q: "The old town has a ______ of more than one hundred years: you can feel it in every brick.",
-      options: ["history", "holiday", "habit", "hobby"],
-      answer: 0,
-      explain: "have a history of + 时间 有……年的历史，固定搭配；holiday 假期、habit 习惯、hobby 爱好都接不上 of more than one hundred years。"
+      q: "The old woman ______ the badge the moment she laid eyes on it.",
+      options: ["organized", "realized", "apologized", "recognized"], answer: 3, explain: "recognize 认出（曾经见过的事物）；realize 意识到；organize 组织；apologize 道歉。「一眼认出十年前的工牌」是 recognize 的经典用法。"
     },
     {
-      q: "Look! There ______ a bank, two cafes and a hotel on this corner.",
-      options: ["is", "are", "have", "has"],
-      answer: 0,
-      explain: "there be 就近原则：be 与最近的主语 a bank（单数）一致 → is。there be 本身表「有」，不能再配 have/has。"
+      q: "It is never too late to ______ your ways and start honestly.",
+      options: ["mind", "mode", "mend", "mint"],
+      answer: 2,
+      explain: "mend one's ways 改过自新（mend 修补+改善双义）；mind 介意；mode 模式；mint 铸造。老板儿子撕掉假简历，正是改过自新。"
     },
     {
-      q: "This is the little cafe ______ we asked the old waiter for a map.",
-      options: ["where", "which", "what", "when"],
-      answer: 0,
-      explain: "先行词 cafe 是地点；从句 we asked... 主谓宾完整、不缺主宾，缺的是地点状语 → where。which 要求从句缺主语或宾语；what 不能引导定语从句。"
+      q: "______ about the fog will not drive it away.",
+      options: ["Complain to", "Complaining", "Complained", "Complain"], answer: 1, explain: "动名词 Complaining 作主语，谓语 will not drive 用单数逻辑成立；Complain 动词原形不能作主语；Complained 过去分词；Complain to 结构残缺。"
     },
     {
-      q: "改错：There have a big market behind the old bridge in their town.",
-      options: ["There have → There is", "have → has", "behind → at the back", "in their town → on their town"],
-      answer: 0,
-      explain: "there be 句型表示「有」，不能和 have 连用 → There is a big market。改成 has 也错：主语 a big market 是单数，be 动词用 is。"
+      q: "The offer was ______ tempting that the son nearly signed at once.",
+      options: ["such", "so", "very", "much"],
+      answer: 1,
+      explain: "so + 形容词 + that 结果状语从句：so tempting that...；such 后须接名词（such a tempting offer）；very/much 不能引导结果从句。"
     },
     {
-      q: "英译汉选择：We finally found the only market where textbooks cost half price.",
-      options: ["我们终于找到了那家教材半价的唯一市场。", "我们最终在教材半价的市场里迷了路。", "我们唯一找到的市场是教材全价的。", "那家唯一的教材市场终于半价了。"],
-      answer: 0,
-      explain: "where 引导定语从句修饰 market → 「……的市场」；cost half price 花半价 → 教材半价。B 把「找到」错成「迷路」，C 加戏「全价」，D 主宾颠倒。"
+      q: "The old manager never lost her ______ , even with Pangda around.",
+      options: ["temper", "tempo", "temple", "temptation"], answer: 0, explain: "复现 ch07 旧词 temper 脾气（lose one's temper 发脾气）；temple 寺庙/太阳穴；tempo 节奏；temptation 诱惑。tem- 词族形近四连。"
     },
     {
-      q: "The cafe is just ______ from the museum — cross the street and you are there.",
-      options: ["across", "between", "behind", "next"],
-      answer: 0,
-      explain: "across from 在……对面；后句 cross the street 穿过街就到，提示「对面」。between 需要 and 连接两个对象；behind 是在后面；next 必须搭配 to。"
+      q: "The ink on the resume was ______ , but the deeds written in it were not.",
+      options: ["generous", "gentle", "general", "genuine"], answer: 3, explain: "复现 ch06 旧词 genuine 真的、非伪造的（呼应扫爷那句「墨是真的，事迹不是」）；generous 慷慨的；gentle 温和的；general 普遍的。"
     },
     {
-      q: "My grandma lives in a small ______, and my uncle works in the biggest ______ of the province.",
-      options: ["village; city", "city; village", "village; village", "city; city"],
+      q: "After the truth came out, the customers began to ______ their money back.",
+      options: ["command", "demand", "remand", "commander"], answer: 1, explain: "复现 ch14 旧词 demand 要求（demand + 宾语：demand their money back）；command 命令；remand 还押（法律）；commander 指挥官。demand + n. = 强烈要求得到。"
+    },
+    {
+      q: "改错：The son found that hard to refuse such a shining offer from the trading house.",
+      options: ["that → it", "hard → hardly", "to refuse → refusing", "from → of"],
       answer: 0,
-      explain: "village 村庄（最小），city 城市（最大）。奶奶住在乡村小村，叔叔在省里最大的城市上班——尺寸决定选词。"
+      explain: "改错雷区·形式宾语：find + it + adj. + to do 是固定结构，it 占住宾语位置、真宾语是后面的不定式，that 没有这个功能 → found it hard to refuse；B hard 是形容词作宾语补足语「困难的」，hardly 是副词「几乎不」，语义全变；C 该结构中真宾语必须用不定式 to refuse；D an offer from the trading house 表「来自商行的邀约」，介词 from 正确。"
+    },
+    {
+      q: "汉译英：十年前，一个戴着这枚工牌的年轻店员独自守住了洪水墙。",
+      options: ["Ten years ago, a young clerk wearing this badge held the flood wall alone.", "Ten years ago, a young clerk worn this badge held the flood wall alone.", "Ten years ago, a young clerk wearing this badge hold the flood wall alone.", "Ten years ago, a young clerk wearing this badge was held the flood wall alone."],
+      answer: 0,
+      explain: "考点：现在分词 wearing 作后置定语（店员「戴着」工牌，主动关系用 -ing）+ 一般过去时谓语 held；B 错在 worn 是过去分词表被动，佩戴是主动动作；C 错在 hold 是原形，叙述十年前的事应用过去式 held；D 错在 was held 变成被动，店员是「守住」的发出者，应用主动。"
     }
   ]
 });
-

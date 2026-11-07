@@ -1,7 +1,7 @@
 window.TRAINING_TRANS = {
   // 英译汉
   e2c: {
-    title: '英译汉 · 20分（长难句拆解还原）',
+    title: '英译汉 · 长难句拆解（现行考为 10 分选择题，本节作笔译深练读句功力）',
     skills: [
       {
         name: '定语从句还原法',
@@ -160,7 +160,7 @@ window.TRAINING_TRANS = {
   },
   // 汉译英
   c2e: {
-    title: '汉译英 · 20分（模板句型套用）',
+    title: '汉译英 · 15 分（5 句 × 3 分 · 模板句型套用）',
     templates: [
       {
         name: 'It is...that 强调句',
@@ -224,6 +224,7 @@ window.TRAINING_TRANS = {
         cn: '正是这所学校的良好环境使他爱上了学习。',
         type: 'It is...that 强调句',
         en: 'It is the good environment of this school that made him fall in love with learning.',
+        keys: ['It is', 'that', 'fall in love with'],
         keypoint: 'It is + 被强调成分（the good environment of this school）+ that + 其余部分',
         traps: '很多人写成 "It is...which"，强调句中人用 who，其他用 that，不用 which'
       },
@@ -231,6 +232,7 @@ window.TRAINING_TRANS = {
         cn: '这项新政策已经被政府批准了。',
         type: '被动语态（现在完成时）',
         en: 'The new policy has been approved by the government.',
+        keys: ['has been approved', 'by the government'],
         keypoint: 'has been + 过去分词，表示现在完成时的被动',
         traps: '写成 "has approved by" 漏掉 been，这是最常见错误；approve 不要拼成 appove'
       },
@@ -238,6 +240,7 @@ window.TRAINING_TRANS = {
         cn: '许多年轻人去大城市是为了寻找更好的工作机会。',
         type: '不定式作目的状语',
         en: 'Many young people go to big cities to find better job opportunities.',
+        keys: ['to find', 'better job opportunities'],
         keypoint: 'to find... 作目的状语，修饰 go to big cities',
         traps: '"job opportunities" 不要写成 "work opportunities"，后者不地道；better 是比较级，不要用 more good'
       },
@@ -245,6 +248,7 @@ window.TRAINING_TRANS = {
         cn: '我们都知道锻炼对健康很重要。',
         type: '宾语从句',
         en: 'We all know that exercise is important to health.',
+        keys: ['know that', 'is important to'],
         keypoint: 'know + that 引导宾语从句，从句用陈述句语序',
         traps: '"important to" 和 "important for" 均可；exercise 是不可数名词，不用加 s'
       },
@@ -252,6 +256,7 @@ window.TRAINING_TRANS = {
         cn: '他的学习成绩比他的同学好得多。',
         type: '比较级',
         en: 'His academic performance is much better than that of his classmates.',
+        keys: ['much better than', 'that of'],
         keypoint: 'better than 是 good 的比较级；用 much 修饰比较级表示"……得多"；that of 代指 academic performance',
         traps: '很多人写 "better than his classmates\' "，不如 "better than that of his classmates" 规范；much 不能换成 very'
       },
@@ -259,6 +264,7 @@ window.TRAINING_TRANS = {
         cn: '如果明天天气好，我们将去爬山。',
         type: '真实条件句',
         en: 'If the weather is fine tomorrow, we will go climbing.',
+        keys: ['If the weather is fine', 'will go'],
         keypoint: 'if 条件从句用一般现在时，主句用 will + 动词原形',
         traps: '条件从句里不能用 will：if the weather will be fine 是错误的；go climbing 表示去爬山'
       },
@@ -266,6 +272,7 @@ window.TRAINING_TRANS = {
         cn: '他从未想到自己有一天会成为一名优秀的教师。',
         type: '否定倒装（Never）',
         en: 'Never did he think that he would become an excellent teacher one day.',
+        keys: ['Never did he think', 'would become'],
         keypoint: 'Never 置于句首，主谓倒装：Never + 助动词 did + 主语 he + 原形动词 think',
         traps: '倒装时助动词要与时态一致，过去时用 did；从句 that 可以省略但建议保留'
       },
@@ -273,6 +280,7 @@ window.TRAINING_TRANS = {
         cn: '自从上大学以来，他已经读了超过五十本书。',
         type: '现在完成时（since + 从句）',
         en: 'He has read more than fifty books since he went to college.',
+        keys: ['has read', 'more than fifty books', 'since'],
         keypoint: 'has read 是现在完成时，since 引导时间状语，since 从句用一般过去时',
         traps: '"more than fifty" 不要写成 "more than fiftys"；since 后面从句动词用过去时 went，不是 has gone'
       },
@@ -280,6 +288,7 @@ window.TRAINING_TRANS = {
         cn: '我们相信互联网技术在未来将会带来更大的变化。',
         type: '宾语从句（that 从句）',
         en: 'We believe that Internet technology will bring greater changes in the future.',
+        keys: ['believe that', 'will bring', 'greater changes'],
         keypoint: 'believe + that 宾语从句；greater 是 great 的比较级；in the future 表示"在未来"',
         traps: '"Internet technology" 注意 Internet 要大写；changes 用复数；greater 不要写成 more great'
       },
@@ -287,6 +296,7 @@ window.TRAINING_TRANS = {
         cn: '这份报告是由三位专家用两个星期完成的。',
         type: '被动语态',
         en: 'This report was completed by three experts in two weeks.',
+        keys: ['was completed', 'by three experts', 'in two weeks'],
         keypoint: 'was completed 是一般过去时的被动语态；by 后面接施动者；in two weeks 表示"用了两周时间"',
         traps: '"in two weeks" 和 "within two weeks" 均可；complete 不要写成 finish（两者都可，但 complete 更正式）'
       }

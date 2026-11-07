@@ -1,249 +1,233 @@
 window.CHAPTERS = window.CHAPTERS || [];
 window.CHAPTERS.push({
   id: 7,
-  title: "市井烟火 · 双十一购物车大作战",
-  desc: "双十一午夜，钱少的钱包正在节食。卷卷说：财富是你停止购买后剩下的东西。",
-  tag: "社会消费类高频词",
+  title: "觉醒篇 · 宗家来帖",
+  desc: "黑市案收网：拍卖师受审，被抽干词力者康复庆祝。词宗府来帖强行召回沈知白——她被当「活体词典」培养，当年出走。小队追进宗家，她坦白身世，选择自己的路；禁区名录上，阿洛父亲的名字与清零案并列。",
+  tag: "家族与情感 · 情感态度高频词",
   story: {
-    title: "The Shopping Cart Battle 购物车大作战",
-    text: `November 10th, 11:59 p.m. The dorm was dark, but Qian-Shao's eyes shone like the screen. "One minute to Double Eleven!" he whispered. "Tonight, prices fall — and my cart rises!"
-At midnight, the battle began. Qian-Shao [[purchased]] like a general: a lamp at a fifty percent [[discount]], shoes that every [[advertisement]] had [[recommended]], and a "smart" cup that could sing. He [[compared]] prices on three apps, collected coupons, and read three hundred [[reviews]] — the first one: "Good value! Trust it."
-"You compared three apps but read one review," Pang-Da said. "Some research."
-"Reviews are for doubters," Qian-Shao said. "I have faith."
-Three days later, a mountain of boxes arrived, and the sad truth with them. The shoes' [[quality]] was creative: left and right came from different factories. "Half a [[bargain]]," Pang-Da said. "Each shoe was [[popular]] with the other foot." The smart cup sang but refused to boil water. "Don't [[waste]] money on things that sing better than you," Pang-Da said. Too many [[choices]], too little thought. Final bill: 1,400 yuan; monthly [[budget]]: 900.
-Qian-Shao called the shop. An automated voice made him wait forty minutes, then made him record a video to prove the lamp was broken. "I would like a [[refund]]," he said. The [[customer]] service replied, "Please rate our service five stars."
-That afternoon, our dorm became a return station. Pang-Da had everyone carry boxes downstairs; A-Luo filled in the forms; Juanjuan checked the rules. The [[deadline]] for seven-day no-reason returns was midnight — three minutes to spare.
-At 11 p.m., Qian-Shao opened his bank [[account]]: balance, 3.5 yuan. "I can't [[afford]] next month," he whispered. "Instant noodles again — not even the fancy ones."
-"Three weeks of living expenses — gone," A-Luo said. "Impulse shopping [[harms]] your wallet and your grades. Every coin is a soldier, and you sent them all to a discount war."
-A week later, Pang-Da asked: "Have you [[recovered]] yet?" Answer: another box of noodles.
-Juanjuan flew in. "Ads make everything look necessary," she said. "A wise [[consumer]] asks one question before every [[purchase]]: Is it a need, or an advertisement talking to me? I suggest counting to ten before paying. Wealth is not what you buy — it is what stays after you stop buying."
-Qian-Shao sat still. A painful [[experience]] — but a valuable one. He made up his mind: a shopping list of three items, all needed, no lamps; no shopping apps after eleven; and a free service — Chief Price Officer, [[comparing]] prices for everyone. The most [[efficient]] shopper in Building 3 was born. Nobody bought anything without asking.
-One month later, the midterm results arrived. Qian-Shao's English score was lower than the price of his cheapest lamp — all those nights of comparing, and he had never once [[concentrated]] in class.
-"If you fail the resit," A-Luo sighed, "you can also say goodbye to the [[scholarship]]."
-Juanjuan smiled: "Congratulations. You returned seventeen boxes, but you can't return a failed exam. Your next product is called Comeback — and I'm afraid it is not on sale."`,
-    translation: `十一月十日晚上十一点五十九分。宿舍一片漆黑，钱少的眼睛却像屏幕一样发亮。「距离双十一还有一分钟！」他低声说，「今夜，价格下跌——我的购物车上涨！」
-午夜，战役打响。钱少像将军一样疯狂下单：一盏五折台灯、每条广告都推荐过的鞋子，还有一只会唱歌的「智能」杯。他在三个 App 之间比价，收集优惠券，还读了三百条评价——准确地说，只读了第一条：「好东西！信它。」
-「你比价用了三个 App，评价只读了一条，」胖达说，「这就是你的调研？」
-「评价是留给怀疑者的，」钱少说，「我只信信仰。」
-三天后，一座箱子山到了，悲伤的真相也跟着到了。鞋子的「质量」很有创造力：左脚和右脚来自不同的工厂。「算半件划算货，」胖达说，「每只鞋只受另一只脚的欢迎。」智能杯会唱歌，但拒绝烧水。「别把钱浪费在唱得比你好的东西上，」胖达说。选择太多，思考太少。最终账单：一千四百元；每月预算：九百。
-钱少联系了店家。一段自动语音让他等了四十分钟，然后让他录一段视频，证明那盏灯真的坏了。「我想要退款，」他说。客服回复：「请给我们的服务打五星。」
-那天下午，我们宿舍变成了退货站。胖达让所有人把箱子搬下楼，阿洛填退货单，卷卷查规则。七天无理由退货的截止时间是午夜——还剩三分钟富余。
-晚上十一点，钱少打开银行账户：余额三块五。「下个月我供不起了，」他低声说，「又是泡面——还不是加料的那种。」
-「三周的生活费——没了，」阿洛说。「冲动购物伤害你的钱包，也伤害你的成绩。每一枚硬币都是一个士兵，而你把他们全都送上了一场折扣战争。」
-一周后，胖达问：「你缓过来了吗？」回答他的，是又一箱泡面。
-这时卷卷飞了进来。「广告让一切看起来都不可或缺，」她说，「明智的消费者在每次购买前只问一个问题：这是需要，还是广告在跟我说话？我建议付款前先数十个数。财富不是你买来的东西，财富是你停止购买后剩下的东西。」
-钱少坐着一动不动。一次惨痛的经历——但也是宝贵的。他下定决心了：一张购物清单，三样东西，全部必需，没有台灯；晚上十一点后不开购物 App；外加一项免费服务——首席比价官，替所有人比价。三号楼最高效的购物者就此诞生。没有他点头，谁也不下单。
-一个月后，期中成绩到了。钱少的英语分数比他买过最便宜的台灯还低——那么多比价的夜晚，他却没有一节课专心听过。
-「要是补考还挂，」阿洛叹气，「你也可以顺便跟奖学金说再见了。」
-卷卷笑了：「恭喜。你退掉了十七个箱子，但挂掉的考试退不了。你的下一件商品叫『逆袭』——而且恐怕，它不参加打折。」`
+    title: "The Summons from the Clan House 宗家来帖",
+    text: `The trial of the puppet [[auctioneer]] ran three days in the river city. The judge ordered its masters to [[drain]] the stolen word-power back into every victim, and each evening more colorless buyers walked out with their names restored. The court charged the black market with fraud and [[violence]]; the sentence was total. By the last evening the whole street began to [[celebrate]], and parents turned the fair's old [[thrill]] into a warning tale: [[genuine]] power still comes from study, and a [[scarce]] lesson is cheaper than a stolen one.
+
+On the ninth day the celebration stopped. A white-robed herald crossed the academy gate with a letter sealed in red wax: the Clan of the Word-Ancestor demanded the return of Shen Zhibai. No reason was written; none was needed — the clan house was the oldest [[institution]] in Lexica, and its word was law. Zhibai read the letter without a change of face, yet her knuckles went white around the paper, and for the first time A-Luo watched her famous [[restraint]] crack. She did not [[utter]] a single word on the road north; the team followed her anyway.
+
+The clan house rose behind stone walls so clean they were [[forgettable]] — beauty polished until nothing lived in it. Guards moved to [[restrict]] the three students at the second gate. "Nothing can [[justify]] a cage built for a daughter," A-Luo told the herald. "She did not [[abandon]] us; we will not [[abandon]] her." The herald smiled like a knife and opened the inner hall.
+
+Inside, Zhibai finally spoke. "I was ten when they first hung medals of words on me. My duty was to [[imitate]] the ancestors — to sing every founder's chant note for note, until my own voice disappeared. They called it [[devotion]]. They called it a [[marvelous]] gift, a [[role]] no other child could carry, and the [[fame]] of the house was to become my fame. I grew [[weary]] of singing the dead's words, so one night I walked out. For six years they swore I would [[abandon]] them again the way my mother did. Tonight they expect me to [[apologize]] for leaving."
+
+The herald pressed her once more to stay, and her [[temper]] finally broke — cold eyes turned to black flame, and even the herald stepped back. "Then don't feed it," Pangda said. "[[Forgive]] us for dragging you into fog and mirrors," A-Luo added, "but don't apologize for walking your own road." Something warm crossed her face — the first since the [[jungle]]. She turned to the herald: "Tell the house — I choose my own team." On the way out they passed the archive of forbidden names, its great book lying open. Beside the record of the Zeroing Case from ten years ago stood one name, an [[unexpected]] name that stopped A-Luo's breath: his father's.`,
+    translation: `傀儡拍卖师的庭审在河城开了三天。法官勒令其主使把偷走的词力逐一滴还给每位受害者，每到傍晚，就有更多面无血色的买主走出法院，名字失而复得。法院以欺诈和暴利起诉了黑市；判决干净利落。最后一晚，整条街都庆祝起来，父母们把夜市昔日的刺激编成吓孩子的故事：真本事来自苦学，一堂「稀缺」的课，比偷来的便宜。
+
+第九天，庆祝戛然而止。一位白衣执事带着红蜡封印的信穿过学院大门：词宗宗家要求沈知白即刻回府。信上没写理由；也不需要——宗家是词陆最老的家族机构，它的话就是法。知白读信时面不改色，捏着信纸的指节却泛了白，阿洛第一次看见她那出名的克制裂了缝。北上的路上她一个字也没说；队伍还是跟了去。
+
+宗家立在石墙之后，墙净得让人过目即忘——被打磨到没有生命的美。卫兵上前，把三名学生拦在第二道门。「没有什么能证明为女儿造笼子是正当的，」阿洛对执事说，「她没有抛弃我们；我们也不会抛弃她。」执事笑得像一把刀，打开了内厅。
+
+厅内，知白终于开口。「十岁那年，他们第一次把词牌当勋章挂在我身上。我的职责是模仿先祖——把每一位创府祖师的颂词逐音逐调唱下来，直到我自己的声音消失。他们管这叫奉献。他们管这叫了不起的天赋，一个别的孩子都担不动的角色，而宗家的声名将来要变成我的声名。我渐渐厌倦了唱死人的词，于是一夜之间出走。六年里他们发誓说，我会像母亲那样再次抛弃这个家。今晚，他们要我为离开道歉。」
+
+执事再一次逼她留下，她的怒火终于炸了——冷眼烧成黑色火焰，连执事都退了半步。「那就别喂它，」胖达说。「原谅我们把你拖进雾和镜子，」阿洛补了一句，「但别为走自己的路道歉。」有什么温暖的东西掠过她的脸——出走词林以来的头一次。她转向执事：「告诉宗家——我选我自己的队伍。」出去时他们经过禁名录档案库，巨大的名录摊开着。十年前词力清零案的记录旁边，立着一个名字，一个让阿洛停止呼吸的意外名字：他父亲的。`
   },
 
-
   storyPoints: [
-    { "p": "过去完成时", "q": "Qian-Shao purchased like a general: a lamp at a fifty percent discount, shoes that every advertisement had recommended, and a \"smart\" cup that coul...", "n": "had + 过去分词：过去的过去" },
-    { "p": "被动语态", "q": "An automated voice made him wait forty minutes, then made him record a video to prove the lamp was broken.", "n": "be + 过去分词：主语是动作承受者；无被动动词例外：happen/take place/consist of" },
-    { "p": "比较级/最高级", "q": "\"Don't waste money on things that sing better than you,\" Pang-Da said.", "n": "比较级 + than；最高级 + the；much/even 可修饰比较级" },
-    { "p": "主将从现", "q": "\"If you fail the resit,\" A-Luo sighed, \"you can also say goodbye to the scholarship.\" Juanjuan smiled: \"Congratulations.", "n": "时间/条件从句用一般现在时，主句才用将来时——主将从现" },
-    { "p": "动名词 doing", "q": "I suggest counting to ten before paying.", "n": "这些动词后只接 doing：enjoy/finish/avoid/practice/mind/suggest/keep" },
-    { "p": "不定式 to do", "q": "\"Each shoe was popular with the other foot.\" The smart cup sang but refused to boil water.", "n": "这些动词后接 to do：want/decide/hope/refuse/afford/plan" },
-    { "p": "使役动词", "q": "\"Ads make everything look necessary,\" she said.", "n": "make/let/have sb do：使役动词后接动词原形（不带 to）" },
-    { "p": "搭配 · on sale", "q": "Your next product is called Comeback — and I'm afraid it is not on sale.\"", "n": "打折出售（改错雷区）" },
-    { "p": "搭配 · make", "q": "\"Ads make everything look necessary,\" she said.", "n": "让某人做某事（改错雷区）" }
+    { "p": "分号并列 + none 替代省略", "q": "No reason was written; none was needed", "n": "none = no reason（避免重复）；分号连接两个平行的被动句，比 and 更冷、更快——写作里用分号并列同向短句是加分结构" },
+    { "p": "with 复合结构（with + 宾语 + done）", "q": "A white-robed herald crossed the academy gate with a letter sealed in red wax", "n": "信是「被封」的（被动完成）→ 过去分词 sealed；与 ch06 的 with buyers pressing（主动）相对照：主动 doing，被动 done" },
+    { "p": "so + adj + that 省略 that", "q": "stone walls so clean they were forgettable", "n": "so clean (that) they were forgettable——口语与文学里 that 常省略；补全后从句才完整，改错题考「漏 that 造成歧义」更考 so/such 混用" },
+    { "p": "过去将来时 would do + the way 方式状语从句", "q": "they swore I would abandon them again the way my mother did", "n": "主句 swore 是过去，从句「将抛弃」是过去将来 would abandon；the way my mother did = as my mother did，way 后接定语从句省略 that/in which" },
+    { "p": "grow 系动词 + be weary of doing", "q": "I grew weary of singing the dead's words", "n": "grow（渐渐变得）+ 形容词作表语；be weary of (doing) sth. 厌倦做某事，of 是介词后接动名词 singing——两个考点叠在一句" },
+    { "p": "地点状语提前的全倒装", "q": "Beside the record of the Zeroing Case from ten years ago stood one name", "n": "介词短语 Beside... 提到句首，谓语 stood 走到主语 one name 前 = 全倒装（主语是名词才能倒，代词不倒：Beside it stood... ✓ / Beside it stood he ❌）" }
   ],
   words: [
-    { w: "consumer", ipa: "/kənˈsjuːmə/", pos: "n.", cn: "消费者", ex: "A wise consumer asks: is it a need or a want?", excn: "明智的消费者会问：这是需要，还是想要？", memo: "consume v. 消耗；customer 是具体购物的人，consumer 是广义消费者；wise consumer 理智消费者" },
-    { w: "product", ipa: "/ˈprɒdʌkt/", pos: "n.", cn: "产品", ex: "This product is of high quality.", excn: "这件产品质量很高。", memo: "produce v. 生产；production n. 生产/产量；productive 多产的" },
-    { w: "quality", ipa: "/ˈkwɒləti/", pos: "n.", cn: "质量；品质", ex: "The shoes are of poor quality.", excn: "这双鞋质量很差。", memo: "of + 抽象名词表性质：of high/poor quality；quantity 是数量，音近陷阱见 quiz" },
-    { w: "discount", ipa: "/ˈdɪskaʊnt/", pos: "n.", cn: "折扣", ex: "I bought it at a 30% discount.", excn: "我打七折买的。", memo: "⚠️ at a discount 固定搭配；30% discount = 七折，中英折扣方向相反！" },
-    { w: "customer", ipa: "/ˈkʌstəmə/", pos: "n.", cn: "顾客", ex: "The shop has many regular customers.", excn: "这家店有很多老顾客。", memo: "custom（风俗）+ er → 常来的人；regular customer 老顾客；customer service 客服" },
-    { w: "advertisement", ipa: "/ədˈvɜːtɪsmənt/", pos: "n.", cn: "广告", ex: "I saw an advertisement for the job in the paper.", excn: "我在报上看到了这则招聘广告。", memo: "口语缩写 ad；advertise v. 登广告；广告的使命就是 make you believe（使役+原形）" },
-    { w: "compare", ipa: "/kəmˈpeə/", pos: "v.", cn: "比较", ex: "Compare prices before you buy anything.", excn: "买任何东西之前先比价。", memo: "compare...with 比较；compare...to 比作，改错高频；比价 = compare prices" },
-    { w: "choice", ipa: "/tʃɔɪs/", pos: "n.", cn: "选择", ex: "Too many choices make us tired.", excn: "太多的选择让我们疲惫。", memo: "choose-chose-chosen 动词三态；have no choice but to do 别无选择只能做" },
-    { w: "recommend", ipa: "/ˌrekəˈmend/", pos: "v.", cn: "推荐；建议", ex: "The doctor recommended a good rest.", excn: "医生建议好好休息。", memo: "recommend doing / recommend sb. to do；recommendation n. 推荐信；后接 doing，呼应语法①" },
-    { w: "afford", ipa: "/əˈfɔːd/", pos: "v.", cn: "买得起；承担得起", ex: "We can't afford to buy a new car.", excn: "我们买不起新车。", memo: "常与 can/can't 连用；afford + 名词或 to do，NEVER 接 doing！语法②主力" },
-    { w: "refund", ipa: "/rɪˈfʌnd/", pos: "n./v.", cn: "退款；退还", ex: "The shop gave me a full refund for the broken lamp.", excn: "商店为那盏坏灯全额退了款。", memo: "re-(回) + fund(资金) → 钱退回来；ask for a refund 要求退款，退货潮第一词" },
-    { w: "bargain", ipa: "/ˈbɑːɡɪn/", pos: "n./v.", cn: "便宜货；讨价还价", ex: "The lamp looked like a bargain, but it was a white elephant.", excn: "这盏灯看着像便宜货，其实是个昂贵的累赘。", memo: "名词「划算的东西/便宜货」，动词「讨价还价」；It's a bargain. 成交；white elephant 见本章翻译题" },
-    { w: "purchase", ipa: "/ˈpɜːtʃəs/", pos: "v./n.", cn: "购买（正式说法）", ex: "He purchased a lamp at half price.", excn: "他半价买了一盏台灯。", memo: "复现 ch02：purchase 比 buy 正式，ch05 已复现；purchase sth. from... 从……购买；本章剧情主角词" },
-    { w: "budget", ipa: "/ˈbʌdʒɪt/", pos: "n.", cn: "预算", ex: "His monthly budget is 900 yuan.", excn: "他每月的预算是九百元。", memo: "复现 ch02：within budget 在预算内；over budget 超支——钱少的常态" },
-    { w: "waste", ipa: "/weɪst/", pos: "v./n.", cn: "浪费", ex: "Don't waste money on singing cups.", excn: "别把钱浪费在会唱歌的杯子上。", memo: "复现 ch02：waste money/time (in) doing / waste...on sth.；ch05 已复现；a waste of money 固定搭配" },
-    { w: "recover", ipa: "/rɪˈkʌvə/", pos: "v.", cn: "恢复；痊愈", ex: "It took him a week to recover from the shopping spree.", excn: "他花了一周才从疯狂购物中缓过来。", memo: "复现 ch05：recover from + 病/打击「从……中恢复」，介词 from 别丢；shopping spree 疯狂购物" },
-    { w: "harm", ipa: "/hɑːm/", pos: "v./n.", cn: "伤害；损害", ex: "Impulse shopping harms more than your wallet.", excn: "冲动购物伤害的不只是钱包。", memo: "复现 ch06：do harm to = be harmful to 对……有害；harm 及物动词直接接宾语" },
-    { w: "experience", ipa: "/ɪkˈspɪəriəns/", pos: "n.", cn: "经验（不可数）；经历（可数）", ex: "It was a painful but valuable experience.", excn: "这是一次惨痛却宝贵的经历。", memo: "复现 ch03：experience 经验不可数、经历可数；a painful experience 一次惨痛经历" },
-    { w: "review", ipa: "/rɪˈvjuː/", pos: "v./n.", cn: "复习；评论", ex: "He read the reviews before buying the lamp.", excn: "买灯之前他看了评价。", memo: "复现 ch01：复习功课，ch02/ch04 已复现；本章熟词新义：商品评价 reviews——比价先看差评" },
-    { w: "account", ipa: "/əˈkaʊnt/", pos: "n./v.", cn: "账户；描述；解释", ex: "He opened his bank account: 3.5 yuan left.", excn: "他打开银行账户：还剩三块五。", memo: "复现 ch01：知识银行账户，ch02 已复现；account for 解释/占比例；bank balance 银行余额" },
-    { w: "deadline", ipa: "/ˈdedlaɪn/", pos: "n.", cn: "截止日期", ex: "The deadline for returns is midnight.", excn: "退货的截止时间是午夜。", memo: "复现 ch01：作业死线，ch02/ch03 已复现；meet the deadline 赶上截止；七天无理由退货也有死线" },
-    { w: "concentrate", ipa: "/ˈkɒnsntreɪt/", pos: "v.", cn: "集中（注意力）", ex: "He never concentrated in English class that month.", excn: "那个月他从没在英语课上专心听过。", memo: "复现 ch01：concentrate on 专心，ch02 已复现；上课专心盯物流——下一章挂科伏笔" },
-    { w: "scholarship", ipa: "/ˈskɒləʃɪp/", pos: "n.", cn: "奖学金", ex: "If you fail the exam, say goodbye to the scholarship.", excn: "考试挂了，就跟奖学金说再见吧。", memo: "复现 ch01：win a scholarship 赢得奖学金；挂科就没有 scholarship——下一章的钩子" },
-    { w: "efficient", ipa: "/ɪˈfɪʃnt/", pos: "adj.", cn: "高效的", ex: "He became the most efficient shopper in Building 3.", excn: "他成了三号楼最高效的购物者。", memo: "复现 ch01：an efficient learner，ch04 已复现+易混组三度重逢；efficient 省时省力 ↔ effective 有效" },
-    { w: "popular", ipa: "/ˈpɒpjələ/", pos: "adj.", cn: "受欢迎的；流行的", ex: "The singing cup was popular for a week — until it refused to boil water.", excn: "那只唱歌的杯火了一周——直到它拒绝烧水。", memo: "真题高频：be popular with/among sb. 受……欢迎（介词别用 to）；popular science 科普" },
-    { w: "complex", ipa: "/ˈkɒmpleks/", pos: "adj./n.", cn: "复杂的；综合体", ex: "Picking the best deal is more complex than it looks.", excn: "挑出最划算的一单比看上去更复杂。", memo: "真题高频：a complex problem/question 复杂的问题；作名词指「建筑群/综合体」" }
+    { w: "apologize", ipa: "/əˈpɒlədʒaɪz/", pos: "v.", cn: "道歉，认错", ex: "Tonight they expect me to apologize for leaving.", excn: "今晚，他们要我为离开道歉。", memo: "apo（向）+ log（说）+ ize → 向人说软话 → 道歉；apologize to sb. for (doing) sth.；名词 apology（make an apology to sb. for sth.）" },
+    { w: "forgive", ipa: "/fəˈɡɪv/", pos: "v.", cn: "原谅，宽恕", ex: "Forgive us for dragging you into fog and mirrors.", excn: "原谅我们把你拖进雾和镜子。", memo: "for（离开）+ give → 把怨气给出去 → 原谅；forgive-forgave-forgiven；forgive sb. for (doing) sth.；谚语 forgive and forget" },
+    { w: "devotion", ipa: "/dɪˈvəʊʃn/", pos: "n.", cn: "奉献，献身；挚爱", ex: "They called her sacrifice devotion and never asked what she wanted.", excn: "他们把她的牺牲叫作奉献，从不问她想要什么。", memo: "de（加强）+ vot（发誓，同 vote 投票）+ ion → 发誓交出去 → 献身；devote oneself to (doing) sth. 的名词形式" },
+    { w: "fame", ipa: "/feɪm/", pos: "n.", cn: "名声，声誉", ex: "The fame of the house was to become her fame — a debt, not a gift.", excn: "宗家的声名要变成她的声名——那是债，不是礼。", memo: "famous（著名的）的名词；come to fame 成名；win/achieve fame 赢得名声； ill fame 恶名（写作对比组）" },
+    { w: "imitate", ipa: "/ˈɪmɪteɪt/", pos: "v.", cn: "模仿，仿效；仿制", ex: "Her duty was to imitate the ancestors, note for note.", excn: "她的职责是逐音模仿先祖。", memo: "im（进入）+ it（走，同 exit）+ ate → 走进别人的脚印 → 模仿；imitation n. 仿制品；in imitation of 仿效" },
+    { w: "marvelous", ipa: "/ˈmɑːvələs/", pos: "adj.", cn: "了不起的，非凡的", ex: "'A marvelous gift,' they said, 'a role no other child could carry.'", excn: "「一份了不起的天赋，」他们说，「别的孩子都担不动的角色。」", memo: "marvel（奇迹，v. 惊叹）+ ous → 令人惊叹的；marvel at sth. 对……惊叹；美式 marvelous / 英式 marvellous 双拼" },
+    { w: "weary", ipa: "/ˈwɪəri/", pos: "adj./v.", cn: "疲倦的；厌倦的；使疲乏", ex: "She grew weary of singing the dead's words.", excn: "她渐渐厌倦了唱死人的词。", memo: "wear（磨损）+ y → 被磨旧的 → 疲惫；be weary of (doing) 厌倦（比 tired 多一层「受够了」）；weary 副词 wearily" },
+    { w: "restrict", ipa: "/rɪˈstrɪkt/", pos: "v.", cn: "限制，约束", ex: "Guards moved to restrict the team at the second gate.", excn: "卫兵上前，把小队拦在第二道门。", memo: "re（往回）+ strict（拉紧，严格的）→ 拉严 → 限制；restrict...to (doing)；be restricted to；名词 restriction" },
+    { w: "role", ipa: "/rəʊl/", pos: "n.", cn: "角色；作用", ex: "A role no child should carry: the living dictionary.", excn: "一个孩子不该扛的角色：活体词典。", memo: "源于 roll（卷轴）→ 古代剧本写在卷轴上 → 角色；play a role/part in (doing) sth. 在……中起作用（阅读写作双高频）" },
+    { w: "institution", ipa: "/ˌɪnstɪˈtjuːʃn/", pos: "n.", cn: "机构；制度；习俗", ex: "The clan house was the oldest institution in Lexica.", excn: "宗家是词陆最老的家族机构。", memo: "in（内）+ stitut（建立，同 stand）+ ion → 建立在内里的东西 → 制度/机构；institutions of higher learning 高等院校" },
+    { w: "unexpected", ipa: "/ˌʌnɪkˈspektɪd/", pos: "adj.", cn: "想不到的，意外的", ex: "An unexpected name stood beside the Zeroing Case.", excn: "一个意想不到的名字，与清零案并列。", memo: "un（不）+ expect（期待）+ ed → 没料到的；an unexpected result/guest；副词 unexpectedly" },
+    { w: "temper", ipa: "/ˈtempə(r)/", pos: "n./v.", cn: "脾气；心情；v. 使缓和", ex: "Her temper broke like a black flame; even the herald stepped back.", excn: "她的怒火像黑色火焰一样炸开，连执事都退了半步。", memo: "lose one's temper 发脾气 / keep one's temper 忍住怒气（改错高频对）；be in a good/bad temper 心情好/坏；temper...with 以……调和" }
   ],
   confusions: [
     {
-      group: "price / prize / praise — 三胞胎血案",
+      group: "temper / temperature — 别把脾气调成温度",
       items: [
-        { w: "price", cn: "价格", note: "The price of the book is 50 yuan. price 高 low 不用 expensive 形容（改错点）" },
-        { w: "prize", cn: "奖品；奖", note: "win the first prize 获得一等奖" },
-        { w: "praise", cn: "表扬（v./n.）", note: "The teacher praised him for his honesty." }
+        { w: "temper (n./v.)", cn: "脾气；v. 使缓和", note: "lose one's temper 发脾气；keep one's temper 忍住气；tempered steel 回火钢" },
+        { w: "temperature (n.)", cn: "温度；体温", note: "take one's temperature 量体温；body temperature 体温；have a temperature 发烧" }
       ],
-      tip: "口诀：price 有价目表，prize 有领奖台，praise 有大拇指。改错钉子户：He won the first price ❌ → prize！",
-      drill: [
-        { s: "The ___ of the lamp dropped from 100 to 50 yuan during the sale.", opts: ["price", "prize", "praise"], a: 0, why: "降价说的是价格 price；prize 是奖，praise 是表扬" },
-        { s: "She won the first ___ in the English speech contest.", opts: ["prize", "price", "praise"], a: 0, why: "领奖台上的是 prize：win the first prize 获一等奖" }
-      ]
+      tip: "本章知白丢了 temper（脾气），执事量不出 temperature（体温）——因为她冷得像冰。改错高频：lose one's temperature ❌（丢的不是体温）。口诀：temperature 长，因为它带「度数」；temper 短，脾气说来就来。"
     },
     {
-      group: "afford / offer — 「我出得起」vs「别人给」",
+      group: "apologize / apology — 一家人两种词性",
       items: [
-        { w: "afford", cn: "买得起；承担得起", note: "必须和 can/can't/be able to 连用：I can't afford it. 后接名词或 to do" },
-        { w: "offer", cn: "（主动）提供；提出", note: "offer sb. sth. = offer sth. to sb.；offer to do 主动提出做" }
+        { w: "apologize (v.)", cn: "道歉", note: "apologize to sb. for (doing) sth. 为某事向某人道歉" },
+        { w: "apology (n.)", cn: "道歉；辩解", note: "make/offer an apology to sb. 向某人道歉；in apology for 为……辩解" }
       ],
-      tip: "方向相反：afford 是「我付得起」（要 can 帮忙），offer 是「他主动给」。完形看到 can 后面的空想 afford，看到 sb. sth. 双宾想 offer。",
-      drill: [
-        { s: "He can't ___ to buy another singing cup this month.", opts: ["afford", "offer"], a: 0, why: "can't afford to do 承担不起，主语是花钱的一方" },
-        { s: "The shop ___ every customer a full refund.", opts: ["offers", "affords"], a: 0, why: "商店主动「给」→ offer sb. sth.；afford 要 can 且主语是付钱方" }
-      ]
+      tip: "动词用 apologize（-ize 是动词尾：realize/apologize/apologise 英式），名词用 apology（复数 apologies）。改错雷区：make an apologize ❌ → make an apology。执事要的是 an apology（一个交代），知白给的是 I apologize（一个态度）。"
     },
     {
-      group: "custom / habit / tradition — 三个「习惯」层级",
+      group: "imitate / intimate — 长得像，意思远",
       items: [
-        { w: "habit", cn: "（个人的）习惯", note: "brush teeth twice a day，个人生活小事" },
-        { w: "custom", cn: "（社会/群体的）风俗", note: "It is a custom to give red envelopes. 群体性做法" },
-        { w: "tradition", cn: "传统（世代相传的文化）", note: "a tradition of thousands of years，历史传承感" }
+        { w: "imitate (v.)", cn: "模仿，仿效", note: "imitate the ancestors 模仿先祖；imitation n. 仿制品" },
+        { w: "intimate (adj.)", cn: "亲密的；私人的", note: "an intimate friend 密友；be intimate with 与……亲密；n. 至交 /ˈɪntɪmət/" }
       ],
-      tip: "口诀：habit 个人小事，custom 社会风俗，tradition 祖传大传统。春节吃饺子选 custom，每天跑步选 habit。",
-      drill: [
-        { s: "Giving red envelopes at Spring Festival is a Chinese ___.", opts: ["custom", "habit", "tradition"], a: 0, why: "社会群体共同的做法 → custom；habit 是个人习惯" },
-        { s: "Brushing teeth twice a day is a good ___.", opts: ["habit", "custom", "tradition"], a: 0, why: "个人每天的小事 → habit；custom/tradition 都是群体层面" }
-      ]
+      tip: "imitate 是动词（模仿），intimate 是形容词（亲密的）——词性都不同，句法位置就不同：sb. imitates... / an intimate friend。词尾辨形：-tate 动（imitate），-mate 形（intimate）。"
+    },
+    {
+      group: "restrict / restrain — 都是拉，拉的方向不同",
+      items: [
+        { w: "restrict (v.)", cn: "限制（范围、数量、自由）", note: "restrict...to (doing)；be restricted to；restrain the speed 限速" },
+        { w: "restrain (v.)", cn: "抑制（情绪、行为）；制止", note: "restrain sb. from doing 制止某人做；restrain one's anger 压住怒火" }
+      ],
+      tip: "restrict 对「范围」画框（自由受限），restrain 对「冲动」拉缰（火气被按住）。restraint（克制）正是 restrain 的名词——知白的 famous restraint 压的是火气，所以用 restrain 一族。"
     }
+  ],
+  hidden: [
+    { w: "temper", known: "n. 脾气", hidden: "v. 使缓和，调和（temper...with）；锻炼（tempered steel）", ex: "Cold words tempered the anger between the two houses.", excn: "冷淡的言辞缓和了两家的怒气。" },
+    { w: "role", known: "n. 角色", hidden: "n. 作用（play a role/part in = 起作用）", ex: "Devotion played a role in her leaving — but so did the cage.", excn: "奉献在她出走一事中起过作用——但笼子也是原因。" },
+    { w: "bear", known: "v. 忍受", hidden: "v. 承载，带有（bear the name/crest）；生育；结（果实）", ex: "The ledger bore the crest of the Dean's own house.", excn: "账本上烙着教务长府的徽记。" },
+    { w: "heart", known: "n. 心脏", hidden: "n. 中心，核心；勇气（lose heart 灰心）", ex: "In the heart of the clan house lay the archive of forbidden names.", excn: "宗家的最深处，藏着禁名录档案库。" },
+    { w: "spare", known: "v. 节省", hidden: "adj. 备用的，空闲的（a spare key / spare time）；v. 抽出；饶恕", ex: "She spared one glance at the open book before walking out.", excn: "走出前，她只朝摊开的名录瞥了一眼。" }
   ],
   sentences: [
     {
-      en: "With so many products on sale, <mark>consumers</mark> should <mark>compare</mark> the quality and prices before making a <mark>choice</mark>.",
+      en: "A white-robed herald crossed the academy gate with a letter <mark>sealed</mark> in red wax: the Clan of the Word-Ancestor demanded the immediate return of Shen Zhibai.",
       parts: [
-        "With so many products on sale 是 with 复合结构「有这么多商品在打折」",
-        "on sale 在打折出售（for sale 是待售，不一定打折）",
-        "before making a choice：before 介词 + 动名词",
-        "make a choice = choose 的名词化表达"
+        "主干：A white-robed herald crossed the academy gate（白衣执事穿过学院大门）",
+        "with a letter sealed in red wax：with 复合结构，letter 与 seal 是被动关系 → 过去分词 sealed",
+        "冒号后解释「信的内容」：the Clan demanded the return（宗家要求交还）——demand 后接名词不带 to"
       ],
-      cn: "有这么多商品在打折出售，消费者应该在做出选择之前比较质量和价格。",
-      slots: [
-        { s: "With so many products on sale：表示「正在打折出售」用 ___ sale。", opts: ["on", "for", "at"], a: 0, why: "on sale 打折出售；for sale 只是待售" },
-        { s: "before ___ a choice：before 是介词，后接什么形式？", opts: ["making", "to make", "make"], a: 0, why: "介词 before 后接动名词 making" }
-      ]
+      cn: "一位白衣执事带着红蜡封印的信穿过学院大门：词宗宗家要求沈知白即刻回府。"
     },
     {
-      en: "What <mark>advertisements</mark> want you to believe is that buying more will make you happier, but the fact is quite different.",
+      en: "The clan house rose behind stone walls <mark>so clean</mark> they were forgettable — beauty polished until nothing lived in it.",
       parts: [
-        "What advertisements want you to believe 是主语从句：广告想让你相信的东西",
-        "is that... 表语从句，说明「相信」的内容",
-        "make you happier：make + 宾语 + 形容词「让某人……」，使役动词后不接 to do",
-        "but 转折后是作者真实观点——阅读题态度题常问转折后面的内容"
+        "主干：The clan house rose behind stone walls（宗家立于石墙之后）",
+        "so clean (that) they were forgettable：so...that 结果状语从句省略 that",
+        "beauty polished until...：过去分词 polished 修饰 beauty（美「被打磨」）——同位语补刀"
       ],
-      cn: "广告想让你相信的是：买得越多你就越幸福，但事实大不相同。",
-      slots: [
-        { s: "___ advertisements want you to believe is that...：主语从句，believe 后缺宾语。", opts: ["What", "That", "Which"], a: 0, why: "believe 缺宾语 → what；that 引导时从句必须完整" },
-        { s: "What advertisements want you to believe is ___ buying more will make you happier：表语从句结构完整。", opts: ["that", "what", "which"], a: 0, why: "从句不缺成分 → that，只起连接作用" }
-      ]
+      cn: "宗家立在石墙之后，墙净得让人过目即忘——被打磨到没有生命的美。"
+    },
+    {
+      en: "Beside the record of the Zeroing Case from ten years ago <mark>stood</mark> one name, an <mark>unexpected</mark> name that stopped A-Luo's breath.",
+      parts: [
+        "全倒装：介词短语 Beside... 提前，谓语 stood 放主语 one name 之前（主语是名词才可倒装）",
+        "an unexpected name that...：that 引导定语从句，先行词是 name",
+        "stop one's breath 字面「让呼吸停下」——钩子句式，写作可仿"
+      ],
+      cn: "十年前词力清零案的记录旁边，立着一个名字，一个让阿洛停止呼吸的意外名字：他父亲的。"
     }
   ],
   phrases: [
-    { p: "compare...with", cn: "与……作比较", note: "⚠️ compare...to 还有「把……比作」：We often compare life to a journey. 改错高频", warn: true },
-    { p: "be worth doing", cn: "值得做", note: "⚠️ worth 后接 doing 主动表被动：The book is worth reading.（不是 being read）", warn: true },
-    { p: "on sale", cn: "打折出售", note: "⚠️ for sale 是「待售」（不一定打折）；本章结尾彩蛋：逆袭不参加打折（not on sale）", warn: true,
-      gap: { s: "The shoes are ___ sale at half price today.", opts: ["on", "for", "in"], a: 0, why: "on sale 打折出售；for sale 只是待售" } },
-    { p: "afford to do", cn: "承担得起做……", note: "can't afford to lose 输不起；afford 后 NEVER 接 doing" },
-    { p: "a variety of", cn: "各种各样的", note: "= all kinds of；a variety of + 可数复数" },
-    { p: "take...into consideration", cn: "把……考虑在内", note: "= take...into account（呼应复现词 account）；写作高级表达" },
-    { p: "in fashion", cn: "流行的", note: "out of fashion 过时；in style 同义，反义对固定考" },
-    { p: "make full use of", cn: "充分利用", note: "= make the most of；make good use of 也常考" },
-    { p: "more or less", cn: "或多或少；大约", note: "The two answers are more or less the same." },
-    { p: "provide sb. with sth.", cn: "给某人提供某物", note: "= provide sth. for sb. = offer sb. sth. 三种写法改错爱互挖" },
-    { p: "suggest doing sth.", cn: "建议做某事", note: "⚠️ suggest to do ❌、suggest sb. to do ❌ 都是钉子户；只能 suggest doing 或 suggest that 从句", warn: true,
-      gap: { s: "Juanjuan suggested ___ to ten before paying.", opts: ["counting", "to count", "count"], a: 0, why: "suggest 后接 doing，不接 to do" } },
-    { p: "make up one's mind to do", cn: "下决心做某事", note: "= decide to do；mind 在这里是「头脑」，把主意定下来 = 下决心" },
-    { p: "make / let / have sb do", cn: "让某人做某事", note: "⚠️ 使役动词后接原形：made him to wait ❌ → made him wait ✓", warn: true },
-    { p: "take advantage of", cn: "利用；占便宜", note: "Shops take advantage of the festival to raise prices before cutting them. 先涨价再打折就是在利用你",
-      gap: { s: "Some shops take advantage ___ the festival to raise prices.", opts: ["of", "on", "in"], a: 0, why: "take advantage of 固定搭配" } },
-    { p: "pay attention to", cn: "注意", note: "⚠️ to 是介词：pay attention to the details / to doing，改错爱把 to 后换成动词原形", warn: true,
-      gap: { s: "Pay attention ___ the quality, not just the price.", opts: ["to", "at", "on"], a: 0, why: "pay attention to 固定搭配" } },
-    { p: "at a discount", cn: "打折", note: "at a 30% discount 打七折；三兄弟分清：for sale 待售 / on sale 打折 / at a discount 打折（介词用 at）",
-      gap: { s: "During Double Eleven, almost everything is ___ a 30% discount.", opts: ["at", "on", "in"], a: 0, why: "at a discount 固定搭配，介词用 at" } }
+    { p: "run three days", cn: "持续进行三天", note: "The trial ran three days. run 表「持续」不用被动", warn: true },
+    { p: "charge...with", cn: "指控，控告", note: "charged the black market with fraud 指控黑市欺诈；accuse...of 同义不同介词", warn: true },
+    { p: "turn...into", cn: "把……变成", note: "turned the fair's old thrill into a warning tale" },
+    { p: "without a change of face", cn: "面不改色", note: "read the letter without a change of face 面无表情地读信" },
+    { p: "go white", cn: "（脸色/指节）发白", note: "her knuckles went white 系动词 go 表「变坏」：go wrong/go pale", warn: true },
+    { p: "move to do", cn: "着手，上前采取行动", note: "Guards moved to restrict the team 卫兵上前拦人" },
+    { p: "note for note", cn: "一音不差地，逐音逐调", note: "sing every chant note for note 逐音唱下来——名词 for 同名词叠用表「逐」：day by day/one by one" },
+    { p: "be weary of (doing)", cn: "厌倦（做）某事", note: "grew weary of singing 厌倦了唱——of 是介词，后接动名词", warn: true },
+    { p: "walk out", cn: "出走；罢工", note: "one night I walked out 一夜出走；walk out on sb. 抛下某人（介词别丢）", warn: true },
+    { p: "expect sb. to do", cn: "期望/要求某人做某事", note: "they expect me to apologize for leaving" },
+    { p: "forgive sb. for (doing)", cn: "原谅某人（做某事）", note: "Forgive us for dragging you into...；同 apologize to sb. for 记反就丢分", warn: true },
+    { p: "on the way out", cn: "在出去的路上；即将过时", note: "On the way out they passed the archive 双义：路上 / 正被淘汰（阅读高频）" },
+    { p: "lie open", cn: "摊开着", note: "its great book lying open 独立主格：书「摊开」表状态" },
+    { p: "press sb. to do", cn: "催逼某人做某事", note: "The herald pressed her once more to stay 再三逼她留下" },
+    { p: "the way + 从句", cn: "像……那样", note: "abandon them the way my mother did = as my mother did，方式状语从句" },
+    { p: "smile like a knife", cn: "笑里藏刀", note: "The herald smiled like a knife. 明喻修辞，写作可仿" }
   ],
   grammar: [
     {
-      t: "V + doing（enjoy / finish / practice / mind / suggest 后接动名词）",
-      rule: "一批动词后面只能接 doing，不能接 to do：enjoy doing 喜欢做、finish doing 做完、practice doing 练习做、mind doing 介意做、suggest doing 建议做，外加 keep / avoid / miss。改错年年挖坑：enjoy to play ❌ → enjoy playing ✓。",
-      ex: "Would you mind giving me a refund? He suggested comparing prices before purchasing.",
-      excn: "你介意给我退款吗？他建议购买之前先比比价。",
-      signal: "看到 enjoy/finish/practice/mind/suggest 后面的空 → 秒选 -ing；改错看到 enjoy to do / suggest to do 直接改 doing",
-      quiz: { s: "Would you mind ___ me a refund? → ___", opts: ["giving", "to give", "give"], a: 0, why: "mind 后接 doing，V+doing 家族" }
+      t: "宾语从句（that 可省略 + 陈述语序 + 主过从过）",
+      rule: "动词/形容词后接宾语从句：say/know/swear/believe/be sure + that 从句，that 常省略。铁律：从句用陈述语序（主语在前谓语在后）。时态呼应「主过从过」——主句过去时，从句用过去相应时态（客观真理除外）。",
+      ex: "For six years they swore (that) she would abandon the house the way her mother did.",
+      excn: "六年里他们一直发誓说，她会像她母亲那样再次抛弃这个家。",
+      signal: "疑问词引导的宾语从句必须陈述语序：Do you know where he is（❌ where is he）；主句过去 → 从句 would do/did/had done",
+      quiz: { s: "The herald said that the clan ___ its living dictionary back.", opts: ["wanted", "wants", "want"], a: 0, why: "主句 said 过去时 → 从句用过去相应时态 wanted（主过从过）；wants/want 与 said 时态不呼应" }
     },
     {
-      t: "V + to do（want / decide / hope / refuse / afford 后接不定式）",
-      rule: "另一批动词后面只能接 to do：want to do 想做、decide to do 决定做、hope to do 希望做、refuse to do 拒绝做、can't afford to do 买不起/承担不起，外加 plan / promise / agree。afford 前面通常要有 can/can't/be able to 帮忙。",
-      ex: "He decided to return the lamp and hoped to get a full refund, but the shop refused to reply.",
-      excn: "他决定退掉那盏灯并希望拿到全额退款，但商店拒绝回复。",
-      signal: "两大家族别串门：decide doing ❌ → decide to do ✓；enjoy to sing ❌ → enjoy singing ✓；看空格前的动词是谁，再决定接 to do 还是 doing",
-      quiz: { s: "He decided ___ the lamp back to the shop. → ___", opts: ["to take", "taking", "take"], a: 0, why: "decide 后接 to do，V+to do 家族" }
+      t: "变化系动词 grow / go / turn / fall + 形容词",
+      rule: "表「变化」的系动词后接形容词作表语：grow（渐变：grew weary 渐渐厌倦）、go（变坏：go white/go wrong/go mad）、turn（变色：turn gold）、fall（fall asleep）、get（get ready）。改错雷区：系动词后接副词 ❌（went whitely ❌）。",
+      ex: "Her knuckles went white around the paper, and she grew weary of singing other people's words.",
+      excn: "她捏着信纸的指节泛白，也渐渐厌倦了唱别人的词。",
+      signal: "grow/go/turn/fall/get + 形容词 = 变得……；看到这些词后接 -ly 副词直接判错；名词才接介词短语（in silence）",
+      quiz: { s: "The whole hall turned ___ when the crest appeared on the ledger.", opts: ["silent", "silently", "silence"], a: 0, why: "turn 是系动词，后接形容词 silent 作表语；silently 副词不能作表语；silence 是名词（in silence 才成立）" }
     },
     {
-      t: "make / let / have sb do 使役动词 + 原形",
-      rule: "使役三兄弟 make / let / have 后面接宾语 + 动词原形（不带 to）：make sb do 逼某人做、let sb do 允许某人做、have sb do 让某人做。Ads make people believe... 被动语态时 to 要还回来：be made to do（下一章见）。",
-      ex: "The ads made him believe the lamp was a bargain, and the coupon let him save ten yuan.",
-      excn: "广告让他相信这盏灯很划算，优惠券让他省了十块钱。",
-      signal: "改错高频：make sb to do ❌ → make sb do ✓；再区分：make sb do（使役+原形）vs make sb happy（使役+形容词）",
-      quiz: { s: "The coupon let him ___ ten yuan. → ___", opts: ["save", "to save", "saving"], a: 0, why: "let + 宾语 + 动词原形，使役动词不带 to" }
+      t: "让步状语从句：though / although / even if",
+      rule: "① though/although 引导让步从句，不能与 but 连用（中文「虽然…但是」是最大的坑），但可与 yet/still 连用；② even if/even though 表「即使」让步加倍；③ though 还可作副词放句尾（= however）。倒装让步：Tired as she was...（as = though）。",
+      ex: "Though the house raised her, it never truly owned her.",
+      excn: "虽然宗家养育了她，却从未真正拥有过她。",
+      signal: "看到 although/though 的句子里出现 but → 判错；形容词 + as 表「尽管」是倒装让步，写作加分",
+      quiz: { s: "___ the clan house was the oldest institution, its word was not the law of her heart.", opts: ["Although", "But", "So"], a: 0, why: "前后是让步关系 → Although；本句无 but 搭配，although 与 but 不能连用；So 表因果，逻辑方向反了" }
+    },
+    {
+      t: "真题高频 · 强调句 It is/was + 被强调部分 + that/who...",
+      rule: "强调句型：It was the clan that shaped her.（是宗家塑造了她。）判断法：去掉 It is/was...that/who 后，剩余部分仍是完整句子 → 强调句；强调人可用 who，强调物只能用 that（不用 which）。时态：强调现在用 It is，强调过去用 It was。",
+      ex: "It was not the house that made her a word-master; it was her own ten thousand nights.",
+      excn: "不是宗家把她培养成词师；是她自己的一万个夜晚。",
+      signal: "去掉 It is/was...that 剩余部分完整 → 强调句；强调句不用 what/which；It is...that 后的动词与被强调主语一致",
+      quiz: { s: "It was her own ten thousand nights ___ made her a word-master.", opts: ["that", "what", "which"], a: 0, why: "强调句只能用 that（强调人可用 who）；what 不能引导强调句；which 不用于强调句型" }
+    },
+    {
+      t: "真题高频 · 否定词开头的部分倒装",
+      rule: "never / nor / neither / no longer / not only / hardly / seldom 等否定词放句首时，句子部分倒装：助动词/情态动词提到主语前——Never have I seen...; Nor will I return. 只倒助动词，实义动词不动；无现成助动词时借 do/does/did。",
+      ex: "'I will not apologize for leaving,' she said, 'nor will I come back on their terms.'",
+      excn: "「我不会为出走道歉，」她说，「也不会按他们的条件回来。」",
+      signal: "句首是否定词 → 找「助动词提前」的选项；倒装后动词用原形（did she see，不是 did she saw）",
+      quiz: { s: "No longer ___ the living dictionary of the house.", opts: ["was she", "she was", "she is"], a: 0, why: "否定词 No longer 开头 → was 提前部分倒装 was she；she was/she is 均未倒装，违反规则" }
     }
   ],
-  quiz: [{
-      q: "If what you bought has quality problems within seven days, you can ask for a full ______.",
-      options: ["refund", "reward", "review", "respect"],
+  quiz: [
+    {
+      q: "Her duty in the clan house was to ___ the ancestors, singing every chant note for note.",
+      options: ["intimate", "irritate", "imitate", "illustrate"],
+      answer: 2,
+      explain: "imitate 模仿、仿效（逐音模仿先祖）；intimate 亲密的（形容词）；irritate 激怒；illustrate 举例说明。四个 -it-/-ll- 形近词靠词义辨析。"
+    },
+    {
+      q: "They called her sacrifice ___ and never asked what she really wanted.",
+      options: ["determination", "decoration", "destination", "devotion"], answer: 3, explain: "devotion 奉献、献身（devote...to 的名词）；decoration 装饰；destination 目的地；determination 决心。把牺牲包装成奉献——本章最冷的一刀。"
+    },
+    {
+      q: "For the first time, the team saw her famous coldness break — her ___ turned to black flame.",
+      options: ["tempest", "temper", "temple", "temperature"], answer: 1, explain: "temper 脾气（lose one's temper 发脾气）；tempest 风暴；temperature 温度；temple 寺庙。冷面人首次动怒 = temper 爆发。"
+    },
+    {
+      q: "The freed buyers learned the hard way: ___ power comes from study, not from bottles.",
+      options: ["genuine", "generous", "genius", "general"],
       answer: 0,
-      explain: "七天无理由退货的退款 = ask for a full refund。reward 是报酬，review 是评论/复习，respect 是尊重。"
+      explain: "复现 ch06 旧词 genuine 真的、正宗的（真本事 vs 瓶装假货）；generous 慷慨的；genius 天才（名词）；general 总的。"
     },
     {
-      q: "The lamp was cheap, but its ______ was terrible — it broke in two days.",
-      options: ["quantity", "quality", "discount", "bargain"],
-      answer: 1,
-      explain: "质量 = quality，of poor quality 质量差。quantity 是数量，音近陷阱；discount 是折扣，bargain 是便宜货。"
+      q: "The judge ordered the puppets to ___ the stolen word-power back into every victim.",
+      options: ["stain", "chain", "drain", "train"], answer: 2, explain: "复现 ch06 旧词 drain 排干、抽干（drain...back into 把偷走的词力还回去）；chain 锁住；train 训练；stain 弄脏。"
     },
     {
-      q: "Jane won the first ______ in the English speech contest.",
-      options: ["price", "prize", "praise", "pride"],
-      answer: 1,
-      explain: "win the first prize 获一等奖。price 价格、praise 表扬、pride 自豪。改错钉子户，见易混组。"
+      q: "She caught Pangda's wrist with famous ___ before he spent a single coin at the fair.",
+      options: ["impression", "restraint", "expression", "temptation"], answer: 1, explain: "复现 ch06 旧词 restraint 克制、约束（restrain 的名词）；temptation 诱惑；impression 印象；expression 表情。"
     },
     {
-      q: "My roommate suggested ______ the reviews carefully before placing an order.",
-      options: ["to read", "reading", "read", "to be read"],
-      answer: 1,
-      explain: "suggest + doing（语法①）：suggest / enjoy / finish / practice / mind 同族动词后接动名词。to read 是 V+to do 家族设下的陷阱。"
+      q: "It was on the archive's open page ___ the unexpected name appeared.",
+      options: ["what", "which", "that", "where"], answer: 2, explain: "强调句只能用 that（强调地点不换 where！去掉 It was...that 句子仍完整）；what 不用于强调句；where 用于定语从句。"
     },
     {
-      q: "After the painful lesson, Qian-Shao decided ______ a shopping list before every Double Eleven.",
-      options: ["making", "to make", "make", "made"],
-      answer: 1,
-      explain: "decide + to do（语法②）：want / hope / refuse / afford 同族。making 是 V+doing 家族设下的陷阱。"
-    },
-    {
-      q: "改错：The advertisement made me to believe that the cheap lamp was a bargain.",
-      options: ["to believe → believe", "made → makes", "believe → believed", "that → what"],
+      q: "No longer ___ the living dictionary of the house.",
+      options: ["was she", "she was", "is she being", "she is"],
       answer: 0,
-      explain: "make sb do sth 使役动词后接动词原形（语法③），to 必须删掉，属改错雷区⑦非谓语。make 后面也可直接接形容词：make me happy。"
+      explain: "否定词 No longer 开头 → 部分倒装 was she；B/D 未倒装违反规则；C 语态混乱。句意：她不再是宗家的活体词典。"
     },
     {
-      q: "英译汉选择：The lamp looked like a bargain, but it turned out to be a white elephant.",
-      options: ["这盏灯看起来像一笔划算买卖，结果却是一头白色的大象。", "这盏灯看起来便宜，结果却是个昂贵又没用的累赘。", "这盏灯看起来像白象，结果真的变成了大象。", "这盏灯看起来划算，所以大家抢着买。"],
-      answer: 1,
-      explain: "white elephant = 昂贵又无用、留着累赘的东西，不是白色大象；bargain 此处是「便宜货/划算的交易」，不是讨价还价。望文生义是英译汉第一大陷阱。"
-    },
-    {
-      q: "During Double Eleven, almost everything on this app is ______ a discount.",
-      options: ["at", "on", "in", "for"],
+      q: "改错：Never A-Luo had seen the clan house open its inner gate to a farm boy from Stone Creek.",
+      options: ["A-Luo had seen → had A-Luo seen", "had seen → was seen", "open → to open", "from → in"],
       answer: 0,
-      explain: "at a discount 固定搭配，介词用 at。别被 on sale 带偏：sale 前用 on，discount 前用 at。中英折扣方向相反：30% discount = 七折。"
+      explain: "改错雷区·倒装（否定词开头）：never 等否定词放句首必须部分倒装，助动词 had 提到主语前 → Never had A-Luo seen；B was seen 变成被动，与「阿洛是看见者」的主动语义矛盾；C see + 宾语 + 动词原形（省 to），open 作宾补不该加 to；D a farm boy from Stone Creek 表「来自石溪村」，from 才对。"
+    },
+    {
+      q: "汉译英：正是那个意外的名字让阿洛停止了呼吸。",
+      options: ["It was the unexpected name that stopped A-Luo's breath.", "It was the unexpected name what stopped A-Luo's breath.", "It was the unexpected name which stopped A-Luo's breath.", "It was stopped A-Luo's breath that the unexpected name."],
+      answer: 0,
+      explain: "考点：强调句 It was + 被强调部分 + that...（去掉框架后句子仍完整）；B 错在 what 不能引导强调句；C 错在 which 不用于强调句型，强调句一律用 that（人可用 who）；D 错在框架语序混乱，被强调部分必须紧跟在 It was 之后，that 后接完整谓语。"
     }
   ]
 });

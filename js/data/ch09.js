@@ -1,261 +1,243 @@
 window.CHAPTERS = window.CHAPTERS || [];
 window.CHAPTERS.push({
   id: 9,
-  title: "阅读理解 · 古堡谜题",
-  desc: "阅读关是一座雾中古堡。卷卷说：作者负责暗示，读者负责破译——谁挖得出 infer，谁就推得开暗门。",
-  tag: "阅读理解高频词",
+  title: "觉醒篇 · 五关前哨·阅读秘境",
+  desc: "学院选送尖子首闯五关前哨「阅读秘境」，考「定位-推断」：长文石墙步步是陷阱，第一感觉多为诱饵。周擎死背全篇再度超时，阿洛靠简化长句、锁定主题句夺席；秘境深处的空白残页，正与他的金手指共鸣。",
+  tag: "阅读方法 · 定位与推断高频词",
   story: {
-    title: "The Riddle Castle 古堡谜题",
-    text: `Exam week rolled on. The fourth gate — Reading Comprehension — was an ancient castle on a hill, in thick fog. Its iron gate was carved with a whole [[passage]] and one question: "What can we [[infer]] from the last line?"
+    title: "The Reading Secret Realm 阅读秘境",
+    text: `Three days after the figure in the sky, the academy posted its choice: twelve names would enter the Reading Secret Realm, the first outpost of the Five Gates. A-Luo, Shen Zhibai, Pangda — and Zhou Qing, hunting back his lost third. The gate was an arch hung with the [[portrait]] of each founding master, and above them hung a bronze compass — the [[symbol]] of the realm. It pointed, the keeper said, at the sentence you needed, not the one you feared.
 
-A-Luo read it twice. "It never says the last king was lonely," he said. "It only says he stood by the window every night, watching the road. The writer must [[imply]] it, and I can [[infer]] it: he was waiting for someone who never came back."
+Inside, the walls themselves were passages — twelve essays grown long as streets, built to [[drain]] patience. The rule was carved at the entrance: readers who move their lips line by line only [[imitate]] reading; readers who hunt belong to the answer. The traps were [[apparent]] once named. An [[immediate]] answer — the one your eyes grabbed first — was almost always bait, planted for a [[superficial]] reading. And time was [[scarce]]: three bells, twelve walls, one exit.
 
-The gate rumbled open. Juanjuan nodded. "Imply goes in, infer comes out. Remember the [[purpose]] of this castle: it tests readers, not runners."
+A-Luo's method was the one the fog had taught him. He would [[simplify]] each long sentence into a spine — subject, verb, object — and the spine told him where the answer lived. The [[prominent]] sentence of every wall, its topic sentence, was a lamp: stand under it and the whole paragraph lit up. When two options grew like twins, he refused to guess; a hunter does not [[abandon]] a question — he returns to the exact line where the answer lives and lets the text [[differentiate]] them for him. Wall by wall, he began to [[obtain]] what the realm sold hardest: not words, but the [[genuine]] skill of finding them.
 
-Inside, a green lamp [[indicated]] the safe path. A black stele glowed: "The word 'it' in line three most [[probably]] [[refers]] to..." Sao-Ye scanned the stones. "The crown — it points back at the noun before it. The answer must be [[mentioned]] in the text: evidence first, guess second. This castle [[requires]] proof for every step."
+Zhou Qing was memorizing whole walls word for word — his old [[reputation]] rebuilt at a terrible price. The more he memorized, the less time remained. The third bell rang while he stood before wall nine, lips moving. Pangda muttered some [[comfort]] about next year; Shen Zhibai's only [[concern]] was the clock. "Hunt," she said, "or the passage will eat you." A-Luo kept his [[temper]] through the double negatives of wall eleven, legs [[weary]] but method steady, and the final gate took his name among the twelve who would [[qualify]] for the Inner Five Gates. The team began to [[celebrate]]; A-Luo did not — the realm had one more corridor, and the keeper had said no one returns unchanged.
 
-But Pangda smelled bread — a smell painfully [[familiar]] at dinner time. One step onto a stone plate — the floor woke up, an ancient [[device]] full of springs, and an [[alarm]] howled through the castle. The green light died.
+Beyond the final gate, they were told to [[resume]] their walk — into a corridor of blank pages. In its center lay a single page that was not printed, not written, not carved — simply blank. As A-Luo stepped close, an [[unexpected]] warmth ran through his fingertips, the same pull he felt when swallowing a word-soul: the page was waiting for an author. Shen Zhibai caught his arm, but the blank page [[trembled]] once, like a heartbeat, and on its surface, faint and [[vague]] as breath, a line rose and sank: somewhere beyond the Fifth Gate, a hand is still writing.`,
+    translation: `天空中那道身影出现的三天后，学院张榜：十二个名字将进入「阅读秘境」——五关的第一处前哨。阿洛、沈知白、胖达——还有周擎，他要去把丢掉的三成追回来。大门是一道拱门，挂着每一位创关祖师的画像，拱门上方悬着一枚青铜罗盘——秘境的象征。守关者说，罗盘指向的是你需要的句子，而不是你害怕的那一句。
 
-"I chose C!" Pangda shouted. "It looked [[mainly]] correct!"
+秘境之内，墙壁本身就是篇章——十二篇长文长得像街道，专为耗干耐心而造。规则刻在入口：逐行动唇默读的人属于篇章；会打猎的人属于答案。陷阱一旦被叫破名字，就一目了然。「立即答案」——你眼睛最先抓住的那一个——几乎永远是诱饵，专为肤浅的读者而设。而时间是稀缺的：三响钟，十二面墙，一个出口。
 
-"Stay [[calm]]!" A-Luo dragged him back. "The red light doesn't [[suggest]] advice — it [[suggests]] danger! Nothing in this castle is free [[except]] the traps!"
+阿洛的方法，是雾教会他的那一个。他会把每个长句简化成一根主轴——主语、谓语、宾语——主轴会告诉他答案住在哪里。每面墙最突出的句子，它的主题句，是一盏灯：站到它下面，整段就亮了。当两个选项长得像双胞胎，他拒绝瞎猜；猎手不会抛弃一道题——他回到答案所住的那一行原文，让文章自己替他区分两者。一墙接一墙，他开始获得这座秘境最难卖的东西：不是词，而是找到词的真本事。
 
-They slipped into a narrow corridor. At its end, A-Luo caught sight of a hidden door — no handle, only an inscription: "Only the one ___ courage is greater than fear may enter."
+周擎在逐字背诵整面墙——用最可怕的代价重建他旧日的名声。背得越多，剩的时间越少。第三响钟敲响时，他还站在九号墙前，嘴唇动着。胖达嘀咕了几句「明年再来」的安慰；沈知白唯一关心的是钟。「打猎，」她说，「不然篇章会吃掉你。」阿洛顶着十一号墙的双重否定稳住了脾气，双腿疲惫，方法却稳，最终之门收下了他的名字——十二个有资格进入内五关的人之一。队伍庆祝起来；阿洛没有——秘境还有一条走廊，而守关者说过，没有人能原样走出秘境。
 
-"Whose," said A-Luo, voice steady. "Whose courage. Whose fear." He pushed the door with all his [[courage]], and it opened softly — as if it had been waiting for the right [[attitude]].
-
-Behind the door lay the treasure hall. The [[access]] had cost one alarm, two traps and Pangda's shoe. In the center stood a chest. Pangda wept with joy — until A-Luo opened it. Stones. Gray, ordinary stones.
-
-"Congratulations," Sao-Ye said dryly. "A once-in-a-lifetime [[experience]]: disappointment."
-
-But A-Luo lifted one stone and froze. Every stone was carved with a word — words from every chapter of their journey. Juanjuan smiled: "This is the real treasure: the [[knowledge]] you have earned. The chest only [[prevents]] lazy eyes from seeing it. Those who make an [[effort]] can tell treasure from stones. Reaching it was a [[challenge]]; keeping it is bigger."
-
-They each took a handful. The moment they touched A-Luo's palm, the castle shook. Behind them, the gate inscription burned with a new line: "We can [[conclude]] that the treasure has been stolen."
-
-Then a shadow rose from under the hill — huge, winged, wearing glasses. A dragon. "WHO," it roared, "changed three spellings in my gate inscription? Reading is my subject, but error correction is my LIFE. Sit down, thieves. Twenty sentences. Correct them all — or be corrected." He paused. "You, though, have real [[potential]] — as a doorbell."
-
-A-Luo looked at his handful, then at the dragon's red pen. "I miss translation," he whispered.`,
-    translation: `考试周继续推进。第四关——阅读理解——是一座山上的古堡，裹在浓雾里。铁门上刻着一整篇短文，只有一个问题：「我们能从最后一句推断出什么？」
-阿洛把短文读了两遍。「短文从没说老国王孤独，」他说，「它只说他每天夜里都站在窗边，望着马路。作者必定在暗示，而我能推断出来：他在等一个再也没回来的人。」
-大门轰隆打开。卷卷点点头。「imply 是藏进去，infer 是挖出来。记住这座古堡的目的：它考的是读者，不是短跑选手。」
-大厅里，一盏绿灯指示着安全的路。一块黑色石碑发着光：「第三行中的 it 最可能指代……」扫爷扫过石壁。「王冠——它指回前面的那个名词。答案必须在文中有提及：证据第一，猜测第二。这座古堡的每一步都要求拿出证据。」
-可胖达闻到了面包味——饭点时分，这味道熟得让人心疼。一脚踩上石板——地板醒了过来，一台装满弹簧的古老机关，警报响彻古堡。绿灯灭了。
-「我选 C！」胖达大喊，「它看起来主要是对的！」
-「冷静！」阿洛把他拖回来。「红灯不是在给建议——它是在表明危险！这座古堡里除了陷阱，全是收费项目！」
-他们溜进一条窄廊。尽头，阿洛瞥见一扇没有把手的暗门——只有一句铭文：「唯有勇气大于恐惧者可入。」
-「whose，」阿洛开口，声音很稳。「whose courage，whose fear——谁之勇气，谁之恐惧。」他用全部的勇气推门，门却轻轻开了——仿佛它一直在等待正确的态度。
-门后是藏宝厅。这段通道让他们付出了一台警报、两道机关和胖达的一只鞋。大厅中央放着一只箱子。胖达喜极而泣——直到阿洛掀开盖子。石头。灰扑扑的普通石头。
-「恭喜，」扫爷冷冷地说，「一次千载难逢的经历：失望。」
-但阿洛举起一块石头，僵住了。每块石头上都刻着一个单词——他们一路每一章的单词。卷卷笑了：「这才是真正的宝藏：你已经挣到手的那些知识。宝箱只是防止懒惰的眼睛看见它。肯下功夫的人，才分得清宝藏和石头。抵达它是挑战，守住它更是。」
-每人捧起一把。石头碰到阿洛掌心的那一刻，古堡晃动了。身后，大门铭文烧出崭新的一行：「我们可以得出结论：宝藏已被盗走。」
-然后，一道影子从山腹下升起——巨大、有翼、还戴着眼镜。一条龙。「是谁，」它咆哮道，「改了我大门铭文里的三处拼写？阅读是我的主业，改错是我的生命。坐下，小偷。二十个句子，全部改对——不然就把你们改掉。」他顿了顿。「不过你很有潜力——当门铃的潜力。」
-阿洛看看手里的一把，又看看龙的红笔。「我想念翻译题了，」他小声说。`
+穿过最终之门，他们被要求继续前行——走进一条空白书页的走廊。正中央躺着一页纸，没有印字，没有书写，没有镌刻——只是空白。阿洛走近时，一股意想不到的暖流掠过指尖，那是他吞下词魂时同款的牵引：这页纸在等一位作者。沈知白抓住他的手臂，但空白页像一次心跳般颤了一下，纸面上，一条淡得像呼吸、模糊如雾的线条浮起又沉下：在第五关之外的某处，仍有一只手在写字。`
   },
 
-
   storyPoints: [
-    { "p": "现在完成时", "q": "Behind them, the gate inscription burned with a new line: \"We can conclude that the treasure has been stolen.\" Then a shadow rose from under the hi...", "n": "have/has + 过去分词：过去发生影响现在；标志词 since/for/already/yet/just" },
-    { "p": "现在完成时", "q": "Juanjuan smiled: \"This is the real treasure: the knowledge you have earned.", "n": "have/has + 过去分词；看到 already/yet/just/in the last few years 秒选" },
-    { "p": "过去完成时", "q": "Whose fear.\" He pushed the door with all his courage, and it opened softly — as if it had been waiting for the right attitude.", "n": "had + 过去分词：过去的过去；标志词 by the time / before" },
-    { "p": "被动语态", "q": "Its iron gate was carved with a whole passage and one question: \"What can we infer from the last line?\" A-Luo read it twice.", "n": "be + 过去分词：主语是动作承受者；无被动动词例外：happen/take place/consist of" },
-    { "p": "情态动词被动", "q": "The answer must be mentioned in the text: evidence first, guess second.", "n": "情态动词 + be done：必须做/应该做……表被动" },
-    { "p": "倒装句", "q": "\"It never says the last king was lonely,\" he said.", "n": "否定/Only 状语放句首 → 部分倒装：助动词提到主语前" },
-    { "p": "比较级/最高级", "q": "At its end, A-Luo caught sight of a hidden door — no handle, only an inscription: \"Only the one ___ courage is greater than fear may enter.\" \"Whose...", "n": "比较级 + than；最高级 + the；much/even 可修饰比较级" }
+    { "p": "where 引导定语从句（先行词是地点）", "q": "he returns to the exact line where the answer lives", "n": "先行词 line 表地点，从句缺状语 → where（= on the line）；若从句缺主语/宾语则用 that/which：the line that he marked" },
+    { "p": "the more..., the less... 比较级连锁", "q": "The more he memorized, the less time remained.", "n": "「the + 比较级，the + 比较级」表此消彼长；第二个分句正常语序不倒装（the less time remained ✓）" },
+    { "p": "one 替代前文单数名词", "q": "It pointed at the sentence you needed, not the one you feared.", "n": "one 替代同名异物（another sentence）；复数用 ones；it 替代同名同物；that 替代不可数或比较结构中的同类（the weather of Beijing vs that of Shanghai）" },
+    { "p": "双重过去分词后置定语", "q": "twelve essays grown long as streets, built to drain patience", "n": "grown（被长得）与 built（被造来）都是过去分词后置修饰 essays，被动含义；to drain 不定式表目的——一句装下两个后置定语加目的状语" },
+    { "p": "when + doing（从句省略）", "q": "the same pull he felt when swallowing a word-soul", "n": "when swallowing = when he was swallowing：主从句主语一致时，从句可省主语和 be；另外 he felt 前省略了关系词 that（先行词 pull 作 felt 的宾语）" },
+    { "p": "不及物动词 + 形容词作主语补语", "q": "no one returns unchanged", "n": "return 是不及物动词，unchanged 不是修饰 return 的副词，而是说明主语 no one 的状态（回来时「没有改变」）——die young / leave a winner 同款结构" }
   ],
   words: [
-    { w: "infer", ipa: "/ɪnˈfɜː/", pos: "v.", cn: "推断", ex: "What can we infer from the passage?", excn: "我们能从文中推断出什么？", memo: "infer 是读者根据线索挖出来；imply 是作者藏进去，方向相反" },
-    { w: "imply", ipa: "/ɪmˈplaɪ/", pos: "v.", cn: "暗示", ex: "The writer implies that times are changing.", excn: "作者暗示时代在变化。", memo: "implication n. 暗含之意；imply 在文章里，infer 在读者脑里" },
-    { w: "suggest", ipa: "/səˈdʒest/", pos: "v.", cn: "建议；表明", ex: "The study suggests that late nights harm memory.", excn: "研究表明熬夜损害记忆。", memo: "⚠️ 一词两义：建议（suggest doing）＋ 表明（suggests that，陈述语气）" },
-    { w: "indicate", ipa: "/ˈɪndɪkeɪt/", pos: "v.", cn: "表明；指示", ex: "The red light indicates danger.", excn: "红灯表示危险。", memo: "indication n. 迹象；indicate = point out 指路牌式词汇，真题高频" },
-    { w: "conclude", ipa: "/kənˈkluːd/", pos: "v.", cn: "得出结论；结束", ex: "We can conclude that practice makes perfect.", excn: "我们可以得出结论：熟能生巧。", memo: "conclusion n.；draw a conclusion / in conclusion（写作结尾）" },
-    { w: "purpose", ipa: "/ˈpɜːpəs/", pos: "n.", cn: "目的", ex: "The purpose of the passage is to warn us.", excn: "这篇文章的目的是警示我们。", memo: "on purpose 故意地；写作目的题 = purpose question" },
-    { w: "mainly", ipa: "/ˈmeɪnli/", pos: "adv.", cn: "主要地", ex: "The passage is mainly about pollution.", excn: "这篇文章主要讲污染。", memo: "mainly about = 主旨题信号词；main idea 同义" },
-    { w: "probably", ipa: "/ˈprɒbəbli/", pos: "adv.", cn: "很可能", ex: "The word most probably refers to a machine.", excn: "这个词很可能指代一台机器。", memo: "probable adj.；probably（八成）> possibly（五成），概率梯度" },
-    { w: "except", ipa: "/ɪkˈsept/", pos: "prep.", cn: "除……之外（不包含）", ex: "All the answers are true except this one.", excn: "除了这个，其余答案都对。", memo: "except/besides/except for 三兄弟见易混词区，NOT true except 题型杀手" },
-    { w: "refer", ipa: "/rɪˈfɜː/", pos: "v.", cn: "指代；提及（refer to）", ex: "What does 'it' refer to in paragraph 2?", excn: "第二段中 it 指代什么？", memo: "refer to 指；refer to...as 把……称为；reference 参考书目" },
-    { w: "mention", ipa: "/ˈmenʃn/", pos: "v./n.", cn: "提到", ex: "As mentioned in paragraph one, times changed.", excn: "如第一段所提，时代变了。", memo: "don't mention it 别客气；mention = talk about briefly" },
-    { w: "passage", ipa: "/ˈpæsɪdʒ/", pos: "n.", cn: "短文；通道", ex: "Read the passage and answer the questions.", excn: "阅读短文并回答问题。", memo: "阅读理解的文章就叫 passage；日常还有「走廊/通道」义" },
-    { w: "knowledge", ipa: "/ˈnɒlɪdʒ/", pos: "n.", cn: "知识", ex: "The stones carved with ancient knowledge glowed in his hand.", excn: "刻满古老知识的石头在他掌心发光。", memo: "复现 ch01：Knowledge is power，知识银行的本金；不可数名词，不能说 a knowledge" },
-    { w: "access", ipa: "/ˈækses/", pos: "n.", cn: "使用权；通道", ex: "The hidden door gave them access to the treasure hall.", excn: "暗门给了他们进入藏宝厅的通道。", memo: "复现 ch01：图书馆卡 = 阅览室通行证，ch02/ch04 已复现；have access to 固定搭配，本章取「通道」本义" },
-    { w: "effort", ipa: "/ˈefət/", pos: "n.", cn: "努力", ex: "Only those who make an effort can tell treasure from stones.", excn: "肯下功夫的人才能分辨宝藏和石头。", memo: "复现 ch01：make an effort；ch02-ch06 已五轮复现，全剧组老朋友" },
-    { w: "require", ipa: "/rɪˈkwaɪə/", pos: "v.", cn: "要求；需要", ex: "This castle requires proof for every step.", excn: "这座古堡每一步都要求拿出证据。", memo: "复现 ch01：知识银行要求持续存款，ch02/ch03/ch04 已复现；require sb. to do sth." },
-    { w: "device", ipa: "/dɪˈvaɪs/", pos: "n.", cn: "设备，装置；手段", ex: "The floor was an ancient device full of springs.", excn: "那地板是一台装满弹簧的古老机关。", memo: "复现 ch02：mobile device 移动设备；本章取「装置」本义——机关就是 device，别和动词 devise 混" },
-    { w: "alarm", ipa: "/əˈlɑːm/", pos: "n.", cn: "闹钟；警报", ex: "An alarm howled through the castle.", excn: "警报响彻古堡。", memo: "复现 ch02：alarm clock 闹钟；本章熟词新义：警报——胖达一脚踩出来的" },
-    { w: "challenge", ipa: "/ˈtʃælɪndʒ/", pos: "n./v.", cn: "挑战", ex: "The hidden door was his biggest challenge.", excn: "那扇暗门是他最大的挑战。", memo: "复现 ch03：face/meet the challenge 迎接挑战，ch04/ch06 已复现；challenging adj. 有挑战的" },
-    { w: "experience", ipa: "/ɪkˈspɪəriəns/", pos: "n.", cn: "经验（不可数）；经历（可数）", ex: "It was an experience no classroom could give.", excn: "这是一段课堂给不了的经历。", memo: "复现 ch03：⚠️ 经历可数、经验不可数，ch06/ch07 已复现；a valuable experience 一次宝贵经历" },
-    { w: "prevent", ipa: "/prɪˈvent/", pos: "v.", cn: "预防；阻止", ex: "The chest prevents lazy eyes from seeing the treasure.", excn: "宝箱防止懒惰的眼睛看见宝藏。", memo: "复现 ch05：prevent...from doing，from 是介词后接 doing，改错高频" },
-    { w: "courage", ipa: "/ˈkʌrɪdʒ/", pos: "n.", cn: "勇气", ex: "It took all his courage to push the door.", excn: "推开那扇门用尽了他全部的勇气。", memo: "复现 ch08：take courage 鼓起勇气；encourage = en + courage 使有勇气" },
-    { w: "attitude", ipa: "/ˈætɪtjuːd/", pos: "n.", cn: "态度", ex: "The door was waiting for the right attitude.", excn: "那扇门等待的是正确的态度。", memo: "复现 ch08：attitude toward/to 对……的态度；态度题核心词 positive/negative/neutral" },
-    { w: "calm", ipa: "/kɑːm/", pos: "adj./v.", cn: "平静的；使平静", ex: "Stay calm when the alarm goes off.", excn: "警报响起时保持冷静。", memo: "复现 ch08：stay calm / calm down；慌了全靠猜，冷静才能读题" },
-    { w: "familiar", ipa: "/fəˈmɪliə/", pos: "adj.", cn: "熟悉的", ex: "The carved words looked familiar — from every chapter of their journey.", excn: "那些刻着的词很眼熟——来自他们走过的每一章。", memo: "真题高频：be familiar with sth.（人作主语）/ be familiar to sb.（物作主语），方向别反" },
-    { w: "potential", ipa: "/pəˈtenʃl/", pos: "adj./n.", cn: "潜在的；潜力", ex: "Every careful reader has the potential to crack the riddle.", excn: "每个细心的读者都有破解谜题的潜力。", memo: "真题高频：potential risks 潜在风险；realize one's potential 发挥潜力" }
+    { w: "apparent", ipa: "/əˈpærənt/", pos: "adj.", cn: "明显的；表面上看似的", ex: "The traps were apparent once named.", excn: "陷阱一旦被叫破名字，就一目了然。", memo: "ap（向）+ par（出现，同 appear）+ ent → 摆在眼前 → 明显；真题双义：an apparent improvement 常考「表面上的好转」（貌似，未必真）" },
+    { w: "differentiate", ipa: "/ˌdɪfəˈrenʃieɪt/", pos: "v.", cn: "区分，区别；使不同", ex: "He lets the text differentiate the twin options for him.", excn: "他让文章自己替他区分两个双胞胎选项。", memo: "different（不同）+ iate（使）→ 使不同 → 区分；differentiate A from B = tell A from B；名词 difference" },
+    { w: "prominent", ipa: "/ˈprɒmɪnənt/", pos: "adj.", cn: "突出的，显著的；杰出的", ex: "The prominent sentence of every wall was a lamp.", excn: "每面墙最突出的句子是一盏灯。", memo: "pro（向前）+ min（突出，同 mountain 山峰凸起）+ ent → 向前凸出 → 突出的；a prominent role 主要角色；play a prominent part in" },
+    { w: "symbol", ipa: "/ˈsɪmbl/", pos: "n.", cn: "象征，标志；符号", ex: "A bronze compass — the symbol of the realm.", excn: "一枚青铜罗盘——秘境的象征。", memo: "sym（同，同 sympathy）+ bol（扔）→ 放在一起代表另一物 → 象征；symbolic adj. 象征性的；symbolize v. 象征着" },
+    { w: "immediate", ipa: "/ɪˈmiːdiət/", pos: "adj.", cn: "立即的；直接的；最接近的", ex: "An immediate answer was almost always bait.", excn: "「立即答案」几乎永远是诱饵。", memo: "im（不）+ medi（中间，同 medium）+ ate → 中间没有间隔 → 立即的；immediately adv.；the immediate cause 直接原因" },
+    { w: "superficial", ipa: "/ˌsuːpəˈfɪʃl/", pos: "adj.", cn: "肤浅的；表面的", ex: "Bait planted for a superficial reading.", excn: "专为肤浅的读者而设的诱饵。", memo: "super（上，同 superman）+ fic（做）+ ial → 只做表面 → 肤浅的；a superficial understanding 肤浅的理解；反义 profound 深刻的" },
+    { w: "simplify", ipa: "/ˈsɪmplɪfaɪ/", pos: "v.", cn: "简化，使简明", ex: "He would simplify each long sentence into a spine.", excn: "他会把每个长句简化成一根主轴。", memo: "simple（简单）+ ify（使）→ 使简单 → 简化；simplify...into... 把……简化成；名词 simplicity 简易；同类构词：qualify/clarify" },
+    { w: "portrait", ipa: "/ˈpɔːtreɪt/", pos: "n.", cn: "肖像，画像；描绘", ex: "An arch hung with the portrait of each founding master.", excn: "拱门上挂着每一位创关祖师的画像。", memo: "por（向前）+ trait（画，同 trace 痕迹）→ 向前勾勒出的像 → 肖像；a portrait of the era 一个时代的写照；动词 portray 描绘" },
+    { w: "reputation", ipa: "/ˌrepjuˈteɪʃn/", pos: "n.", cn: "名声，声誉", ex: "His old reputation rebuilt at a terrible price.", excn: "用可怕的代价重建他旧日的名声。", memo: "re（再）+ put（想，同 compute 计算）+ ation → 被反复想念的 → 名声；have/build/ruin a reputation；be famous for 同义转换" },
+    { w: "concern", ipa: "/kənˈsɜːn/", pos: "v./n.", cn: "涉及；关心；担忧", ex: "Shen Zhibai's only concern was the clock.", excn: "沈知白唯一关心的是钟。", memo: "con（共同）+ cern（筛，同 certain 确定的）→ 一起被筛出来 → 与你有关 → 关心；be concerned about 担心 / be concerned with 与……有关（介词辨析改错高频）" },
+    { w: "obtain", ipa: "/əbˈteɪn/", pos: "v.", cn: "获得，得到", ex: "He began to obtain what the realm sold hardest.", excn: "他开始获得这座秘境最难卖的东西。", memo: "ob（加强）+ tain（握住，同 contain）→ 握到手 → 获得；obtain permission/information；正式书面词，比 get 稳重" },
+    { w: "qualify", ipa: "/ˈkwɒlɪfaɪ/", pos: "v.", cn: "（使）具有资格，合格；限定", ex: "The final gate took his name among the twelve who would qualify for the Inner Five Gates.", excn: "最终之门收下了他的名字——十二个有资格进入内五关的人之一。", memo: "qual（质量，同 quality）+ ify（使）→ 使够格 → 取得资格；qualify for sth. / be qualified to do；名词 qualification 资格证书" }
   ],
   confusions: [
     {
-      group: "infer / imply — 读者挖 vs 作者藏",
+      group: "symbol / symptom — 象征与症状",
       items: [
-        { w: "imply", cn: "暗示（作者藏在文字里）", note: "The writer implies that... 作者暗示，主语是 writer" },
-        { w: "infer", cn: "推断（读者根据线索挖出来）", note: "We can infer from the passage that... 主语是 we/reader" }
+        { w: "symbol (n.)", cn: "象征，标志；符号", note: "a symbol of peace 和平的象征；chemical symbols 化学符号" },
+        { w: "symptom (n.)", cn: "症状；征兆", note: "a symptom of flu 流感症状；a symptom of deeper trouble 深层问题的征兆" }
       ],
-      tip: "口诀：imply 作者藏，infer 读者挖。同一件事，出口方向相反。阅读推断题答案永远主语是 we/reader + infer。",
-      drill: [
-        { s: "The writer ___ that times are changing.", opts: ["implies", "infers"], a: 0, why: "作者藏在文字里 → imply，主语是 writer" },
-        { s: "What can we ___ from the last paragraph?", opts: ["infer", "imply"], a: 0, why: "读者挖出来 → infer，主语是 we/reader" }
-      ]
+      tip: "本章罗盘是 symbol（象征），黑潮留下的空白页是 symptom（征兆）。词形：sym- 开头双胞胎，symbol 中间是 bo（标志像路牌），symptom 中间是 mpto（病恹恹）。阅读高频：a symbol of = ……的象征。"
     },
     {
-      group: "suggest 两义 — 建议还是表明？",
+      group: "obtain / contain / maintain — tain 三兄弟握功各不同",
       items: [
-        { w: "suggest（建议）", cn: "后接 doing 或虚拟语气", note: "He suggested going early. / He suggested that we (should) go early." },
-        { w: "suggest（表明）", cn: "后接陈述语气从句", note: "The smile suggests that she won. 微笑表明她赢了（事实，不虚拟）" }
+        { w: "obtain (v.)", cn: "获得，得到", note: "obtain the key sentence 获得关键句；obtain permission 取得许可" },
+        { w: "contain (v.)", cn: "包含，容纳", note: "The passage contains twelve paragraphs. 篇章含十二段；container 容器" },
+        { w: "maintain (v.)", cn: "维持；保养；坚持认为", note: "maintain the lead 保持领先；maintain that... 坚持认为" }
       ],
-      tip: "口诀：建议才虚拟（should 藏其中），表明是事实（正常语气）。完形爱考 suggest + doing；阅读里 suggest 大多数是「表明」。",
-      drill: [
-        { s: "He suggested ___ early to catch the train.", opts: ["going", "to go", "go"], a: 0, why: "suggest 表「建议」后接 doing" },
-        { s: "His smile suggested that he ___ the game.(表明)", opts: ["won", "win", "would win"], a: 0, why: "suggest 表「表明」时从句是事实 → 正常时态 won；虚拟语气只属于建议义" }
-      ]
+      tip: "tain（握住）：ob（去）握 → 获得；con（共同）握 → 装在一起 → 包含；main（手，同 main 手中的）握 → 维持。本章考点：读者 obtain 信息，篇章 contain 信息，秘境 maintain 规则。"
     },
     {
-      group: "except / besides / except for — 减法、加法、瑕疵",
+      group: "qualify / quality / quantity — q 家族分家",
       items: [
-        { w: "except", cn: "除……之外（去掉，不包含）", note: "Everyone went except Tom. Tom 没去（减掉一个人）" },
-        { w: "besides", cn: "除……之外还有（加上）", note: "Besides Tom, three students went. Tom 也去了（额外加上）" },
-        { w: "except for", cn: "只是……（整体肯定+局部瑕疵）", note: "The essay is good except for some spelling mistakes." }
+        { w: "qualify (v.)", cn: "使合格，取得资格", note: "qualify for the Inner Five Gates 有资格进入内五关；be qualified to do" },
+        { w: "quality (n.)", cn: "质量；品质", note: "quality over quantity 重质不重量；qualities of a leader 领导者素质" },
+        { w: "quantity (n.)", cn: "数量，量", note: "a large quantity of 大量的（修饰不可数）" }
       ],
-      tip: "口诀：except 做减法，besides 做加法，except for 是美中不足。改错钉子户：except 后接从句时要用 except that / except when。",
-      drill: [
-        { s: "Everyone went to the castle ___ Tom, who was ill.", opts: ["except", "besides"], a: 0, why: "Tom 没去，是减法 → except" },
-        { s: "___ English, she also speaks French.", opts: ["Besides", "Except"], a: 0, why: "还会说法语，是加法 → besides" }
-      ]
+      tip: "词根 qual（什么种类）→ quality 质；quant（多少）→ quantity 量；qualify 是「种类够格」。改错高频：a large quantity of books（quantity 与 amount 的搭配辨析：quantity 配不可数/笼统量，number 配可数复数）。"
+    },
+    {
+      group: "portrait / portray — 名词与动词各就各位",
+      items: [
+        { w: "portrait (n.)", cn: "肖像；写照", note: "a portrait of each founding master 每位祖师的画像；a vivid portrait of school life 校园生活的生动写照" },
+        { w: "portray (v.)", cn: "描绘，扮演", note: "portray...as... 把……描绘成；The novel portrays the fog as a hungry beast." }
+      ],
+      tip: "-trait 收尾是名词（portrait 肖像），-tray 收尾是动词（portray 描绘）。本章拱门上挂的是 portrait，而秘境用陷阱 portray 人心。同款词性对：arrival/arrive，survival/survive。"
     }
+  ],
+  hidden: [
+    { w: "object", known: "n. 物体", hidden: "v. 反对（object to doing）；n. 目标，对象", ex: "Zhou Qing objected to the method only after wall eleven.", excn: "直到十一号墙之后，周擎才反对这套方法。" },
+    { w: "subject", known: "n. 主题；科目", hidden: "adj. 易受……的；v. 使遭受（be subject to / subject...to）", ex: "Every reader here is subject to the rule of the bell.", excn: "这里的每个读者都受钟声规则的支配。" },
+    { w: "note", known: "n. 笔记", hidden: "v. 注意到；n. 音符；口吻", ex: "The keeper noted that few readers ever looked back.", excn: "守关者注意到，很少有读者回头看。" },
+    { w: "key", known: "n. 钥匙", hidden: "adj. 关键的（a key sentence）；n. 答案，题解；关键（the key to doing）", ex: "The key sentence of each wall was a lamp.", excn: "每面墙的关键句是一盏灯。" },
+    { w: "volume", known: "n. 体积", hidden: "n. 卷，册；音量", ex: "The archive's tenth volume held the Zeroing Case.", excn: "档案第十卷记着清零案。" }
   ],
   sentences: [
     {
-      en: "The writer <mark>mentions</mark> the old woman's experience in the first paragraph in order to show that the new policy has made a real difference to ordinary people's lives.",
+      en: "The gate was an arch <mark>hung</mark> with the portrait of each founding master, and above them <mark>hung</mark> a bronze compass — the symbol of the realm.",
       parts: [
-        "mentions...in order to show 提到……是为了说明——写作目的题的标准结构",
-        "in order to + 动词原形表目的，换成 so as to / to 都行",
-        "show that + 宾语从句：说明的内容",
-        "make a difference to 固定搭配「对……产生影响」"
+        "第一个 hung：过去分词作后置定语（拱门「被挂上」画像）——be hung with 挂着",
+        "第二个 hung：全倒装的谓语（地点状语 above them 提前，主语 a bronze compass 后置）",
+        "同形不同职：一个分词、一个谓语——同一句里 hung 的两种身份，单选完形顶级陷阱"
       ],
-      cn: "作者在第一段提到老太太的经历，是为了说明新政策确实给普通人的生活带来了改变。",
-      slots: [
-        { s: "mentions the experience in order ___ his purpose.", opts: ["to show", "showing", "show"], a: 0, why: "in order to + 动词原形表目的" },
-        { s: "show ___ the new policy has made a difference：show 后接什么从句？", opts: ["that", "what", "it"], a: 0, why: "show + that 宾语从句，从句完整不缺成分" }
-      ]
+      cn: "大门是一道拱门，挂着每一位创关祖师的画像，拱门上方悬着一枚青铜罗盘——秘境的象征。"
     },
     {
-      en: "What the writer tries to <mark>suggest</mark> in the last paragraph is that success means nothing unless it is built on what you truly love.",
+      en: "An <mark>immediate</mark> answer — the one your eyes grabbed first — was almost always bait, <mark>planted</mark> for a superficial reading.",
       parts: [
-        "What the writer tries to suggest 是主语从句：作者想表明的东西",
-        "is that... 表语从句",
-        "unless 引导条件状语从句「除非」，相当于 if...not",
-        "what you truly love 是介词 on 后的宾语从句（用 what 不用 that！）"
+        "主干：An immediate answer was almost always bait（立即答案几乎总是诱饵）",
+        "the one your eyes grabbed first：one 替代 answer，your eyes grabbed first 省略 that 的定语从句",
+        "planted 过去分词作后置定语：bait 与 plant 是被动关系（诱饵「被布设」）",
+        "破折号插入语切断主干——长难句常见伪装"
       ],
-      cn: "作者在最后一段想表明的是：成功若不是建立在你真正热爱的事情上，便毫无意义。",
-      slots: [
-        { s: "___ the writer tries to suggest in the last paragraph is that...：主语从句，suggest 后缺宾语。", opts: ["What", "That", "Which"], a: 0, why: "tries to suggest 缺宾语 → what" },
-        { s: "unless it is built on ___ you truly love：介词 on 后的从句缺 love 的宾语。", opts: ["what", "that", "which"], a: 0, why: "介词后且从句缺宾语 → what，that 绝不能跟在介词后" }
-      ]
+      cn: "「立即答案」——你眼睛最先抓住的那一个——几乎永远是诱饵，专为肤浅的读者而设。"
+    },
+    {
+      en: "He would <mark>simplify</mark> each long sentence into a spine — subject, verb, object — and the spine told him <mark>where</mark> the answer lived.",
+      parts: [
+        "would + 动词原形：过去经常性的动作（他惯于简化）",
+        "simplify...into... 固定搭配：把……简化成……",
+        "where the answer lived：where 引导宾语从句，作 told 的直接宾语（从句用陈述语序）",
+        "主谓一致：the spine（单数）told"
+      ],
+      cn: "他会把每个长句简化成一根主轴——主语、谓语、宾语——主轴会告诉他答案住在哪里。"
     }
   ],
   phrases: [
-    { p: "according to the passage", cn: "根据短文（所述）", note: "阅读题第一指令；答案根据必须来自原文，不能靠常识脑补" },
-    { p: "the main idea of", cn: "……的主旨大意", note: "main idea = main point = what the passage is mainly about" },
-    { p: "in other words", cn: "换句话说", note: "= that is to say，阅读同义替换题的信号灯",
-      gap: { s: "___, the writer is optimistic about the future.", opts: ["In other words", "At other words", "On another words"], a: 0, why: "in other words 固定搭配「换句话说」" } },
-    { p: "such as", cn: "例如", note: "⚠️ 后接名词/doing，不接完整句子；for example 才可接句子，改错常挖", warn: true },
-    { p: "on the contrary", cn: "相反", note: "表对比转折；on the other hand 另一方面（两种情况并存）" },
-    { p: "in addition", cn: "此外，另外", note: "= besides / what's more，列举推进逻辑；in addition to + 名词" },
-    { p: "as a result", cn: "因此", note: "前因后果衔接词，完形连词题高频；as a result of + 名词「由于」" },
-    { p: "so that", cn: "以便；以至于", note: "接目的从句（常加 can/may）或结果从句" },
-    { p: "in contrast", cn: "相比之下", note: "= by contrast，两事物对比" },
-    { p: "to sum up", cn: "总而言之", note: "= In conclusion / To conclude，主旨题答案常躲在总结词之后" },
-    { p: "in conclusion", cn: "总而言之", note: "⚠️ 介词固定 in，不说 at/by conclusion；写作结尾+主旨题双料考点", warn: true,
-      gap: { s: "___ conclusion, the treasure of reading is the habit of thinking.", opts: ["In", "At", "By"], a: 0, why: "in conclusion 介词固定 in" } },
-    { p: "catch sight of", cn: "瞥见，看见", note: "catch-caught；反义 lose sight of 看不见；完形高频，古堡暗门就靠它",
-      gap: { s: "A-Luo caught ___ of a hidden door at the end of the corridor.", opts: ["sight", "see", "look"], a: 0, why: "catch sight of 瞥见，固定名词搭配" } },
-    { p: "take...into account", cn: "把……考虑在内", note: "⚠️ 被动：be taken into account；take A into account 三件套不能拆丢 into", warn: true,
-      gap: { s: "Take the writer's tone ___ account before you answer.", opts: ["into", "in", "on"], a: 0, why: "take...into account 固定三件套" } },
-    { p: "depend on", cn: "依靠；取决于", note: "常用主动语态；It depends. 看情况——口语完形双高频",
-      gap: { s: "You can't depend ___ luck in the riddle castle.", opts: ["on", "in", "at"], a: 0, why: "depend on 固定介词 on" } },
-    { p: "due to", cn: "由于", note: "⚠️ = because of，后接名词/短语，不接完整句子；接句子要用 because", warn: true },
-    { p: "point out", cn: "指出", note: "indicate 的近义；代词宾语放中间：point it out ✓，point out it ❌" },
+    { p: "hunt back", cn: "追回，猎回", note: "hunting back his lost third 追回丢掉的三成——hunt 及物动词" },
+    { p: "be hung with", cn: "挂着，悬挂着", note: "an arch hung with portraits 挂着画像的拱门；hang（悬挂）-hung-hung，hang（绞死）-hanged", warn: true },
+    { p: "line by line", cn: "逐行地", note: "move their lips line by line 逐行动唇——名词 for 同名词叠用" },
+    { p: "belong to", cn: "属于", note: "readers who hunt belong to the answer——to 是介词，无被动；复现 ch01", warn: true },
+    { p: "grab first", cn: "先抓住", note: "the one your eyes grabbed first 眼睛最先抓住的——定语从句省略 that" },
+    { p: "be planted for", cn: "为……而设", note: "bait planted for a superficial reading 为肤浅读者布设的诱饵" },
+    { p: "simplify...into", cn: "把……简化成", note: "simplify each long sentence into a spine——into 后接简化的结果" },
+    { p: "stand under", cn: "站在……之下", note: "stand under it and the whole paragraph lit up——祈使 + and 表条件，呼应回响石规则" },
+    { p: "grow like twins", cn: "长得像双胞胎", note: "two options grew like twins 比喻：选项像双胞胎——阅读推断题经典场景" },
+    { p: "refuse to do", cn: "拒绝做某事", note: "refused to guess 拒绝瞎猜；refuse sb. sth. 拒绝给某人某物" },
+    { p: "return to", cn: "回到，返回", note: "he returns to the exact line——to 后接名词；return home 不加 to（副词）", warn: true },
+    { p: "let sb./sth. do", cn: "让……做（省 to）", note: "let the text differentiate them 让文章替他区分——let/make/have + 宾语 + 动词原形", warn: true },
+    { p: "word for word", cn: "逐字地", note: "memorizing whole walls word for word 逐字背诵——与 line by line（逐行）区分场景", warn: true },
+    { p: "keep one's temper", cn: "忍住脾气，保持冷静", note: "A-Luo kept his temper through the double negatives 反义 lose one's temper", warn: true },
+    { p: "qualify for", cn: "有……的资格", note: "qualify for the Inner Five Gates 有资格进内五关；be qualified to do sth.", warn: true },
+    { p: "return unchanged", cn: "原样归来（人已变）", note: "no one returns unchanged 不及物动词 + 形容词主语补语：die young / leave a winner 同款" }
   ],
   grammar: [
     {
-      t: "定语从句 who / which / that（阅读长难句第一杀手）",
-      rule: "先行词（被修饰的名词）是人 → who（作宾语可用 whom，常省略）；是物 → which；多数情况 who/which 都可换成 that。两步判断：先找先行词定人/物，再看从句缺不缺主语或宾语——缺则用关系代词，不缺才轮到关系副词。",
-      ex: "The passage that we read yesterday describes a castle which stands on a lonely hill.",
-      excn: "我们昨天读的那篇短文描写了一座坐落在孤山上的古堡。",
-      signal: "标志：名词后紧跟一个完整句子 → 八成是定语从句；坑：that 不能紧跟介词（in which ✓，in that ✗）",
-      quiz: { s: "The passage ___ we read yesterday describes a castle. → ___", opts: ["that", "who", "whose"], a: 0, why: "先行词 passage 是物，从句缺 read 的宾语 → that/which" }
+      t: "关系副词 where / when 引导定语从句",
+      rule: "先行词是地点（place/line/case/situation）且从句缺状语 → where；先行词是时间（day/year/occasion）且从句缺状语 → when。判别法：把先行词放回从句——the line where the answer lives = the answer lives on the line ✓；若从句缺主语/宾语，改用 that/which 并可省略。",
+      ex: "He returns to the exact line where the answer lives and lets the text differentiate the twins for him.",
+      excn: "他回到答案所住的那一行原文，让文章自己替他区分双胞胎选项。",
+      signal: "先行词是地点/时间 + 从句结构完整（不缺主宾）→ where/when；从句缺主宾 → that/which；where 也能引导名词性从句（宾语/表语），看先行词有无",
+      quiz: { s: "The spine told him ___ the answer lived in the passage.", opts: ["where", "which", "what"], a: 0, why: "此处 where 引导宾语从句（= the place where），从句 the answer lived in the passage 结构完整；which/what 需在从句中充当主语或宾语，不合" }
     },
     {
-      t: "关系副词 where / when / why（从句不缺主宾才用它）",
-      rule: "先行词是地点、且从句主谓宾齐全 → where（= in/at which）；先行词是时间 → when；先行词是 reason → why。判断口诀：从句缺主语或宾语 → 用 which/that；从句成分完整、只缺状语 → 用 where/when/why。",
-      ex: "This is the hall where the last king once hid his treasure. I will never forget the day when we entered the castle.",
-      excn: "这就是老国王曾经藏宝的那座大厅。我永远不会忘记我们进古堡的那一天。",
-      signal: "坑：the house where I lived ✓（live 不及物，从句缺状语），the house which I visited ✓（visit 及物，从句缺宾语）——选哪个看从句缺什么，不能只看先行词",
-      quiz: { s: "I will never forget the day ___ we entered the castle. → ___", opts: ["when", "which", "where"], a: 0, why: "先行词是时间 day，从句完整只缺时间状语 → when" }
+      t: "the more..., the more/less... 比较级连锁句",
+      rule: "「the + 比较级 + 主谓，the + 比较级 + 主谓」表同步变化：The more he memorized, the less time remained. 第二分句正常语序，不倒装；当主语是名词时整个主谓可提前（The higher the mountain, the colder the air. 省略系动词）。",
+      ex: "The more walls he memorized, the less time remained before the third bell.",
+      excn: "他背的墙越多，第三响钟前剩下的时间越少。",
+      signal: "见到两个 the + 比较级并列 → 连锁比较句；第一个分句是从句（条件），第二个是主句；不可写成 The more he memorized, time remained less",
+      quiz: { s: "___ you simplify a sentence, ___ its spine becomes.", opts: ["The more; the clearer", "More; clearer", "The more; clearer"], a: 0, why: "连锁比较句两边都要 the + 比较级：The more...the clearer...；漏掉任何一个 the 都破坏结构" }
     },
     {
-      t: "whose 表所属 与 介词 + whom/which",
-      rule: "空格后面紧跟名词、表「谁的」→ 用 whose，人和物都行（the writer whose book... / the house whose roof...）。介词后指人只能用 whom、指物只能用 which，that/who 绝不跟在介词后面。",
-      ex: "The writer whose book won the prize visited the tower, in which a dragon was sleeping.",
-      excn: "他那本书获奖的作家参观了那座塔，塔里正睡着一条龙。",
-      signal: "改错高频：which roof ❌ → whose roof ✓（表所属）；介词后 who ❌ → whom ✓；whose 后面必须紧跟名词，这是最快的识别信号",
-      quiz: { s: "The writer ___ book won the prize visited the tower. → ___", opts: ["whose", "who", "which"], a: 0, why: "空后紧跟名词 book 表所属 → whose" }
+      t: "替代词 one / it / that 辨析（阅读指代题刚需）",
+      rule: "one 替代前文可数名词，同名异物（a new one = 另一个）；it 替代同一物（同名同物）；that 替代不可数名词或比较句中的同类（the weather here vs that of my hometown），复数用 those。替代词后可接定语从句/介词短语修饰。",
+      ex: "The compass pointed at the sentence you needed, not the one you feared.",
+      excn: "罗盘指向你需要的句子，而不是你害怕的那一句。",
+      signal: "同名异物可数单数 → one；同名同物 → it；比较句中替代不可数/抽象 → that；复数 → ones/those",
+      quiz: { s: "The reading here is deeper than ___ in most exam papers.", opts: ["that", "one", "it"], a: 0, why: "比较句中替代同类单数名词 the reading → that（不可数或抽象概念）；one 表「另一个」不用于比较级中替代同名物；it 指同一物，此处是两类阅读对比" }
+    },
+    {
+      t: "真题高频 · remember / forget / regret / stop + to do 与 doing（意义分家）",
+      rule: "remember/forget/regret + to do：事情还没做（记得要做/忘了要做）；+ doing：事情已发生（记得做过/忘了做过/后悔做过）。stop to do 停下来去做另一事；stop doing 停止手头的事。try to do 努力做；try doing 试着做。",
+      ex: "He remembered to check the stem before choosing, and never regretted simplifying each wall first.",
+      excn: "他记得选题前先看题干，也从不后悔先把每面墙简化。",
+      signal: "看到 remember/forget/regret/stop/try 先问「做没做过」：没做 → to do；已做 → doing；改错高频：remember doing（记得做过）被误改成 to do",
+      quiz: { s: "He remembered ___ the stem before choosing an option.", opts: ["checking", "checked", "to check"], a: 2, why: "「选题前先看题干」是还没发生的动作 → remember to do（记得要做）；checking 表「记得曾看过」，与 before choosing 的时间顺序矛盾；checked 不是动词搭配形式" }
+    },
+    {
+      t: "真题高频 · concern 的三种考法（动词 / 名词 / 分词形容词）",
+      rule: "① 动词：concern sb. 涉及某人（This concerns you.）；② 名词：concern about/for... 关心，担忧（her only concern 她唯一的顾虑）；③ 分词形容词辨析：be concerned about... 担心…… / be concerned with... 与……有关 / concerned parents 焦虑的家长 / a concerned look 关切的神情——介词错配是改错高频。",
+      ex: "Her only concern was the clock, for she was more concerned about the bell than about the beast.",
+      excn: "她唯一的顾虑是钟，因为她担心钟声胜过担心怪物。",
+      signal: "concerned about = 担心；concerned with = 与……有关；concerning = 介词「关于」＝ regarding；名词 concern 后接 about/for/over",
+      quiz: { s: "The keeper was less ___ the students' scores than ___ whether the blank page had chosen its author.", opts: ["concerned about; concerned with", "concerned with; concerned about", "concerning; concerned"], a: 0, why: "「担心分数」→ be concerned about；「与……有关/涉及」→ be concerned with；concerning 是介词不能接 was，concerned 单独用不完整" }
+    },
+    {
+      t: "比较级与最高级：构成与句型（判断题偷换重灾区）",
+      rule: "构成：单音节 +er/-est（tall→taller→tallest）；重读闭音节双写尾字母（big→bigger→biggest）；辅音字母+y 变 i（easy→easier→easiest）；多音节用 more/most（more brilliant）。句型：比较级+than；the+最高级+of/in 范围；much/even/far/a little 修饰比较级（加强程度，very 只修饰原级！）；the+比较级+of the two 两者中较……的那个。",
+      ex: "Su Nian read much faster than A-Luo, and her speed was the fastest in the whole academy.",
+      excn: "苏念读得比阿洛快得多，她的速度是全院最快的。",
+      signal: "三雷区：①very + 比较级 ✘ → much/far/even + 比较级；②比较对象要对等（his score 和 her score 比，不能和 her 比）；③判断题偷换：原文 twice as large as（是两倍大）≠ twice larger than（大三倍？错译）——as...as 与比较级不可互换。",
+      quiz: { s: "The fog-map version is ___ more useful than the old one.", opts: ["much", "very", "more"], a: 0, why: "much/even/far 可修饰比较级；very 只修饰原级（very useful）；more 不能再叠在比较级前" }
     }
   ],
   quiz: [
     {
-      q: "What can we ______ from the last paragraph? — The writer's hope for the future.",
-      options: ["imply", "infer", "tell", "speak"],
-      answer: 1,
-      explain: "读者根据文章推断用 infer。imply 是作者暗示，主语应是 writer，方向反了；tell/speak 不用于此结构。"
+      q: "The traps were ___ once named: \"first feeling\" was just another word for bait.",
+      options: ["transparent", "apparent", "parent", "comparable"], answer: 1, explain: "apparent 明显的（ap- 向 + par 出现 → 摆在眼前）；transparent 透明的；parent 父母；comparable 可比的。形近干扰，语境：叫破名字就看得清 = 明显。"
     },
     {
-      q: "The writer's ______ toward online learning is positive.",
-      options: ["attitude", "altitude", "title", "purpose"],
-      answer: 0,
-      explain: "attitude toward 对……的态度，态度题核心词。altitude 高度（形近陷阱）、title 标题、purpose 目的。"
+      q: "A good reader learns to ___ each long sentence into a spine — subject, verb, object.",
+      options: ["solidify", "simplify", "specify", "signify"], answer: 1, explain: "simplify 简化（simple + ify）；specify 具体指明；signify 表示，意味着；solidify 使固化。把长句变简单 = simplify...into。"
     },
     {
-      q: "Everyone passed the exam ______ Tom, who missed it because of illness.",
-      options: ["besides", "except", "except for", "beside"],
-      answer: 1,
-      explain: "Tom 没参加考试，是从名单里减掉 → except。besides 是加上；beside 在旁边（形近陷阱）；except for 用于整体肯定+局部瑕疵。"
+      q: "Wall by wall, the young hunter began to ___ what the realm sold hardest: the skill of finding answers.",
+      options: ["obtain", "sustain", "maintain", "contain"], answer: 0, explain: "obtain 获得、得到；contain 包含；sustain 维持（生命）；maintain 保持，坚持。tain 家族：人主动拿到 = obtain。"
     },
     {
-      q: "A dictionary is a book ______ explains the meaning of words.",
-      options: ["who", "which", "whose", "where"],
-      answer: 1,
-      explain: "先行词 book 是物，从句缺主语（______ explains...）→ which/that。who 指人；whose 后必须跟名词；where 表地点且从句要成分完整。"
-    },
-    {
-      q: "This is the ancient hall ______ the last king once hid his treasure.",
-      options: ["which", "that", "where", "when"],
+      q: "Twelve essays grown long as streets, built to ___ patience — the realm tested both speed and calm.",
+      options: ["train", "chain", "drain", "stain"],
       answer: 2,
-      explain: "先行词 hall 是地点，从句 hid his treasure 主谓宾齐全、不缺主宾只缺地点状语 → where（= in which）。若从句缺主语或宾语才用 which/that。"
+      explain: "复现 ch06 旧词 drain 排干、耗尽（drain patience 耗干耐心）；train 训练；chain 锁住；stain 弄脏。长文迷宫专为耗干耐心而造。"
     },
     {
-      q: "改错：The castle which gate is carved with questions has stood here for 500 years.",
-      options: ["which → whose", "is → are", "for → since", "years → year"],
+      q: "A-Luo kept his ___ through the double negatives of wall eleven and finished on time.",
+      options: ["temple", "tempest", "temperature", "temper"], answer: 3, explain: "复现 ch07 旧词 temper 脾气（keep one's temper 忍住脾气，反义 lose one's temper）；tempest 风暴；temperature 温度；temple 寺庙。"
+    },
+    {
+      q: "The line on the blank page was faint and ___ , rising and sinking like a breath.",
+      options: ["clear", "vague", "sharp", "vivid"], answer: 1, explain: "复现 ch08 旧词 vague 模糊的、不明确的（淡得像呼吸）；clear 清楚的；sharp 锋利的；vivid 生动的。and 前后同向：faint and vague。"
+    },
+    {
+      q: "A hunter never abandons a question; he returns to the exact line ___ the answer lives.",
+      options: ["where", "what", "which", "that"], answer: 0, explain: "先行词 line 表地点，从句 the answer lives 结构完整（不缺主宾）→ where 引导定语从句；which/that 需在从句中作主语或宾语；what 不能引导定语从句。"
+    },
+    {
+      q: "The more walls Zhou Qing memorized, ___ time remained before the third bell.",
+      options: ["the less", "less", "the least", "lesser"],
       answer: 0,
-      explain: "gate 前表所属「古堡的大门」必须用 whose（= its gate），which 不能作定语。whose/which 混用是定语从句改错高频雷区。"
+      explain: "the more..., the less... 连锁比较句：两边都要 the + 比较级；less 前不能丢 the；the least 是最高级，与 more 不配对。"
     },
     {
-      q: "英译汉选择：He drew on his childhood experience to write the story.",
-      options: ["他照着童年的画写出了这个故事。", "他利用童年的经历写出了这个故事。", "他把童年的经历画成了故事。", "他的童年画画得像故事一样。"],
-      answer: 1,
-      explain: "draw on 固定搭配「利用、动用（经验/知识）」，不能望文生义成「画画」；experience 此处指童年的经历（可数）。英译汉的最大陷阱就是认错熟词的引申义。"
-    },
-    {
-      q: "______ conclusion, the real treasure of reading is the habit of thinking.",
-      options: ["In", "On", "At", "By"],
+      q: "改错：Zhou Qing memorized far more walls than A-Luo, but the spine method made A-Luo read very faster through the long passages.",
+      options: ["very faster → much faster", "than → then", "made A-Luo read → made A-Luo to read", "through → across"],
       answer: 0,
-      explain: "in conclusion 固定搭配「总而言之」，介词固定 in；= to sum up / in a word，写作结尾万能信号词。"
+      explain: "改错雷区·比较级修饰语：very 只修饰原级（very fast），修饰比较级要用 much/far/even → much faster；B than 引出比较对象，then 是「那时」，词义全变；C make + 宾语 + 动词原形（省 to），to read 是改错经典陷阱；D through the passages 表「穿过篇章内部」，across 表从表面掠过，此处 through 更合语境。"
+    },
+    {
+      q: "汉译英：周擎背的墙越多，第三响钟前剩下的时间就越少。",
+      options: ["The more walls Zhou Qing memorized, the less time remained before the third bell.", "The more walls Zhou Qing memorized, less time remained before the third bell.", "The more walls Zhou Qing memorized, the fewer time remained before the third bell.", "More walls Zhou Qing memorized, the less time remained before the third bell."],
+      answer: 0,
+      explain: "考点：the more..., the less... 连锁比较句，两边都必须 the + 比较级；B 错在第二分句 less 前漏掉 the，结构不成立；C 错在 fewer 修饰可数复数名词，time 是不可数名词，应用 less；D 错在第一分句前也必须有 the，连锁比较句一个 the 都不能省。"
     }
   ]
 });

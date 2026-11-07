@@ -1,0 +1,30 @@
+window.ACHIEVEMENTS = {
+  title: "🏆 成就墙",
+  intro: "每一枚徽章都是你词力觉醒的脚印。",
+  list: [
+    { id: "first_light", icon: "🌅", name: "初次觉醒", desc: "通关第 1 章，词力初醒。", cond: { type: "chapters", value: 1 } },
+    { id: "small_gain", icon: "🌱", name: "小有所成", desc: "累计通关 3 章。", cond: { type: "chapters", value: 3 } },
+    { id: "word_knight", icon: "🛡️", name: "词士登基", desc: "累计通关 5 章。", cond: { type: "chapters", value: 5 } },
+    { id: "awake_full", icon: "🌟", name: "觉醒圆满", desc: "累计通关 10 章。", cond: { type: "chapters", value: 10 } },
+    { id: "realm_walker", icon: "🗺️", name: "秘境行者", desc: "累计通关 15 章。", cond: { type: "chapters", value: 15 } },
+    { id: "word_master", icon: "👑", name: "词师加冕", desc: "累计通关 20 章。", cond: { type: "chapters", value: 20 } },
+    { id: "word_road", icon: "🚩", name: "词帝之路", desc: "累计通关 25 章。", cond: { type: "chapters", value: 25 } },
+    { id: "word_emperor", icon: "🏔️", name: "词帝大成", desc: "累计通关 30 章。", cond: { type: "chapters", value: 30 } },
+    { id: "focus_five", icon: "🎯", name: "全神贯注", desc: "单章测验中达成 5 连击。", cond: { type: "combo5", value: 1 } },
+    { id: "one_hit", icon: "💫", name: "一击必中", desc: "首次在测验中拿到 100 分。", cond: { type: "score100", value: 1 } },
+    { id: "hundred_hits", icon: "🏹", name: "百发百中", desc: "累计拿到 5 次 100 分。", cond: { type: "score100", value: 5 } },
+    { id: "score_machine", icon: "🤖", name: "满分机器", desc: "累计拿到 10 次 100 分。", cond: { type: "score100", value: 10 } },
+    { id: "star_first", icon: "⭐", name: "三星初现", desc: "首次拿到章节三星评级。", cond: { type: "stars3", value: 1 } },
+    { id: "star_harvest", icon: "🌾", name: "三星收割机", desc: "累计拿到 5 个三星章节。", cond: { type: "stars3", value: 5 } },
+    { id: "star_grand", icon: "🏅", name: "三星满贯", desc: "累计拿到 15 个三星章节。", cond: { type: "stars3", value: 15 } },
+    { id: "flawless_blade", icon: "⚔️", name: "无瑕之刃", desc: "累计拿到 25 个三星章节。", cond: { type: "stars3", value: 25 } },
+    { id: "perfect_ten", icon: "🔟", name: "十全十美", desc: "累计拿到 20 次 100 分。", cond: { type: "score100", value: 20 } },
+    { id: "speed_walker", icon: "⚡", name: "速刷行者", desc: "首次使用速刷模式闯关。", cond: { type: "special", value: "focus" } },
+    { id: "past_hunter", icon: "📜", name: "真题猎人", desc: "打开过真题实练。", cond: { type: "special", value: "past" } },
+    { id: "syn_master", icon: "🔀", name: "替换大师", desc: "打开过同义替换库。", cond: { type: "special", value: "syn" } },
+    { id: "theater_viewer", icon: "🎭", name: "剧场观众", desc: "看完一次视觉小说演出。", cond: { type: "special", value: "vn" } },
+    { id: "collector", icon: "📚", name: "收藏家", desc: "打开过图鉴。", cond: { type: "special", value: "dex" } },
+    { id: "explore_start", icon: "🧭", name: "探索入门", desc: "用过速刷模式，迈出探索第一步。", cond: { type: "special", value: "focus" } },
+    { id: "explore_more", icon: "🗝️", name: "探索进阶", desc: "打开过真题实练，探索渐入佳境。", cond: { type: "special", value: "past" } }
+  ]
+};

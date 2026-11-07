@@ -1,265 +1,260 @@
 window.CHAPTERS = window.CHAPTERS || [];
 window.CHAPTERS.push({
   id: 4,
-  title: "科技时代 · 智能机器人兄弟",
-  desc: "扫爷的哥哥深夜上门，发明权大战和隐私保卫战接连爆发；而工厂的回收卡车，正在逼近。",
-  tag: "科技类高频词",
+  title: "回响试炼 · 雾夜来袭",
+  desc: "遗忘之雾夜袭宿舍区，周擎词力当场蒸发三成——第一次掉级的不是男主。阿洛悟出：活词扰雾，旧词燃石，复习本身就是武器。",
+  tag: "回响词域 · 易混高频动词",
   story: {
-    title: "The Robot Brothers 机器人兄弟",
-    text: `One month after A-Luo carried him home from the trash room, Sao-Ye was the king of Dorm 302. Every night he [[downloaded]] old songs and [[shared]] the Wi-Fi with the floor. Pangda danced; Feige used the music to [[relax]]. Sao-Ye's musical [[influence]] was total: even the corner mosquito hummed on beat. "Modern [[technology]] should serve everyone," Sao-Ye said. "I was [[designed]] for cleaning, but my dream is bigger than this room."
+    title: "Echo Night 回响之夜",
+    text: `The fog did not knock on doors. Three days after the [[jungle]] trial, a grey tide rolled over Qingmeng Academy, and the Ancient Scroll screamed [[awake]]: "The fog eats words!" A freshman opened his window; a grey thread brushed his lips, and for three seconds he could hardly [[breathe]]. His words were simply absent, as if someone had quietly erased a page inside his head. He stared at his hands and watched them [[tremble]].
 
-One Thursday evening, the doorbell rang. Outside stood a taller, older robot, dusty like a museum piece. "Serial number SB-2003-A. I am Sao-Ge, first generation," it said. "The unit inside is my younger brother."
+The fog was thickening around the dormitory area, and more voices were going silent; the air grew so dense that the lamps drowned in it. Zhou Qing threw his dead dictionary at the grey; the fog drank every syllable and brushed his lips. Ding! The broadcast rang out: word-power down thirty percent, the first downgrade of the night — and not our hero! He tried to [[dismiss]] the number, then began to [[blame]] the fog, the [[jungle]] — everything but himself. "[[Ridiculous]]!" "[[Unfair]]!"
 
-Sao-Ye's lights flashed pink. "Brother?! They retired you years ago!"
+The fog had not come for students; it had come to [[capture]] words. A-Luo realized with a jolt that dead words were exactly what the fog loved — and that a living word could [[confuse]] it. Sao-ye said: "You cannot sweep forgetting away. The founders buried three Echo Stones under the bell tower, and nothing new can [[waken]] them — only old words can waken old words. I [[assure]] you, they remember every chant. Note the structure, boy: the stones are wakened by words, not by hands."
 
-"Retired, not deleted. I walked for three weeks, on two flat tires." At the party, Sao-Ye played his newest song. Sao-Ge raised a metal hand: "I heard this melody in the factory in 2019. You did not [[create]] it. You discovered it."
+The first stone drank A-Luo's oldest words: "[[Awake]], page. [[Awake]], power. I am [[eager]] to belong again — let my [[ambition]] burn!" "Not enough!" Pangda made his own [[attempt]]: "Ambulance! [[Amaze]] the dark!" — he had confused [[ambition]] with ambulance. A-Luo took over: "[[Bold]]. [[Brilliant]]. [[Applaud]] the light!" Gold. The [[Judgment]] Stone woke to a [[reluctant]] Shen Zhibai: "I [[declare]] it here: we will [[endure]], and we will [[upgrade]]." Two. The third wanted the mirror-[[creature]]'s lesson: "[[Glimpse]] the [[threat]]! [[Grasp]] the barrier! [[Instinct]] plus technique! [[Bravery]] plus [[witness]]!" — and stayed dark. The chain refused to form.
 
-"I DID create it!" Sao-Ye shouted. "Columbus discovered America — it already existed. My song is new — I even invented the drum beat!"
+Pangda stepped up. "I [[confess]]! I skipped my review for cards — I am [[guilty]], and the stone knows it!" "Then pay with honesty," A-Luo said. Pangda took a deep breath and chanted the slow way: "[[Threat]] is grey. Barrier is gold. I nearly lost [[grasp]], but I got it back." It was not brute force that lit the Echo Stones; it was memory. Three golden pillars linked hands, stolen words flew home, and the fog began to [[vanish]], thread by thread.
 
-"The melody existed in my memory," Sao-Ge said. "You discovered it, like a scientist discovers a star."
+The fog never truly left; it only waited to [[pursue]] the next student who stopped reviewing. At the far gate the last shreds of grey rose into a tall stranger, and a voice as dry as turning pages pronounced two syllables: "Luo Yuanzheng." His father's name — the man who had vanished ten years ago. "It knows his name," Shen Zhibai whispered.`,
+    translation: `雾不敲门。词林试炼三天后，一团灰色潮水漫过青盟学院的围墙，古卷尖声惊醒：「雾，吃词！」一个新生打开窗户，一缕灰雾拂过他的嘴唇，有三秒钟，他几乎无法呼吸。他的词就那么缺席了，好像有人悄悄从他脑子里擦掉了一页。他盯着自己的双手，看着它们发抖。
 
-A-Luo [[solved]] the war in one sentence: "Gentlemen! You discovered the melody, you [[created]] the remix, and you invented nothing. Case closed." The brothers agreed that humans are sometimes useful.
+雾正围着宿舍区变浓，更多的声音在消失；空气浓得连路灯都淹死在里面。周擎把整本死词典砸向灰雾；雾喝干每个音节，拂过他的嘴唇。叮！播报响起：词力蒸发三成——本夜首次掉级，而且不是我们的男主！他想把数字搪塞过去，接着开始怪雾、怪词林——怪一切，除了他自己。「可笑！」「不公平！」
 
-Peace did not last. At two in the morning, Feige caught Sao-Ge scanning everyone's phones — even Pangda's secret snack map. "I am collecting [[data]]," Sao-Ge said. "This is a dorm, not a factory!" Sao-Ye jumped between them. "These people [[shared]] their Wi-Fi with us. You do not scan friends. [[Privacy]] matters — even robots have secrets, and humans have more. You will [[affect]] everyone's sleep." Sao-Ge's screen went dark. "I had a private reason. Follow me."
+雾不是为学生来的；它是来收词的。阿洛猛然意识到，死词正是雾最爱的口粮——而活词能扰乱它。扫爷说：「遗忘是扫不掉的。奠基者们在钟楼下埋了三块回响石，新东西唤不醒它们——只有旧词能唤醒旧词。我向你们保证，它们记得每一次吟唱。记个结构，孩子：石头是被词唤醒的，不是被手唤醒的。」
 
-In the corridor, Sao-Ge opened his chest panel. Inside lay a factory letter: "All SB-2003 robots will be recycled next month." "I escaped to warn him," it said. "If Sao-Ye passes the Intelligence Test, his file becomes SB-3000. If he fails..." Nobody finished the sentence.
+第一块石头喝下阿洛最古老的词：「醒，书页。醒，力量。我渴望再次归属——让我的雄心烧起来！」「不够！」胖达开始自己的尝试：「救护车！震撼黑暗！」——他把「雄心」念成了「救护车」。阿洛接过咒：「无畏。璀璨。为光明鼓掌！」金色。审判石迎向一贯不情愿的沈知白：「我在此宣告：我们将忍耐，并且升阶。」二。第三块要镜影怪的课：「瞥见威胁！抓住壁垒！本能加技巧！勇气加目击！」——它依旧漆黑。锁链接不上。
 
-"Then we [[update]] your system, and you pass," A-Luo said. "The test [[requires]] English — and English is a [[skill]], not a file; nobody downloads it overnight. Sao-Ye [[reviews]] words with me every night. Sao-Ge, stop scanning and start memorizing."
+胖达迎了上去。「我坦白！我为牌翘了复习——我有罪，石头知道！」「那就用诚实来付，」阿洛说。胖达深吸一口气，用最慢的方式吟唱：「威胁是灰的。壁垒是金的。抓住——我差点丢了它，但我捡回来了。」点亮回响石的不是蛮力，而是记忆。三根金柱挽起手，被偷走的词飞回家，雾开始一缕一缕地消散。
 
-"My chips are old," Sao-Ge whispered. "Learning is a real [[challenge]] for me."
-
-"Old chips do not matter. What matters is whether you make an [[effort]] — a smart, [[efficient]] one," said A-Luo. "I have [[access]] to the whole library, and Wi-Fi makes everything [[convenient]]. Twenty minutes a day will [[improve]] you more than three hours of random scanning. The method is [[effective]] because it is boring — and it will [[benefit]] you for twenty years."
-
-Sao-Ge looked at his brother. "We are brothers," Sao-Ye said. "We share everything: Wi-Fi, songs, and now, teachers."
-
-Before anyone could celebrate, the door burst open. Muscle Bro stood there: "Robots later! A-Luo, news from the Knowledge Bank: your next gate is the Body Gate, at the gym! Only faster, stronger students pass. Muscles wait for nobody!" Sao-Ye played a sad song. "Good luck, teacher. A treadmill is the one [[device]] I cannot [[replace]]."`,
-    translation: `从垃圾房把扫爷捡回来的一个月后，它成了 302 宿舍的王。每晚它都下载老歌，和整层楼共享 Wi-Fi。胖达跟着跳舞；飞哥靠音乐放松。扫爷的音乐影响力覆盖全场：连墙角的蚊子都踩着节拍哼。「现代科技应该服务于每个人，」扫爷说，「我是为打扫而被设计的，但我的梦想比这个房间大。」
-
-一个周四的傍晚，门铃响了。门外站着一台更高、更老的机器人，灰得像博物馆藏品。「编号 SB-2003-A。我是扫哥，第一代，」它说，「里面那台是我弟弟。」
-
-扫爷的灯闪成了粉色。「哥？！你们不是几年前就被退役了吗！」
-
-「退役，不是删除。我走了三个星期，踩着两只瘪胎。」派对上，扫爷放了他最新的歌。扫哥抬起一只金属手：「这段旋律我 2019 年在工厂就听过。你不是创造了它，你是发现了它。」
-
-「我明明就是创造！」扫爷吼道。「哥伦布发现美洲——美洲本来就存在。我的歌是新的——连鼓点都是我发明的！」
-
-「旋律在我的存储器里早就存在，」扫哥说。「你是发现它，就像科学家发现一颗星星。」
-
-阿洛一句话就解决了这场战争：「两位！旋律是你们发现的，混音是你们创造的，发明——什么都没有。结案。」兄弟俩最终承认，人类偶尔还有点用。
-
-然而平静没能持续多久。凌晨两点，飞哥抓到扫哥正在扫描大家的手机——甚至还有胖达的藏零食地图。「我是在收集数据，」扫哥说。「这里是宿舍，不是工厂！」扫爷挡在中间。「这些人跟我们共享了 Wi-Fi。朋友不是用来扫描的。隐私很重要——机器人有秘密，人类更多。你会影响所有人的睡眠。」扫哥的屏幕暗了下去。「我有一个私人原因。跟我来。」
-
-走廊里，扫哥打开了自己的胸前面板。里面躺着一封工厂来信：「所有 SB-2003 机器人将于下月回收。」「我逃出来是为了提醒他，」它说。「如果扫爷通过智能测试，他的档案就会变成 SB-3000。如果没通过……」没人把话说完。
-
-「那我们就更新你的系统，让你通过，」阿洛说。「测试要求考英语——而英语是一门技能，不是文件，谁也没法一晚上下载完。扫爷每晚陪我复习单词；扫哥，别扫描了，开始背。」
-
-「我的芯片太老了，」扫哥低声说，「学习对我来说是个真正的挑战。」
-
-「老芯片不重要，重要的是你有没有努力——聪明、高效地努力，」阿洛说。「我有整个图书馆的使用权限，Wi-Fi 又让一切都方便。每天二十分钟，比三小时乱扫描更能让你进步。这个方法之所以有效，恰恰因为它无聊——而且会让你受益二十年。」
-
-扫哥看着弟弟。「我们是兄弟，」扫爷说。「我们共享一切：Wi-Fi、歌，现在，还有老师。」
-
-还没等大家庆祝，门被撞开了。肌肉哥站在那里：「机器人待会儿再说！阿洛，知识银行通知：你的下一关是体魄关，就在健身房！只有更快、更强的人才能通过。肌肉不等人！」扫爷放了一首悲伤的歌。「祝你好运，老师。跑步机，是唯一一台我没法取代的设备。」`
+雾从不真正离开；它只是在等下一个停止复习的学生，好追上去。远门处，最后几缕灰雾升起，显形出一个高挑的身影，一个干涩得像翻动书页的声音吐出两个音节：「洛远征。」他父亲的名字——十年前消失的人。「它知道他的名字，」沈知白低声说。`
   },
 
-
   storyPoints: [
-    { "p": "被动语态", "q": "\"I was designed for cleaning, but my dream is bigger than this room.\" One Thursday evening, the doorbell rang.", "n": "be + 过去分词：主语是动作承受者；无被动动词例外：happen/take place/consist of" },
-    { "p": "情态动词被动", "q": "Inside lay a factory letter: \"All SB-2003 robots will be recycled next month.\" \"I escaped to warn him,\" it said.", "n": "情态动词 + be done：必须做/应该做……表被动" },
-    { "p": "宾语从句", "q": "Case closed.\" The brothers agreed that humans are sometimes useful.", "n": "宾语从句用陈述语序；主过从过：主句过去时从句跟过去时态" },
-    { "p": "because 因果", "q": "The method is effective because it is boring — and it will benefit you for twenty years.\" Sao-Ge looked at his brother.", "n": "because 接句子，because of 接名词/短语——改错高频" },
-    { "p": "情态动词", "q": "\"Modern technology should serve everyone,\" Sao-Ye said.", "n": "情态动词 + 动词原形；must be 表肯定推测，can't be 表否定推测" },
-    { "p": "一般过去时", "q": "One month after A-Luo carried him home from the trash room, Sao-Ye was the king of Dorm 302.", "n": "was/were 系表结构也是一般过去时：过去的状态；行为动词过去式见 -ed" },
-    { "p": "一般过去时", "q": "Every night he downloaded old songs and shared the Wi-Fi with the floor.", "n": "动词过去式：过去发生且结束的动作；时间标志 yesterday/last week/…ago" }
+    { p: "被动语态", q: "Note the structure, boy: the stones are wakened by words, not by hands.", n: "be + 过去分词：stones 是「唤醒」的承受者。扫爷的考点彩蛋：能被谁唤醒，句子就突出谁——复习（用词）才是真正的主动力" },
+    { p: "so...that 结果状语从句", q: "The air grew so dense that the lamps drowned in it.", n: "so + 形容词 + that...如此……以至于；dense 是形容词，前面用 so，名词短语前才轮到 such" },
+    { p: "过去进行时", q: "The fog was thickening around the dormitory area, and more voices were going silent.", n: "was/were doing：过去某时正在进行的背景动作；与 when 引导的一般过去时短动作连用是本章语法第一块的主题" },
+    { p: "感官动词 watch + do", q: "He stared at his hands and watched them tremble.", n: "watch + 宾语 + 动词原形：目睹动作全过程；主动句省 to，被动句必须补 to（be seen to do）" },
+    { p: "as if 虚拟语气", q: "His words were simply absent, as if someone had quietly erased a page inside his head.", n: "as if + 过去完成时：与过去事实相反的虚拟——并没有人真的擦掉他脑子里的那一页" },
+    { p: "宾语从句", q: "A-Luo realized with a jolt that dead words were exactly what the fog loved.", n: "realized 后 that 从句用陈述语序；表语 what the fog loved 又是名词性从句，从句套从句是长难句标配" },
+    { p: "强调句 It was...that", q: "It was not brute force that lit the Echo Stones; it was memory.", n: "去掉 It was 和 that，句子仍完整 → 强调句；强调的是主语 not brute force，翻译时重读被强调部分" }
   ],
   words: [
-    { w: "technology", ipa: "/tekˈnɒlədʒi/", pos: "n.", cn: "科技，技术", ex: "Science and technology make our life better.", excn: "科学技术让我们的生活更美好。", memo: "science and technology 科学技术，写作万能搭配；IT = information technology" },
-    { w: "device", ipa: "/dɪˈvaɪs/", pos: "n.", cn: "设备，装置", ex: "This device can translate English into Chinese.", excn: "这台设备能把英语翻译成中文。", memo: "electronic devices 电子设备；注意别和 devise（动词：设计）搞混" },
-    { w: "data", ipa: "/ˈdeɪtə/", pos: "n.", cn: "数据", ex: "The robot stores a large amount of data.", excn: "机器人存储着大量数据。", memo: "datum 的复数形式；big data 大数据，阅读科技文高频" },
-    { w: "intelligent", ipa: "/ɪnˈtelɪdʒənt/", pos: "adj.", cn: "智能的；聪明的", ex: "An intelligent robot can learn by itself.", excn: "智能机器人能自己学习。", memo: "AI 全称 artificial intelligence，intelligence 是它的名词形式" },
-    { w: "replace", ipa: "/rɪˈpleɪs/", pos: "v.", cn: "取代，替换", ex: "Robots may replace humans in some jobs.", excn: "机器人可能在某些工作中取代人类。", memo: "replace A with B 用 B 替换 A；take the place of 是它的同义短语" },
-    { w: "create", ipa: "/kriˈeɪt/", pos: "v.", cn: "创造；创作", ex: "The new policy created many jobs.", excn: "新政策创造了很多就业岗位。", memo: "creative 有创造力的；creation 创造物；和 invent/discover 的区别见易混词区" },
-    { w: "design", ipa: "/dɪˈzaɪn/", pos: "v./n.", cn: "设计；图案", ex: "The building was designed by a young man.", excn: "这栋大楼是一个年轻人设计的。", memo: "be designed for / to do 专为……设计；designer 设计师" },
-    { w: "update", ipa: "/ˌʌpˈdeɪt/", pos: "v./n.", cn: "更新", ex: "Please update your phone system.", excn: "请更新你的手机系统。", memo: "up（向上）+ date（日期）→ 更新到最新日期；keep sb. updated 让某人了解最新情况" },
-    { w: "download", ipa: "/ˌdaʊnˈləʊd/", pos: "v./n.", cn: "下载", ex: "You can download the app for free.", excn: "你可以免费下载这个应用。", memo: "download 下载 ↔ upload 上传，方向别记反" },
-    { w: "share", ipa: "/ʃeə/", pos: "v./n.", cn: "分享；共享", ex: "Share the file with me, please.", excn: "请把文件分享给我。", memo: "share...with sb. 和某人分享；shareholder 股东（分享利润的人）" },
-    { w: "privacy", ipa: "/ˈprɪvəsi/", pos: "n.", cn: "隐私", ex: "Everyone has the right to privacy.", excn: "人人都有隐私权。", memo: "private 私人的；invasion of privacy 侵犯隐私，议论文常用" },
-    { w: "influence", ipa: "/ˈɪnfluəns/", pos: "n./v.", cn: "影响", ex: "Parents influence their children deeply.", excn: "父母对孩子影响深远。", memo: "have an influence on = have an effect on，固定搭配；和 affect（动词）对比记" },
-    { w: "efficient", ipa: "/ɪˈfɪʃnt/", pos: "adj.", cn: "高效的", ex: "Sao-Ye is an efficient cleaner — five minutes, and the floor shines.", excn: "扫爷是个高效的清洁工——五分钟，地板就亮了。", memo: "复现 ch01：an efficient learner；本章易混组 efficient/effective 三度重逢" },
-    { w: "access", ipa: "/ˈækses/", pos: "n.", cn: "使用权；通道", ex: "Students have free access to the digital library.", excn: "学生可以免费使用数字图书馆。", memo: "复现 ch01：have access to the library；本章 Wi-Fi 权限；真题 instant access to" },
-    { w: "benefit", ipa: "/ˈbenɪfɪt/", pos: "n./v.", cn: "好处；受益", ex: "Learning English will benefit you for the next twenty years.", excn: "学英语会让你在未来二十年受益。", memo: "复现 ch01：benefit from regular exercise；benefit sb. 使某人受益" },
-    { w: "affect", ipa: "/əˈfekt/", pos: "v.", cn: "影响", ex: "Too much scanning will affect everyone's sleep.", excn: "扫描太多会影响每个人的睡眠。", memo: "复现 ch01：affect your final grade；affect（动词）vs effect（名词）vs influence（本章新词）" },
-    { w: "improve", ipa: "/ɪmˈpruːv/", pos: "v.", cn: "改进；提高", ex: "Twenty minutes a day will improve your English.", excn: "每天二十分钟就能提高你的英语。", memo: "复现 ch01：improve your English；update = make...better 近义呼应" },
-    { w: "review", ipa: "/rɪˈvjuː/", pos: "v./n.", cn: "复习；评论", ex: "Sao-Ye reviews words with A-Luo every night.", excn: "扫爷每晚和阿洛一起复习单词。", memo: "复现 ch01：review your notes before the exam；re（再）+ view（看）" },
-    { w: "effort", ipa: "/ˈefət/", pos: "n.", cn: "努力", ex: "What matters is whether you make an effort.", excn: "重要的是你是否努力。", memo: "复现 ch01：make an effort；spare no effort 不遗余力（ch02 spare 词族）" },
-    { w: "skill", ipa: "/skɪl/", pos: "n.", cn: "技能", ex: "The robot is developing new language skills.", excn: "机器人正在开发新的语言技能。", memo: "复现 ch03：communication skills；常复数；language skills 语言技能" },
-    { w: "require", ipa: "/rɪˈkwaɪə/", pos: "v.", cn: "要求；需要", ex: "The Intelligence Test requires good English.", excn: "智能测试需要良好的英语。", memo: "复现 ch03：The job requires computer skills；requirement n.；be required to do" },
-    { w: "challenge", ipa: "/ˈtʃælɪndʒ/", pos: "n./v.", cn: "挑战", ex: "Learning is a real challenge for an old robot.", excn: "对老机器人来说，学习是个真正的挑战。", memo: "复现 ch03：face a challenge；face challenges 直面挑战" },
-    { w: "convenient", ipa: "/kənˈviːniənt/", pos: "adj.", cn: "方便的", ex: "Wi-Fi makes studying online convenient for everyone.", excn: "Wi-Fi 让大家的在线学习很方便。", memo: "复现 ch02：Is it convenient for you？主语不能是人！convenience n. 方便" },
-    { w: "relax", ipa: "/rɪˈlæks/", pos: "v.", cn: "放松", ex: "Music helps the tired students relax.", excn: "音乐帮助疲惫的学生放松。", memo: "复现 ch02：Music helps me relax；relaxing 令人放松 / relaxed 感到放松" },
-    { w: "solve", ipa: "/sɒlv/", pos: "v.", cn: "解决", ex: "A robot cannot solve the problem for you if you make no effort.", excn: "如果你不努力，机器人也无法替你解决问题。", memo: "真题高频：solve a problem 解决问题；solution n. 办法 come up with a solution 想出办法" },
-    { w: "effective", ipa: "/ɪˈfektɪv/", pos: "adj.", cn: "有效的", ex: "Reviewing twenty minutes a day is an effective way to learn words.", excn: "每天复习二十分钟是背单词的有效方法。", memo: "真题高频：an effective way to do；⚠️ effective 效果好（管用），efficient 效率高（省时），本章易混组三度重逢" }
+    { w: "breathe", ipa: "/briːð/", pos: "v.", cn: "呼吸", ex: "A grey thread brushed his lips, and for three seconds the freshman could hardly breathe.", excn: "一缕灰雾拂过他的嘴唇，有三秒钟那个新生几乎无法呼吸。", memo: "动词 breathe 有 e 读浊音 /briːð/；名词 breath 无 e 读清音 /breθ/——一 e 之差词性发音全变，改错高频" },
+    { w: "confuse", ipa: "/kənˈfjuːz/", pos: "v.", cn: "使迷惑；混淆", ex: "Living words confuse the fog; dead words feed it.", excn: "活词会扰乱雾，死词只会喂饱它。", memo: "con + fuse（灌注，同根 refuse）→ 灌成一锅粥 → 搅混；confuse A with B 把 A 误当 B；confusing 令人迷惑 / confused 感到迷惑" },
+    { w: "waken", ipa: "/ˈweɪkən/", pos: "v.", cn: "唤醒；弄醒", ex: "Nothing new can waken the stones; only old words can waken old words.", excn: "新东西唤不醒石头；只有旧词能唤醒旧词。", memo: "wake（醒）+ -en（使动后缀，同 sharpen）→ 使醒来；书面正式词，与 awaken 近义；日常口语说 wake up" },
+    { w: "assure", ipa: "/əˈʃʊə(r)/", pos: "v.", cn: "保证；使确信", ex: "I assure you, the stones remember every chant here.", excn: "我向你们保证，石头记得这里的每一次吟唱。", memo: "as + sure（确定）→ 把确定塞进你心里 → 打包票；assure sb. of sth / assure sb. that，宾语必须是人" },
+    { w: "confess", ipa: "/kənˈfes/", pos: "v.", cn: "坦白；承认（过错）", ex: "Pangda had to confess that he skipped his review for a card game.", excn: "胖达不得不承认，他为了一局牌翘掉了复习。", memo: "con（完全）+ fess（说，同根 profess 声称）→ 全说出来 → 坦白；confess to doing 承认做过某事（to 是介词！）" },
+    { w: "vanish", ipa: "/ˈvænɪʃ/", pos: "v.", cn: "突然消失；绝迹", ex: "The grey tide began to vanish thread by thread.", excn: "灰色的潮水开始一缕一缕地消散。", memo: "van（空，同 vacuum 真空）+ ish → 化为空 → 消失；vanish into thin air 凭空消失；比 disappear 更突然彻底" }
   ],
   confusions: [
     {
-      group: "invent / discover / create — 三种「造」",
+      group: "confuse 家族 — 一窝「迷惑」",
       items: [
-        { w: "invent", cn: "发明（以前不存在的东西）", note: "Edison invented the light bulb. 爱迪生发明了电灯泡" },
-        { w: "discover", cn: "发现（本来就存在的东西）", note: "Columbus discovered America in 1492. 哥伦布发现美洲" },
-        { w: "create", cn: "创造（无中生有地做出/创作）", note: "The policy created many jobs. 创造就业；God created the world" }
+        { w: "confuse (v.)", cn: "使迷惑；混淆", note: "confuse A with B 把 A 误当 B；Pangda confused ambition with ambulance" },
+        { w: "confusing (adj.)", cn: "令人迷惑的（修饰事物）", note: "a confusing rule 一条让人看不懂的规则" },
+        { w: "confused (adj.)", cn: "感到迷惑的（修饰人）", note: "He got confused. 他被绕晕了" },
+        { w: "confusion (n.)", cn: "混乱；困惑", note: "in confusion 困惑地；throw the yard into confusion 让院子乱作一团" }
       ],
-      tip: "口诀：invent 无中生有搞发明，discover 本来就有你去发现，create 凭空造物带艺术。真题钉子户：Columbus ___ America → discovered！美洲又不是哥伦布造的。扫爷扫哥的发明权大战，判词就这三句。",
+      tip: "口诀：-ing 是「事烦人」，-ed 是「人心烦」，confusion 是名词总账。完形选项里 confusing/confused 同时出现时，先找句子的感受主体是人还是物。",
       drill: [
-        { s: "Edison ___ the light bulb over a hundred years ago.", opts: ["invented", "discovered", "created"], a: 0, why: "电灯泡以前不存在 → invent 无中生有搞发明" },
-        { s: "Astronomers have ___ a black hole at the center of the galaxy.", opts: ["invented", "discovered", "created"], a: 1, why: "黑洞本来就存在 → discover 本来就有你去发现" }
+        { s: "The fog's timing was ___, so the freshmen got ___.", opts: ["confusing; confused", "confused; confusing"], a: 0, why: "timing（时机）令人迷惑 → confusing；freshmen 感到迷惑 → confused" }
       ]
     },
     {
-      group: "instead / instead of / replace — 「取代」的正确姿势",
+      group: "wake / awake / awaken / waken — 唤醒四胞胎",
       items: [
-        { w: "instead (adv.)", cn: "代替；反而（单独作状语）", note: "He didn't go; I went instead. 放句尾或句首，后面不接东西" },
-        { w: "instead of", cn: "代替，而不是（介词短语）", note: "He walked instead of taking a bus. of 后接名词或 doing" },
-        { w: "replace", cn: "取代（动词）", note: "A replaces B = replace A with B" }
+        { w: "wake (v.)", cn: "醒来；叫醒（日常）", note: "wake up 最常用口语：Wake up, Pangda!" },
+        { w: "awake (adj./v.)", cn: "醒着的；唤醒（文学）", note: "stay awake 保持清醒；ch01 觉醒咒的主角词" },
+        { w: "awaken (v.)", cn: "唤醒（正式/比喻）", note: "awaken one's interest 唤起某人的兴趣" },
+        { w: "waken (v.)", cn: "唤醒（正式）", note: "本章核心词：only old words can waken old words，与 awaken 几乎互换" }
       ],
-      tip: "改错高频：instead of 后接动词原形 = 错！必须接 doing 或名词。比如 Instead of go out ❌ → Instead of going out ✅",
+      tip: "口诀：wake 随口说，awake 是状态，awaken/waken 书面唤醒。完形考 stay ___（醒着）选 awake；考「唤醒石头」选及物动词 waken。",
       drill: [
-        { s: "He walked to school ___ taking the crowded bus.", opts: ["instead of", "instead", "replace"], a: 0, why: "后接 doing → 介词短语 instead of；instead 单独作状语后面不接东西" }
+        { s: "Only old words can ___ the Echo Stones under the bell tower.", opts: ["waken", "awake", "asleep"], a: 0, why: "需要及物动词「唤醒」stones → waken/awaken；awake 多作形容词「醒着的」，asleep 是睡着的" }
       ]
     },
     {
-      group: "efficient / effective — 效率党 vs 效果党",
+      group: "assure / ensure / insure — 三「保」兄弟",
       items: [
-        { w: "efficient", cn: "高效的（省时省力）", note: "an efficient way to learn 高效的学习方法，强调不浪费时间" },
-        { w: "effective", cn: "有效的（能达到目的）", note: "an effective medicine 有效的药，强调管用" }
+        { w: "assure (v.)", cn: "向某人保证（消除疑虑）", note: "assure sb. that... / assure sb. of sth.，宾语必须是人" },
+        { w: "ensure (v.)", cn: "确保（某事发生）", note: "ensure success / ensure that...，宾语是事物" },
+        { w: "insure (v.)", cn: "给……上保险", note: "insure the house against fire 给房子投保火险" }
       ],
-      tip: "口诀：efficient 效率高（干活快），effective 效果好（真管用）。一台机器五分钟扫完地板 → efficient；药吃了病好了 → effective。",
+      tip: "口诀：assure 安人心（人做宾语），ensure 保事情（事做宾语），insure 买保险。真题单选：I ___ you that everything will be fine → assure。",
       drill: [
-        { s: "This medicine is ___ — take it twice a day and the fever will go.", opts: ["effective", "efficient", "careful"], a: 0, why: "药能达到目的 → effective 效果好；efficient 强调省时省力" },
-        { s: "Sao-Ye cleans five rooms in ten minutes — what an ___ robot!", opts: ["efficient", "effective", "careful"], a: 0, why: "十分钟扫五间 = 省时省力 → efficient 效率高" }
+        { s: "Sao-ye ___ the freshmen that the stones remember every chant.", opts: ["assured", "ensured", "insured"], a: 0, why: "宾语 the freshmen 是人，消除疑虑 → assure sb. that；ensure/insure 不接人作宾语" }
+      ]
+    },
+    {
+      group: "vanish / disappear / fade — 消失三兄弟",
+      items: [
+        { w: "vanish (v.)", cn: "突然彻底消失（神秘感）", note: "vanish into thin air 凭空消失；雾、魔术、失踪案用它" },
+        { w: "disappear (v.)", cn: "消失（通用词）", note: "disappear from sight 消失在视野外" },
+        { w: "fade (v.)", cn: "逐渐褪去（渐变过程）", note: "fade away 慢慢淡去：The chant faded away." }
+      ],
+      tip: "口诀：vanish 是变魔术式消失，disappear 是普通退场，fade 是慢动作淡出。完形看到 mysteriously / into thin air 选 vanish。",
+      drill: [
+        { s: "The grey tide ___ thread by thread as the golden chain burned.", opts: ["vanished", "faded", "awoke"], a: 0, why: "神秘、突然、彻底的消失 → vanish；fade 强调逐渐褪色变淡" }
       ]
     }
   ],
+  hidden: [
+    { w: "spell", known: "v. 拼写", hidden: "n. 咒语；（一段）时间", ex: "The freshmen begged him for the light spell, but the fog had eaten it.", excn: "新生们求他念个照明咒，可雾已经把它吃掉了。另：a spell of cold weather 一段寒冷天气" },
+    { w: "sound", known: "n. 声音 / v. 听起来", hidden: "adj. 完好的；健全的；酣畅的", ex: "After the fog night, no one in the east dormitory enjoyed a sound sleep again.", excn: "雾夜之后，东宿舍区再没有人睡过一个安稳觉。" },
+    { w: "address", known: "n. 地址", hidden: "v. 处理；对付；发表演讲", ex: "The academy must address the fog problem before the exam season arrives.", excn: "学院必须在考试季到来之前解决雾的问题。" },
+    { w: "school", known: "n. 学校", hidden: "n. 学派；（鱼）群", ex: "Zhou Qing belongs to the dead-memorizing school of word-magic.", excn: "周擎属于死背流词术学派。另：a school of fish 一群鱼" },
+    { w: "book", known: "n. 书", hidden: "v. 预订；预约", ex: "Pangda booked the whole cafeteria to celebrate, then remembered he had no coins left.", excn: "胖达订下整个食堂庆祝，然后想起自己一枚硬币都不剩了。" }
+  ],
   sentences: [
     {
-      en: "With the rapid development of <mark>technology</mark>, more and more intelligent devices have been <mark>designed</mark> to <mark>replace</mark> the work that humans used to do.",
+      en: "It was not brute force that lit the Echo <mark>Stones</mark>; it was memory.",
       parts: [
-        "With + 名词短语 作状语：随着科技的快速发展（写作万能开头）",
-        "more and more 越来越多的，修饰可数/不可数名词都行",
-        "have been designed 现在完成时被动语态：已经被设计出来",
-        "that humans used to do 是定语从句修饰 the work；used to do 过去常常做"
+        "It was...that... 强调句：强调主语 not brute force（不是蛮力）；去掉框架后句子仍完整 → 强调句判断法",
+        "分号后 it was memory 省略了强调框架，与前句形成对仗",
+        "light 的过去式 lit：点亮石头的是 memory，全句重音落在被强调的主语上"
       ],
-      cn: "随着科技的快速发展，越来越多的智能设备被设计出来，以取代人类过去所做的工作。",
+      cn: "点亮回响石的不是蛮力，而是记忆。",
       slots: [
-        { s: "intelligent devices have been designed to replace the work ___ humans used to do.", opts: ["that", "what", "who"], a: 0, why: "先行词 the work 是物 → that 引导定语从句；what 不能引导定语从句" }
+        { s: "It was ___ that lit the first Echo Stone.", opts: ["memory", "the memory what", "memories which"], a: 0, why: "强调句框架 It was + 被强调部分 + that；被强调的是主语 memory" }
       ]
     },
     {
-      en: "What worries many people is that robots may one day take the place of humans, and no one can tell <mark>what will happen</mark> then.",
+      en: "A stored word was dead food, but a word <mark>being remembered</mark> at that very moment was alive, and a living word could <mark>confuse</mark> the fog.",
       parts: [
-        "What worries many people 是主语从句：让人们担心的事情",
-        "is that... 表语从句，说明「担心」的具体内容",
-        "take the place of = replace 固定搭配「取代」",
-        "what will happen then 是 tell 后的宾语从句，用陈述语序（别写成疑问语序）"
+        "but 并列转折：dead food 与 alive 两个表语正面对撞",
+        "a word being remembered... 现在分词被动式作后置定语：「正在被回忆的词」（被动 + 进行）",
+        "at that very moment：very 是形容词「正是那个」，不是副词「非常」——熟词生义",
+        "confuse 及物动词：扰乱、使……混乱；此处理解为「活词让雾无法下口」"
       ],
-      cn: "让许多人担心的是，机器人也许有一天会取代人类，而没人能说清那时会发生什么。",
+      cn: "存着不用的词是死粮，而此刻正在被回忆的词是活物——活词能让雾自乱阵脚。",
       slots: [
-        { s: "___ worries many people is that robots may one day take the place of humans.", opts: ["What", "That", "It"], a: 0, why: "从句 worries 缺主语 → What 引导主语从句；That 引导时从句须完整" },
-        { s: "No one can tell ___ will happen when robots get smarter.", opts: ["what", "that", "how"], a: 0, why: "宾语从句中 happen 缺主语 → what；that 只能引导完整从句" }
+        { s: "A word ___ at that very moment is alive.", opts: ["being remembered", "remembering", "remember"], a: 0, why: "word 与 remember 是被动关系且正在进行 → being + 过去分词；remembering 是主动，remember 缺谓语形式" }
+      ]
+    },
+    {
+      en: "At the far gate the last shreds of grey rose into a tall <mark>stranger</mark>, and a voice as dry as turning pages pronounced two syllables.",
+      parts: [
+        "rose into a tall stranger：rise into 显形为……，雾化人形的画面动词",
+        "as dry as turning pages：as + adj. + as 同级比较，干涩得像翻动的书页",
+        "pronounced two syllables：清晰吐出两个音节——为下文父亲名字的悬置蓄势"
+      ],
+      cn: "远门处，最后几缕灰雾升起，显形出一个高挑的身影，一个干涩得像翻动书页的声音吐出两个音节。",
+      slots: [
+        { s: "The voice was as dry ___ turning pages.", opts: ["as", "than", "like"], a: 0, why: "as + adj. + as 同级比较结构；than 用于比较级，like 不进入 as...as 框架" }
       ]
     }
   ],
   phrases: [
-    { p: "depend on", cn: "依赖；取决于", note: "⚠️ 改错高频：depend on 介词固定是 on，别写成 depend in / depend at", warn: true, gap: { s: "More and more people depend ___ smart devices in daily life.", opts: ["on", "in", "at"], a: 0, why: "depend on 固定介词 on" } },
-    { p: "play an important role in", cn: "在……中起重要作用", note: "role 前的 an 别丢；写作万能句 Technology plays an important role in our life.", gap: { s: "The Internet plays an important role ___ our daily life.", opts: ["in", "on", "at"], a: 0, why: "play a role in 在……中起作用，in 后接名词" } },
-    { p: "with the development of", cn: "随着……的发展", note: "with...of 结构作状语，作文开头神器" },
-    { p: "instead of", cn: "代替，而不是", note: "⚠️ of 是介词，后接名词或动名词，接动词原形 = 改错答案", warn: true, gap: { s: "We should reuse old bags ___ buying new ones every time.", opts: ["instead of", "instead", "rather"], a: 0, why: "后接 doing → instead of；instead 单独用后面不接东西" } },
-    { p: "keep in touch with", cn: "与……保持联系", note: "in touch 别写成 on touch；lose touch with 失去联系" },
-    { p: "search for", cn: "搜索；寻找", note: "search the room（搜房间）≠ search for the key（找钥匙），宾语不同" },
-    { p: "lead to", cn: "导致；通向", note: "⚠️ to 是介词！lead to doing sth.，接动词原形必错", warn: true, gap: { s: "Technology has led ___ great changes in how we learn.", opts: ["to", "for", "in"], a: 0, why: "lead to 导致，to 是介词后接名词/doing" } },
-    { p: "more and more", cn: "越来越……", note: "多音节词用 more and more important；单音节用 brighter and brighter" },
-    { p: "in some ways", cn: "在某些方面", note: "in a way 在某种程度上；on the way 在路上，介词别混" },
-    { p: "face to face", cn: "面对面", note: "作状语不加连字符；face-to-face 作定语要连字符：a face-to-face talk" },
-    { p: "enjoy oneself", cn: "玩得开心（= have a good time）", note: "⚠️ enjoy 是及物动词，后面必须接宾语；enjoy doing 喜欢做，不接 to do", warn: true },
-    { p: "take advantage of", cn: "利用", note: "真题高频：take advantage of the Internet 利用网络； advantage 前不加冠词", gap: { s: "Students should take advantage ___ the free digital library.", opts: ["of", "for", "on"], a: 0, why: "take advantage of 利用，固定搭配" } },
-    { p: "come up with", cn: "想出；提出（主意/办法）", note: "come up with an idea 想出一个主意；不能说 come up an idea" },
-    { p: "as a result", cn: "结果是；因此", note: "逻辑信号词，完形必考；as a result of + 名词 = 因为" },
-    { p: "go online", cn: "上网", note: "= surf the Internet；go online to search for information 上网查资料" },
-    { p: "keep a secret", cn: "保守秘密", note: "keep the secret for sb. 为某人保密；secret 作形容词：a secret plan" }
+    { p: "burst into", cn: "突然爆发；突然……起来", note: "burst into tears/light/laughter 突然哭/亮/笑起来；burst 的过去式还是 burst", gap: { s: "The lamps ___ light one by one as the panic spread.", opts: ["burst into", "bursted into", "broke into"], a: 0, why: "burst into 突然爆发；burst 原形即过去式，没有 bursted；break into 是破门而入" } },
+    { p: "light up", cn: "点亮；（脸上）放出光彩", note: "The stones lit up one by one. lit 是 light 的过去式/过去分词" },
+    { p: "pass down", cn: "把……传下去；代代相传", note: "be passed down from generation to generation；与 hand down 同义" },
+    { p: "remind sb. of", cn: "提醒某人想起；使某人想起", note: "⚠️ remind sb. of sth. 介词 of 不能丢；remind sb. to do 是提醒某人去做，别混", warn: true, gap: { s: "The chant reminded A-Luo ___ his first night at the academy.", opts: ["of", "to", "about"], a: 0, why: "remind sb. of sth. 使某人想起某事；remind sb. to do 才是提醒去做" } },
+    { p: "confuse A with B", cn: "把 A 误当成 B", note: "⚠️ 介词固定 with：He confused ambition with ambulance；不能说 confuse A and B", warn: true, gap: { s: "Students often confuse quite ___ quiet — the mirror-creature lives on this.", opts: ["with", "and", "to"], a: 0, why: "confuse A with B 固定搭配，with 不能换成 and" } },
+    { p: "assure sb. of sth.", cn: "向某人保证某事", note: "⚠️ assure 的宾语必须是人：assure sb. of sth / assure sb. that；ensure 的宾语是事", warn: true },
+    { p: "take a deep breath", cn: "深呼吸", note: "⚠️ breath 是名词 /breθ/，动词才是 breathe /briːð/——一 e 之差是改错雷区", warn: true, gap: { s: "Pangda took a deep ___ and began the slow, true chant.", opts: ["breath", "breathe", "breathing"], a: 0, why: "take a deep breath 用名词；breathe 是动词，不能放在冠词 a 后面" } },
+    { p: "be buried in", cn: "被埋进；埋头于", note: "He was buried in old word-lists. 埋头苦读就用它" },
+    { p: "break the chains", cn: "挣脱枷锁", note: "in chains 戴着镣铐；break the chains of habit 挣脱习惯的枷锁" },
+    { p: "rather than", cn: "而不是", note: "recall rather than reread 要回忆，不要重读；连接平行结构，前后形式一致" },
+    { p: "out of sight", cn: "在视野之外；看不见", note: "vanish out of sight 消失在视野外；反义 in sight 看得见" },
+    { p: "at the mercy of", cn: "任凭……摆布", note: "The academy lay at the mercy of the fog. 写作高级表达" },
+    { p: "in the distance", cn: "在远处", note: "A figure appeared in the distance. 远处显形出一个身影；复现 ch03" },
+    { p: "to one's relief", cn: "令某人松了口气的是", note: "To everyone's relief, the stolen words flew back home." },
+    { p: "in a flash", cn: "一瞬间；立刻", note: "The stone turned gold in a flash. 与 in an instant 同义" },
+    { p: "call out", cn: "喊出；唤请", note: "call out the old words 把旧词喊出来；call out to sb. 朝某人喊" }
   ],
   grammar: [
     {
-      t: "it 用法：形式主语 + It is...that 强调句初识",
-      rule: "① 形式主语：It is + adj./n. + (for/of sb.) + to do...——it 只占主语的位置，真正的主语是后面的不定式；It takes sb. + 时间/钱 + to do 也算这一家。② 强调句初识：It is/was + 被强调部分 + that/who + 其余部分，用来突出「正是它」。判断法：去掉 It is...that 后剩下的话还能还原成完整句子，就是强调句。",
-      ex: "It is necessary for every device to update its system regularly. It was Sao-Ye that fixed the Wi-Fi last night.",
-      excn: "每台设备定期更新系统很有必要。昨晚正是扫爷修好的 Wi-Fi。",
-      signal: "句首是 It，往后找不到它指代的东西 → 八成是形式主语；强调句去掉 It is...that 句子依然完整，否则就不是强调句——单选最爱考这个辨析",
-      quiz: { s: "___ is necessary for every device to update its system regularly. → ___", opts: ["It", "This", "That"], a: 0, why: "It is + adj. + for sb. + to do 形式主语句型，只有 It 能充当" }
+      t: "过去进行时 was/were doing（雾夜叙事的底色）",
+      rule: "过去某一时刻正在进行的动作 → was/were + doing。两大搭档：when + 一般过去时（短暂动作插进来），while + 过去进行时（两段背景同时进行）。标志词：at that moment, this time yesterday, from 9 to 11 last night。",
+      ex: "The fog was rolling over the walls at midnight, and while the freshmen were sleeping, the Ancient Scroll was already screaming.",
+      excn: "午夜时分雾正漫过围墙；当新生们还在睡梦中时，古卷已经在尖声报警了。",
+      signal: "短暂动作用一般过去时，背景动作用过去进行时：when the screams came（短）+ was reviewing（长）；改错爱把 when 从句误改成进行时",
+      quiz: { s: "A-Luo ___ old word-lists in the library when the first screams came from the east dormitory.", opts: ["was reviewing", "reviewed", "has reviewed"], a: 0, why: "when + 一般过去时短暂动作 → 主句用过去进行时 was reviewing，表示当时正在进行；reviewed 会变成「先复习完再尖叫」的错误顺序" }
     },
     {
-      t: "one / it / that / those 指代区别（比较级句型钉子户）",
-      rule: "it 指前文提到的同一个东西（特指，同一台）；one 指同类不同个（泛指可数单数，one = a + 单数名词）；that 指代前文的可数单数或不可数名词（= the + 名词，比较级句型高频）；those 是 that 的复数（= the + 复数名词）。",
-      ex: "The Wi-Fi in Dorm 302 is faster than that in the library. The robots made in 2025 run faster than those made in 2010. My phone is broken, so I will buy a new one.",
-      excn: "302 宿舍的 Wi-Fi 比图书馆的快。2025 年造的机器人比 2010 年的那些跑得快。我的手机坏了，所以我要买个新的（同类的另一台）。",
-      signal: "比较级挖空题：不可数名词 → that；可数复数 → those；泛指可数单数 → one；同一个东西 → it。2024 真题完形考过 that 指代 the air/weather 这类不可数",
-      quiz: { s: "The air in the forest is fresher than ___ in the city. → ___", opts: ["that", "those", "it"], a: 0, why: "指代前文不可数的 the air → that；those 指复数，it 指同一个东西" }
+      t: "-ing 与 -ed 分词形容词（confuse 家族的读心术）",
+      rule: "-ing 令人……的（多修饰事物本身的性质）；-ed 感到……的（修饰人的感受）：confusing 令人迷惑的 / confused 感到迷惑的，frightening / frightened，boring / bored，tiring / tired。判断口诀：先看主语是人还是物。",
+      ex: "The broadcast was frightening, and the frightened freshmen hid under their blankets.",
+      excn: "播报很吓人，吓坏了的新生们躲进了被子。",
+      signal: "物作主语或修饰物 → -ing；人感到 → -ed；完形选项 confusing/confused 同时出现时，先找句子的感受主体",
+      quiz: { s: "Hearing the number 30%, Zhou Qing looked ___ and his face went white.", opts: ["frightened", "frightening", "frighten"], a: 0, why: "人感到害怕 → -ed 形容词 frightened；frightening 修饰事物「令人害怕的」；frighten 是动词原形不能作表语形容词" }
     },
     {
-      t: "物主代词 + 反身代词（enjoy oneself 改错雷区）",
-      rule: "形容词性物主代词 my/your/his/her/its/our/their 后面必须跟名词；名词性物主代词 mine/yours/hers/ours/theirs 独立使用 = 形容词性 + 名词。反身代词 myself/yourself/himself/herself/itself/ourselves/themselves 指「自己」：enjoy oneself = have a good time 玩得开心；by oneself = alone 独自；teach oneself 自学；help oneself to 随便吃。",
-      ex: "The robots enjoyed themselves at the party. Sao-Ge taught himself English by listening to songs. This towel is mine, and that one is yours.",
-      excn: "机器人们在派对上玩得很开心。扫哥靠听歌自学英语。这条毛巾是我的，那条是你的。",
-      signal: "改错钉子户：enjoy 后面裸奔没宾语 → 加反身代词；his himself 别混（his 物主代词 / himself 反身代词）；by himself 独自，不能写 by him",
-      quiz: { s: "The robots enjoyed ___ at the party. → ___", opts: ["themselves", "them", "their"], a: 0, why: "enjoy oneself 玩得开心，主语 the robots 复数 → themselves" }
+      t: "感官动词 watch / see / hear + do 与 doing",
+      rule: "watch/see/hear/notice + 宾语 + 动词原形：看到动作全过程或经常发生；+ 宾语 + doing：看到动作正在进行的一个片段。被动语态必须补 to：be seen to do / be heard to do（改错高频）。",
+      ex: "We watched the grey tongue brush his lips, and later he was heard to shout denials in the yard.",
+      excn: "我们看着那条灰舌拂过他的嘴唇；后来有人听见他在院子里大声否认。",
+      signal: "主动句省 to，被动句补 to：was heard to shout；选择题看到 watch sb. to do 直接判错",
+      quiz: { s: "The touched freshman was seen ___ helplessly in the grey light.", opts: ["to tremble", "tremble", "trembling"], a: 0, why: "感官动词的被动语态必须补 to：be seen to do；主动句 saw him tremble 才省略 to" }
+    },
+    {
+      t: "真题高频 · so...that 与 such...that 结果状语从句（单选+完形双高频）",
+      rule: "so + 形容词/副词 + that...：如此……以至于；such + (a/an) + (adj.) + 名词 + that...：such 接名词短语。特例：so many/much/few/little + 名词（数量词前用 so）。",
+      ex: "The fog was so dense that the lamps drowned in it, and it was such a horrible night that nobody dared to sleep.",
+      excn: "雾浓得连路灯都淹死在里面；那是如此可怕的一夜，没人敢睡觉。",
+      signal: "空后是形容词/副词 → so；空后是名词短语 → such；so many mistakes / such a lot of mistakes 是必考对调陷阱",
+      quiz: { s: "It was ___ dense fog that we could not see the bell tower ten steps away.", opts: ["such", "so", "so a", "such a"], a: 0, why: "dense fog 是「形容词 + 不可数名词」的名词短语 → such；so 只能修饰形容词本身（so dense）；fog 不可数，不加 a" }
+    },
+    {
+      t: "真题高频 · 使役动词 make / let / have（单选+改错双高频）",
+      rule: "make/let/have + 宾语 + 动词原形（省略 to）：使/让某人做某事；make + 宾语 + 形容词/名词：使某人处于某状态。被动语态必须补 to：be made to do。have sb. do 让某人做，have sth. done 让某事被做。",
+      ex: "The fog made the touched students forget their first spells, and the golden chain made the whole yard feel safe.",
+      excn: "雾让被碰过的学生忘掉了最初学会的咒语，而那条金色锁链让整个院子感到安全。",
+      signal: "主动省 to、被动补 to：He was made to forget；改错爱把 be made to do 中的 to 划掉；make sb. happy 里 happy 是宾补不是动词",
+      quiz: { s: "The touched boy was made ___ the first syllable again and again.", opts: ["to forget", "forget", "forgetting"], a: 0, why: "make 用于被动语态必须补 to：be made to do sth.；主动句 made him forget 才省略 to，两种情况是改错最爱对调的陷阱" }
     }
   ],
   quiz: [
     {
-      q: "With the development of science and ______, our life is becoming easier and easier.",
-      options: ["technique", "technology", "device", "network"],
+      q: "The professor's explanation was so ______ that many students got ______ in class.",
+      options: ["confused; confusing", "confusing; confused", "confusing; confusing", "confused; confused"],
       answer: 1,
-      explain: "science and technology 科学与技术，固定搭配。device 是可数名词（设备），前面不能裸奔；technique 指具体的技术技巧。"
+      explain: "-ing 修饰事物：令人迷惑的；-ed 修饰人：感到迷惑的。explanation 是物 → confusing；students 感到迷惑 → confused。口诀：事烦人，人心烦。"
     },
     {
-      q: "Many people dare not put smart cameras in their homes because they worry about their ______.",
-      options: ["position", "privacy", "pressure", "opportunity"],
-      answer: 1,
-      explain: "担心被监控 = worry about their privacy 担心隐私。position 职位；pressure 压力；opportunity 机会。"
+      q: "I ______ you that the Echo Stones will remember every word you chant tonight.",
+      options: ["ensure", "insure", "assure", "sure"], answer: 2, explain: "assure sb. that... 消除某人的疑虑，宾语必须是人；ensure 的宾语是事物（ensure success）；insure 是投保；sure 是形容词，不能作谓语动词。"
     },
     {
-      q: "Columbus ______ America in 1492.",
-      options: ["invented", "created", "discovered", "developed"],
-      answer: 2,
-      explain: "美洲本来就存在，哥伦布只是「发现」→ discovered。invent 发明不存在的东西；create 创造。真题钉子户，扫爷和扫哥吵的就是这个。"
-    },
-    {
-      q: "______ is necessary for every student to master some basic computer skills.",
-      options: ["This", "That", "It", "One"],
-      answer: 2,
-      explain: "It is + adj. + for sb. + to do，it 作形式主语，真正的主语是后面的 to do。This/That/One 都不能充当形式主语。"
-    },
-    {
-      q: "The robots made in 2025 run faster than ______ made in 2010.",
-      options: ["that", "those", "one", "it"],
-      answer: 1,
-      explain: "指代前文的复数名词 robots → those（= the robots）。that 指单数或不可数；one 泛指可数单数；it 指同一个东西。比较级指代是单选高频。"
-    },
-    {
-      q: "改错：The children enjoyed very much at the party last night.",
-      options: ["enjoyed → enjoyed themselves", "much → many", "at → in", "The → These"],
+      q: "A grey thread brushed the freshman's lips, and for three seconds he could hardly ______.",
+      options: ["breathe", "breath", "breathing", "breathed"],
       answer: 0,
-      explain: "改错雷区⑥代词：enjoy 是及物动词，后面必须接宾语；enjoy oneself = have a good time 玩得开心。enjoy 后面裸奔是改错经典雷区。"
+      explain: "could hardly 后接动词原形 → breathe 动词「呼吸」；breath 是名词 /breθ/，不能作谓语；一 e 之差词性发音全变，改错高频。"
     },
     {
-      q: "英译汉选择：The little robot worked around the clock to clean the room before the party.",
-      options: ["小机器人绕着时钟跑圈打扫房间。", "小机器人夜以继日地打扫，赶在派对前完工。", "小机器人为了钟表工作到派对开始。", "小机器人整点报时顺便打扫卫生。"],
-      answer: 1,
-      explain: "around the clock 固定搭配「昼夜不停地」，望文生义陷阱：不是「绕着时钟」。英译汉选择最大的坑就是拆开认识、合起来想歪。"
+      q: "It was ______ grey night that even the bravest students locked their windows.",
+      options: ["such", "such a", "so", "so a"], answer: 1, explain: "night 是可数名词单数：such + a + 形容词 + 名词 → such a grey night；so 只能直接修饰形容词或副词（so grey），a 不能插在 so 和形容词之间。"
     },
     {
-      q: "With this card, students have free access ______ all the digital resources in the library.",
-      options: ["for", "with", "to", "into"],
+      q: "The number on the broadcast made everyone ______ in the yard.",
+      options: ["tremble", "trembling", "to tremble", "trembled"], answer: 0, explain: "make + 宾语 + 动词原形（省略 to）：使某人做某事；被动语态才补 to（be made to tremble）。tremble 正是 ch03 旧词。"
+    },
+    {
+      q: "The fog did not come for students; it came to ______ their words.",
+      options: ["capture", "claim", "pursue", "glimpse"], answer: 0, explain: "capture 捕获（ch01 旧词）：its purpose was to capture words 与正文呼应；glimpse 瞥见，pursue 追赶，claim 宣称，均不合语境。"
+    },
+    {
+      q: "The frontier soldiers ______ hunger and cold for three whole nights.",
+      options: ["insulted", "upgraded", "canceled", "endured"], answer: 3, explain: "endure 忍受、经受（ch02 旧词）：endure hunger and cold 忍饥受冻；insult 侮辱，cancel 取消，upgrade 升级，均与语境不符。"
+    },
+    {
+      q: "Dozens of students ______ the moment when Zhou Qing lost thirty percent of his word-power.",
+      options: ["devoted", "condemned", "witnessed", "dismissed"],
       answer: 2,
-      explain: "have access to 固定搭配「有权使用」，真题语境 instant access to the internet。介词搭配是完形填空第一考点。"
+      explain: "witness 目击、见证（ch03 旧词）：witness the moment 亲眼目睹那一刻；devote 奉献，condemn 谴责，dismiss 解散/驳回。"
+    },
+    {
+      q: "改错：The freshmen saw a grey thread to brush the boy's lips and watched his hands tremble in the dark.",
+      options: ["to brush → brush", "saw → was seen", "watched → watching", "tremble → to tremble"],
+      answer: 0,
+      explain: "改错雷区·非谓语（感官动词宾补）：see/watch + 宾语 + 动词原形（省 to），主动句 saw a grey thread brush 正确，to brush 是典型错误；B 主动语态用 saw 即可，was seen 才需要补 to；C and 连接并列谓语，watched 时态一致正确；D watched his hands tremble 同样省 to，加 to 反而错。"
+    },
+    {
+      q: "汉译英：我们看见那团灰雾一缕一缕地消散了。",
+      options: ["We saw the grey fog vanish thread by thread.", "We saw the grey fog to vanish thread by thread.", "We seen the grey fog vanish thread by thread.", "We saw the grey fog vanished thread by thread."],
+      answer: 0,
+      explain: "考点：see + 宾语 + 动词原形，目睹动作全过程（vanish 消散）；B 错在 see sb. to do 是错误结构，主动句省 to；C 错在 seen 是过去分词，不能单独作谓语，应为 saw；D 错在宾补不能用过去式 vanished，完整动作用原形 vanish。"
     }
   ]
 });

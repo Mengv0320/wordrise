@@ -1,248 +1,229 @@
 window.CHAPTERS = window.CHAPTERS || [];
 window.CHAPTERS.push({
   id: 10,
-  title: "决战 · 改错考官巨龙",
-  desc: "BOSS 出场：满身病句的墨水巨龙。全员集结——但这一关的终极考题是：认出哪些句子根本没有错。",
-  tag: "改错雷区高频词",
+  title: "觉醒篇 · 雾潮攻城",
+  desc: "空白残页共鸣之夜，遗忘之雾本尊率雾潮攻青盟学院。扫爷挂帅，四院结盟，长老议降，周擎对父幻灭倒戈相助。全城以旧词为歌守住城门，阿洛吞雾晋词师；卷末城头刻字：真相在五关之后。",
+  tag: "战争与守护 · 军事冲突高频词",
   story: {
-    title: "The Fall of the Error Dragon 改错巨龙之末路",
-    text: `The Ink Cave was so quiet that even Pang-Da chewed silently. Then the floor split open. The final BOSS rose from red mist — the Error Dragon, every scale printed with a wrong sentence. Its breath was poison: "I don't know where does the exit go! He asked me that I was scared! I have many [[informations]]!"
+    title: "The Fog Storms the City 雾潮攻城",
+    text: `The night the blank page [[trembled]], the fog answered it. An [[immense]] gray wall rose beyond the river — the Fog itself, a tide with one mind. Sirens tore the sky; the library lit every window so that the whole city could see the wall. Scan-ye the sweeper took the great gate as [[commander]], and within an hour four academies stood [[allied]] under one banner. The defenders carried the [[bomb]] of this age: syllables that burst into silence. The clash was [[inevitable]] — the fog had come for the page, and the page had chosen its author.
 
-"Rule one!" Juanjuan flew up. "Every sentence we correct, one scale falls. Rule two — more [[important]]: some of its sentences are CORRECT. A wrong correction will [[affect]] your [[energy]]. Correcting without reading is a bad [[habit]] — and the dragon feeds on it."
+Some elders urged the academy to stay [[neutral]]: hand over the page, spare the city. Scan-ye refused with a broom's calm. "Neither surrender nor silence has ever saved a city. We do not trade children." Zhou Qing stood in the rain, his father's seal in his bare hand, [[motive]] plain as a label. He had matched the ledger's crest to the forbidden-name page and drawn the only [[conclusion]] a son could: the Dean had built the black market and broken a bloodline to hide it. His [[temper]] was gone; what remained was colder. He dropped the seal at A-Luo's feet. "Use me. I know how my father thinks — every trick, every fear."
 
-Sao-Ye raised his scanning [[device]]: "Sixty errors detected. The [[equipment]] is ready. This gate [[requires]] patience, not power — and knowing what not to correct is a real [[strength]]. My scanner shows one sadness: this dragon was once the strictest examiner of the Error Gate."
+The fog pressed at midnight. It had learned to [[imitate]] every dead voice of the fair, anything to [[drain]] the singers' nerve. Despite the howl, the chant went on. [[Weary]] chant leaders rotated every hour; runners carried water, [[comfort]], fresh lines. No singer would [[abandon]] the wall, for behind them slept ten thousand students, dreams still [[vague]] and whole. With each old word sung true, a stolen word-soul broke loose — as if the chant could [[liberate]] them one by one. The fog's power was loud but never [[genuine]]; the city's was quiet and deep.
 
-Wave one: "She gave me two advices and three furnitures!" Pang-Da rushed out: "Easy! [[Advice]] and [[furniture]] are uncountable — no -s, no a!" The dragon smiled: "Your fat friend said an [[information]] in his sleep." Ten energy points gone. A-Luo stayed calm: "[[Knowledge]] first, fists second — these words never take an -s!" Five scales fell.
+Wind rose to [[hinder]] the chant; nothing could hinder A-Luo, swallowing the fog's own howl. "Unless we remember together," Juanyan warned, "no wall will hold. By dawn the fog will have swallowed the east gate." Hope was [[scarce]]; he wasted none: "Make one [[appeal]] to the city." So A-Luo raised both arms: "Sing what you own! Nothing can [[prevail]] against a city that remembers!" The fog thrashed, its howl thinning to a whine; when dawn cracked the east, the power in A-Luo's chest had doubled. The old keeper bowed. "Word-Master."
 
-Wave two: "Do you know where does the ink river flow? Tell me what do you want! I wonder that can you survive!" A-Luo counted: "Three errors in one breath: where the ink river flows; what you want; and — I [[wonder]] [[whether]] you can survive!" Twenty scales fell.
+Dawn thinned the fog to rags. [[Relief]] rode through the streets with the water carts; students began to [[celebrate]], and A-Luo watched the city [[resume]] its voice — bells, vendors, lessons. Then Pangda called them to the gate's inner face. Deep in the stone stood one carved line: THE TRUTH STANDS BEYOND THE FIVE GATES — COME AND [[CLAIM]] IT. His father's carving — his father's promise. A-Luo pressed his palm to the letters; in his pocket, the blank page turned warm, like a hand about to be held.`,
+    translation: `空白残页颤动的那一夜，雾给出了回应。一堵巨大的灰墙在河对岸升起——遗忘之雾本尊，如今是一股有同一个心智的潮。警报撕开天空；图书管点亮每一扇窗，好让全城都看见那面墙。扫帚老头扫爷登上大门，出任指挥官；一个小时内，四座学院结盟，同举一旗。守城者带着这个时代的炸弹：爆成寂静的被遗忘音节。一战不可避免——雾为残页而来，残页已选定它的作者。
 
-Half asleep, Fei-Ge noticed something strange: "Its breath smells like old paper and coffee, not fire. It keeps staring at the gate — like someone waiting for a [[deadline]]."
+一些长老劝学院保持中立：交出残页，保全城市。扫爷用扫帚般的平静拒绝了。「投降与沉默，从来没有救过任何一座城。我们不拿孩子做交易。」周擎站在雨里，父亲之印握在赤手；他的动机明得像标签。他早把账本徽记与禁名录那页对上了，也得出一个儿子能得出的唯一结论：黑市是教务长建的，十年前他还打断了一脉血脉来掩埋此事。他的怒火没了；剩下的是更冷的东西。他把印章丢在阿洛脚边。「用我。我知道我父亲怎么想——每一个诡计，每一条捷径，每一处恐惧。」
 
-Then the dragon said slowly: "I don't think you are strong enough to pass." Ping-Ye raised his pen — and froze. "This sentence is... perfect." Juanjuan nodded: "It is testing [[whether]] we correct correct sentences! [[Neither]] of you move! [[Either]] you hold your pens or you lose everything!" The whole team [[protected]] themselves by doing nothing. The dragon trembled: "Ten years... you are the first team that did not attack blindly. I was starting to believe that was [[impossible]]."
+午夜，雾压了上来。它学会了模仿夜市里每一个死去的声音，只为耗干歌者的神经。尽管嚎叫不止，吟唱没有停。疲惫的领唱每小时轮换；传令兵送来水、安慰、新句。没有一个歌者会抛弃城墙，因为身后睡着上万名学生，他们的梦还完整而朦胧。每唱真一个旧词，就有一只被囚词魂挣脱——仿佛歌声能把它们一一解放。雾的力量响亮，却从不真纯；城的力量安静而深沉。
 
-A-Luo walked up alone. "I [[believe]] that if you tell us your story, we will help you correct every mistake — whether you are a dragon or an old man." Click. The last scale fell. The dragon shrank into a grey-haired old examiner. "Breaking [[news]]," Pang-Da whispered. "The BOSS is a grandpa."
+狂风起而阻歌；站在城墙最核心处的阿洛吞着雾本尊的嚎叫，没有什么能阻挡他。「除非我们一起记起来，」卷卷警告，「没有一堵墙守得住。到黎明，雾就会吞掉东门。」希望稀缺，他不浪费一字：「向全城发出一个呼吁。」于是阿洛高举双臂：「唱你真正拥有的词！没有什么能胜过一座记得住的城！」雾剧烈挣扎，嚎叫细成呜咽；东方破晓时，阿洛胸中的力量翻了一倍。老守关人低头：「词师。」
 
-"Ten years," he [[mentioned]] softly, "nobody ever asked whether I was tired. You not only found my errors but also respected my correct words. You have made great [[progress]]: grammar is not about attacking, but understanding. Tonight you [[achieved]] something bigger than a pass." Ping-Ye smiled: "Your [[efforts]] made me finally [[agree]] with you, young men."
-
-The old examiner drew a bronze ticket from the ink. "Next stop: the Museum of Time — it keeps everything you have ever written, even the composition you never handed in." Pang-Da raised his hand: "Does it keep food?" The old man smiled: "It keeps time itself. One last piece of free [[advice]]: correct your sentences, but never correct your dreams."`,
-    translation: `墨水洞窟安静得连胖达嚼东西都没声。突然地面裂开。最终 BOSS 从红色墨水雾气中升起——改错巨龙，每片黑色鳞片上都印着一个病句。它的吐息就是毒药：「我不知道出口在哪里去！他问我我是不是害怕了！我有许多 informations！」
-「规矩一！」卷卷飞了起来。「我们每改对一句，它掉一片鳞。规矩二，更重要：它有些句子是全对的。乱改会消耗你自己的能量。不读就改是个坏习惯——而这头龙就靠这个吃饭。」
-扫爷举起扫描设备：「检测到六十处错误，装备就绪。这一关需要的是耐心，不是蛮力——而且知道什么不该改，才是真本事。扫描仪还显示出一丝悲伤：这条龙曾经是改错关最严厉的考官。」
-第一波来得飞快：「She gave me two advices and three furnitures！」胖达冲出去：「简单！advice 和 furniture 都不可数——没有 s，没有 a！」巨龙笑了：「你那个胖朋友刚才睡觉说了个 an information。」能量值扣十点。阿洛保持冷静：「知识第一，拳头第二——这些词永远不加 s！」五片鳞掉了。
-第二波更猛：「你知道墨水河在哪里流吗？告诉我你想要什么！我想知道 that 你能不能活过下一口吐息！」阿洛数道：「一口气三个错：where the ink river flows；what you want；还有——I wonder whether you can survive！」二十片鳞应声而落。
-半睡半醒的飞哥注意到一件怪事：「它的吐息闻起来像旧纸和咖啡，不是火。而且它一直盯着那扇门——像在等什么截止时间。」
-然后巨龙缓缓说：「I don't think you are strong enough to pass.」瓶爷举起笔——僵住了。「这句话……全对。」卷卷点头：「它在测试我们会不会乱改正确的句子！谁都不许动！要么握紧笔，要么输掉一切！」全队用「什么都不做」保护了自己。巨龙颤抖了：「十年了……你们是第一支没有乱打的队伍。我都开始相信这是不可能的了。」
-阿洛独自走上前。「我相信，如果你告诉我们你的故事，我们会帮你改好每一个错——无论你是龙还是老人。」咔哒。最后一片鳞掉了。巨龙缩成了一位白发老考官。「突发新闻，」胖达小声说，「BOSS 是个爷爷。」
-「十年了，」他轻声说，「从来没有人问过我累不累。你们不仅找出了我的错误，还尊重了我正确的句子。你们取得了巨大的进步：语法不是用来进攻的，而是用来理解的。今晚你们实现了比及格更大的东西。」瓶爷笑了：「是你的努力让我们终于同意了你，年轻人。」
-老考官从墨水池里捞出一枚青铜门票。「下一站：时光博物馆——它保存着你写过的所有东西，包括你从来没交的那篇作文。」胖达举手：「有吃的吗？」老人笑了：「它保存的是时间本身。最后送你们一条免费建议：改你的句子，但永远不要改你的梦想。」`
+黎明把雾削成了破布条。如释重负随着水车驶过街道；学生们开始庆祝，阿洛望着城市恢复了它的声音——钟声、叫卖、课堂。然后胖达把他们叫到大门内侧。深嵌石中，立着一行刻字：真相在五关之后——来取。他父亲的刻痕——他父亲的承诺。阿洛把手掌按上那些字母；口袋里，空白残页转暖，像一只即将被握住的手。`
   },
 
-
   storyPoints: [
-    { "p": "现在完成时", "q": "You have made great progress: grammar is not about attacking, but understanding.", "n": "have/has + 过去分词：过去发生影响现在；标志词 since/for/already/yet/just" },
-    { "p": "被动语态", "q": "He asked me that I was scared!", "n": "be + 过去分词：主语是动作承受者；无被动动词例外：happen/take place/consist of" },
-    { "p": "宾语从句", "q": "\"The BOSS is a grandpa.\" \"Ten years,\" he mentioned softly, \"nobody ever asked whether I was tired.", "n": "宾语从句用陈述语序；主过从过：主句过去时从句跟过去时态" },
-    { "p": "so...that 结果状语", "q": "The Ink Cave was so quiet that even Pang-Da chewed silently.", "n": "so + 形容词/副词 + that：如此……以至于" },
-    { "p": "not only...but also", "q": "You not only found my errors but also respected my correct words.", "n": "not only...but also 并列结构，前后成分要对称" },
-    { "p": "比较级/最高级", "q": "Tonight you achieved something bigger than a pass.\" Ping-Ye smiled: \"Your efforts made me finally agree with you, young men.\" The old examiner drew...", "n": "比较级 + than；最高级 + the；much/even 可修饰比较级" },
-    { "p": "主将从现", "q": "\"I believe that if you tell us your story, we will help you correct every mistake — whether you are a dragon or an old man.\" Click.", "n": "时间/条件从句用一般现在时，主句才用将来时——主将从现" }
+    { "p": "so that 引导目的状语从句", "q": "the library lit every window so that the whole city could see the wall", "n": "so that + can/could/may/might 表目的「为了」；若从句用一般现在/过去且无情态动词，则多表结果「以至于」——语境判定；in order that 同义更正式" },
+    { "p": "过去完成时并列 + 情态动词后省略动词原形", "q": "He had matched the ledger's crest to the forbidden-name page and drawn the only conclusion a son could", "n": "had matched...and (had) drawn 并列完成时，第二个 had 可省；a son could (draw)——情态动词后省略与前文相同的动词原形" },
+    { "p": "as if + 情态虚拟", "q": "as if the chant could liberate them one by one", "n": "歌声并不能真解放词魂（是词魂自己挣脱）→ as if + could 虚拟；as if 后可用 were/could/would 表与事实相反的设想" },
+    { "p": "将来完成时 will have done", "q": "By dawn the fog will have swallowed the east gate.", "n": "by + 未来时间点 → will have done「到那时将已做完」；主语雾是 swallow 的执行者（主动）；改错高频：by dawn...swallow ❌ 漏 have" },
+    { "p": "neither...nor 并列主语（就近一致 + 现在完成时）", "q": "Neither surrender nor silence has ever saved a city.", "n": "neither...nor 连接主语，谓语就近一致：nor 后 silence 是单数 → has；ever 与完成时连用表「从来」；either...or 同款就近规则" },
+    { "p": "不及物动词 + 形容词主补 & be about to do 被动不定式", "q": "the blank page turned warm, like a hand about to be held", "n": "turn 系动词 + warm 形容词表「变得」；be about to do「即将」；to be held 不定式被动——「手」是被握的对象，主动 to hold 则方向颠倒" }
   ],
   words: [
-    { w: "advice", ipa: "/ədˈvaɪs/", pos: "n.", cn: "建议（不可数）", ex: "He gave me a piece of advice.", excn: "他给了我一条建议。", memo: "不可数！没有 advices；一条 = a piece of advice；advise 才是动词" },
-    { w: "information", ipa: "/ˌɪnfəˈmeɪʃn/", pos: "n.", cn: "信息（不可数）", ex: "This piece of information is useful.", excn: "这条信息很有用。", memo: "an information ❌；一条 = a piece of information" },
-    { w: "news", ipa: "/njuːz/", pos: "n.", cn: "新闻（不可数）", ex: "The news is exciting.", excn: "这新闻令人兴奋。", memo: "⚠️ 长得像复数实则不可数，谓语用 is！No news is good news." },
-    { w: "progress", ipa: "/ˈprəʊgres/", pos: "n.", cn: "进步（不可数）", ex: "You have made great progress.", excn: "你取得了很大进步。", memo: "make progress 固定搭配；make a progress ❌" },
-    { w: "furniture", ipa: "/ˈfɜːnɪtʃə/", pos: "n.", cn: "家具（不可数）", ex: "The room has little furniture.", excn: "房间几乎没有家具。", memo: "一件家具 = a piece of furniture；a furniture ❌" },
-    { w: "equipment", ipa: "/ɪˈkwɪpmənt/", pos: "n.", cn: "设备（不可数）", ex: "The lab has modern equipment.", excn: "实验室有现代化设备。", memo: "equip v. 装备；equipments ❌，永远不带 s" },
-    { w: "agree", ipa: "/əˈgriː/", pos: "v.", cn: "同意", ex: "I agree with you, but I don't agree to the plan.", excn: "我同意你的看法，但不同意这个计划。", memo: "agree with sb.（人）/ agree to sth.（事）/ agree on sth.（达成一致）" },
-    { w: "either", ipa: "/ˈaɪðə/", pos: "adj./pron./adv.", cn: "两者之一；也（不）", ex: "Either answer is OK. / I don't like it, either.", excn: "两个答案都行。/ 我也不喜欢它。", memo: "either...or 要么……要么；not...either = neither" },
-    { w: "neither", ipa: "/ˈnaɪðə/", pos: "adj./pron./adv.", cn: "两者都不", ex: "Neither of the answers is right.", excn: "两个答案都不对。", memo: "neither...nor 就近原则：Neither he nor I am...；neither 谓语单数" },
-    { w: "believe", ipa: "/bɪˈliːv/", pos: "v.", cn: "相信；认为", ex: "I believe that practice makes perfect.", excn: "我相信熟能生巧。", memo: "believe that + 从句；否定前移：I don't believe he is right = 我认为他不对；belief n. 信念" },
-    { w: "wonder", ipa: "/ˈwʌndə/", pos: "v./n.", cn: "想知道；奇迹", ex: "I wonder whether the old man was once a dragon.", excn: "我想知道那位老人是否曾经是一条龙。", memo: "wonder if/whether + 从句「想知道是否」；wander 徘徊是形近陷阱；No wonder! 怪不得！" },
-    { w: "whether", ipa: "/ˈweðə/", pos: "conj.", cn: "是否", ex: "We discussed whether we should attack or wait.", excn: "我们讨论了是该进攻还是等待。", memo: "whether...or not 直接连用，if 必须隔开；介词后只能用 whether：It depends on whether it rains" },
-    { w: "knowledge", ipa: "/ˈnɒlɪdʒ/", pos: "n.", cn: "知识", ex: "Knowledge first, fists second — that is how we beat the dragon.", excn: "知识第一，拳头第二——我们就是这样打败巨龙的。", memo: "复现 ch01：不可数名词，Knowledge is power；打 BOSS 靠脑不靠拳" },
-    { w: "effort", ipa: "/ˈefət/", pos: "n.", cn: "努力", ex: "Your efforts made the old examiner smile again.", excn: "你们的努力让老考官重新笑了。", memo: "复现 ch01：make an effort；ch02-ch06 已多轮复现；spare no effort 不遗余力" },
-    { w: "achieve", ipa: "/əˈtʃiːv/", pos: "v.", cn: "实现；达到", ex: "Tonight you achieved something bigger than a pass.", excn: "今晚你们实现了比及格更大的东西。", memo: "复现 ch01：achieve one's goal；ch02-ch06 已复现；achievement n. 成就" },
-    { w: "affect", ipa: "/əˈfekt/", pos: "v.", cn: "影响", ex: "A wrong correction will affect your energy.", excn: "乱改一处会影响你的能量值。", memo: "复现 ch01：affect your final grade；affect 动词 / effect 名词（ch01 易混组讲过）" },
-    { w: "require", ipa: "/rɪˈkwaɪə/", pos: "v.", cn: "要求；需要", ex: "This final gate requires patience, not power.", excn: "这最后一关需要耐心，而不是蛮力。", memo: "复现 ch01：require sb. to do sth.；ch02/ch04 已复现" },
-    { w: "deadline", ipa: "/ˈdedlaɪn/", pos: "n.", cn: "截止日期", ex: "The dragon keeps staring at the gate, like someone waiting for a deadline.", excn: "巨龙一直盯着那扇门，像在等什么截止时间。", memo: "复现 ch01：Don't miss the deadline；dead(死)+line(线)，过了就凉" },
-    { w: "habit", ipa: "/ˈhæbɪt/", pos: "n.", cn: "习惯", ex: "Correcting sentences without reading them is a bad habit.", excn: "不读就改句子是个坏习惯。", memo: "复现 ch02：form good habits 养成好习惯；ch05/ch06 已复现；break the habit 改掉习惯" },
-    { w: "strength", ipa: "/streŋθ/", pos: "n.", cn: "力量；优势", ex: "Knowing what NOT to correct is a real strength.", excn: "知道什么不该改才是真本事。", memo: "复现 ch03：strengths and weaknesses 优势与弱点；ch05 已复现；strong adj. / strengthen v." },
-    { w: "device", ipa: "/dɪˈvaɪs/", pos: "n.", cn: "设备，装置", ex: "Sao-Ye's scanning device detected sixty errors.", excn: "扫爷的扫描设备检测到六十处错误。", memo: "复现 ch02：真题高频 mobile device；ch04 已复现；device 名词 / devise 动词（设计）" },
-    { w: "energy", ipa: "/ˈenədʒi/", pos: "n.", cn: "能量；精力", ex: "Every wrong correction costs you ten energy points.", excn: "每乱改一处扣你十点能量。", memo: "复现 ch05：be full of energy；ch06 已复现（solar energy 太阳能）" },
-    { w: "protect", ipa: "/prəˈtekt/", pos: "v.", cn: "保护", ex: "Doing nothing at the right time can protect you.", excn: "在正确的时间什么都不做也能保护你。", memo: "复现 ch06：protect...from... 保护……免受；protection n. 保护" },
-    { w: "mention", ipa: "/ˈmenʃn/", pos: "v./n.", cn: "提到", ex: "The old man mentioned that nobody had asked about him for ten years.", excn: "老人提到，十年来没有人问过他的情况。", memo: "复现 ch09：don't mention it 别客气；as mentioned above 如上所述" },
-    { w: "important", ipa: "/ɪmˈpɔːtnt/", pos: "adj.", cn: "重要的", ex: "It is important to read the whole sentence before you correct it.", excn: "改错之前先读完整句，这很重要。", memo: "真题高频：It is important (for sb.) to do；play an important role in 在……中起重要作用" },
-    { w: "impossible", ipa: "/ɪmˈpɒsəbl/", pos: "adj.", cn: "不可能的", ex: "Nothing is impossible to a willing heart.", excn: "心之所愿，无事不成。", memo: "真题高频：im- 前缀表否定；Nothing is impossible 写作金句；反义 possible" }
+    { w: "commander", ipa: "/kəˈmɑːndə(r)/", pos: "n.", cn: "指挥官，司令", ex: "Scan-ye the sweeper took the great gate as commander.", excn: "扫帚老头扫爷登上大门，出任指挥官。", memo: "command（指挥）+ er（人）→ 发号施令者 → 指挥官；commander-in-chief 总司令；command n./v. 命令，指挥" },
+    { w: "allied", ipa: "/əˈlaɪd/", pos: "adj.", cn: "结盟的，联合的", ex: "Four academies stood allied under one banner.", excn: "四座学院结盟，同举一旗。", memo: "ally（v. 结盟）的过去分词作形容词；be allied with/to 与……结盟；名词 alliance 联盟（a military alliance 军事同盟）" },
+    { w: "liberate", ipa: "/ˈlɪbəreɪt/", pos: "v.", cn: "解放，释放", ex: "As if the chant could liberate the stolen word-souls one by one.", excn: "仿佛歌声能把被囚的词魂一一解放。", memo: "liber（自由，同 liberty 自由）+ ate → 使自由 → 解放；liberation n. 解放；liberator 解放者" },
+    { w: "inevitable", ipa: "/ɪnˈevɪtəbl/", pos: "adj.", cn: "不可避免的，必然的", ex: "The clash was inevitable — the fog had come for the page.", excn: "一战不可避免——雾为残页而来。", memo: "in（不）+ evitable（可避免的，同 avoid）→ 躲不开的 → 必然的；inevitably adv.；写作金句：Change is inevitable.（变化不可避免）" },
+    { w: "immense", ipa: "/ɪˈmens/", pos: "adj.", cn: "巨大的，广大的", ex: "An immense gray wall rose beyond the river.", excn: "一堵巨大的灰墙在河对岸升起。", memo: "im（不）+ mense（测量，同 measure）→ 大得无法测量 → 巨大的；an immense improvement/impossibility；比 big 高八个档" },
+    { w: "hinder", ipa: "/ˈhɪndə(r)/", pos: "v.", cn: "阻碍，妨碍", ex: "Wind rose to hinder the chant; nothing could hinder A-Luo.", excn: "狂风起而阻歌；没有什么能阻挡阿洛。", memo: "谐音「后的」→ 拖在后面 → 阻碍；hinder sb. from (doing) sth. 阻止某人做某事；名词 hindrance 阻碍（a hindrance to progress）" },
+    { w: "prevail", ipa: "/prɪˈveɪl/", pos: "v.", cn: "获胜，占优势；盛行", ex: "Nothing can prevail against a city that remembers.", excn: "没有什么能胜过一座记得住的城。", memo: "pre（压过）+ vail（力，同 valid 有效）→ 力压对手 → 获胜；prevail over/against 战胜；prevailing wind 盛行风（地理高频）；形容词 prevailing" },
+    { w: "motive", ipa: "/ˈməʊtɪv/", pos: "n./adj.", cn: "动机，目的；发动的", ex: "His motive was plain as a label: a son paying his father's debt.", excn: "他的动机明得像标签：一个替父还债的儿子。", memo: "mot（动，同 motion 运动）+ ive → 推动人行动的内在原因 → 动机；motive/motivation 常互换；同族 motivate 激励" },
+    { w: "appeal", ipa: "/əˈpiːl/", pos: "v./n.", cn: "呼吁；吸引；上诉", ex: "Make one appeal to the city: sing what you own.", excn: "向全城发出一个呼吁：唱你真正拥有的词。", memo: "ap（向）+ peal（推动）→ 推向众人 → 呼吁；appeal to sb. for sth. 为某事向某人呼吁；appeal to = attract 吸引（阅读高频双义）；上诉" },
+    { w: "bomb", ipa: "/bɒm/", pos: "n./v.", cn: "炸弹；轰炸", ex: "The defenders carried the bomb of this age: forgotten syllables that burst into silence.", excn: "守城者带着这个时代的炸弹：爆成寂静的被遗忘音节。", memo: "b 不发音读 /bɒm/「蹦」→ 轰然炸开；a bomb attack 炸弹袭击；bombing n. 轰炸；bombshell 惊人消息（比喻义阅读爱考）" },
+    { w: "neutral", ipa: "/ˈnjuːtrəl/", pos: "adj./n.", cn: "中立的；中和的；中立者", ex: "Some elders urged the academy to stay neutral.", excn: "一些长老劝学院保持中立。", memo: "neutr（两不，拉丁 neuter＝ne+uter「都不」）+ al → 哪边都不站 → 中立的；stay/remain neutral 保持中立；neutrality n. 中立" },
+    { w: "conclusion", ipa: "/kənˈkluːʒn/", pos: "n.", cn: "结论；结尾", ex: "He had drawn the only conclusion a son could.", excn: "他得出了一个儿子能得出的唯一结论。", memo: "con（共同）+ clus（关，同 close）+ ion → 把论证收拢 → 结论；draw/come to/reach a conclusion 得出结论；in conclusion 综上（写作收尾金句）" }
   ],
   confusions: [
     {
-      group: "so / such — 形容词归 so，名词归 such",
+      group: "appeal / appear — e 与 ea 一字之差",
       items: [
-        { w: "so", cn: "so + 形容词/副词", note: "so clever / so fast / so quickly" },
-        { w: "such", cn: "such + (a/an) + (adj.) + 名词", note: "such a clever boy / such bad weather（不可数不加冠词）" },
-        { w: "特例：so many/much/few/little", cn: "这四个量词前必须用 so", note: "so many books / so little time —— such many ❌！" }
+        { w: "appeal (v./n.)", cn: "呼吁；吸引；上诉", note: "appeal to sb. for sth. 呼吁；The chant appeals to young readers. 歌谣吸引年轻读者" },
+        { w: "appear (v.)", cn: "出现；似乎", note: "appear before dawn 黎明前出现；It appears that... 看来……" }
       ],
-      tip: "口诀：so 管形容词，such 管名词，但 many/much/few/little 这四兄弟只认 so。改错钉子户：such many students ❌ → so many students！",
-      drill: [
-        { s: "It was ___ a clever answer that the dragon smiled.", opts: ["such", "so"], a: 0, why: "such + a + adj. + 名词；so 直接修饰形容词" },
-        { s: "There were ___ many errors on its scales.", opts: ["so", "such"], a: 0, why: "many/much/few/little 四兄弟前只用 so" }
-      ]
+      tip: "appeal 是「推」给公众（呼吁/吸引/上诉），appear 是「来到眼前」（出现/似乎）。本章阿洛向全城 appeal（呼吁），雾在城外 appear（现身）。改错高频：appeal sb. to do ❌ → appeal to sb. to do。"
     },
     {
-      group: "few / a few / little / a little — 四兄弟态度表",
+      group: "liberate / deliberate — 解放与深思熟虑",
       items: [
-        { w: "few + 可数", cn: "没几个（否定）", note: "Few people know it. 几乎没人知道" },
-        { w: "a few + 可数", cn: "有几个（肯定）", note: "A few people know it. 有几个人知道" },
-        { w: "little + 不可数", cn: "没多少（否定）", note: "There is little milk. 牛奶快没了" },
-        { w: "a little + 不可数", cn: "有一点（肯定）", note: "There is a little milk. 还有的一点牛奶" }
+        { w: "liberate (v.)", cn: "解放，释放", note: "liberate the stolen word-souls 解放被囚词魂；liberation n." },
+        { w: "deliberate (adj./v.)", cn: "故意的；慎重考虑 /dɪˈlɪbəreɪt/", note: "a deliberate attack 有预谋的进攻 /adj.；deliberate on/upon 深思 /v." }
       ],
-      tip: "口诀：有 a 心里暖（肯定），没 a 心里凉（否定）；可数找 few 兄，不可数找 little 兄。完形里看 a 没 a 就能定态度。",
-      drill: [
-        { s: "There is ___ milk left; let's buy some more.", opts: ["a little", "little"], a: 0, why: "还要再买说明还有一点（肯定）→ a little" },
-        { s: "___ students can correct all sixty sentences.", opts: ["Few", "A few"], a: 0, why: "几乎没人能全改对（否定）→ few" }
-      ]
+      tip: "liberate = liber（自由）+ ate → 给自由；deliberate = de（加强）+ liber（权衡）+ ate → 反复掂量 → 故意的/深思。雾的进攻不是误击，是 deliberate（蓄意的）；歌者的旧词能 liberate（解放）词魂。"
     },
     {
-      group: "between / among — 二与三的楚河汉界",
+      group: "commander / command / comment — com 三兄弟各管一摊",
       items: [
-        { w: "between", cn: "（两者）之间", note: "between you and me / between the two buildings" },
-        { w: "among", cn: "（三者及以上）之中", note: "among the crowd / among all the students" }
+        { w: "commander (n.)", cn: "指挥官", note: "take the wall as commander 出任城防指挥官；commander-in-chief 总司令" },
+        { w: "command (v./n.)", cn: "命令；指挥；掌握", note: "command the chant 指挥吟唱；have a good command of English 精通英语（写作高频）" },
+        { w: "comment (v./n.)", cn: "评论，意见", note: "comment on/upon 对……发表评论；No comment. 无可奉告" }
       ],
-      tip: "口诀：二靠 between，三靠 among。⚠️ 介词后必须宾格：between you and me（不是 I）！改错爱把 me 偷换成 I。",
-      drill: [
-        { s: "The secret is just ___ you and me.", opts: ["between", "among"], a: 0, why: "两者之间 → between；介词后用宾格 me" },
-        { s: "The dragon hid itself ___ the sixty sentences.", opts: ["among", "between"], a: 0, why: "六十句是三者以上 → among" }
-      ]
+      tip: "commander 发 command（命令），围观者发 comment（评论）——扫爷指挥守城，长老们只会 comment。改错高频：comment 后接 on/upon，不接 about。have a good command of 是「精通」，不是「受命令」。"
+    },
+    {
+      group: "motive / motion / motivate — mot「动」字家族",
+      items: [
+        { w: "motive (n.)", cn: "动机，目的", note: "the motive behind the attack 袭击背后的动机；ulterior motive 不可告人的动机" },
+        { w: "motion (n.)", cn: "运动；动议", note: "set the machine in motion 使机器运转；motion and stillness 动与静" },
+        { w: "motivate (v.)", cn: "激励，激发", note: "be motivated by fear 被恐惧驱动；motivate sb. to do 激励某人做" }
+      ],
+      tip: "mot（动）：心里的动是 motive（动机），物理的动是 motion（运动），推动别人的动是 motivate（激励）。周擎的 motive 是替父还债，雾的 motion 是涨潮，卷卷的话 motivate 全城。"
     }
+  ],
+  hidden: [
+    { w: "general", known: "adj. 普遍的", hidden: "n. 将军；in general 总的来说", ex: "In general, the fog wins against the lonely.", excn: "总的来说，雾总是赢过孤独者。" },
+    { w: "position", known: "n. 位置", hidden: "n. 阵地；立场，态度", ex: "The east gate was the weakest position on the wall.", excn: "东门是城墙上最薄弱的阵地。" },
+    { w: "order", known: "n. 顺序", hidden: "n. 命令；秩序；v. 下令（order sb. to do）", ex: "The commander gave the order to relight every beacon.", excn: "指挥官下令重新点燃每一座烽火。" },
+    { w: "engage", known: "v. 从事（be engaged in）", hidden: "v. 交战，与……交战；吸引（engage one's attention）", ex: "The fog engaged the east wall before midnight.", excn: "午夜前，雾与东墙交上了火。" },
+    { w: "storm", known: "n. 风暴", hidden: "v. 猛攻，强攻（storm the gate）", ex: "The fog stormed the gate three times before dawn.", excn: "黎明前，雾三次猛攻城门。" }
   ],
   sentences: [
     {
-      en: "One of my friends who studied abroad <mark>says</mark> that <mark>the number</mark> of students choosing to return <mark>is</mark> increasing year by year.",
+      en: "Sirens tore the sky; the library lit every window <mark>so that</mark> the whole city <mark>could</mark> see the wall.",
       parts: [
-        "One of + 复数名词：中心词是 One「其中一个」，谓语用单数 says（改错高频）",
-        "who studied abroad 是定语从句修饰 friends",
-        "the number of... 「……的数量」作主语 → 谓语用单数 is；a number of + 复数才接 are",
-        "says that 后接宾语从句，从句用陈述语序：主语 the number + 谓语 is"
+        "分号连接两个独立分句：警报撕天 / 图书管亮窗",
+        "so that + could 引导目的状语从句：「为了让全城看见」（有情态动词 → 目的）",
+        "lit 是 light 的过去式/过去分词（light-lit-lit，也可 lighted）"
       ],
-      cn: "我一位留过学的朋友说，选择回国的学生数量正在逐年增加。",
-      slots: [
-        { s: "One of my friends ___ that...：中心词是 One，谓语用什么数？", opts: ["单数", "复数"], a: 0, why: "One of + 复数名词，中心词是 One → 谓语单数 says" },
-        { s: "the number of students ___ increasing：the number of + 复数名词，谓语用什么数？", opts: ["is", "are"], a: 0, why: "the number of... 作主语谓语用单数；a number of 才接复数" }
-      ]
+      cn: "警报撕开天空；图书管点亮每一扇窗，好让全城都看见那面墙。"
     },
     {
-      en: "<mark>Although</mark> the journey to success is long, everyone can reach the goal as long as he keeps moving forward.",
+      en: "With each old word sung true, a stolen word-soul <mark>broke</mark> loose — as if the chant <mark>could</mark> liberate them one by one.",
       parts: [
-        "⚠️ although 引导让步从句，主句前绝不能再加 but —— 改错第一大雷！（中文「虽然…但是」直译陷阱）",
-        "as long as 引导条件状语从句「只要」",
-        "keep doing sth. 坚持做某事；he keeps 三单",
-        "reach the goal = achieve the goal 实现目标"
+        "with + 名词 + 过去分词：独立主格结构（每唱真一个旧词，伴随着词魂「被解救」）",
+        "broke loose：不及物短语动词，无被动（❌ was broken loose）",
+        "as if + could 虚拟：歌声并不能直接解放词魂——与事实相反的设想"
       ],
-      cn: "虽然通往成功的路很长，但只要坚持向前，人人都能到达目标。",
-      slots: [
-        { s: "Although the journey is long, everyone can reach the goal ___ he keeps moving forward：引导「只要」。", opts: ["as long as", "as well as", "as soon as"], a: 0, why: "as long as 只要；as soon as 一……就；as well as 也" },
-        { s: "keep ___ forward：keep 后接动词什么形式？", opts: ["moving", "to move", "moved"], a: 0, why: "keep doing sth. 坚持做某事" }
-      ]
+      cn: "每唱真一个旧词，就有一只被囚词魂挣脱——仿佛歌声能把它们一一解放。"
+    },
+    {
+      en: "Deep in the stone <mark>stood</mark> one carved line: THE TRUTH STANDS BEYOND THE FIVE GATES — COME AND CLAIM IT.",
+      parts: [
+        "全倒装：地点状语 Deep in the stone 提前，谓语 stood 置于主语 one carved line 之前（主语是名词才可倒装）",
+        "carved 过去分词作前置定语：一行「被刻下」的字",
+        "冒号后为刻字内容，祈使句 COME AND CLAIM IT —— 与 ch07/ch08 倒装钩子一脉相承"
+      ],
+      cn: "深嵌石中，立着一行刻字：真相在五关之后——来取。"
     }
   ],
   phrases: [
-    { p: "a piece of", cn: "一条/一张/一件……（+不可数）", note: "a piece of advice/information/news/furniture；两条建议 = two pieces of advice，s 加在 pieces 上", warn: true,
-      gap: { s: "She gave me a ___ of good advice.", opts: ["piece", "pieces", "one"], a: 0, why: "一条建议 a piece of advice，advice 不可数" } },
-    { p: "make progress", cn: "取得进步", note: "progress 不可数：make great/rapid progress；make a progress ❌",
-      gap: { s: "You have made great ___ this term.", opts: ["progress", "progresses", "a progress"], a: 0, why: "progress 不可数，make progress 固定搭配" } },
-    { p: "point out", cn: "指出", note: "point out the mistakes 指出错误；改错关专属动词" },
-    { p: "in fact", cn: "事实上", note: "逻辑信号词：In fact, the dragon was once a kind examiner. = actually" },
-    { p: "depend on", cn: "依赖；取决于", note: "⚠️ 介词固定 on；改错爱换 depend in / depend of", warn: true },
-    { p: "insist on", cn: "坚持（要求）", note: "insist on doing；insist that...(should) do 坚持要求时从句要虚拟" },
-    { p: "look forward to doing", cn: "期待做……", note: "⚠️ to 是介词！后接 doing，接动词原形必错", warn: true },
-    { p: "be used to doing", cn: "习惯于做……", note: "⚠️ to 是介词；对比 used to do（过去常常做）——含义完全不同", warn: true,
-      gap: { s: "The old examiner is used to ___ alone for ten years.", opts: ["working", "work", "worked"], a: 0, why: "be used to doing 习惯于做；对比 used to do 过去常常" } },
-    { p: "pay attention to doing", cn: "注意做……", note: "⚠️ to 是介词；改错最爱把 to doing 改成 to do", warn: true },
-    { p: "lead to", cn: "导致", note: "⚠️ to 是介词：lead to doing / lead to success", warn: true,
-      gap: { s: "Careless reading leads ___ wrong corrections.", opts: ["to", "in", "for"], a: 0, why: "lead to 导致，固定介词 to" } },
-    { p: "object to", cn: "反对", note: "⚠️ to 是介词：object to doing sth. 反对做某事" },
-    { p: "devote...to doing", cn: "把……奉献给/致力于", note: "⚠️ to 是介词：devote oneself to studying 致力于学习", warn: true },
-    { p: "agree with sb. / agree to sth.", cn: "同意某人 / 同意某事", note: "⚠️ with 后接人（观点），to 后接事物（计划建议），改错爱互调", warn: true,
-      gap: { s: "The dragon finally agreed ___ the students and corrected the errors with them.", opts: ["with", "to", "for"], a: 0, why: "agree with + 人（观点）；agree to 接事物" } },
-    { p: "not only...but also", cn: "不仅……而且……", note: "⚠️ 前后必须平行对等（接名词都接名词）；连接主语时谓语就近原则", warn: true },
-    { p: "whether...or not", cn: "是否", note: "whether or not 直接连用 ✓；if or not ❌ —— I doubt whether or not he will come" },
-    { p: "can't...too...", cn: "再……也不为过", note: "You can't be too careful. 你再仔细也不为过；真题翻译高频句式，最怕望文生义" }
+    { p: "under one banner", cn: "在同一面旗帜下，同举一旗", note: "four academies allied under one banner 联盟表达；banner = flag" },
+    { p: "burst into", cn: "爆发出；突然进入（某种状态）", note: "burst into silence/tears/laughter 爆成寂静/大哭/大笑——burst-burst-burst 三同形；复现 ch04", warn: true },
+    { p: "hand over", cn: "移交，交出", note: "hand over the page 交出残页——及物可分：hand it over", warn: true },
+    { p: "draw a conclusion", cn: "得出结论", note: "drawn the only conclusion a son could；draw-drew-drawn", warn: true },
+    { p: "match...to...", cn: "把……与……对应/对上", note: "matched the ledger's crest to the forbidden-name page 把徽记与名录对上" },
+    { p: "drop...at one's feet", cn: "把……丢在某人脚边", note: "dropped the seal at A-Luo's feet 印章丢在脚边——投降与交托的双重动作" },
+    { p: "press at", cn: "进逼，步步紧逼", note: "The fog pressed at midnight. 雾午夜进压——press 军事义" },
+    { p: "rotate every hour", cn: "每小时轮换", note: "Weary chant leaders rotated every hour 轮换制守城；rotate v. 轮流，旋转" },
+    { p: "break loose", cn: "挣脱，脱逃", note: "a stolen word-soul broke loose——不及物短语，无被动", warn: true },
+    { p: "one by one", cn: "一个接一个地", note: "liberate them one by one 逐个解放——同款：step by step/wall by wall；复现 ch06" },
+    { p: "prevail against/over", cn: "战胜，压倒", note: "Nothing can prevail against a city that remembers——against/over 别丢", warn: true },
+    { p: "swallow whole", cn: "整个吞下", note: "swallowing the fog's own howl 把雾的嚎叫整口吞下——金手指名场面" },
+    { p: "thin to", cn: "变薄成，细成", note: "its howl thinning to a whine 嚎叫细成呜咽；thin v.（使）变稀" },
+    { p: "carve in/into", cn: "刻入，镌刻", note: "one carved line 深嵌石中；carve A in B 把 A 刻在 B 上", warn: true },
+    { p: "press...to", cn: "把……按在", note: "pressed his palm to the letters 把手掌按上刻字" },
+    { p: "be about to do", cn: "即将，正要", note: "a hand about to be held 一只即将被握住的手——不定式被动 to be held 表被动", warn: true }
   ],
   grammar: [
     {
-      t: "宾语从句陈述语序（改错 + 单选双高频）",
-      rule: "宾语从句一律用陈述语序：引导词 + 主语 + 谓语。一般疑问句变宾语从句时，先把 if/whether 提到句首，再把 do/does/did 送回主语后面还原成正常语序。I don't know where he lives（✓）≠ where does he live（✗）。",
-      ex: "The dragon asked me where the exit of the cave was, and I told him that I did not know, either.",
-      excn: "巨龙问我洞口在哪里，我告诉它我也不知道。",
-      signal: "看到疑问词后面紧跟 do/does/did 或情态动词 → 九成是语序错误；Do you know... / I wonder... / He asked... 后面全踩这个雷",
-      quiz: { s: "Do you know where the ink river ___? → ___", opts: ["flows", "does flow", "is flow"], a: 0, why: "宾语从句用陈述语序：疑问词 + 主语 + 谓语；does flow 是疑问语序 ❌" }
+      t: "unless 条件句（= if...not 的反义改写）",
+      rule: "unless = 如果……不/除非，引导否定条件：Unless we remember together, no wall will hold.（= If we don't remember together...）。注意：① unless 从句不用否定词叠加（Unless you don't help ❌）；② 主句用将来时，从句用一般现在时表将来。",
+      ex: "Unless we remember together, no wall will hold. Unless the fog is stopped, it will swallow every gate.",
+      excn: "除非我们一起记起来，否则没有一堵墙守得住。除非雾被拦下，它就会吞掉每一座门。",
+      signal: "un-（不）+ less（少）→「少了它不行」；从句主语与主句一致时可省略替换成祈使；unless 不用于虚拟语气（虚拟用 if...not）",
+      quiz: { s: "___ the city remembers together, the fog will swallow every gate.", opts: ["Unless", "If", "Because"], a: 0, why: "「不一起记起来 → 雾吞城」是否定条件 → Unless（= If the city does not remember）；If 表肯定条件，逻辑反了；Because 表原因" }
     },
     {
-      t: "that vs what — 宾语从句引导词二选一",
-      rule: "从句本身完整（不缺主语宾语）→ 用 that：只起连接作用，无词义，常可省略。从句缺主语或缺宾语 → 用 what：= the thing(s) that，既连接又充当成分。判断法：把引导词挖掉读一遍，句子完整选 that，缺东西选 what。",
-      ex: "He said that he was tired. / He told me what he needed.",
-      excn: "他说他累了。/ 他告诉了我他需要什么。",
-      signal: "改错雷区：said that 后从句完整不能再填 what；I wonder that you can survive ❌ —— survive 前缺成分，用 what 提问用 if/whether 问是非",
-      quiz: { s: "He told me ___ he needed. → ___", opts: ["what", "that", "whether"], a: 0, why: "needed 缺宾语 → what；that 只连接不成分" }
+      t: "despite / in spite of / although 三件套（介词与连词之争）",
+      rule: "despite 与 in spite of 是介词，后接名词/代词/动名词（Despite the immense fog, ...）；although/though 是连词，后接完整分句（Although the fog was immense, ...）。三大雷区：despite of ❌（despite 本身含 of 义）；despite + 从句 ❌；although...but ❌。",
+      ex: "Despite the immense howl, the chant went on until dawn.",
+      excn: "尽管嚎声震天，吟唱一直持续到黎明。",
+      signal: "空后是名词/doing → despite/in spite of；空后是主谓完整分句 → although/though；选项同时出现 despite of 直接判错",
+      quiz: { s: "___ the howl never stopped, the chant went on until dawn.", opts: ["Despite", "Although", "In spite of"], a: 1, why: "the howl never stopped 是完整分句（主语+谓语）→ 连词 Although；Despite/In spite of 是介词，后只能接名词或 doing，不能接分句" }
     },
     {
-      t: "if/whether 及否定前移（I don't think...）",
-      rule: "① 一般疑问句变宾语从句用 if/whether；whether 可与 or not 直接连用（whether or not），if 必须隔开（if...or not ✗）。② think/believe/suppose 接否定从句时，否定要前移到主句：I don't think he is right = 我认为他不对，而不是「我认为他不……」。",
-      ex: "I wonder whether or not the story is true. I don't believe he is a dragon — he is just a tired old man.",
-      excn: "我想知道这个故事是不是真的。我相信他不是龙——他只是一个疲惫的老人。",
-      signal: "if or not ❌ 只有 whether or not ✓；I think he is not right ❌ → I don't think he is right ✓ 否定前移",
-      quiz: { s: "I wonder ___ or not the story is true. → ___", opts: ["whether", "if", "that"], a: 0, why: "or not 直接连用只有 whether；if or not ❌" }
+      t: "将来完成时 will have done（by + 未来时间）",
+      rule: "by + 将来时间点，句中用 will have done 表示「到那时将已完成」：By dawn the fog will have swallowed the east gate. 主语执行动作 → 主动 will have done；主语承受动作 → will have been done。时间状语常配：by then/by 2030/by the time + 现在时从句。",
+      ex: "By dawn the fog will have swallowed the east gate — unless the chant holds.",
+      excn: "到黎明，雾将已吞掉东门——除非吟唱守住。",
+      signal: "by + 未来时间 / by the time + 一般现在时 → will have done；别与将来进行时 will be doing（届时正在进行）混淆",
+      quiz: { s: "By the third bell, the chant ___ the east gate a hundred times.", opts: ["will have held", "will hold", "holds"], a: 0, why: "by the third bell 是未来时间点 → 将来完成时 will have held（到那时将已守了……次）；will hold 表将来发生，无法体现「到那时为止的累计」；holds 一般现在时更不行" }
+    },
+    {
+      t: "真题高频 · so that / in order that + can/could/may/might（目的状语从句）",
+      rule: "so that 与 in order that 引导目的状语从句，从句常带情态动词 can/could/may/might：主句现在 → can/may；主句过去 → could/might。对比 so...that（如此……以至于，表结果，中间夹形容词/副词）。判断：so that + 句子（有主谓）→ 目的/结果；so + adj/adv + that → 结果。",
+      ex: "The library lit every window so that the whole city could see the wall.",
+      excn: "图书管点亮每一扇窗，好让全城都看见那面墙。",
+      signal: "so that 后有 could/may → 目的；so + adj + that → 结果；in order that 更正式；in order to + 动词原形是它的不定式兄弟",
+      quiz: { s: "Scan-ye took the wall ___ the whole city could hold its line.", opts: ["so that", "so...that", "such that"], a: 0, why: "so that + 从句（含 could）表目的「以便」；so...that 中间必须夹形容词/副词（so strong that）；such that 需接名词短语，结构不合" }
+    },
+    {
+      t: "真题高频 · either...or / neither...nor / both...and（并列连词与就近一致）",
+      rule: "either...or 要么……要么；neither...nor 既不……也不；both...and 两者都（谓语用复数）。主谓一致看「就近」：neither...nor / either...or 连接主语时，谓语与最近的主语一致——Neither surrender nor silence has ever saved a city.（就近 silence 单数 → has）。改错雷区：neither...or ❌；not...nor 混搭 ❌。",
+      ex: "Neither surrender nor silence has ever saved a city, and neither will it save this one.",
+      excn: "投降与沉默，从来没有救过任何一座城，将来也救不了这一座。",
+      signal: "并列主语谓语就近一致；neither 开头的主语后谓语用单数（neither of them is）；neither 作副词倒装：Neither do I",
+      quiz: { s: "Neither the elders nor the commander ___ willing to hand over the page.", opts: ["was", "were", "are"], a: 0, why: "neither...nor 就近一致：nor 后 the commander 单数 → was；were/are 与最近主语单数不符；本句陈述过去用 was" }
     }
   ],
   quiz: [
     {
-      q: "The teacher gave me some useful ______ on how to learn English.",
-      options: ["advices", "advice", "advise", "advising"],
-      answer: 1,
-      explain: "advice 不可数，没有 advices！advise 是动词。some useful advice 一些有用的建议。"
+      q: "\"Sing what you own! Nothing can ___ against a city that remembers!\"",
+      options: ["conceal", "prevail", "reveal", "obtain"], answer: 1, explain: "prevail 获胜、占优势（prevail against/over 战胜）；reveal 揭示；obtain 获得；conceal 隐藏。守城战口号 = 没有什么能胜过记住的城。"
     },
     {
-      q: "I ______ if the old examiner was once a dragon — the story sounds unbelievable.",
-      options: ["wander", "wonder", "attack", "agree"],
-      answer: 1,
-      explain: "wonder if/whether = 想知道是否；wander 徘徊是形近陷阱；attack 进攻、agree 同意，语义不通。No wonder! 怪不得！"
+      q: "The chant could not ___ the word-souls by force; it freed them by being sung true.",
+      options: ["deliberate", "moderate", "separate", "liberate"], answer: 3, explain: "liberate 解放（liber 自由 + ate）；deliberate 故意的/深思；moderate 适度的；separate 分开。歌声解放词魂 = liberate。"
     },
     {
-      q: "______ many students took part in the sports meeting.",
-      options: ["Such", "So", "Too much", "Very"],
-      answer: 1,
-      explain: "特例：so many/much/few/little + 名词。many 前面用 so 不用 such——改错钉子户。"
+      q: "The clash was ___ : the fog had come for the page, and the page had chosen its author.",
+      options: ["inevitable", "incredible", "invisible", "unstable"], answer: 0, explain: "inevitable 不可避免的（in 不 + evitable 可避免）；incredible 难以置信的；invisible 看不见的；unstable 不稳定的。宿命之战 = inevitable。"
     },
     {
-      q: "The dragon asked A-Luo ______.",
-      options: ["where does the exit go", "where the exit goes", "where did the exit go", "where the exit go"],
-      answer: 1,
-      explain: "宾语从句用陈述语序：where + 主语 the exit + 谓语 goes。A、C 都是疑问语序直接判死；D 缺三单 s。"
+      q: "Wind rose to ___ the chant, yet nothing could stop the singers at the wall's heart.",
+      options: ["hunger", "hinge", "hunter", "hinder"], answer: 3, explain: "hinder 阻碍、妨碍（hinder sb. from doing）；hunter 猎人；hinge 铰链/取决于；hunger 饥饿。谐音「后的」——拖在后面 = 阻碍。"
     },
     {
-      q: "Can you tell me ______ the word furniture means?",
-      options: ["that", "what", "which", "if"],
-      answer: 1,
-      explain: "means 缺宾语 → 用 what（既连接又充当成分）。that 只连接不成分，用于完整从句；if 表是否，语义不通。"
+      q: "The fog's power was loud but never ___ ; the city's was quiet and deep.",
+      options: ["genius", "genuine", "generous", "general"], answer: 1, explain: "复现 ch06 旧词 genuine 真的、真纯的；generous 慷慨的；genius 天才（名词）；general 总体的。响亮却非真 = 假货本色。"
     },
     {
-      q: "改错：He asked me that I had finished the task on time.",
-      options: ["that → whether", "me → I", "finished → finish", "on → in"],
+      q: "Zhou Qing's ___ was gone; what remained was colder — a son paying his father's debt.",
+      options: ["temperature", "temple", "temper", "tempest"], answer: 2, explain: "复现 ch07 旧词 temper 脾气；tempest 风暴；temperature 温度；temple 寺庙。怒火熄灭，冷意登场的转折句。"
+    },
+    {
+      q: "Scan-ye refused the elders: \"___ surrender ___ silence has ever saved a city.\"",
+      options: ["Neither; nor", "Both; and", "Either; or", "Not; but"], answer: 0, explain: "复现 ch10 语法主角 neither...nor：投降与沉默都没救过城；谓语就近一致 has 与 silence 呼应。either...or / both...and 语义相反。"
+    },
+    {
+      q: "A-Luo watched the city ___ its voice — bells, vendors, lessons in the open air.",
+      options: ["presume", "consume", "resume", "assume"], answer: 2, explain: "复现 ch08 旧词 resume 恢复、重新开始（watch sb. do 省 to）；presume 擅自，推测；consume 消耗；assume 假定。城市恢复声音 = resume。"
+    },
+    {
+      q: "改错：Either the commander or the elders was willing to defend the great gate until dawn.",
+      options: ["was → were", "or → nor", "Either → Neither", "to defend → defending"],
       answer: 0,
-      explain: "原句是一般疑问句变宾语从句，要用 if/whether 引导，that 用于陈述句变从句。asked sb. whether... 是否类宾语从句的改错高频点。"
+      explain: "改错雷区·主谓一致（就近原则）：either...or 连接主语时，谓语与最近的主语一致，nor/or 后的 the elders 是复数 → were willing；B 换成 nor 变成 neither...nor「既不……也不」，与「两方之一愿意守门」的句意相反；C 同样反转句意，neither 开头后也不能再接 or；D be willing to do 是固定搭配，to defend 正确。"
     },
     {
-      q: "英译汉选择：You can't be too careful when you correct your composition.",
-      options: ["你修改作文时不能太认真。", "修改作文时再怎么仔细都不为过。", "你不能太认真地修改作文吗？", "改作文太仔细是行不通的。"],
-      answer: 1,
-      explain: "can't...too... 固定句式 = 再……也不为过。望文生义翻译成「不能太认真」就掉坑了——真题翻译最爱考这类否定陷阱。"
-    },
-    {
-      q: "Ten years later, the old examiner finally agreed ______ the students' plan and agreed ______ them that mistakes could be corrected.",
-      options: ["to; with", "with; to", "with; with", "to; to"],
+      q: "汉译英：到黎明，雾就将已经吞掉东门了，除非全城一起唱起来。",
+      options: ["By dawn the fog will have swallowed the east gate unless the whole city sings together.", "By dawn the fog will swallow the east gate unless the whole city sings together.", "By dawn the fog will have swallowed the east gate unless the whole city will sing together.", "By dawn the fog will have been swallowed the east gate unless the whole city sings together."],
       answer: 0,
-      explain: "agree to + 事物（计划/建议）；agree with + 人（观点）。第一空接 plan 用 to，第二空接 them 用 with——介词搭配是完形第一考点。"
+      explain: "考点：by + 未来时间点 → 将来完成时 will have done；unless 条件句主将从现（从句用一般现在时 sings）；B 错在漏掉 have，will swallow 只表将来发生，体现不出「到黎明将已完成」；C 错在 unless 从句用了 will sing，违反主将从现；D 错在 will have been swallowed 变成被动，雾是吞的动作发出者，应用主动。"
     }
   ]
 });

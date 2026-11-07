@@ -1,5 +1,83 @@
-/* ===== 题型特训营 · 近五年真题与预测卷提炼 ===== */
+/* ===== 题型特训营 · 近八年真题与机构预测卷提炼 ===== */
 window.TRAINING = {
+  /* 8 年真题考情总览（2017-2024 命题规律 + 预测卷风向） */
+  examInsight: {
+    title: "📊 八年真题考情雷达",
+    structure: [
+      { name: "阅读理解", score: 40, detail: "4 篇 × 5 题 × 2 分（20 题）", color: "#5dade2" },
+      { name: "完形填空", score: 20, detail: "1 篇 × 20 题 × 1 分", color: "#a855f7" },
+      { name: "阅读判断", score: 10, detail: "1 篇 × 5 题 × 2 分", color: "#4ecca3" },
+      { name: "英译汉选择", score: 10, detail: "5 题 × 2 分（四选一）", color: "#ffd700" },
+      { name: "选词填空", score: 15, detail: "10 选 5 填空 × 3 分", color: "#ff9f1c" },
+      { name: "汉译英翻译", score: 15, detail: "5 句 × 3 分", color: "#5dade2" },
+      { name: "短文改错", score: 20, detail: "10 题 × 2 分", color: "#ff6b6b" },
+      { name: "写作", score: 20, detail: "1 篇议论文（三段汉语提纲）", color: "#a855f7" }
+    ],
+    readingTrend: {
+      head: "阅读 · 8 年命题规律",
+      points: [
+        "题型配比极稳：细节题约占 6 成（10-12 题），主旨 / 推理 / 词义各 2-3 题——细节题是基本盘，先保住",
+        "题材轮换池就五个：教育成长 / 科技生活 / 健康环保 / 社会热点 / 职场文化，机构预测卷也从这个池子里出",
+        "正确答案特征：几乎全是原文的「同义替换」（important→significant / buy→purchase），原词照搬的选项反而危险",
+        "干扰项三板斧：无中生有 / 正反混淆 / 以偏概全——8 年卷子翻来覆去就这三招",
+        "文章结构总分或总分总：首段末句 + 各段首句 + 尾段 = 主旨题答案区"
+      ]
+    },
+    clozeTrend: {
+      head: "完形 · 8 年命题规律",
+      points: [
+        "选材几乎固定：励志成长 / 生活哲理类记叙+议论混合文，正能量结局，读懂情感基调就成功一半",
+        "实词辨析是绝对主力：动词 / 名词 / 形容词辨析合计约 12-14 空，纯语法题近八年极少",
+        "逻辑转折题每年必考 2-3 空：but / however 前后语义反转，2025 卷最后一空照考 But",
+        "固定搭配每年 4-6 空：make a difference / play a role in / take part in 这类高频短语反复复现",
+        "首句不设空是铁律——它是全文时态、人称、主题的「总开关」"
+      ]
+    },
+    errorTrend: {
+      head: "改错 · 8 年考频排行（★★★=几乎年年考）",
+      points: [
+        "★★★ 时态不一致：and/but 连接的谓语时态统一，全文主时态是总开关",
+        "★★★ 主谓一致：the number of 单数 / a number of 复数 / There be 就近",
+        "★★★ 词性混用：系动词后形容词、修饰动词用副词——8 年没缺席过",
+        "★★★ 连词逻辑：although 不与 but 连用 / because 不与 so 连用",
+        "★★☆ 非谓语动词：介词后及 enjoy/finish/avoid 接 doing，动词原形不能作主语",
+        "★★☆ 代词错误：主格宾格混用、反身代词（myself）缺失",
+        "★★☆ 名词单复数：不可数词（advice/information/progress）加 s 是陷阱",
+        "★☆☆ 冠词误用：the same 固定 / 元音音素前用 an",
+        "★☆☆ 介词搭配：固定短语中 in/on/at 互换错",
+        "★☆☆ 倒装与句型：No sooner / Never 句首要倒装（近年新宠）"
+      ]
+    },
+    transTrend: {
+      head: "翻译 · 8 年高频句型四件套",
+      points: [
+        "英译汉四大金刚：定语从句（几乎每年）→ 被动语态 → 强调句 It is...that → 分词作状语",
+        "汉译英五大句型轮换：被动语态 / It is...that 强调 / Not only 倒装 / 条件句主将从现 / 现在完成时 since+for",
+        "评分按点给分：句子结构 2 分 + 关键词 1-2 分——关键词（如 grades 成绩）译错直接丢分",
+        "机构预测卷风向：题材向校园生活 / 社会发展倾斜，句子长度略增，但句型池不变"
+      ]
+    },
+    writeTrend: {
+      head: "写作 · 8 年文体轮换密码",
+      points: [
+        "两大文体交替：应用文（书信类：建议 / 邀请 / 感谢 / 投诉 / 通知）与议论文（观点对比型）隔年轮换",
+        "书信类三段万能结构：写信目的 → 具体展开 2-3 点 → 期待回复，八年稳定不变",
+        "议论文固定套路：引话题 → 立观点 → 两理由 + For instance 例证 → In conclusion 呼吁",
+        "评分三维：内容切题 / 语言准确 / 衔接连贯各占约 1/3——连接词（However/Therefore）是白送的衔接分",
+        "预测卷高频话题池：网络生活 / 志愿服务 / 健康作息 / 终身学习 / 环境保护——与阅读题材共用话题库"
+      ]
+    },
+    strategy: {
+      head: "🎯 150 分作战策略（按性价比排序）",
+      points: [
+        "第一梯队：阅读细节题（20 分基本盘）+ 写作三段模板（30 分可背可控）= 50 分先收入囊中",
+        "第二梯队：翻译句型四件套 + 改错五大金刚 = 60 分全是「规律题」，规律吃透分数稳",
+        "第三梯队：完形三遍法 + 逻辑词 = 20 分拉分题，靠日常搭配积累",
+        "考场时间分配建议：阅读 40 分钟 → 完形 15 → 改错 10 → 翻译 25 → 写作 25 → 涂卡检查 5"
+      ]
+    }
+  },
+
   reading: {
     title: "阅读理解 · 40 分（4 篇 × 20 题）",
     steps: [
@@ -393,5 +471,272 @@ window.TRAINING = {
         { line: "The trip had taught me that a simple life can bring great joy.", wrong: "had taught", right: "taught", type: "时态错误", explain: "returned和feel都是一般过去时，taught与之并列即可，过去完成时had taught在此处略显过度，应与上下文时态保持一致，改为taught。" }
       ]
     }
-  ]
+  ],
+  /* ===== 新大纲题型 · 阅读判断 10 分 ===== */
+  judge: {
+    title: "阅读判断 · 10 分（1 篇 × 5 题 × 2 分）",
+    steps: [
+      "本质是「细节题的判断版」：给 5 个陈述句，判断与原文相符/不符——答案永远能在原文找到依据，找不到依据本身就是答案。",
+      "先读 5 个陈述句再读文章：圈出每句的关键词（人名/数字/比较级/绝对词），带着 5 个靶子进文。",
+      "三大陷阱模式：①程度篡改（原文「部分/可能/通常」→ 陈述「全部/一定/总是」）②张冠李戴（把 A 的特征安给 B）③无中生有（原文根本没提）。",
+      "数字、时间、比较级是最爱挖坑的位置——回原文逐项核对，一个数字都不能凭印象。",
+      "谨慎判错口诀：「绝对化 + 找不到原文依据」的陈述，九成是错。"
+    ],
+    demo: {
+      passage: `Morning exercise has long been praised by health experts. A recent study followed two groups of office workers for six months. One group walked for thirty minutes before work, while the other group did no morning exercise. The walking group reported better sleep quality and lower stress levels. Some members even said they gave up coffee because they no longer felt sleepy in the morning. However, the study also found that people who exercised too early — before sunrise — sometimes felt more tired during the day. Experts suggest that the best time is between six and eight in the morning, and that twenty minutes is enough for beginners.`,
+      questions: [
+        {
+          q: "The study followed office workers for half a year.",
+          options: ["相符 (True)", "不符 (False)"],
+          answer: 0,
+          locate: "A recent study followed two groups of office workers for six months",
+          explain: "six months = half a year（半年），同义替换后与原文一致 → 相符。判断题的正确答案经常是数字/时间的同义改写。"
+        },
+        {
+          q: "All the walkers in the study gave up drinking coffee.",
+          options: ["相符 (True)", "不符 (False)"],
+          answer: 1,
+          locate: "Some members even said they gave up coffee",
+          explain: "原文说「一些成员 Some members」戒了咖啡，陈述句说「所有人 All」→ 程度篡改陷阱 → 不符。看到 all/never/only 先回原文核对范围。"
+        },
+        {
+          q: "Exercising before sunrise may make some people feel more tired in the day.",
+          options: ["相符 (True)", "不符 (False)"],
+          answer: 0,
+          locate: "people who exercised too early — before sunrise — sometimes felt more tired during the day",
+          explain: "原文：日出前锻炼的人有时白天更累 → 与陈述完全一致 → 相符。may/sometimes 这类留有余地的陈述往往与原文相符。"
+        }
+      ]
+    },
+    traps: [
+      {
+        name: "① 绝对化陷阱",
+        rule: "选项含 only / all / never / always / completely 时高危；原文说 most（大多数），选项改成 all（全部）即为错。",
+        wrong: "All the members in the study gave up drinking coffee.",
+        right: "见到绝对词立刻回原文核对程度与范围：原文是 some / most / often 还是 all / never / always，一个词都改不得。",
+        explain: "出题人最省力的坑就是把 most 换成 all、把 sometimes 换成 always——程度一改整句就废。你只要对绝对词保持条件反射，回原文对一眼就能收割，这是判断题性价比最高的判错信号。"
+      },
+      {
+        name: "② 无中生有",
+        rule: "选项内容看着合理、合常识，但原文从头到尾没提——常识合理不等于原文依据。",
+        wrong: "The walking group members became close friends with each other.",
+        right: "拿题干关键词回原文找定位句，找得到对应句才有资格判对；找不到依据本身就是答案——判错。",
+        explain: "我们专挑你愿意相信的话设坑：一起锻炼当然可能成为朋友，但文章一个字没写。判断题不是常识题，依据只有原文一处，盯死出处就不会掉进去。"
+      },
+      {
+        name: "③ 张冠李戴",
+        rule: "把 A 的特征、行为或原因安到 B 头上——人名、地名、时间必须逐一对号入座。",
+        wrong: "Wang Li bought the product because of its high market demand.",
+        right: "定位句里谁做了什么、为什么做，逐项核对人称归属；2025 真卷 BooBoo 题里 Wang Li 的购买原因与市场需求被调包就是这类。",
+        explain: "原文说 Wang Li 买是因为自己需要，商家看到的是市场需求大——两件事都是真的，命题人只要把原因换个人挂，正确就变错误。人名一多你越要冷静：先把定位句里的主语圈出来再比对，一秒识破。"
+      },
+      {
+        name: "④ 因果倒置",
+        rule: "原文 A 因 B 果，选项写成 B 因 A 果；盯紧 because / lead to / so that 两端的方向。",
+        wrong: "She practiced every day because she won the contest.",
+        right: "定位因果句，画出 because / so / lead to 前后的内容，先确认谁因谁果，方向反了直接判错。",
+        explain: "原文是每天练习所以夺冠，选项把夺冠当成练习的原因——两件事原文都写了，只把因果箭头掉了个头，语言上毫无破绽。判断题里这种坑最难凭语感发现，必须动笔画箭头核对方向。"
+      },
+      {
+        name: "⑤ 偷换比较",
+        rule: "原文 twice as large as 被改写成 twice larger than；as...as 同级结构与比较级结构不可互换，倍数含义会悄悄改变。",
+        wrong: "The new hall is twice larger than the old one.",
+        right: "见比较就回原文核对结构：as...as 表相等，twice as large as（是两倍大）与 twice larger than（大两倍，即三倍）差整整一倍，不能混。",
+        explain: "数字和倍数是命题人的心头好，因为改一个词意思就翻倍变化，而学生往往只认得 twice 和 large 两个词就敢判对。凡是选项带比较级或倍数，原文那句必须逐词对照结构，这是保命动作。"
+      },
+      {
+        name: "⑥ 以偏概全",
+        rule: "把单个例子或某一段的内容说成全文主旨或普遍结论；主旨要看首末段主题句。",
+        wrong: "The passage mainly shows that morning walks help people sleep better.",
+        right: "主旨题用首末段主题句加各段首句串起来验证：只覆盖一段、一个例子的陈述范围不够，直接排除。",
+        explain: "原文写了晨走改善睡眠这一段，我就赌你只认真读了这一段——把局部包装成 mainly，十个学生九个上钩。记住主旨必须罩得住全文，罩不住的再眼熟也不选。"
+      }
+    ]
+  },
+  /* ===== 新大纲题型 · 选词填空 15 分 ===== */
+  blankSelect: {
+    title: "选词填空 · 15 分（Section B · 中文对照 · 10 选 5）",
+    steps: [
+      "真题格式（2026 Section B）：中文原文在上、英文译文挖 5 空在下、词库 10 选 5（A-J）——每空 3 分，本质是「中英对照 + 词汇分类」题。",
+      "第一步：把 10 个词分类——动词 / 分词 / 名词各几堆。动词常是近义对（lies/stands）、分词一对形近（witnessing/watching）、名词一群（link/markers/location）。",
+      "第二步：按空位需求取用——缺谓语去动词堆（注意时态）、one of 后找复数名词、Its 后找名词、逗号后无连词用分词。",
+      "第三步：回中文原文逐句定位——中文是答案地图，几乎每空都有原词对照（位置→location、基点→markers、记录→witnessing）。",
+      "排雷：同篇不会重复用词（relationship 前文已出现就排除）；形近词组（confidence/confidant、witnessing/watching）专治拼写糊弄。"
+    ],
+    demo: {
+      passage: `Section B 式 · Directions: Choose the appropriate word to fill in each blank (3×5)\n【中文原文】图书馆是校园里最受欢迎的地方之一。它不仅收藏着数十万册图书，还为学生们提供了安静的自习环境。近年来，学校对图书馆进行了改造，增设了电子阅览区和讨论室，使其功能更加丰富，也成为展示校园文化的一扇窗口，吸引越来越多的学生爱上阅读。\n【英文填空】The library is one of the most popular places on campus. It (1)______ hundreds of thousands of books and provides students with a quiet space for self-study. In recent years, the school has (2)______ the library, adding an e-reading area and discussion rooms, which (3)______ its functions. It has also become a (4)______ through which campus culture is displayed, (5)______ more and more students to fall in love with reading.\n【词库】A. houses / B. window / C. improved / D. enriches / E. encouraging / F. attracts / G. borrowed / H. strict / I. purpose / J. quietly`,
+      questions: [
+        {
+          q: "第 (1) 空：It ______ hundreds of thousands of books and provides students with a quiet space for self-study.",
+          options: ["houses", "window", "improved", "enriches", "encouraging", "attracts", "borrowed", "strict", "purpose", "quietly"],
+          answer: 0,
+          locate: "中文原文「它不仅收藏着数十万册图书」",
+          explain: "主语 It + 缺谓语 → 动词堆；中文「收藏着数十万册图书」→ house 作动词「容纳/收藏」（熟词生义，真题爱考）。F attracts「吸引」是近义干扰——吸引的是人不 used 于书；先分类再对照中文，十选五就变成十选二。"
+        },
+        {
+          q: "第 (2) 空：In recent years, the school has ______ the library, adding an e-reading area and discussion rooms",
+          options: ["houses", "window", "improved", "enriches", "encouraging", "attracts", "borrowed", "strict", "purpose", "quietly"],
+          answer: 2,
+          locate: "中文原文「学校对图书馆进行了改造」",
+          explain: "has + 过去分词（现在完成时）→ improved「改造」；中文「学校对图书馆进行了改造」原词对照。G borrowed「借」是 books 语境里的形近陷阱。动词堆里 A/C/D 都可接宾语，回中文定 improved。"
+        },
+        {
+          q: "第 (3) 空：...adding an e-reading area and discussion rooms, which ______ its functions",
+          options: ["houses", "window", "improved", "enriches", "encouraging", "attracts", "borrowed", "strict", "purpose", "quietly"],
+          answer: 3,
+          locate: "中文原文「使其功能更加丰富」",
+          explain: "which 指代前面新增的设施，非限制性定语从句缺谓语 → enriches「丰富」（中文「使其功能更加丰富」原词对照）；主语 which 单数 → 加 -es。词性分类后动词堆只剩 houses/enriches，houses 已用 → enriches。"
+        },
+        {
+          q: "第 (4) 空：It has also become a ______ through which campus culture is displayed",
+          options: ["houses", "window", "improved", "enriches", "encouraging", "attracts", "borrowed", "strict", "purpose", "quietly"],
+          answer: 1,
+          locate: "中文原文「展示校园文化的一扇窗口」",
+          explain: "a + 单数可数名词 → window「窗口」；中文「展示校园文化的一扇窗口」原词对照，through which 定语从句进一步锁定具象名词。I purpose 抽象名词对不上 through which 的具象隐喻。"
+        },
+        {
+          q: "第 (5) 空：..., ______ more and more students to fall in love with reading",
+          options: ["houses", "window", "improved", "enriches", "encouraging", "attracts", "borrowed", "strict", "purpose", "quietly"],
+          answer: 4,
+          locate: "中文原文「吸引越来越多的学生爱上阅读」",
+          explain: "逗号后无连词 → 分词作结果状语；encourage sb to do 固定搭配 → encouraging。F attracts 是近义干扰但 attract 后不接 sb to do（attract sb / appeal to sb to do 才通）——近义词还要核搭配，这是 10 选 5 的深层考点。"
+        }
+      ]
+    },
+    suffixes: [
+      {
+        type: "名词后缀 · -tion / -sion",
+        affixes: "-tion / -sion",
+        words: "educate→education, decide→decision",
+        note: "空在冠词或形容词后 → 名词槽 → 词库里优先找 -tion/-sion 结尾的词或名词原形。"
+      },
+      {
+        type: "名词后缀 · -ment / -ness / -th",
+        affixes: "-ment / -ness / -th",
+        words: "develop→development, happy→happiness, grow→growth, strong→strength",
+        note: "happy 去 y 加 -ness、grow/strong 直接换 -th 是拼写高频坑；形容词转名词常落在这组。"
+      },
+      {
+        type: "名词后缀 · -er / -or / -ist / -ian",
+        affixes: "-er / -or / -ist / -ian",
+        words: "teach→teacher, act→actor, art→artist, music→musician",
+        note: "空前有 a/an/the 且句意表示「人 / 职业 / 身份」时，先扫词库里这组后缀。"
+      },
+      {
+        type: "形容词后缀 · -ful / -less / -able / -ible",
+        affixes: "-ful / -less / -able / -ible",
+        words: "care→careful / careless, accept→acceptable, access→accessible",
+        note: "空在 be / 系动词后或名词前 → 形容词槽 → 注意 -ful 表肯定、-less 表否定，褒贬方向别看反。"
+      },
+      {
+        type: "形容词后缀 · -ive / -ous / -al / -y",
+        affixes: "-ive / -ous / -al / -y",
+        words: "create→creative, danger→dangerous, person→personal, rain→rainy",
+        note: "danger 加 -ous、rain 加 -y 这类「名词变形容词」在形容词槽出现率极高，先标词性再代入语境。"
+      },
+      {
+        type: "副词后缀 · -ly 及特例",
+        affixes: "-ly（特例：true→truly / whole→wholly / possible→possibly，le 去 e 加 y）",
+        words: "quick→quickly, true→truly, whole→wholly, possible→possibly",
+        note: "修饰动词 / 形容词 / 整句 → 副词槽 → 先套 -ly，再逐个核对 truly / wholly 这类去 e 加 y 特例拼写。"
+      },
+      {
+        type: "动词后缀 · -en / -ize / -ify / -ate",
+        affixes: "-en / -ize / -ify / -ate",
+        words: "wide→widen, modern→modernize, simple→simplify",
+        note: "空处在名词 / 形容词之后且缺谓语或不定式 → 动词槽 → 优先考虑这组「把形容词变动词」的后缀。"
+      },
+      {
+        type: "反义前缀高频 · un- / im- / in- / dis- / mis-",
+        affixes: "un- / im- / in- / dis- / mis-",
+        words: "unfair, impossible（≠unpossible）, incorrect, disagree, misunderstand",
+        note: "上下文有 but / however 转折时词库常混入反义前缀变体；im- 配 m/p 开头（impossible 不是 unpossible），前缀搭配要记死。"
+      }
+,
+      {
+        type: "身体疼痛后缀 · -ache（健康类高频）",
+        affixes: "-ache",
+        words: "head→headache, stomach→stomachache, tooth→toothache, back→backache",
+        note: "部位 + ache 表疼痛：headache 头痛 / stomachache 胃痛 / toothache 牙痛 / backache 背痛。ache 本身 v./n. 疼痛无 -ache 拼写变形；选词填空健康语境直接找 -ache 结尾即可。"
+      }    ],
+    extraBlankSets: [
+      {
+        topic: "AI 时代 · 智能学习（2026 阅读 / 作文同款话题）",
+        cn: "人工智能正在改变我们的学习和生活方式。它不仅能帮助人们更高效地完成日常工作，还能在教育、医疗等领域发挥重要作用。然而，过度依赖技术也可能带来新的问题。真正的强者懂得分清「使用工具」与「被工具控制」，并聪明地驾驭技术。",
+        passage: `Artificial intelligence is changing the way we study and live. It not only helps people finish daily work more (1)______, but also plays an important (2)______ in fields such as education and medical care. However, (3)______ too much on technology may bring new problems. Good learners know how to tell the (4)______ between using a tool and being controlled by it, and they always use technology in a (5)______ way.`,
+        bank: ["A. efficiently","B. balance","C. role","D. relying","E. smart","F. harmony","G. independent","H. lazily","I. reference","J. difference"],
+        questions: [
+          { q: "第 (1) 空：It not only helps people finish daily work more ______...", options: ["A. efficiently","B. balance","C. role","D. relying","E. smart","F. harmony","G. independent","H. lazily","I. reference","J. difference"], answer: 0, explain: "修饰 finish → 副词槽；efficient 变 efficiently。H lazily 是形近反义干扰——「更高效」不是「更懒散」。中文「更高效地完成日常工作」原词对照。" },
+          { q: "第 (2) 空：...plays an important ______ in fields such as education and medical care.", options: ["A. efficiently","B. balance","C. role","D. relying","E. smart","F. harmony","G. independent","H. lazily","I. reference","J. difference"], answer: 2, explain: "play an important role in 固定搭配；I relationship 是近义干扰——role in 才是命题高频组。中文「在教育、医疗等领域发挥重要作用」。" },
+          { q: "第 (3) 空：However, ______ too much on technology may bring new problems.", options: ["A. efficiently","B. balance","C. role","D. relying","E. smart","F. harmony","G. independent","H. lazily","I. reference","J. difference"], answer: 3, explain: "rely on「依赖」，动名词作主语 → relying；G independent 是反义形容词陷阱。中文「过度依赖技术」原词对照。" },
+          { q: "第 (4) 空：Good learners know how to tell the ______ between using a tool and being controlled by it.", options: ["A. efficiently","B. balance","C. role","D. relying","E. smart","F. harmony","G. independent","H. lazily","I. reference","J. difference"], answer: 9, explain: "tell the difference between A and B 固定搭配「区分」；I reference 是形近名词陷阱。中文「分清使用工具与被工具控制」。" },
+          { q: "第 (5) 空：...they always use technology in a ______ way.", options: ["A. efficiently","B. balance","C. role","D. relying","E. smart","F. harmony","G. independent","H. lazily","I. reference","J. difference"], answer: 4, explain: "in a + 形容词 + way 方式状语 → smart 原形；中文「聪明地驾驭技术」对照。G independent 语义相反。" }
+        ]
+      },
+      {
+        topic: "国潮 · 传统文化（2025 阅读同款话题）",
+        cn: "近年来，国潮文化在年轻人中越来越流行。从印有传统纹样的服饰到融入古典元素的电子产品，传统文化正以新的方式走进日常生活。这不仅体现了年轻一代对本土文化的自信，也为传统手艺人带来了新的发展机遇。越来越多的老手艺因此被赋予了新的生命。",
+        passage: `In recent years, Guochao culture has become increasingly (1)______ among young people. From clothes printed with traditional patterns to electronic products (2)______ with classical elements, traditional culture is entering daily life in new ways. This not only shows the young generation's (3)______ in local culture, but also brings new (4)______ for traditional craftsmen. As a result, more and more old (5)______ are given a new life.`,
+        bank: ["A. popular","B. designed","C. confidence","D. opportunities","E. crafts","F. creating","G. careful","H. confidant","I. tradition","J. difficult"],
+        questions: [
+          { q: "第 (1) 空：...Guochao culture has become increasingly ______ among young people.", options: ["A. popular","B. designed","C. confidence","D. opportunities","E. crafts","F. creating","G. careful","H. confidant","I. tradition","J. difficult"], answer: 0, explain: "become increasingly + 形容词；中文「越来越流行」原词对照；J difficult 反义干扰。" },
+          { q: "第 (2) 空：...electronic products ______ with classical elements...", options: ["A. popular","B. designed","C. confidence","D. opportunities","E. crafts","F. creating","G. careful","H. confidant","I. tradition","J. difficult"], answer: 1, explain: "products ______ with... → 过去分词作后置定语（产品是「被设计」的）；F creating 是主动陷阱——产品不会自己创造。" },
+          { q: "第 (3) 空：...shows the young generation's ______ in local culture...", options: ["A. popular","B. designed","C. confidence","D. opportunities","E. crafts","F. creating","G. careful","H. confidant","I. tradition","J. difficult"], answer: 2, explain: "名词所有格 generation's 后 → 名词；show confidence in 固定搭配「对……自信」；H confidant「密友」是 confidence 的形近陷阱、G careful 形近。" },
+          { q: "第 (4) 空：...brings new ______ for traditional craftsmen.", options: ["A. popular","B. designed","C. confidence","D. opportunities","E. crafts","F. creating","G. careful","H. confidant","I. tradition","J. difficult"], answer: 3, explain: "new + 复数名词 + for → opportunities「机遇」；中文「带来了新的发展机遇」原词对照。" },
+          { q: "第 (5) 空：...more and more old ______ are given a new life.", options: ["A. popular","B. designed","C. confidence","D. opportunities","E. crafts","F. creating","G. careful","H. confidant","I. tradition","J. difficult"], answer: 4, explain: "old + 复数名词，are given 被动 → crafts「手艺」；中文「老手艺被赋予新生命」原词对照。I tradition 是抽象名词「传统」，old crafts 才是「老手艺」。" }
+        ]
+      }
+    ],
+  },
+  transChoice: {
+    title: "英译汉选择 · 10 分（5 题 × 2 分）",
+    steps: [
+      "题型：给 1 个英文句子，4 个中文译文选最准确的——考的就是「翻译四件套」的读句功力，不用动笔写。",
+      "先抓英文句子主干：主谓宾 / 主系表找出来，四个选项里骨架错的（主宾颠倒 / 漏成分）一眼排除。",
+      "对比选项找「差异点」：四个译文通常只有 1-2 处不同——差异点就是考点（定语位置 / 被动译法 / 关键词义 / 否定范围）。",
+      "高频差异点清单：①定语从句「……的」放名词前还是拆成两句 ②被动译「被/由/受到」哪个自然 ③one of 译没译「之一」④never/hardly 否定译没译出来。",
+      "关键词红线秒杀：grades 译成「等级」、daily life 译成「日常生活以外」、widely 漏译——这类选项直接排除。"
+    ],
+    demo: {
+      passage: `从下列每题的四个选项中选出最恰当的译文。`,
+      questions: [
+        {
+          q: "The bridge which was built in 1990 is still in use today.",
+          options: [
+            "这座桥 1990 年被建造，今天仍在使用中。",
+            "这座建于 1990 年的桥至今仍在使用。",
+            "这座桥是 1990 年建造的，所以今天必须使用。",
+            "1990 年建造了这座桥，它今天被使用了。"
+          ],
+          answer: 1,
+          locate: "which was built in 1990 是定语从句修饰 the bridge",
+          explain: "定语从句考点：从句译成「建于 1990 年的」放名词前最自然 → B。A 直译生硬不算最佳；C 的「必须使用」无中生有；D 被动直译「被使用」不符合汉语习惯。"
+        },
+        {
+          q: "English is considered to be one of the most useful languages in the world.",
+          options: [
+            "英语被认为是世界上最有用的语言。",
+            "英语被认为是世界上唯一有用的语言之一。",
+            "英语被认为是世界上最有用的语言之一。",
+            "英语在世界上的语言中被认为是有用的。"
+          ],
+          answer: 2,
+          locate: "one of the most useful languages",
+          explain: "one of + 最高级 + 复数 = 「最……之一」，译文必须带「之一」→ C。A 丢「之一」（最常见扣分点）；B 的「唯一」原文没说（无中生有）；D 语序杂乱。"
+        },
+        {
+          q: "Never before have so many people learned English online.",
+          options: [
+            "以前从未有这么多人在线学英语。",
+            "以前很多人在线学过英语。",
+            "从未有人在网上学英语。",
+            "在线学英语的人数以前很多。"
+          ],
+          answer: 0,
+          locate: "Never before have so many people... 部分倒装 + 否定",
+          explain: "否定词 Never before 放句首 → have 提前（部分倒装）；译文要译出「从未有这么多人」的否定+程度 → A。B 丢了否定；C 偷换成「从未有人」；D 否定完全消失。"
+        }
+      ]
+    }
+  }
 };

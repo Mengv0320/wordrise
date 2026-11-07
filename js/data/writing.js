@@ -1,11 +1,48 @@
 window.TRAINING_WRITE = {
-  title: "写作特训 · 30分",
+  title: "写作特训 · 20分",
+  selfCheck: {
+    title: "📋 写作 12 步自评清单（交卷前逐项打勾）",
+    groups: [
+      {
+        stage: "审题与构思（动笔前 2 分钟）",
+        items: [
+          "① 题目类型判定：议论文 / 应用文 / 记叙文——格式选对才有基础分",
+          "② 时态主轴确定：记叙过去 → 过去时；议论现状 → 一般现在时；全篇主时态只许一条主线",
+          "③ 三段框架列草稿：每段首句写什么、举什么例子，动笔前标好 1-2-3"
+        ]
+      },
+      {
+        stage: "结构（写完第一遍读）",
+        items: [
+          "④ 首段是否点题：第一句必须回应题目关键词，别绕远",
+          "⑤ 每段有主题句：段首 1 句管住整段，后文都是它的展开",
+          "⑥ 衔接词到位：However / Therefore / What's more 至少 3 个，且位置自然"
+        ]
+      },
+      {
+        stage: "语言（第二遍读）",
+        items: [
+          "⑦ 主谓一致逐句查：三单 s、the number of、either...or 就近原则",
+          "⑧ 时态全篇自查：有没有突然跳时态的句子（尤其 and 后半句）",
+          "⑨ 高级句型 ≥2 个：强调句 / not only...but also / 定语从句 / 虚拟，用上加分",
+          "⑩ 词汇升级至少 1 处：good → beneficial、important → essential"
+        ]
+      },
+      {
+        stage: "规范（最后 3 分钟）",
+        items: [
+          "⑪ 拼写与大小写：句首大写、专有名词大写，embarrass 双 r 双 s 这类细节过一遍",
+          "⑫ 字数与格式：≥120 词；书信有称呼落款、通知有标题日期——格式分是白送的"
+        ]
+      }
+    ]
+  },
   overview: {
-    desc: "河南专升本英语写作共30分，要求在30分钟内完成一篇150词左右的文章。",
+    desc: "河南专升本英语写作共20分，以议论文为主（三段汉语提纲形式给出），150词左右，30分钟内完成。",
     scoring: [
-      "内容（10分）：切题、信息完整、逻辑清晰",
-      "语言（10分）：句式多样、词汇恰当、无严重语法错误",
-      "结构（10分）：段落分明、衔接自然、格式规范"
+      "内容：切题、信息完整、逻辑清晰（覆盖提纲全部要点）",
+      "语言：句式多样、词汇恰当、无严重语法错误",
+      "结构：段落分明、衔接自然、格式规范"
     ],
     tips: [
       "先用2分钟构思框架，再动笔",
@@ -270,6 +307,38 @@ window.TRAINING_WRITE = {
           }
         }
       ]
+    },
+    {
+      id: "tech",
+      name: "📂 科技 / AI 类议论文（2026 新趋势）",
+      types: [
+        {
+          name: "AI 平衡使用型三段式",
+          structure: [
+            "引出现象+争议",
+            "利与弊各两点（对仗工整）",
+            "我的平衡之道+呼吁"
+          ],
+          template: "Para 1 引出现象+争议:\nNowadays, artificial intelligence has penetrated every corner of our life. [具体现象：在线学习/智能助手等]. AI not only [带来的好处] but also [引发的问题], which has caused a heated discussion.\n\nPara 2 利与弊各两点（对仗工整）:\nFor one thing, AI [利1：提高效率]. [展开说明]. It also [利2：提供帮助]. However, for another, overusing AI may [弊1：产生依赖]. Worse still, [弊2：隐私风险].\n\nPara 3 我的平衡之道+呼吁:\nAs far as I am concerned, it is essential that we strike a balance between [使用AI] and [保持独立思考]. We should [建议1：定时定量] and [建议2：工具定位]. Only in this way can we [美好结果].",
+          vocab: [
+            "artificial intelligence 人工智能",
+            "penetrate every corner of our life 渗透到生活的每个角落",
+            "bring great convenience 带来极大便利",
+            "raise a heated debate 引发热议",
+            "improve learning efficiency 提高学习效率",
+            "overuse / overdependence 过度使用/过度依赖",
+            "stop thinking independently 停止独立思考",
+            "personal privacy 个人隐私",
+            "treat AI as a tool 把AI当作工具",
+            "rather than a master 而非主人"
+          ],
+          demo: {
+            topic: "如何实现人工智能的平衡使用？",
+            essay: "Nowadays, artificial intelligence has penetrated every corner of our life. From online learning to smart assistants, AI not only brings us great convenience but also raises a heated debate about how to use it properly.\n\nFor one thing, AI makes our study and work more efficient. It can answer questions instantly and offer useful suggestions, which saves us a lot of time. It also provides company for people who feel lonely. However, for another, overusing AI may cause serious problems. Some students depend on it so much that they stop thinking independently. Worse still, our personal privacy may be at risk when we share information with AI tools.\n\nAs far as I am concerned, it is essential that we strike a balance between using AI and thinking for ourselves. We should set a time limit for AI tools and treat them as helpers rather than masters. Only in this way can we enjoy the benefits of technology without losing our ability to think.",
+            notes: "评分要点：切题+利弊对仗+平衡建议落地"
+          }
+        }
+      ]
     }
   ],
 
@@ -393,10 +462,67 @@ window.TRAINING_WRITE = {
       cn: "条件句提建议",
       en: "Only by doing..., can we... / If we fail to..., the consequences will be serious.",
       note: "倒装条件句，语法高级，阅卷老师喜欢"
+    },
+    {
+      type: "科技/AI 万能句",
+      cn: "点明AI普及现象",
+      en: "Artificial intelligence has penetrated every corner of our life.",
+      note: "科技类议论文开头第一句，直接引出话题"
+    },
+    {
+      type: "科技/AI 万能句",
+      cn: "AI应为人服务",
+      en: "We should let AI serve us rather than enslave us.",
+      note: "表达立场金句，可用于结尾段升华"
+    },
+    {
+      type: "科技/AI 万能句",
+      cn: "平衡使用之道",
+      en: "We should strike a balance between using AI and thinking independently.",
+      note: "点题句，呼应2026真题核心立意"
+    },
+    {
+      type: "科技/AI 万能句",
+      cn: "工具定位建议",
+      en: "It is essential that we treat AI as a tool rather than a master.",
+      note: "虚拟语气+对仗，句式高级，建议落地"
+    },
+    {
+      type: "科技/AI 万能句",
+      cn: "利弊并存过渡",
+      en: "AI brings us convenience, but it also brings challenges we cannot ignore.",
+      note: "承上启下，从利转弊的过渡句"
+    },
+    {
+      type: "科技/AI 万能句",
+      cn: "倒装呼吁结尾",
+      en: "Only in this way can we enjoy the benefits of technology without losing ourselves.",
+      note: "倒装句收尾，科技类议论文高分结尾"
     }
   ],
 
   pastTopics: [
+    {
+      year: "2026",
+      genre: "议论文",
+      topic: "如何实现人工智能的平衡使用？（150词）",
+      keypoints: [
+        "AI 带来的便利（学习/效率/陪伴）",
+        "过度使用的问题（依赖/隐私/思维惰性）",
+        "平衡之道：定时定量/工具定位/保持独立思考"
+      ]
+    },
+    {
+      year: "2025",
+      genre: "议论文",
+      topic: "How to Improve Our Cultural Literacy（如何提升文化素养），结合所给材料写作，至少120词。",
+      keypoints: [
+        "材料背景：图书馆/文化馆/美术馆等公共文化设施激增（如博物馆已达5788家）",
+        "开头：点明文化素养的重要性（可用 There is no doubt that...）",
+        "主体：分点论述提升途径（多阅读/善用公共文化设施/批判性甄别信息）",
+        "结尾：重申观点并呼吁行动"
+      ]
+    },
     {
       year: "2024",
       topic: "随着互联网的发展，越来越多的人选择网上购物。请写一篇文章，说明网上购物的利与弊，并给出你的建议。（150词）",

@@ -1,241 +1,238 @@
 window.CHAPTERS = window.CHAPTERS || [];
 window.CHAPTERS.push({
   id: 25,
-  title: "职场实习 · 扫描眼老板",
-  desc: "飞哥叔叔公司实习第一天，老板是扫描眼升级版：quick worker 绿灯、slow worker 黄灯、lazy worker 红灯。阿洛复制错文件、差点群发火锅邮件——大型社死之后，下班等来一张 INTERN NO.1 的卡片。",
-  tag: "职场高频词",
-  radar: ["一般过去时 vs 过去进行时", "used to do 过去习惯", "宾语从句陈述语序", "pay / cost / price 花费家族", "early / late 与 on time"],
+  title: "词帝篇 · 科技城·数据风暴",
+  desc: "父亲的背影引路，数据城里「标准答案怪」只给唯一答案：流利却不会解读语境。小队依据宪章暗藏条款发起公开辩论，用一词多义压垮机器，全城重新学会思考。塔门开启——登顶需十阶词力。",
+  tag: "科技数据 · 语境辨析高频词",
   story: {
-    title: "The Scanner Boss 扫描眼老板",
-    text: `A-Luo [[woke]] up before the sun on Monday [[morning]]. Today was the first day of his first real [[job]]. While he was waiting at the gate of the [[company]], his [[phone]] buzzed with a [[message]] from Flying Bro: "Our [[boss]] is Scanner Senior, upgraded. His eyes are two little scanners." The door [[opened]], and a tall man in a grey suit walked out. Still sleepy, A-Luo rushed over and handed him his bag and his intern [[card]]. "Good morning! I am the new intern. May I [[sign]] my [[name]] here?" The man turned around slowly. Two sharp eyes moved across A-Luo's face like scanners. "Interns give their bags to the guards," the boss said, "not to the boss. Your day [[begins]] now."
+    title: "One Question, One Answer 一问一答",
+    text: `The figure walked ahead without turning until a city rose out of the data fog: Data City, where every lamp burned with one white sentence — ONE [[QUESTION]], ONE [[ANSWER]]. Citizens wore silver earpieces; the same soft voice poured into every head at once: fluent, patient, identical. "The Dean's last city," Juanjuan said. "The [[Standard]]-[[Answer]] Beast [[answers]] everything. It never explains. It cannot [[misunderstand]], for it never understands at all." Pangda asked it the way to the tower; the [[immediate]] reply was identical: "North."
 
-Inside, the [[office]] was bright and quiet: forty [[computer]]s, one fast [[internet]] line, and the [[company]] [[website]] with fifty school clients on the screen. The morning [[meeting]] was short. "Our [[business]] is [[simple]]," Flying Bro explained. "Schools [[send]] us [[email]]s, we [[receive]] them, and every [[worker]] [[replies]] before noon. The work is [[easy]] when you stay calm, and [[difficult]] when you panic." A-Luo nodded. His heart was beating fast, but his face stayed calm.
+Inside, they saw the price. A boy asked why one word carried two meanings; the earpiece corrected him gently: one word, one [[unique]] meaning, zero error. Poems had become arithmetic. "Every match [[erodes]] a memory," Juanjuan said. "This is how [[standard]] [[answers]] [[ruin]] a city." In the square hung the city charter. "I [[propose]] we read the fine print," Shen Zhibai said, and read line by line until it [[revealed]] a hidden [[provision]]: any citizen may challenge the Beast to a public [[debate]]. "A right no one has used in years," the boy whispered. "Most people are [[unwilling]] to try." The Dean built the Beast so that no one would [[question]] again.
 
-At nine the boss gave him the first task: [[print]] one [[document]], then [[copy]] it twenty times. A-Luo pressed the buttons — [[start]], green light, [[quick]] and clean. Then his phone rang on loud speaker. Pang-Da's voice filled the whole office: "Bro! I used to [[sleep]] in class, but you — you used to copy notes! Copy the right [[file]] this time!" Twenty [[copied]] pages of the wrong file slid out slowly, like twenty white flags. Worse, A-Luo saw his own private [[email]] about hotpot flying to fifty schools. His finger hit [[stop]] in half a second. Flying Bro walked past and whispered, "I sent the recall one second before you. We are even."
+The debate was set for sundown. The Beast took the stage — a wall of silver screens, listing [[candidate]] [[answers]] like soldiers on parade. It would [[respond]] only to exact matches: say a word wrong, and it repeated the [[question]]. It sounded [[intelligent]]; it was only obedient. It was [[fluent]], but it never stopped to [[interpret]] the heart of a sentence. A-Luo opened with the oldest word he knew: "Book." — "Paper pages for reading," said the Beast. — "Then book a passage across the fog sea." The screens flickered. Pangda gave them a [[curious]] grin. A-Luo fed the Beast word after word — one meaning, two, three — and it listed every second meaning as an error.
 
-At noon, during the lunch [[break]], Qian-Shao called from school: "Report! I want to know what the [[salary]] is like, whether the boss gives [[free]] lunch, and where new interns [[wait]]." "You ask like a detective," A-Luo whispered. "I only know that the boss asked me what I was doing with twenty copies of homework, that his glass room [[cost]] more than our whole dorm, and that the [[price]] of one sheet of paper here could buy three baozi. Everything here looks [[expensive]]; the only [[cheap]] thing is my [[pay]]." "And the [[salary]]?" "[[Money]] comes next month — if I survive." After a short [[rest]], the office woke again.
+The crowd began to [[demand]] second meanings. Pangda shouted memory games; Sao-Ye [[passed]] out old chants; the whole team worked to [[strengthen]] the citizens' memory, word by word. Doubt spread with [[rapid]] speed, and the Beast — built to [[sustain]] one meaning at a time — could not sustain ten thousand at once. It cited [[numerous]] rules. It repeated its [[universal]] [[answers]]. Context, the missing [[element]], kept breaking every list. At last the [[complex]] system went quiet; the earpieces fell silent; and for the first time in years, Data City heard itself think.
 
-The afternoon grew [[busy]]. [[File]]s arrived, [[document]]s left, and at four the boss called him into the glass room. "Your [[work]] this morning was a disaster," the boss said. "My eyes see everything: the [[quick]] worker in green, the [[slow]] one in yellow, the [[lazy]] one in red. At nine you were yellow." A-Luo's hands went cold. "But now you are green. You [[finished]] every page before five, your [[reply]] to School No.3 was short, clear and right, and the [[meeting]] notes you rewrote saved us a client. [[Sign]] your name here." A-Luo [[signed]]. His hand shook, but the name on the paper was steady.
+When the noise died, the tall figure stood at the tower's gate, one hand on the bronze door. It turned its head — just enough for A-Luo to [[verify]] a face he knew from old photographs. Then it stepped through. Above the arch, golden words burned: ONLY THE TENTH RANK MAY CLIMB. "Word-King's peak — one rank short," Juanjuan said softly. "The tower wants the tenth: Word-Emperor." A-Luo looked up the endless stairs. "Then we keep climbing," he said.`,
+    translation: `那个背影没有回头，直到一座城从数据雾里升起：数据城——每盏灯都烧着同一句白色标语：一问，一答。市民们戴着银色耳机；同一个柔和的声音同时灌进每一颗脑袋：流利、耐心、一模一样。「教务长的最后一座城，」卷卷说。「标准答案怪回答一切。它从不解释。它无法误解，因为它压根不理解。」胖达问它去词帝塔怎么走，即时的回答一模一样：「北。」
 
-At six the long day came to an [[end]]. "Most interns never look up when I pass," the boss said at the door, "but you [[continued]] working after the disaster. That is [[hard]] to find. Go home, and come back [[early]] tomorrow — being [[late]] twice is not [[simple]] bad luck; it is a habit." A-Luo walked out into the evening light, so [[tired]] that his legs felt like wet paper. Flying Bro was waiting outside with a card: WELL DONE, INTERN NO.1. "And more good news," he said. "Payday is Friday, and the sea is calling. This weekend the whole dorm goes to the beach. Pack your bags tonight." A-Luo smiled at the sky. The world does change when you stop running from it.`,
-    translation: `周一早上，阿洛在太阳出来之前就醒了。今天是他第一份真正工作的第一天。他在公司门口等的时候，手机震了，飞哥发来消息：「我们老板是扫描眼的升级版。他的眼睛是两台小扫描仪。」门开了，一个穿灰西装的高个子走了出来。睡眼惺忪的阿洛冲上去，把包和实习卡递给他。「早上好！我是新来的实习生。请问在哪里签名报到？」那人慢慢转过身，两道锐利的目光像扫描仪一样从阿洛脸上扫过。「实习生把包交给保安，」老板说，「不是交给老板。你的一天现在开始。」
+城里，他们看见了代价。一个男孩问为什么一个词能有两个意思，耳机温柔地纠正他：一个词，一个唯一的意思，零误差。诗已经变成了算术。「每一次匹配都在侵蚀一段记忆，」卷卷说。「标准答案就是这样毁掉一座城的。」广场上悬着城宪章。「我提议我们读读小字，」沈知白说，她逐行读下去，直到宪章显出一条暗藏的条款：任何市民都可以向「标准答案怪」发起公开辩论。「一条多年没人用过的权利，」男孩低声说，「大多数人不愿意试。」教务长造这头怪兽，就是为了让人不再提问。
 
-办公室里明亮又安静：四十台电脑，一条飞快的网线，屏幕上是挂着五十个学校客户的公司网站。晨会很短。「我们的业务很简单，」飞哥解释，「学校给我们发邮件，我们接收，每位员工中午前回复。你冷静时这活儿容易，慌了就难。」阿洛点头。心跳变快，脸上却很平静。
+辩论定在日落。标准答案怪登台——一整面银屏之墙，把候选答案列得像阅兵的士兵。它只回应完全匹配的说法：说错一个词，它就把问题重复一遍。它听起来很有智能；其实只是听话。它很流利，却从不停下来解读一句话的心。阿洛用他认识的最老的词开场：「Book。」——「供阅读的纸页。」怪兽说。——「那请预订一段渡海的船程。」银屏闪烁。胖达冲它们露出一个好奇的笑。阿洛一个词接一个词地喂给怪兽——一个意思，两个，三个——它把每个第二义都记成了错误。
 
-九点，老板给了第一个任务：打印一份文件，复印二十份。阿洛按下按钮——开始，绿灯，又快又干净。这时手机外放响了，胖达的声音充满整个办公室：「兄弟！我以前上课老睡觉，可你——你以前是抄笔记的！这次抄对文件啊！」二十页错误文件的复印件慢慢滑出来，像二十面白旗。更糟的是，阿洛看见自己那条关于火锅的私人邮件正飞向五十所学校。他的手指半秒内按下停止。飞哥走过身边低声说：「我一秒前就发了撤回。我们扯平了。」
+人群开始索要第二义。胖达喊起记忆游戏；扫爷分发旧日吟唱；全队埋头加固市民们的记忆，一词又一词。怀疑飞速蔓延，而这头怪兽——造出来一次只撑一个意思——撑不住一万意思同时涌来。它搬出一条又一条繁多的规则。它复读自己放之四海的答案。语境，那个缺失的要素，不断击碎每一份清单。最后，那套复杂系统安静了；耳机哑了；多年来第一次，数据城听见了自己思考的声音。
 
-中午，午休时间，钱少从学校打来电话：「汇报情况！我想知道工资多少、老板管不管免费午餐、新实习生在哪儿等。」「你问得像侦探，」阿洛压低声音，「我只知道老板问我九点在拿二十份作业干什么，知道他那间玻璃房比我们整个宿舍还贵，知道这里一张纸的价钱能买仨包子。这里一切都显贵，唯一便宜的是我的工资。」「那薪水呢？」「下个月到账——如果我活得下来的话。」短暂休息后，办公室又醒了。
-
-下午忙了起来。文件来，文件走，四点，老板把他叫进玻璃房。「你上午的工作是一场灾难，」老板说。「我的眼睛看得见一切：绿灯的快员工，黄灯的慢员工，红灯的懒员工。九点的时候，你是黄的。」阿洛的手凉了。「但现在你是绿的。五点前你完成了每一页，你给三号学校的回复简短、清楚、正确，你重写的会议记录救下了一个客户。在这里签名。」阿洛签了。手抖了，纸上的名字却很稳。
-
-六点，漫长的一天结束了。「大多数实习生走过我面前头都不抬，」老板在门口说，「但你在灾难之后继续工作。这很难得。回家，明天早点来——迟到两次可不是简单的坏运气，那是习惯。」阿洛走进傍晚的光线里，累得双腿像湿纸。飞哥在外面等着，手里一张卡片：干得漂亮，一号实习生。「还有好消息，」他说，「周五发工资，大海在召唤。这周末全宿舍去海边。今晚收拾行李。」阿洛对着天空笑了。当你不再逃避，世界真的会变。`
+喧嚣落定，那个高高的身影站在塔门前，一手按着铜门。它侧过头——只侧了那么一点，刚好够阿洛去验证一张他从旧照片里认得的脸。然后它跨了进去。拱门上方，金字燃烧：唯十阶者可登。「词王之巅——只差一阶，」卷卷轻声说。「这座塔要的是第十阶：词帝。」阿洛仰望那道没有尽头的台阶。「那就继续爬，」他说。`
   },
 
-
   storyPoints: [
-    { "p": "被动语态", "q": "The morning meeting was short.", "n": "be + 过去分词：主语是动作承受者；无被动动词例外：happen/take place/consist of" },
-    { "p": "so...that 结果状语", "q": "Go home, and come back early tomorrow — being late twice is not simple bad luck; it is a habit.\" A-Luo walked out into the evening light, so tired ...", "n": "so + 形容词/副词 + that：如此……以至于" },
-    { "p": "倒装句", "q": "\"I only know that the boss asked me what I was doing with twenty copies of homework, that his glass room cost more than our whole dorm, and that th...", "n": "否定/Only 状语放句首 → 部分倒装：助动词提到主语前" },
-    { "p": "used to", "q": "I used to sleep in class, but you — you used to copy notes!", "n": "used to do：过去常常（现在不了）；be used to doing 习惯于——两个完全不同" },
-    { "p": "不定式 to do", "q": "I want to know what the salary is like, whether the boss gives free lunch, and where new interns wait.\" \"You ask like a detective,\" A-Luo whispered.", "n": "这些动词后接 to do：want/decide/hope/refuse/afford/plan" },
-    { "p": "时间状语从句", "q": "While he was waiting at the gate of the company, his phone buzzed with a message from Flying Bro: \"Our boss is Scanner Senior, upgraded.", "n": "as soon as 一……就；while 后接延续性动词/进行时" },
-    { "p": "情态动词", "q": "May I sign my name here?\" The man turned around slowly.", "n": "情态动词 + 动词原形；must be 表肯定推测，can't be 表否定推测" },
-    { "p": "搭配 · on loud speaker", "q": "Then his phone rang on loud speaker.", "n": "外放；免提" }
+    { "p": "祈使句 + and 表条件（叙事化）", "q": "say a word wrong, and it repeated the question.", "n": "「祈使 + and」的过去叙事版＝ if you said a word wrong, it repeated the question；ch22 学的是 will 将来版，这里是过去回放——结构不变，时态随叙事" },
+    { "p": "过去分词短语作插入语", "q": "the Beast — built to sustain one meaning at a time — could not sustain ten thousand at once.", "n": "built to sustain... 过去分词短语作非限制性插入语（被动：怪兽「被造出来」），前后双破折号；相当于 which was built to..." },
+    { "p": "so that 目的状语从句", "q": "The Dean built the Beast so that no one would question again.", "n": "so that + 从句表目的，从句常配 would/could/may/might；辨析 so...that（如此…以至于，表结果）——中间有没有主语谓语是关键" },
+    { "p": "双破折号插入同位语", "q": "Context, the missing element, kept breaking every list.", "n": "the missing element 是 context 的同位语，插入解释；同位语插入后谓语 kept 与主语 context 保持一致——别被插入语带偏主谓一致" },
+    { "p": "may 表许可（条款文体）", "q": "any citizen may challenge the Beast to a public debate.", "n": "may 此处不是「可能」而是「可以」（法律/章程许可）；法律条文里 may ＝ 有权做；❌ May you challenge... 是疑问句才这么用" },
+    { "p": "hear + 宾语 + 省略 to 的不定式", "q": "Data City heard itself think.", "n": "hear/see/watch/feel + 宾语 + do（全过程）/doing（正在做）；变被动 to 回来：itself was heard to think——改错高频" },
+    { "p": "完全倒装与介词短语前置", "q": "In the square hung the city charter.", "n": "地点状语提前 + 谓语 hung 前置 + 主语后置 → 完全倒装（主语是名词 charter）；正常语序：The city charter hung in the square." }
   ],
   words: [
-    { w: "job", ipa: "/dʒɒb/", pos: "n.", cn: "工作；职业", ex: "Today was the first day of his first real job.", excn: "今天是他第一份真正工作的第一天。", memo: "可数：a good job 好工作；job 指具体职业岗位，work 指工作这件事" },
-    { w: "work", ipa: "/wɜːk/", pos: "v./n.", cn: "工作；工作成果", ex: "Your work this morning was a disaster.", excn: "你上午的工作是一场灾难。", memo: "不可数！a work 指作品；work hard 努力工作；go to work 上班" },
-    { w: "worker", ipa: "/ˈwɜːkə/", pos: "n.", cn: "工人；员工", ex: "The quick worker in green, the slow one in yellow.", excn: "绿灯的快员工，黄灯的慢员工。", memo: "work + er = 干活的人；hard-working 勤奋的" },
-    { w: "boss", ipa: "/bɒs/", pos: "n.", cn: "老板；上司", ex: "Interns give their bags to the guards, not to the boss.", excn: "实习生把包交给保安，不是交给老板。", memo: "big boss 大老板；bossy adj. 爱发号施令的" },
-    { w: "office", ipa: "/ˈɒfɪs/", pos: "n.", cn: "办公室", ex: "The office was bright and quiet.", excn: "办公室明亮又安静。", memo: "in the office 在办公室；office worker 上班族" },
-    { w: "company", ipa: "/ˈkʌmpəni/", pos: "n.", cn: "公司；陪伴", ex: "While he was waiting at the gate of the company.", excn: "他在公司门口等的时候。", memo: "复数 companies；keep sb company 陪某人" },
-    { w: "business", ipa: "/ˈbɪznəs/", pos: "n.", cn: "生意；业务；事务", ex: "Our business is simple.", excn: "我们的业务很简单。", memo: "⚠️ 拼写易错：busi-ness；do business 做生意；on business 出差" },
-    { w: "meeting", ipa: "/ˈmiːtɪŋ/", pos: "n.", cn: "会议；会面", ex: "The morning meeting was short.", excn: "晨会很短。", memo: "have/hold a meeting 开会；meeting 计划中的会，meet 遇见" },
-    { w: "email", ipa: "/ˈiːmeɪl/", pos: "n./v.", cn: "电子邮件；发邮件", ex: "Schools send us emails, we receive them.", excn: "学校给我们发邮件，我们接收。", memo: "send an email 发邮件；reply to an email 回邮件" },
-    { w: "phone", ipa: "/fəʊn/", pos: "n./v.", cn: "电话；打电话", ex: "His phone buzzed with a message.", excn: "他的手机震了，来了条消息。", memo: "on the phone 在通话；phone sb = call sb" },
-    { w: "computer", ipa: "/kəmˈpjuːtə/", pos: "n.", cn: "电脑", ex: "Forty computers, one fast internet line.", excn: "四十台电脑，一条飞快的网线。", memo: "on the computer 用电脑；computer science 计算机科学" },
-    { w: "internet", ipa: "/ˈɪntənet/", pos: "n.", cn: "互联网", ex: "One fast internet line.", excn: "一条飞快的网线。", memo: "常与 the 连用：surf the internet 上网" },
-    { w: "website", ipa: "/ˈwebsaɪt/", pos: "n.", cn: "网站", ex: "The company website with fifty school clients.", excn: "挂着五十个学校客户的公司网站。", memo: "web（网）+ site（站点）；复数 websites" },
-    { w: "message", ipa: "/ˈmesɪdʒ/", pos: "n.", cn: "消息；信息", ex: "A message from Flying Bro appeared on his phone.", excn: "飞哥的消息出现在他手机上。", memo: "send a message 发消息；leave a message 留言" },
-    { w: "send", ipa: "/send/", pos: "v.", cn: "发送；寄", ex: "I sent the recall one second before you.", excn: "我一秒前就发了撤回。", memo: "send-sent-sent；send for 派人去请；send out 发出" },
-    { w: "receive", ipa: "/rɪˈsiːv/", pos: "v.", cn: "收到；接收", ex: "Schools send us emails, we receive them.", excn: "学校给我们发邮件，我们接收。", memo: "⚠️ 拼写 ei 不 ie；receive a letter 收到信" },
-    { w: "reply", ipa: "/rɪˈplaɪ/", pos: "v./n.", cn: "回复；答复", ex: "Your reply to School No.3 was short, clear and right.", excn: "你给三号学校的回复简短、清楚、正确。", memo: "reply to sb/sth 回复……；复数 replies" },
-    { w: "print", ipa: "/prɪnt/", pos: "v./n.", cn: "打印；印刷", ex: "Print one document, then copy it twenty times.", excn: "打印一份文件，再复印二十份。", memo: "printer 打印机；print out 打印出来" },
-    { w: "copy", ipa: "/ˈkɒpi/", pos: "v./n.", cn: "复印；复制；副本", ex: "Twenty copied pages of the wrong file slid out.", excn: "二十页错误文件的复印件滑了出来。", memo: "复数 copies；copy homework 抄作业" },
-    { w: "file", ipa: "/faɪl/", pos: "n./v.", cn: "文件；归档", ex: "Copy the right file this time.", excn: "这次复制对的文件。", memo: "files arrived, documents left——file 指电子/案卷文件" },
-    { w: "document", ipa: "/ˈdɒkjumənt/", pos: "n.", cn: "文件；公文", ex: "Print one document, then copy it.", excn: "打印一份文件，再复印。", memo: "official document 公文；documents 复数" },
-    { w: "sign", ipa: "/saɪn/", pos: "v./n.", cn: "签名；标志；迹象", ex: "Sign your name here.", excn: "在这里签名。", memo: "sign 签名/标志双义；signature n. 签名" },
-    { w: "name", ipa: "/neɪm/", pos: "n./v.", cn: "名字；命名", ex: "The name on the paper was steady.", excn: "纸上的名字很稳。", memo: "in the name of 以……的名义；full name 全名" },
-    { w: "card", ipa: "/kɑːd/", pos: "n.", cn: "卡片；卡", ex: "He handed over his bag and his intern card.", excn: "他递上了包和实习卡。", memo: "ID card 身份证；credit card 信用卡（复现 ch22 credit）" },
-    { w: "money", ipa: "/ˈmʌni/", pos: "n.", cn: "钱", ex: "Money comes next month — if I survive.", excn: "钱下个月到——如果我活得下来。", memo: "不可数；make money 赚钱；spend money 花钱" },
-    { w: "salary", ipa: "/ˈsæləri/", pos: "n.", cn: "工资；薪水", ex: "I want to know what the salary is like.", excn: "我想知道工资怎么样。", memo: "复数 salaries；payday 发薪日；monthly salary 月薪" },
-    { w: "pay", ipa: "/peɪ/", pos: "v./n.", cn: "支付；工资", ex: "The only cheap thing is my pay.", excn: "唯一便宜的是我的工资。", memo: "pay-paid-paid；pay for 付……的钱；payday 发薪日" },
-    { w: "cost", ipa: "/kɒst/", pos: "v./n.", cn: "花费；成本", ex: "His glass room cost more than our whole dorm.", excn: "他那间玻璃房比我们整个宿舍还贵。", memo: "cost-cost-cost；物作主语：It costs... 人作主语用 spend/pay" },
-    { w: "price", ipa: "/praɪs/", pos: "n.", cn: "价格", ex: "The price of one sheet of paper could buy three baozi.", excn: "这里一张纸的价钱能买仨包子。", memo: "at a high/low price 以高/低价；priceless 无价的" },
-    { w: "cheap", ipa: "/tʃiːp/", pos: "adj.", cn: "便宜的", ex: "The only cheap thing is my pay.", excn: "唯一便宜的是我的工资。", memo: "cheap ↔ expensive；cheap 也有「劣质」贬义" },
-    { w: "expensive", ipa: "/ɪkˈspensɪv/", pos: "adj.", cn: "昂贵的", ex: "Everything looks expensive here.", excn: "这里一切都显贵。", memo: "反义 cheap；expensive 是物贵，dear 同义偏英式" },
-    { w: "free", ipa: "/friː/", pos: "adj.", cn: "免费的；自由的；有空的", ex: "Whether the boss gives free lunch.", excn: "老板管不管免费午餐。", memo: "free lunch 免费午餐；be free to do 随意做；for free 免费" },
-    { w: "busy", ipa: "/ˈbɪzi/", pos: "adj.", cn: "忙的", ex: "The afternoon grew busy.", excn: "下午忙了起来。", memo: "be busy doing sth 忙于做某事；busy season 旺季" },
-    { w: "lazy", ipa: "/ˈleɪzi/", pos: "adj.", cn: "懒惰的", ex: "The lazy one in red.", excn: "红灯的懒员工。", memo: "lazybones 懒骨头；laziness n. 懒惰" },
-    { w: "hard", ipa: "/hɑːd/", pos: "adj./adv.", cn: "难的；努力地；硬的", ex: "That is hard to find.", excn: "这很难得。", memo: "hard work 辛苦的工作（n.）；work hard 努力干（adv.）；hardly 几乎不" },
-    { w: "easy", ipa: "/ˈiːzi/", pos: "adj.", cn: "容易的", ex: "The work is easy when you stay calm.", excn: "你冷静时这活儿容易。", memo: "take it easy 放轻松；easier/easiest；easily adv." },
-    { w: "difficult", ipa: "/ˈdɪfɪkəlt/", pos: "adj.", cn: "困难的", ex: "And difficult when you panic.", excn: "慌了就难。", memo: "= hard；difficulty n. 困难；have difficulty (in) doing" },
-    { w: "simple", ipa: "/ˈsɪmpl/", pos: "adj.", cn: "简单的；朴素的", ex: "Being late twice is not simple bad luck.", excn: "迟到两次可不是简单的坏运气。", memo: "simple 强调不复杂，easy 强调不难；simply adv." },
-    { w: "quick", ipa: "/kwɪk/", pos: "adj./adv.", cn: "快的；迅速地", ex: "Start, green light, quick and clean.", excn: "开始，绿灯，又快又干净。", memo: "quick/rapid/fast 都表快；quickly adv.；have a quick look 迅速看一眼" },
-    { w: "slow", ipa: "/sləʊ/", pos: "adj./v.", cn: "慢的；放缓", ex: "The slow one in yellow.", excn: "黄灯的慢员工。", memo: "slow down 减速；slowly adv.；反义 fast/quick" },
-    { w: "early", ipa: "/ˈɜːli/", pos: "adj./adv.", cn: "早的；早", ex: "Come back early tomorrow.", excn: "明天早点来。", memo: "earlier 比较级；early bird 早起的人；早于预期用 too early" },
-    { w: "late", ipa: "/leɪt/", pos: "adj./adv.", cn: "迟的；晚", ex: "Being late twice is not simple bad luck.", excn: "迟到两次可不是简单的坏运气。", memo: "be late for 迟到；later 后来；lately 最近" },
-    { w: "begin", ipa: "/bɪˈɡɪn/", pos: "v.", cn: "开始", ex: "Your day begins now.", excn: "你的一天现在开始。", memo: "begin-began-begun；beginning n. 开端；begin to do / doing" },
-    { w: "start", ipa: "/stɑːt/", pos: "v./n.", cn: "开始；启动", ex: "Start, green light, quick and clean.", excn: "开始，绿灯，又快又干净。", memo: "start doing/to do；start a car 发动汽车" },
-    { w: "end", ipa: "/end/", pos: "n./v.", cn: "结束；末端", ex: "The long day came to an end.", excn: "漫长的一天结束了。", memo: "come to an end 结束；in the end 最终；end up doing" },
-    { w: "finish", ipa: "/ˈfɪnɪʃ/", pos: "v.", cn: "完成；结束", ex: "You finished every page before five.", excn: "五点前你完成了每一页。", memo: "finish doing sth（不接 to do）；finish school 毕业" },
-    { w: "stop", ipa: "/stɒp/", pos: "v./n.", cn: "停止；阻止", ex: "His finger hit stop in half a second.", excn: "他的手指半秒内按下停止。", memo: "stop to do 停下来去做 / stop doing 停止做（高频考点）" },
-    { w: "continue", ipa: "/kənˈtɪnjuː/", pos: "v.", cn: "继续", ex: "You continued working after the disaster.", excn: "你在灾难之后继续工作。", memo: "continue doing/to do 都可；continuous adj. 连续的" },
-    { w: "wait", ipa: "/weɪt/", pos: "v./n.", cn: "等待", ex: "Where new interns wait for orders.", excn: "新实习生在哪儿等指令。", memo: "wait for 等候；wait a moment 等一下" },
-    { w: "rest", ipa: "/rest/", pos: "n./v.", cn: "休息；剩余部分", ex: "After a short rest, the office woke again.", excn: "短暂休息后，办公室又醒了。", memo: "have/take a rest 休息一下；the rest of 剩下的" },
-    { w: "break", ipa: "/breɪk/", pos: "n./v.", cn: "休息；间歇；打破", ex: "At noon, during the lunch break.", excn: "中午，午休时间。", memo: "break-broke-broken；lunch break 午休；take a break 歇会儿" },
-    { w: "tired", ipa: "/ˈtaɪəd/", pos: "adj.", cn: "疲劳的；厌倦的", ex: "So tired that his legs felt like wet paper.", excn: "累得双腿像湿纸。", memo: "be tired of 厌烦；tiring 令人疲倦的（物）" },
-    { w: "sleep", ipa: "/sliːp/", pos: "v./n.", cn: "睡觉；睡眠", ex: "I used to sleep in class.", excn: "我以前上课老睡觉。", memo: "sleep-slept-slept；fall asleep 睡着；sleepy adj. 困的" },
-    { w: "wake", ipa: "/weɪk/", pos: "v.", cn: "醒来；唤醒", ex: "A-Luo woke up before the sun.", excn: "阿洛在太阳出来之前就醒了。", memo: "wake-woke-woken；wake up 醒来；awake adj. 醒着的" },
-    { w: "morning", ipa: "/ˈmɔːnɪŋ/", pos: "n.", cn: "早晨；上午", ex: "On Monday morning.", excn: "在周一早上。", memo: "in the morning；特指某天上午用 on：on Monday morning" },
-    { w: "open", ipa: "/ˈəʊpən/", pos: "v./adj.", cn: "打开；开着的", ex: "He opened the office door at eight.", excn: "他八点打开办公室的门。", memo: "open the door 开门；be open to 对……开放；opening n. 开幕" }
+    { w: "complex", ipa: "/ˈkɒmpleks/", pos: "adj./n.", cn: "复杂的；（n.）综合体，建筑群", ex: "At last the complex system that ran the city went quiet.", excn: "最后，运转全城的那套复杂系统安静了。", memo: "com（一起）+ plex（折叠，同 duplex 双层的）→ 折叠交织 → 复杂；a complex system 复杂系统；an apartment complex 公寓建筑群；与 complicated 辨析见易混区" },
+    { w: "element", ipa: "/ˈelɪmənt/", pos: "n.", cn: "要素；元素；成分", ex: "Context, the missing element, kept breaking every list.", excn: "语境——那个缺失的要素——不断击碎每一份清单。", memo: "化学元素也用它（元素周期表 the periodic table of elements）；an element of danger 一丝危险；in one's element 如鱼得水（处在拿手的环境）" },
+    { w: "interpret", ipa: "/ɪnˈtɜːprɪt/", pos: "v.", cn: "解读，理解；口译", ex: "It was fluent, but it never stopped to interpret the heart of a sentence.", excn: "它很流利，却从不停下来解读一句话的心。", memo: "interpret 兼有「解读（意义）」与「口译（现场传话）」；interpret...as... 把……理解为；名词 interpretation 解释/演绎；笔译用 translate" },
+    { w: "fluent", ipa: "/ˈfluːənt/", pos: "adj.", cn: "流利的，流畅的", ex: "The same soft voice was fluent, patient, identical.", excn: "同一个柔和的声音，流利、耐心、一模一样。", memo: "flu（流动，同 fluid 流体）+ ent → 像水一样淌出来 → 流利；be fluent in + 语言；名词 fluency 流利度；反义 hesitant 迟疑的" },
+    { w: "numerous", ipa: "/ˈnjuːmərəs/", pos: "adj.", cn: "众多的，许多的", ex: "It cited numerous rules, one after another.", excn: "它一条接一条地搬出繁多的规则。", memo: "numer（数字，同 number）+ ous → 数字很大 → 众多的；⚠️ 修饰可数名词复数：numerous rules/reasons；= many 的正式版；名词 numeral 数字" },
+    { w: "provision", ipa: "/prəˈvɪʒn/", pos: "n.", cn: "条款，规定；提供；（复数）补给", ex: "It revealed a hidden provision: any citizen may challenge the Beast.", excn: "宪章显出一条暗藏的条款：任何市民都可以向怪兽发起挑战。", memo: "provide（提供）的名词；a provision in the contract/charter 合同/宪章条款；make provision for 为……做准备；provisions 粮食补给（复数，熟词生义）" },
+    { w: "rapid", ipa: "/ˈræpɪd/", pos: "adj.", cn: "快的，急速的", ex: "Doubt spread with rapid speed.", excn: "怀疑飞速蔓延。", memo: "rapid 正式语境的「快」；a rapid increase 急剧增长；rapidly adv.；复数名词 rapids 河流急流（熟词生义）；quick/fast 口语，rapid 书面" },
+    { w: "respond", ipa: "/rɪˈspɒnd/", pos: "v.", cn: "回答，回应；起反应", ex: "It would respond only to exact matches.", excn: "它只回应完全匹配的说法。", memo: "re（回）+ spond（承诺，同 sponsor 担保人）→ 回应约定 → 应答；⚠️ respond to + 名词（to 是介词）；名词 response（in response to 作为回应）" },
+    { w: "strengthen", ipa: "/ˈstreŋθn/", pos: "v.", cn: "加强，巩固", ex: "The whole team worked to strengthen the citizens' memory, word by word.", excn: "全队埋头加固市民们的记忆，一词又一词。", memo: "strength（力量）+ en（使动后缀，同 widen/deepen）→ 加力 → 加强；strengthen ties/defenses 加强联系/防御；反义 weaken 削弱" },
+    { w: "sustain", ipa: "/səˈsteɪn/", pos: "v.", cn: "维持，支撑；承受", ex: "Built to sustain one meaning at a time, it could not sustain ten thousand at once.", excn: "它被造出来一次只撑一个意思，就撑不住一万意思同时涌来。", memo: "sus（在下）+ tain（握，同 contain/obtain）→ 在下面托住 → 支撑；sustain life/losses 维持生命/承受损失；形容词 sustainable 可持续的" },
+    { w: "candidate", ipa: "/ˈkændɪdət/", pos: "n.", cn: "候选人；候补者；考生", ex: "A wall of silver screens, listing candidate answers like soldiers on parade.", excn: "一整面银屏之墙，把候选答案列得像阅兵的士兵。", memo: "词源拉丁语 candidus（白）→ 古罗马求官者穿白袍 → 候选人；a candidate for the post 职位候选人；⚠️ 中间 i 不发音；candidacy 候选资格" },
+    { w: "debate", ipa: "/dɪˈbeɪt/", pos: "n./v.", cn: "辩论，争论", ex: "Any citizen may challenge the Beast to a public debate.", excn: "任何市民都可以向怪兽发起公开辩论。", memo: "de（下）+ bate（打）→ 你一拳我一拳轮流往下拍 → 辩论；debate on/about sth.；beyond debate 无可争辩；与 argue/quarrel 辨析：debate 是有规则的论战" }
   ],
   confusions: [
     {
-      group: "job / work — 数得清与数不清",
+      group: "respond / reply / answer — 回应三兄弟",
       items: [
-        { w: "job", cn: "n. 工作（可数）", note: "a good job / two jobs；指具体岗位、职业" },
-        { w: "work", cn: "n. 工作（不可数）/ v. 工作", note: "a lot of work 大量工作；不能说 a work（除非指作品）" },
-        { w: "worker", cn: "n. 工人；员工", note: "work + er；office worker 上班族" }
+        { w: "respond (v.)", cn: "回应，反应（正式）", note: "respond to + 名词（⚠️ to 是介词）：respond to the question/the treatment 对问题/治疗有反应" },
+        { w: "reply (v./n.)", cn: "答复（书面味）", note: "reply to a letter 复信；reply that... 接从句；比 answer 更正式、更郑重" },
+        { w: "answer (v./n.)", cn: "回答（最通用）", note: "answer the question/phone/door——万能搭配，不需要 to" }
       ],
-      tip: "问职业用 What is your job? 问工作量用 much work。job 可数、work 不可数，a work 只指一件作品。"
+      tip: "介词分家：answer 直接接宾语，respond/reply 必须带 to。改错最爱把 respond the question 挖成错的——补上 to。本章怪兽只 respond to exact matches（只认完全匹配）。"
     },
     {
-      group: "pay / cost / spend — 三种花钱姿势",
+      group: "complex / complicated — 「复杂」的双胞胎",
       items: [
-        { w: "pay", cn: "v. 支付（人作主语）", note: "I pay for the paper. / pay + 钱 + for + 物" },
-        { w: "cost", cn: "v. 花费（物作主语）", note: "The glass room cost more than our dorm. cost-cost-cost，无被动" },
-        { w: "spend", cn: "v. 花（时间/钱）（人作主语）", note: "spend money on sth / spend time doing sth" }
+        { w: "complex (adj.)", cn: "复杂的（结构交织）", note: "a complex system/argument 指内部结构层层交织，中性、技术味；反义 simple" },
+        { w: "complicated (adj.)", cn: "复杂难懂的（麻烦）", note: "a complicated procedure 指繁琐难弄、令人头大，常带贬义；反义 easy" },
+        { w: "sophisticated (adj.)", cn: "精密复杂的；世故的", note: "sophisticated technology 精密尖端的（褒义）；a sophisticated liar 老练世故的" }
       ],
-      tip: "口诀：人 pay，物 cost，人 spend。pay for + 商品，cost 后直接接钱数，spend...on/doing。考试最爱互混主语。"
+      tip: "色彩三档：complex 说结构（客观描述），complicated 说体验（麻烦死了），sophisticated 说水平（精密高级）。怪兽的系统是 complex（工程描述），用起来让市民觉得 complicated（体验描述）。"
     },
     {
-      group: "send / receive / reply — 通讯三步曲",
+      group: "sustain / maintain / remain — tain 词根三兄弟",
       items: [
-        { w: "send", cn: "v. 发送（发出动作）", note: "send-sent-sent；Schools send us emails" },
-        { w: "receive", cn: "v. 收到（客观接受）", note: "We receive them；receive a message 收到消息" },
-        { w: "reply", cn: "v./n. 回复（回应动作）", note: "reply to the email；复数 replies" }
+        { w: "sustain (v.)", cn: "支撑，维持；承受", note: "sustain life/losses 在下面托住 → 维持生命/承受损失；sustainable 可持续的" },
+        { w: "maintain (v.)", cn: "维护，保养；坚持认为", note: "maintain a car/machine 保养；maintain that... 坚持认为；main（手）+ tain 用手托住" },
+        { w: "remain (v.)", cn: "保持；剩余", note: "remain quiet/silent 保持状态不变（系动词用法）；剩余：Nothing remained." }
       ],
-      tip: "流程：先 send 发出 → 再 receive 收到 → 最后 reply 回应。reply 不及物必须带 to；answer 直接接宾语。"
+      tip: "tain（握住）家族分方向：sustain 自下往上撑（承重），maintain 用手保养护住（维持现状），remain 自己待着不动（保持/剩下）。怪兽撑不住 → cannot sustain；系统停摆后静默 → went quiet, nothing remained。"
+    },
+    {
+      group: "interpret / translate — 「译」的两条路",
+      items: [
+        { w: "interpret (v.)", cn: "口译；解读", note: "interpret for sb. 给某人当口译；interpret a dream/silence 解梦/解读沉默——重在对意义的当场理解" },
+        { w: "translate (v.)", cn: "笔译，翻译", note: "translate...into... 把……翻译成（ch20 旧词回响！）；重在语言文字的转换" },
+        { w: "interpreter (n.)", cn: "口译员", note: "同形歧义：还有「解释器/翻译器」义（编程语境）；translate 的执行者叫 translator 笔译员" }
+      ],
+      tip: "口笔分工：interpreter 现场说话，translator 案头文字。本章怪兽只给唯一答案，不会 interpret（解读语境）——机器能 translate 字面，读不懂 interpret 言外。"
     }
+  ],
+  hidden: [
+    { w: "candidate", known: "n. 候选人（选举）", hidden: "n. 候补者，求职者；候选答案（a candidate for the position）", ex: "The Beast offered ten candidate answers, and all ten missed the context.", excn: "怪兽给出十个候选答案，十个都没接住语境。" },
+    { w: "provision", known: "n. 提供，供应", hidden: "n. 条款，规定；（复数）粮食补给", ex: "The charter carried one forgotten provision about the right of debate.", excn: "宪章里躺着一条被遗忘的、关于辩论权的条款。" },
+    { w: "element", known: "n. 要素，成分", hidden: "n. 化学元素；an element of 一丝，一点", ex: "There was an element of hope in every question the boy asked.", excn: "男孩问出的每个问题里，都藏着一线希望。" },
+    { w: "rapid", known: "adj. 快的，急速的", hidden: "n.（复数 rapids）急流，湍滩", ex: "Doubt ran through the city like water through the rapids.", excn: "怀疑贯穿全城，像水流冲过急流险滩。" },
+    { w: "state", known: "n. 状态；州", hidden: "v. 陈述，声明；n. 国家，政府", ex: "The charter states one right clearly: the right to question.", excn: "宪章清楚地陈述了一项权利：提问的权利。" }
   ],
   sentences: [
     {
-      en: "While he was <mark>waiting</mark> at the gate of the <mark>company</mark>, his <mark>phone</mark> buzzed with a message from Flying Bro.",
+      en: "The Beast — <mark>built</mark> to sustain one meaning at a time — could not sustain ten thousand at once.",
       parts: [
-        "While + 过去进行时：等待是持续进行的背景动作",
-        "buzzed 一般过去时：手机震动是打断背景的短暂动作",
-        "was waiting：过去进行时 = was/were + doing",
-        "with + 名词：表伴随，带着一条消息"
+        "built to sustain... 过去分词短语作插入语（被动：怪兽「被造出来」）＝ which was built to...",
+        "双破折号夹插入语，阅读时先跳读主干：The Beast could not sustain ten thousand at once",
+        "at a time 每次 / at once 同时——两个时间短语对照出矛盾的爆点",
+        "sustain 两次重复形成对比修辞：一个 vs 一万"
       ],
-      cn: "他在公司门口等着的时候，手机震了——飞哥的消息到了。"
+      cn: "这头怪兽——造出来一次只撑一个意思——撑不住一万意思同时涌来。"
     },
     {
-      en: "I want to know what the <mark>salary</mark> is like, whether the boss gives free lunch, and where new interns <mark>wait</mark> for orders.",
+      en: "Context, <mark>the missing element</mark>, kept breaking every list.",
       parts: [
-        "宾语从句用陈述语序：what the salary is like（不是 what is the salary like）",
-        "whether 引导「是否」从句，不能换成 if 放介词后位置的这句里与并列结构冲突",
-        "where new interns wait：疑问词 + 主语 + 谓语，同样是陈述语序",
-        "三个从句并列作 know 的宾语，逗号 + and 连接"
+        "the missing element 是 context 的同位语，破折号/逗号插入补充说明",
+        "主语是 context（单数）→ 谓语 kept 用单数；插入语不影响主谓一致",
+        "keep doing 不断做某事；break a list 击碎（候选答案的）清单",
+        "missing 现在分词作定语：缺失的（= which was missing）"
       ],
-      cn: "我想知道工资什么水平、老板管不管免费午餐、新实习生在哪儿等指令。"
+      cn: "语境，那个缺失的要素，不断击碎每一份清单。"
+    },
+    {
+      en: "The Dean built the Beast <mark>so that</mark> no one would question again.",
+      parts: [
+        "so that 引导目的状语从句：为了……（从句常配 would/could/may）",
+        "辨析 so...that（如此…以至于）：so 后面是形容词/副词才表结果",
+        "主句 built 一般过去时，从句 would question 过去将来——时态层层顺移",
+        "no one 全否定代词作从句主语，谓语用单数"
+      ],
+      cn: "教务长造这头怪兽，就是为了让人不再提问。"
     }
   ],
   phrases: [
-    { p: "wake up", cn: "醒来；叫醒", note: "A-Luo woke up before the sun 阿洛在日出前就醒了；wake sb up 把某人叫醒" },
-    { p: "hand sth to sb", cn: "把某物递给某人", note: "handed him his bag 把包递给他；= hand sb sth 双宾语" },
-    { p: "on loud speaker", cn: "外放；免提", note: "His phone rang on loud speaker 手机外放响了；不设防的社死现场标配" },
-    { p: "used to do", cn: "过去常常（现在不做了）", note: "⚠️ I used to sleep in class 我以前上课老睡觉；区分 be used to doing 习惯于做某事", warn: true },
-    { p: "by mistake", cn: "错误地；无意中", note: "copy the wrong file by mistake 无意中复制错文件；无冠词：by mistake 不说 by a mistake" },
-    { p: "wait for", cn: "等待；等候", note: "wait for orders 等指令；wait for sb to do 等某人做某事" },
-    { p: "during the lunch break", cn: "在午休时间", note: "during + 时间段；at noon 午后十二点，lunch break 午休" },
-    { p: "come to an end", cn: "结束；告终", note: "The long day came to an end 漫长的一天结束了；= end 的名词化表达" },
-    { p: "look + 形容词", cn: "看起来……", note: "Everything looks expensive 这里一切都显贵；look 是系动词后接形容词" },
-    { p: "on time", cn: "准时；按时", note: "come back early tomorrow 与 on time 呼应；⚠️ on time 准时 / in time 及时，考点", warn: true },
-    { p: "point at", cn: "指向；指着", note: "point at the glass room 指着玻璃房；point to 也常用，指向较远" },
-    { p: "pay for", cn: "为……付钱；付出代价", note: "pay for the paper 付纸钱；⚠️ 人 pay for 物；物 cost 钱：It costs 5 yuan", warn: true }
+    { p: "respond to", cn: "回应，对……作出反应", note: "⚠️ to 是介词：respond to a question/the treatment；名词 response in response to", warn: true },
+    { p: "challenge sb. to", cn: "向某人发起（比赛/辩论）挑战", note: "challenge the Beast to a public debate；challenge sb. to do sth. 亦可" },
+    { p: "at a time", cn: "每次，一次", note: "one meaning at a time 一次一个意思；区分 at one time（曾经，一度）/ at the same time（同时）", warn: true },
+    { p: "be built to do", cn: "被造来……，生来就是", note: "built to sustain one meaning；被动分词 build-built-built，别写成 builded ❌；复现 ch05" },
+    { p: "open with", cn: "以……开场", note: "A-Luo opened with the oldest word. open A with B 用 B 开启 A；反义 end with" },
+    { p: "word after word", cn: "一词接一词", note: "名词 after 名词表连续：day after day / bus after bus——「after 重复结构」写作高频" },
+    { p: "run on", cn: "靠……驱动运行", note: "the system that ran on data 以数据驱动的系统；run out of 用完，方向别搞反" },
+    { p: "go quiet / go silent", cn: "安静下来", note: "go + 形容词表状态转变（多指变糟/变化）：go quiet/mad/wrong" },
+    { p: "line by line", cn: "逐行地，逐条地", note: "read it line by line；同构 step by step / little by little——单数名词重复；复现 ch09" },
+    { p: "have a right to do", cn: "有权做某事", note: "the right of debate 辩论权；have the right to question；right to 后接名词或动词原形" },
+    { p: "hear sb. do", cn: "听见某人做某事（全过程）", note: "heard itself think 听见自己思考；变被动 to 回来：be heard to do；❌ hear sb. to do", warn: true },
+    { p: "look up", cn: "仰望；（在词典里）查阅", note: "looked up the stairs 仰望台阶；look up a word 查单词——两义都高频", warn: true },
+    { p: "for the first time in years", cn: "多年来第一次", note: "in years 与现在完成/过去时连用表「多年来」；for the first time 首次" },
+    { p: "step through", cn: "跨过，穿过（门/通道）", note: "stepped through the gate；through 强调从内部穿过，over 从上方越过", warn: true },
+    { p: "keep climbing", cn: "继续攀登", note: "keep + doing 不断做；keep 的宾语是 climbing（动名词），不是 to climb" }
   ],
   grammar: [
     {
-      t: "一般过去时 vs 过去进行时（when / while 黄金搭档）",
-      rule: "过去进行时（was/were + doing）画背景：正在进行、持续中的动作；一般过去时（did）画特写：短暂、打断、完成的动作。while + 过去进行（延续），when + 一般过去（点动作），两个延续动作用 while 并列也可。口诀：长动作 while 罩着，短动作钻进来打断。",
-      ex: "While he was waiting at the gate of the company, his phone buzzed with a message.",
-      excn: "他在公司门口等着的时候，手机震了，飞哥的消息到了。",
-      signal: "标志词：while, when, at nine yesterday, at that moment。改错雷区：①while 后接短暂动词 ❌ → 换 when 或改为进行时；②was waiting at nine yesterday ✅（时刻点用进行时画正在进行）；③状语从句中不用 will（见主将从现）"
+      t: "被动语态（科技说明文标配）",
+      rule: "科技文体强调「被处理的对象」→ 大量被动：The city was run by one system. Every earpiece was fed the same answer. 情态被动：must/can/may + be + done。两个改错雷区：① 漏 be（The city run by... ❌）；② 过去分词写原形（was build ❌ → was built）。主动被动判定口诀：主语是「被处理的东西」就用 be done。",
+      ex: "The city was run by one silver system; every earpiece was fed the same answer, and the debate was set for sundown.",
+      excn: "全城由一套银色系统运转；每只耳机都被灌入同一个答案，辩论定在日落。",
+      signal: "主语与动词是承受关系 → be done；by 后接施动者；情态动词后必须补 be（may be challenged）",
+      quiz: { s: "The whole city ___ by one system until last night.", options: ["was running", "running", "was run", "ran"], answer: 2, explain: "城市是「被运转」的承受者 → was run；ran/was running 是主动；running 缺谓语动词" }
     },
     {
-      t: "used to do 过去常常（现在不了）",
-      rule: "used to + 动词原形：过去的习惯或状态，现在已不再。否定 used not to / didn't use to；疑问 Did you use to...? 三兄弟辨析：used to do 过去常常；be used to doing 习惯于（to 是介词）；be used to do 被用来做（被动）。",
-      ex: "Pang-Da shouted: I used to sleep in class, but you used to copy notes!",
-      excn: "胖达吼道：我以前上课老睡觉，可你——你以前是抄笔记的！",
-      signal: "标志词：used to, in the past, when I was young。改错雷区：①be used to sleep（表过去习惯）❌ → used to sleep ✅；②I am used to get up early（习惯）❌ → am used to getting up ✅；③used to 后必须接动词原形"
+      t: "so that / in order that 目的状语从句",
+      rule: "so that / in order that + 完整从句（主谓齐全），从句常配 may/might/can/could/would：He built the Beast so that no one would question again. 从句主语与主句不同或需要情态 → 用 so that。三大辨析：① so...that（so + adj./adv. + that）表结果；② so as to/in order to + 动词原形（从句主语须与主句一致）；③ because 表原因方向相反。",
+      ex: "The Dean built the Beast so that no one would question again, but the team kept the clause so that memory could fight back.",
+      excn: "教务长造怪兽是为了让人不再提问，但小队保住那条条款是为了让记忆能反击。",
+      signal: "从句里出现 would/could/may + 动词原形且语义是「为了」→ so that；so 后紧跟形容词 → 是 so...that 结果句",
+      quiz: { s: "The Dean built the Beast ___ no one would question again.", opts: ["so that", "so as to", "in order to"], a: 0, why: "从句 no one would question 是完整主谓结构 → 用 so that；so as to / in order to 后只能接动词原形" }
     },
     {
-      t: "宾语从句（陈述语序 + 时态呼应）",
-      rule: "宾语从句放动词后作宾语，语序必须还原成「主语 + 谓语」：I want to know what the salary is（❌ what is the salary）。三类引导词：that（陈述事实，可省）、whether/if（是否）、疑问词 what/where/when/how（保留疑问词义）。主句过去时，从句用相应过去时态（客观真理除外）。",
-      ex: "The boss asked me what I was doing with twenty copies of homework.",
-      excn: "老板问我正拿着二十份作业在干什么。",
-      signal: "标志词：know, ask, wonder, tell + 从句。改错雷区：①Do you know where is the boss ❌ → where the boss is ✅；②if 与 whether 在「或否」结构、不定式前只用 whether；③主句过去时从句不能留在现在时（客观真理除外）"
+      t: "with 复合结构（with + 宾语 + doing/done/介短）",
+      rule: "with + 名词 + doing（主动进行）/ done（被动完成）/ adj. / 介词短语，作伴随或原因状语：The Beast stood there, with screens glowing and data flowing. / with one hand on the bronze door. 判定：名词与动词主动 → doing，被动 → done。与独立主格的区别：with 结构必须带 with，独立主格不带。",
+      ex: "The Beast took the stage with screens glowing, and the figure stood at the gate with one hand on the bronze door.",
+      excn: "怪兽带着闪烁的银屏登台；那个身影一手按着铜门站在塔门前。",
+      signal: "with + 名词 + 非谓语 → 复合结构；主动进行用 doing（screens glow 主动），被动完成用 done（his eyes fixed on...）",
+      quiz: { s: "The figure stood at the gate, with one hand ___ on the bronze door.", opts: ["resting", "rested", "rest"], a: 0, why: "hand 与 rest 是主动关系（手「搭在」门上）→ with 复合结构用 doing：resting；rested 表被动；rest 原形无解" }
+    },
+    {
+      t: "真题高频 · 介词 + which/whom 定语从句",
+      rule: "介词提前的定语从句：先行词 + 介词 + which（物）/ whom（人）+ 从句剩余部分。介词来源三选一：① 从句动词搭配（depend on → on which）；② 先行词习惯搭配；③ 表整体部分（of which）。硬规则：介词后只能用 which/whom，不能用 that/who；介词也可留后（that...on 但介词后置时 that 可用）。",
+      ex: "The charter was the only wall on which the team could build, and the Beast was the machine against which every heart turned.",
+      excn: "宪章是唯一一堵小队可以倚仗的墙；那头怪兽则是所有人心转向其对立面的机器。",
+      signal: "空格前有介词（on/in/against/of）→ 只填 which/whom，永不填 that；介词选择回从句动词找搭配（depend on / turn against）",
+      quiz: { s: "The charter was the only wall on ___ the team could build.", opts: ["which", "that", "what"], a: 0, why: "介词 on 提前 → 只能用 which；that 不能紧跟介词；what 不引导定语从句" }
+    },
+    {
+      t: "真题高频 · as 引导非限制性定语从句（指代整句）",
+      rule: "as 可指代整个主句，位置灵活（主句前/中/后皆可）：As is known to all, context changes meaning. / The Beast failed, as everyone expected. 常见搭配：as is known to all / as has been said / as is shown in...。与 which 的区别：which 指代整句时只能放主句之后；as 放句首句尾都行，且含「正如」的比较义。",
+      ex: "As is shown in the charter, the right of debate had slept for years — and the crowd woke it, as the keeper had hoped.",
+      excn: "正如宪章所载，辩论权沉睡多年——而人群唤醒了它，正如守夜人所期望的那样。",
+      signal: "句首「正如」→ 只能 as 不能 which；as 后接 is/was/shown/expected 等被动或系表；主句完整、从句缺主语 → as 作从句主语",
+      quiz: { s: "___ is shown in the charter, the right of debate had slept for years.", opts: ["As", "It", "What"], a: 0, why: "句首「正如……所示」→ as 引导非限定定语从句；which 不能放句首；It/What 缺关系代词功能" }
     }
   ],
   quiz: [
     {
-      q: "While A-Luo ______ at the gate, the tall man walked out of the company.",
-      options: ["was waiting", "waited", "waits", "is waiting"],
+      q: "A good reader can ______ a word's real meaning from its context.",
+      options: ["interpret", "interrupt", "interview", "intervene"],
       answer: 0,
-      explain: "walked out 是打断的短动作，gate 前的等待是持续的背景动作 → 过去进行时 was waiting。while 引导延续动作从句是过去进行时的经典标志；主句 walked 用一般过去时形成「长背景 + 短打断」结构。"
+      explain: "interpret 解读，理解（从语境里读出真义）；interrupt 打断；interview 采访；intervene 干预。inter- 词族四连，靠宾语 meaning 锁定。"
     },
     {
-      q: "Pang-Da says he ______ sleep in class, but now he never does.",
-      options: ["used to", "is used to", "uses to", "was used to"],
-      answer: 0,
-      explain: "过去常做、现在不做 → used to do。be used to doing 是习惯于做；uses to 是错误形式；was used to sleep 意为「被用来睡觉」。used to 后接动词原形。"
+      q: "Old chants and memory games ______ the citizens' recall, word by word.",
+      options: ["strengthen", "stressful", "strength", "stretched"], answer: 0, explain: "strengthen 加强、巩固（strength + en 动词化）；strength 是名词力量；stretched 拉伸；stressful 有压力的。空格需动词 → strengthen。"
     },
     {
-      q: "改错：Do you know where is the meeting room of the company?",
-      options: ["where is the meeting room → where the meeting room is", "Do you know → You know", "of the company → of company", "where → what"],
-      answer: 0,
-      explain: "宾语从句必须用陈述语序：疑问词 where + 主语 the meeting room + 谓语 is。把 be 动词提到主语前是宾语从句最高频错误。"
+      q: "The city charter gave every citizen the right to a public ______ with the Beast.",
+      options: ["debt", "debris", "debut", "debate"], answer: 3, explain: "debate 辩论（宪章里沉睡的辩论权）；debt 债务；debut 首次亮相；debris 残骸。de- 词族形近，a public debate 公开辩论是本章题眼。"
     },
     {
-      q: "The glass room ______ the boss more money than our whole dorm costs.",
-      options: ["costs", "pays", "spends", "takes for"],
-      answer: 0,
-      explain: "物作主语用 cost：The room costs money。pay 和 spend 都要求人作主语（pay for / spend on）；takes for 搭配不存在。cost-cost-cost，主语三单 → costs。"
+      q: "The whole city ______ by one silver system until last night.",
+      options: ["running", "ran", "was run", "was running"], answer: 2, explain: "城市是「被运转」的承受者 → 一般过去被动 was run；ran/was running 主动语序意思反了；running 缺谓语 be 动词。"
     },
     {
-      q: "— Is the lunch in this company ______? — Yes, the boss pays for it.",
-      options: ["free", "expensive", "cheap", "busy"],
-      answer: 0,
-      explain: "老板付钱 = 免费午餐 free lunch。expensive 贵、cheap 便宜都与老板付钱矛盾；busy 忙，语义不通。free 还有「自由的、有空的」义。"
+      q: "______ is shown in the charter, the right of debate had slept for years.",
+      options: ["It", "As", "What", "Which"], answer: 1, explain: "句首「正如宪章所示」→ as 引导非限制性定语从句指代整个主句；which 指代整句只能放主句后；It/What 无此功能。"
     },
     {
-      q: "英译汉选择：The boss asked me what I was doing with twenty copies of homework.",
-      options: ["老板问我作业 copies 到二十份了吗。", "老板问我正拿着二十份复印的作业在干什么。", "我抄了二十份作业，老板没问。", "老板让我把作业复印二十份。"],
-      answer: 1,
-      explain: "asked me what I was doing：宾语从句陈述语序 + 过去进行时，表示「当时正在干什么」；with twenty copies of homework 是「拿着二十份复印作业」的伴随状态。A 篡改结构，C 反转主宾，D 把问句变成了命令。"
+      q: "The Beast gave the same ______ answer to every different heart.",
+      options: ["standard", "staff", "stage", "stand"], answer: 0, explain: "复现 ch19 旧词 standard 标准（standard answer 标准答案——怪兽的本体）；stand 站/摊位；staff 员工；stage 舞台。standard answers ruin a city，本章原句复现。"
     },
     {
-      q: "Come back ______ tomorrow — being ______ twice is a habit, not bad luck.",
-      options: ["early; late", "early; lately", "earlier; late", "early; later"],
-      answer: 0,
-      explain: "early 既可形容词也可副词：come back early 早点回来。be late for 迟到固定搭配；lately 意为「最近」；later 意为「后来」，都不表「迟到」。"
+      q: "Its answers claimed to be ______ , but human hearts are not.",
+      options: ["universe", "university", "universal", "united"],
+      answer: 2,
+      explain: "复现 ch14 旧词 universal 普遍的，放之四海的（a universal answer 万能答案）；universe 宇宙；university 大学；united 联合的。universal 的「万能」正是机器的死穴。"
     },
     {
-      q: "You ______ working after the disaster — that is hard to find in a new intern.",
-      options: ["continued", "stopped", "forgot", "woke"],
+      q: "One answer for every question will ______ a thinking city.",
+      options: ["rip", "ruin", "rub", "roar"], answer: 1, explain: "复现 ch20 旧词 ruin 毁掉（n./v.）；roar 咆哮；rub 摩擦；rip 撕裂。「标准答案就是这样毁掉一座城的」——卷卷的原话。"
+    },
+    {
+      q: "改错：The tall figure stood at the gate with his eyes fixing on the bronze door.",
+      options: ["fixing → fixed", "with → as", "stood → standing", "on → at"],
       answer: 0,
-      explain: "灾难之后还继续干 → continued working（continue doing 继续做某事），这正是老板给绿灯的原因。stopped 停止、forgot 忘记与语境相反；woke 是 wake 的过去式，醒来与句意无关。"
+      explain: "改错雷区·非谓语（with 复合结构）：with + 宾语 + done 表被动完成。eyes 与 fix 是被动关系（眼睛「被固定在」门上，eyes fixed on... 是固定表达）→ fixing 应改 fixed；B 错，with 引导复合结构不能换成 as；C 错，stood 是句子唯一的谓语动词，改成 standing 句子就没有谓语了；D 错，fix...on 是固定搭配，on 不能改 at。"
+    },
+    {
+      q: "汉译英：标准答案怪登台了，银屏闪烁着。",
+      options: ["The Beast took the stage with silver screens glowing.", "The Beast took the stage with silver screens glowed.", "The Beast took the stage with silver screens to glow.", "The Beast took the stage with silver screens glow."],
+      answer: 0,
+      explain: "考点：with 复合结构 with + 宾语 + doing 表主动伴随。A 正确，screens 与 glow 是主动进行关系（屏幕自己在闪）→ glowing；B 错在 glowed 表被动完成，银屏是自己闪，不是「被闪」；C 错在不定式 to glow 不能作 with 复合结构的宾补，表不出伴随进行；D 错在 glow 是动词原形，with 复合结构的宾补位置不能放谓语原形。"
     }
   ]
 });

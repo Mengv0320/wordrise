@@ -1,261 +1,229 @@
 window.CHAPTERS = window.CHAPTERS || [];
 window.CHAPTERS.push({
   id: 8,
-  title: "挂科逆袭 · 暴风雨之夜",
-  desc: "期中英语 58 分，暴风雨夜停电停网，飞哥点起蜡烛讲起他去年的 55 分——挂科退不了货，但 Every cloud has a silver lining。",
-  tag: "心理情感类高频词",
+  title: "回响试炼 · 黑市之夜",
+  desc: "黑市查封当夜，被囚词魂的怨念化作记忆黑潮夜袭青盟学院，全城忘词。阿洛带小队点亮回响石——用旧词吟唱旧技能驱雾救城。黑潮散尽，夜空浮现十年前父亲持卷而战的残影。本章全程复现旧词。",
+  tag: "旧词回响 · 复习巩固章",
   story: {
-    title: "The Storm Night 暴风雨之夜",
-    text: `The night the midterm results arrived, a real [[storm]] hit the city. Rain knocked on the windows like an angry professor. Qian-Shao opened the score page with one finger covering half the screen. English: 58. Failed. A whole week of [[anxiety]] had ended in one number. At that exact moment, the [[power]] was cut off — even the building seemed to know.
+    title: "The Night of the Black Tide 记忆黑潮之夜",
+    text: `Two nights after the Clan House, A-Luo copied the forbidden-name page into his notebook, the Zeroing Case sealed in his heart. The city had just sealed the black market's warehouse. Then the confiscated bottles began to crack, one after another. Every caged cub rose at once, and their gray smoke joined into a single tide: the Memory Black Tide. It rolled uphill toward the academy, and everything it touched forgot itself — signs blurred, bells lost their notes, freshmen woke to memories gone [[vague]].
 
-"Perfect," Qian-Shao said in the dark. "Now I can fail twice at the same time: the exam, and the electricity."
+"It does not come for blood," Juanyan reported. "It comes to [[drain]] — it keeps what it swallows." From the dead [[auctioneer]] the tide had learned to cry prices with a wicked [[thrill]] and to [[imitate]] every vendor's voice. It did not [[restrict]] itself to the market's ghosts; it came to [[spoil]] picnics and homework — every name it touched went blank. "[[Forgive]] and forget," Juanyan groaned. "The tide took the second half literally — and will never [[apologize]]." Juanyan lost her [[temper]]; Zhou Qing lost a third of his stock, too proud to ask for help.
 
-A candle was lit. Fei-Ge, the famous night owl, put down his tea. "Relax. Last year I met my first [[failure]]: English, 55 — one point lower than yours."
+"Old words wake old skills," she read from the manual. "Light an echo stone with a word you truly own, and its light will hold back the tide." Three stones stood at three gates: North Tower, Great Square, Library. "The stone tests the song, not the glow," Zhibai said. The team split three ways, [[loyal]] to one promise: no gate falls tonight.
 
-"For weeks my [[attitude]] was: hide, sleep, give up. Then the roommates [[encouraged]] me, [[trusted]] me even when I doubted myself, and [[shared]] their notes with me. It took [[courage]] to start again. They built me a [[schedule]]: six o'clock, review; nine o'clock, practice; ten o'clock, sleep."
+At the North Tower, Pangda sang the lesson of the mirror city: quite is not quiet, adopt is not adapt — [[judgment]] before speed. The stone blazed gold, and the freshmen stopped trembling: its light would not [[abandon]] a single name. At the Great Square, Zhibai sang the family of affect and effect until the crowd could tell a verb from a noun, her famous [[restraint]] turned into a blade. At the Library, A-Luo laid both hands on the stone and gave back every meaning it had stolen — [[genuine]] note by note. "Nothing can [[justify]] a city of silence," he said. "[[Weary]] or not — sing. To [[utter]] an old word is to relight a lamp. City, [[resume]] your voice!"
 
-"I passed. Not a great [[success]], but mine. So tonight, we study."
+Dawn came gray, then gold. Strangers sang in chorus — a [[marvelous]], unpolished noise — and the more they sang, the more came back, until no name the city loved proved [[forgettable]]. The teachers' [[devotion]] had held the gates all night; every student found a [[role]], and the oldest [[institution]] stood because its people stood. Their task: to [[comfort]] the ones who woke weeping. True courage, Juanyan announced, had never once been [[scarce]]. [[Relief]] swept the streets as the last smoke thinned; the city began to [[celebrate]] — and A-Luo froze. In the clearing dark above the wall hung an [[unexpected]] figure, holding a rolled scroll against a sea of fog, fighting stroke by stroke. The face from the forbidden-name page had come to watch.`,
+    translation: `宗家之夜的两天后，阿洛把禁名录那一页抄进笔记本，把清零案封存在心底。而这座城刚刚封存了黑市的仓库。紧接着，那些查封的瓶子开始一个个自行碎裂。每只被囚的幼体同时立起，灰烟汇成一股同流：记忆黑潮。它卷上山坡直扑学院，所过之处万物自忘——招牌模糊了，钟声丢了音，新生们醒来时记忆一片模糊。
 
-By candlelight, the dorm became a war room. Sao-Ye handed out his scanner notes; Pang-Da provided emergency noodles and moral support in equal amounts — until a [[problem]] was announced: the noodles were gone; the moral support remained unlimited. Muscle-Ge did push-ups in the corner: "A muscle grows only after it is broken down. Students are the same."
+「它不为血而来，」卷卷报告，「它来抽干——吞下的词，它全留着。」黑潮从死去的拍卖师那里学会了本领：它带着恶意的刺激沿街叫卖记忆的价格，还学会了模仿每一个小贩的声音。它并未把自己限制在黑市冤魂的范围里；它来糟蹋野餐和作业——被碰到的每个词都白了。「原谅与遗忘，」卷卷哀叹，「黑潮把后半句当真了——而且绝不会道歉。」卷卷发了脾气；周擎丢了三成存货，傲到不肯开口求助。
 
-"Treat the resit as a [[challenge]], not a disaster," Juanjuan said, drawing golden lines in the air. "Two weeks: errors first, words second, listening last."
+「旧词唤醒旧技能，」她念着创院手册，「用你真正拥有的词点亮回响石，它的光就能挡住黑潮。」三块石头立在三个门口：北塔、大广场、书库。「石头考的是歌，不是光，」沈知白说。小队兵分三路，忠于同一个誓言：今夜不丢一座门。
 
-They [[reviewed]] until two in the morning. With no [[devices]], no Wi-Fi and no short videos, they actually talked to each other — the strangest [[experience]] of the term. "I just [[concentrated]] for three hours," A-Luo said. "I feel like a new man." "You ARE one," Pang-Da said. "The old one never turned off his screen."
+北塔上，胖达唱起镜像城邦的课：quite 不是 quiet，adopt 不是 adapt——先判断，后出手。石头燃成金色，新生们停止发抖，因为这道光不会抛下任何一个名字。大广场上，沈知白唱起 affect 与 effect 的家族，直到人群重新分得清动词和名词，她那出名的克制化作了刀锋。书库里，阿洛双手按上石头，把它偷走的每一条释义如数奉还——真材实料，一音一符。「没有什么能证明一座沉默之城是正当的，」他说，「累也要唱。说出一个旧词，就是重新点亮一盏灯。青盟，恢复你的声音！」
 
-"A rare thing happened tonight," Juanjuan said. "Six hours, and nobody touched a screen."
-
-The [[storm]] left before dawn, and the morning came out washed and bright. The [[stress]] was gone — replaced by a paper plan: errors, words, listening, sleep.
-
-"Don't [[waste]] a good storm," Juanjuan said. "You cannot return a failed exam, but you still have two weeks to [[improve]]. Pass the resit, and your [[scholarship]] comes back to life."
-
-Fei-Ge looked at the wet, shining street. "Every cloud has a silver lining. If I had not failed last year, I would never have learned how to study — or understood this dorm. Failure, once [[overcome]], deserves [[respect]]. Stay [[optimistic]], and any setback can be turned into a starting point."
-
-"Feeling [[calm]] now?" A-Luo asked. "Completely," Qian-Shao said. "I need two weeks to [[recover]] my score — and my dignity."
-
-Then Juanjuan flew up with a golden letter. "The storm blew a door open," she said. "Beyond the lake, an ancient castle has appeared — the Castle of Questions. Its gate is guarded by a maze of instructions, and only careful readers can walk out. Pack your bags. The resit can wait; the riddle cannot."`,
-    translation: `期中成绩公布的那天夜里，一场真正的暴风雨袭击了城市。雨点像生气的教授一样砸着窗户。钱少用一根手指挡住半截屏幕，点开了成绩页面。英语：58。挂了。一整周的焦虑，最后凝结成一个数字。就在那一刻，停电了——整栋楼似乎都知道这个消息。
-「完美，」钱少在黑暗里说，「现在我能同时挂掉两样东西：考试，和电闸。」
-蜡烛点起来了。著名的夜猫子飞哥放下茶杯。「放松。去年我迎来了人生第一次挂科：英语，55 分——比你只低一分。」
-「那几周我的态度是：躲着、睡着、放弃。后来室友们鼓励我，连我自己都怀疑自己的时候他们仍然信任我，还把笔记分享给我。重新开始需要勇气。他们给我排了一张时间表：六点复习，九点练习，十点睡觉。」
-「我通过了。算不上多大的成功，但属于我。所以今晚，我们学习。」
-烛光下，宿舍变成了作战室。扫爷发了他那套著名的扫描笔记；胖达按等量配给了应急泡面和精神鼓励——直到一个问题被宣布：泡面没了，精神支持仍然不限量；肌肉哥在角落做俯卧撑：「肌肉是在被撕裂之后才生长的。学生也一样。」
-「把补考当成挑战，别当成灾难，」卷卷在空中画着金色线条，「两周：先错题，再单词，最后听力。」
-他们复习到凌晨两点。没有设备、没有 Wi-Fi、没有短视频，他们居然真的开始互相说话——这是本学期最奇特的经历。「我刚刚专心了三个小时，」阿洛说，「我感觉自己焕然一新。」「你确实是新的，」胖达说，「旧的那个从来不舍得关屏幕。」
-「今晚发生了件稀罕事，」卷卷说，「六个小时，没有人碰一下屏幕。」
-暴风雨在黎明前离开了，清晨被洗得又亮又干净。压力消失了——取而代之的是纸上的一份计划：错题、单词、听力、睡觉。
-「别浪费一场好风暴，」卷卷说，「挂掉的考试退不了货，但你还有两周可以提升。补考通过，你的奖学金就满血复活。」
-飞哥望着湿漉漉却发亮的街道。「谚语说：黑暗中总有一线光明。如果去年我没挂科，我永远学不会怎么学习，也永远读不懂这间宿舍。失败一旦被战胜，就值得尊重。保持乐观，任何挫折都能被变成新的起点。」
-「现在冷静了吗？」阿洛问。「彻底冷静了，」钱少说，「我需要两周找回我的分数——和我的尊严。」
-这时卷卷叼着一封金色信封飞了起来。「暴风雨吹开了一扇门，」她说，「湖的尽头出现了一座古堡——问题古堡。它的大门由一座指令迷宫把守，只有读懂指令的人才能走出去。收拾行李吧。补考可以等，谜题不能等。」`
+黎明先是灰的，然后是金的。陌生人隔着城墙齐声歌唱——一种了不起的、未经修饰的噪声——唱得越多，回来的越多，直到这座城爱着的名字没有一个被证明会被忘掉。老师们的奉献守了城门一整夜；每个学生都找到了自己的角色，词陆最老的机构之所以立着，是因为它的人民立着。他们的任务是安慰那些醒来就哭的人；而真正的勇气，卷卷宣布，从来一次都不稀缺。最后一线烟散尽时，如释重负的浪潮扫过全城，欢庆开始了——而阿洛僵住了。城墙上方渐散的夜幕里悬着一个意外的身影，把一卷卷轴抵向雾的海洋，一笔一画地作战。禁名录上的那张脸，来看他了。`
   },
 
-
   storyPoints: [
-    { "p": "现在完成时", "q": "If I had not failed last year, I would never have learned how to study — or understood this dorm.", "n": "have/has + 过去分词；看到 already/yet/just/in the last few years 秒选" },
-    { "p": "过去完成时", "q": "A whole week of anxiety had ended in one number.", "n": "had + 过去分词：过去的过去" },
-    { "p": "被动语态", "q": "\"Now I can fail twice at the same time: the exam, and the electricity.\" A candle was lit.", "n": "be + 过去分词：主语是动作承受者；无被动动词例外：happen/take place/consist of" },
-    { "p": "情态动词被动", "q": "Stay optimistic, and any setback can be turned into a starting point.\" \"Feeling calm now?\" A-Luo asked.", "n": "情态动词 + be done：必须做/应该做……表被动" },
-    { "p": "倒装句", "q": "Its gate is guarded by a maze of instructions, and only careful readers can walk out.", "n": "否定/Only 状语放句首 → 部分倒装：助动词提到主语前" },
-    { "p": "比较级/最高级", "q": "Last year I met my first failure: English, 55 — one point lower than yours.\" \"For weeks my attitude was: hide, sleep, give up.", "n": "比较级 + than；最高级 + the；much/even 可修饰比较级" },
-    { "p": "情态动词", "q": "The resit can wait; the riddle cannot.\"", "n": "情态动词 + 动词原形；must be 表肯定推测，can't be 表否定推测" },
-    { "p": "搭配 · every cloud has a silver lining", "q": "\"Every cloud has a silver lining.", "n": "黑暗中总有一线光明（因祸得福）" },
-    { "p": "搭配 · cut off", "q": "At that exact moment, the power was cut off — even the building seemed to know.", "n": "切断；中断" }
+    { "p": "全倒装 + 现在分词作伴随状语", "q": "In the clearing dark above the wall hung an unexpected figure, holding a rolled scroll against a sea of fog, fighting stroke by stroke", "n": "地点状语提前 → hung 走到主语 figure 前（全倒装，主语必须是名词）；holding/fighting 两个现在分词作伴随状语，逻辑主语都是 figure" },
+    { "p": "祈使句 + and 表条件与结果", "q": "Light an echo stone with a word you truly own, and its light will hold back the tide", "n": "= If you light an echo stone..., its light will...；祈使句 + and = 「只要……就」；换成 or 则表「否则」——写作万能句式" },
+    { "p": "for 并列连词表原因（书面补充理由）", "q": "the freshmen stopped trembling, for its light would not abandon a single name", "n": "for 是并列连词（前面常加逗号），补充原因，比 because 语气轻、更书面；不能放句首" },
+    { "p": "prove 系动词 + 省略 that 的定语从句", "q": "no name the city loved proved forgettable", "n": "prove (to be) + adj「被证明是……」是系动词用法；the city loved 前省略了关系词 that（先行词 name 在从句中作宾语可省）" },
+    { "p": "come to do（渐渐开始……）", "q": "it came to spoil picnics and homework", "n": "come to do 表状态的渐变「逐渐变得/开始」：come to realize/come to know——不是「来做什么」，改错高频误解点" },
+    { "p": "too...to 结构（肯定形式否定意义）", "q": "too proud to ask for help", "n": "too + adj + to do = 「太……而不肯/不能」；only too...to do 才是肯定（非常乐意）——一对经典改错陷阱" }
   ],
   words: [
-    { w: "failure", ipa: "/ˈfeɪljə/", pos: "n.", cn: "失败", ex: "Failure is the mother of success.", excn: "失败乃成功之母。", memo: "fail v. 失败；fail to do 未能做成；failure 也可指失败的人或事" },
-    { w: "success", ipa: "/səkˈses/", pos: "n.", cn: "成功", ex: "Hard work is the key to success.", excn: "努力是成功的钥匙。", memo: "一词全家桶：success n. / succeed v. / successful adj. / successfully adv." },
-    { w: "encourage", ipa: "/ɪnˈkʌrɪdʒ/", pos: "v.", cn: "鼓励", ex: "My roommates encouraged me to try again.", excn: "室友们鼓励我再试一次。", memo: "encourage sb. to do；encouragement n. 鼓励；反义 discourage 使泄气" },
-    { w: "courage", ipa: "/ˈkʌrɪdʒ/", pos: "n.", cn: "勇气", ex: "It takes courage to start again.", excn: "重新开始需要勇气。", memo: "encourage = en（使）+ courage（勇气）→ 使有勇气 → 鼓励" },
-    { w: "overcome", ipa: "/ˌəʊvəˈkʌm/", pos: "v.", cn: "克服；战胜", ex: "She overcame her fear of speaking.", excn: "她克服了讲话的恐惧。", memo: "overcome-overcame-overcome；overcome difficulties/fear 固定搭配" },
-    { w: "optimistic", ipa: "/ˌɒptɪˈmɪstɪk/", pos: "adj.", cn: "乐观的", ex: "Stay optimistic and keep working.", excn: "保持乐观，继续努力。", memo: "optimism 乐观主义；反义 pessimistic 悲观的，阅读态度题爱考" },
-    { w: "attitude", ipa: "/ˈætɪtjuːd/", pos: "n.", cn: "态度", ex: "Attitude decides everything.", excn: "态度决定一切。", memo: "have a positive/negative attitude to/towards 对……持积极/消极态度" },
-    { w: "respect", ipa: "/rɪˈspekt/", pos: "v./n.", cn: "尊重", ex: "We should respect other people's opinions.", excn: "我们应该尊重别人的意见。", memo: "show respect for 对……表示尊重；respect 尊重 ≠ respecter 谄媚者" },
-    { w: "trust", ipa: "/trʌst/", pos: "v./n.", cn: "信任", ex: "A good friend is someone you can trust.", excn: "好朋友是你可以信任的人。", memo: "believe sb. 相信（说的话）≠ believe in / trust sb. 信任（人品）" },
-    { w: "calm", ipa: "/kɑːm/", pos: "adj./v.", cn: "平静的；使平静", ex: "Try to stay calm during the storm.", excn: "风暴期间尽量保持冷静。", memo: "calm down 冷静下来；stay calm 保持冷静，作文高频" },
-    { w: "storm", ipa: "/stɔːm/", pos: "n.", cn: "暴风雨；风暴", ex: "The storm last night cut off the power for three hours.", excn: "昨晚的暴风雨把电源切断了三个小时。", memo: "take the world by storm 席卷全球；a storm of applause 暴风雨般的掌声；自然灾害类阅读高频" },
-    { w: "power", ipa: "/ˈpaʊə/", pos: "n.", cn: "电力；力量；权力", ex: "The power was cut off during the storm.", excn: "暴风雨期间停电了。", memo: "power cut / power failure 停电；come to power 掌权；powerful adj. 强大的；一词三义阅读爱考" },
-    { w: "scholarship", ipa: "/ˈskɒləʃɪp/", pos: "n.", cn: "奖学金", ex: "Pass the resit, and your scholarship comes back.", excn: "补考通过，你的奖学金就回来了。", memo: "复现 ch01：win a scholarship 赢得奖学金；ch07 埋的钩子——挂科就跟奖学金说再见，本章接住" },
-    { w: "concentrate", ipa: "/ˈkɒnsntreɪt/", pos: "v.", cn: "集中（注意力）", ex: "Without short videos, he concentrated for three hours.", excn: "没有短视频，他专心了三个小时。", memo: "复现 ch01：concentrate on 固定介词 on；ch07 伏笔回收——比价的夜晚从没专心，停电夜反而做到了" },
-    { w: "review", ipa: "/rɪˈvjuː/", pos: "v./n.", cn: "复习；评论", ex: "They reviewed errors first by candlelight.", excn: "他们点着蜡烛先复习错题。", memo: "复现 ch01：re（再）+ view（看）→ 复习；ch07 学过熟词新义「商品评价」，本章回到本义" },
-    { w: "improve", ipa: "/ɪmˈpruːv/", pos: "v.", cn: "改进；提高", ex: "You still have two weeks to improve.", excn: "你还有两周可以提升。", memo: "复现 ch01：improvement n.；挂科逆袭的核心动作：improve before the resit" },
-    { w: "challenge", ipa: "/ˈtʃælɪndʒ/", pos: "n./v.", cn: "挑战", ex: "Treat the resit as a challenge, not a disaster.", excn: "把补考当作挑战，而不是灾难。", memo: "复现 ch03：face/meet the challenge 迎接挑战；challenging adj. 有挑战的" },
-    { w: "experience", ipa: "/ɪkˈspɪəriəns/", pos: "n.", cn: "经验（不可数）；经历（可数）", ex: "A night without screens was a strange experience.", excn: "一个没有屏幕的夜晚是一段奇特的经历。", memo: "复现 ch03：经验不可数、经历可数；ch07 的 painful but valuable experience，本章再痛一次" },
-    { w: "share", ipa: "/ʃeə/", pos: "v./n.", cn: "分享；共享", ex: "The roommates shared their notes with me.", excn: "室友们把笔记分享给了我。", memo: "复现 ch04：share...with sb. 和某人分享；shareholder 股东（分享利润的人）；共享笔记是寝室传统艺能" },
-    { w: "device", ipa: "/dɪˈvaɪs/", pos: "n.", cn: "设备，装置", ex: "With no devices and no Wi-Fi, they talked to each other.", excn: "没有设备也没有网，他们竟然聊起天来。", memo: "复现 ch04：electronic devices 电子设备；别和 devise（动词：设计）搞混；停电夜全体设备罢工" },
-    { w: "stress", ipa: "/stres/", pos: "n./v.", cn: "压力；强调", ex: "His stress was gone after the storm night.", excn: "暴风雨夜之后，他的压力消失了。", memo: "复现 ch05：under stress 承受压力；stressful 令人有压力的；考前减压，本章实景教学" },
-    { w: "recover", ipa: "/rɪˈkʌvə/", pos: "v.", cn: "恢复；痊愈", ex: "I need two weeks to recover my score — and my dignity.", excn: "我需要两周找回我的分数——和我的尊严。", memo: "复现 ch05：recover from + 病/打击，介词 from 别丢；ch07 胖达问过 Have you recovered yet——这次轮到分数" },
-    { w: "schedule", ipa: "/ˈʃedjuːl/", pos: "n./v.", cn: "时间表；安排", ex: "They built a schedule: six, review; nine, practice; ten, sleep.", excn: "他们定了个时间表：六点复习，九点练习，十点睡觉。", memo: "复现 ch05：on schedule 准时；逆袭第一步 = 一张能执行的 schedule" },
-    { w: "waste", ipa: "/weɪst/", pos: "v./n.", cn: "浪费", ex: "Don't waste a good storm.", excn: "别浪费一场好风暴。", memo: "复现 ch07：waste time/money (in) doing / waste...on sth.；a waste of time 固定搭配；本章名台词" },
-    { w: "anxiety", ipa: "/æŋˈzaɪəti/", pos: "n.", cn: "焦虑；担忧", ex: "Exam anxiety kept him awake before the resit.", excn: "考试焦虑让他补考前睡不着。", memo: "真题高频：feel/cause anxiety；be anxious about 对……焦虑；anxious adj. 焦虑的" },
-    { w: "problem", ipa: "/ˈprɒbləm/", pos: "n.", cn: "问题；难题", ex: "Every problem carries the seed of its own solution.", excn: "每个问题自身都藏着解决的种子。", memo: "真题高频：solve/overcome the problem 解决问题；have no problem (in) doing 做某事没问题" }
+    { w: "loyal", ipa: "/ˈlɔɪəl/", pos: "adj.", cn: "忠诚的，忠心的", ex: "The team split three ways, loyal to one promise: no gate falls tonight.", excn: "小队兵分三路，忠于同一个誓言：今夜不丢一座门。", memo: "对比 royal 王室的（l/r 一字之差）：loyal to the people 忠于人民 / the royal family 王室；be loyal to (doing)；名词 loyalty" },
+    { w: "relief", ipa: "/rɪˈliːf/", pos: "n.", cn: "宽慰，轻松；缓解；救济", ex: "Relief swept the streets as the last smoke thinned.", excn: "最后一线烟散尽时，如释重负的浪潮扫过全城。", memo: "relieve（v. 缓解）的名词，f/ve 互换如 belief/believe；to one's relief 令人宽慰的是；relief funds 救济金" },
+    { w: "spoil", ipa: "/spɔɪl/", pos: "v.", cn: "破坏，糟蹋；宠坏", ex: "It came to spoil picnics and homework — every name it touched went blank.", excn: "它来糟蹋野餐和作业——被碰到的每个词都白了。", memo: "spoil-spoiled/spoilt-spoiled/spoilt 双变位；Spare the rod and spoil the child. 棍棒底下出孝子（不打孩子会宠坏孩子）；spoiled child 被宠坏的孩子" },
+    { w: "vague", ipa: "/veɪɡ/", pos: "adj.", cn: "模糊的，不明确的", ex: "Freshmen woke with memories gone vague.", excn: "新生们醒来时，记忆一片模糊。", memo: "谐音「维格」→ 印象歪歪扭扭 → 模糊；a vague idea/answer 模糊的想法/含糊的回答；反义 definite 明确的" },
+    { w: "resume", ipa: "/rɪˈzjuːm/", pos: "v.", cn: "恢复，重新开始；（中断后）继续", ex: "\"City, resume your voice!\" A-Luo sang to the stone.", excn: "「青盟，恢复你的声音！」阿洛对着回响石唱。", memo: "re（再）+ sume（拿，同 assume）→ 重新拿起 → 恢复；resume doing sth. 继续做；注意：名词「简历」读 /ˈrezjʊmeɪ/（résumé）" },
+    { w: "comfort", ipa: "/ˈkʌmfət/", pos: "v./n.", cn: "安慰；舒适", ex: "Their task was to comfort the ones who woke weeping.", excn: "他们的任务是安慰那些醒来就哭的人。", memo: "com（共同）+ fort（强，同 effort）→ 给人力量 → 安慰；comfortable 舒适的（注意只有 3 个音节 /ˈkʌmftəbl/）；in comfort 舒适地" }
   ],
   confusions: [
     {
-      group: "success 全家桶 — 一家四口别认错",
+      group: "loyal / royal — l 与 r 的一字之差",
       items: [
-        { w: "success (n.)", cn: "成功", note: "Hard work is the key to success. of/for 后面要名词" },
-        { w: "succeed (v.)", cn: "成功（不及物）", note: "succeed in doing 成功做成某事，后接 in doing 不接 to do！" },
-        { w: "successful (adj.)", cn: "成功的", note: "a successful meeting；be successful in" },
-        { w: "successfully (adv.)", cn: "成功地", note: "修饰动词：He finished the task successfully." }
+        { w: "loyal (adj.)", cn: "忠诚的", note: "be loyal to... 忠于……；a loyal friend 忠诚的朋友；loyalty n. 忠诚" },
+        { w: "royal (adj.)", cn: "王室的，皇家的", note: "the royal family 王室；a royal palace 皇宫；royally adv." }
       ],
-      tip: "口诀：名词 success，动词 succeed，形容词 successful，副词 successfully。改错钉子户：He succeeded to pass ❌ → succeeded in passing！",
-      drill: [
-        { s: "Hard work is the key to ___.", opts: ["success", "succeed", "successful"], a: 0, why: "介词 to 后缺名词 → success" },
-        { s: "He finally ___ in passing the make-up exam.", opts: ["succeeded", "success", "successful"], a: 0, why: "缺谓语动词 → succeed in doing" }
-      ]
+      tip: "本章回响石口诀：loyal 的头一个字母 l 像一根立正的旗杆——忠心站得笔直；royal 的 r 让人想起 crown（王冠）。改错高频：be royal to ❌（对……忠心只能是 loyal to）。"
     },
     {
-      group: "lonely / alone — 心里的空 vs 一个人的状态",
+      group: "relief / relieve / belief / believe — f 与 ve 的双胞胎家族",
       items: [
-        { w: "lonely", cn: "孤独的（内心的悲伤感）", note: "He feels lonely though he has many friends. 有朋友也可能孤独" },
-        { w: "alone", cn: "独自的（客观上一个人）", note: "He lives alone. 独自生活；alone 不带感情色彩" }
+        { w: "relief (n.)", cn: "宽慰；缓解；救济", note: "to one's relief 令人宽慰的是；breathe a sigh of relief 松一口气" },
+        { w: "relieve (v.)", cn: "缓解，减轻；救济", note: "relieve sb. of sth. 解除某人的……；relieve pain 止痛" },
+        { w: "belief (n.)", cn: "信念，信仰", note: "beyond belief 难以置信；have belief in 信任" },
+        { w: "believe (v.)", cn: "相信", note: "believe in 信任/信仰；believe it or not 信不信由你" }
       ],
-      tip: "口诀：alone 是一个人的状态，lonely 是心里的空。名句：He is alone but not lonely. 一个人但不孤独。完形考内心感受选 lonely。",
-      drill: [
-        { s: "Though he has many friends, he still feels ___ sometimes.", opts: ["lonely", "alone"], a: 0, why: "内心的孤独感 → lonely；alone 只是客观状态" },
-        { s: "The old examiner lives ___ in the castle.", opts: ["alone", "lonely"], a: 0, why: "客观上独自居住 → alone，不带感情色彩" }
-      ]
+      tip: "规律：f 收尾的是名词（relief/belief），ve 收尾的是动词（relieve/believe）。黑潮退去叫 relief（名词，那种轻），卷卷替你 relieve（动词，替你减）。改错高频：a believe ❌ / to relief ❌。"
     },
     {
-      group: "accept / receive — 收到 ≠ 接受",
+      group: "vague / vacant — 模糊与空缺",
       items: [
-        { w: "receive", cn: "收到（客观动作）", note: "I received a letter from him. 收到了，不代表愿意要" },
-        { w: "accept", cn: "接受（主观愿意收下）", note: "She accepted my invitation. 接受邀请" }
+        { w: "vague (adj.)", cn: "模糊的，含糊的", note: "a vague memory 模糊的记忆；a vague answer 含糊其辞的回答" },
+        { w: "vacant (adj.)", cn: "空的，未被占用的；（表情）茫然的", note: "a vacant seat 空座；a vacant position 空缺职位；a vacant look 茫然的表情" }
       ],
-      tip: "口诀：receive 是快递签收，accept 是真心收下。经典句：I received his gift but didn't accept it. 收到了但没收下。完形看语境： invitation/offer 前用 accept。",
-      drill: [
-        { s: "She ___ my invitation and came to the party.", opts: ["accepted", "received"], a: 0, why: "接受邀请 accept the invitation，主观愿意收下" },
-        { s: "I ___ a letter from him yesterday.", opts: ["received", "accepted"], a: 0, why: "收到信件是客观动作 receive，不涉及意愿" }
-      ]
+      tip: "vague 是「有但看不清」（记忆模糊），vacant 是「干脆没有」（座位空缺）。黑潮过后的宿舍：memories vague（记忆模糊），seats vacant（座位照常在，人坐在那里发呆）。"
+    },
+    {
+      group: "comfort / comfortable / discomfort — 一家人三词性",
+      items: [
+        { w: "comfort (v./n.)", cn: "安慰；舒适", note: "comfort the weeping 安慰哭泣的人；live in comfort 生活舒适" },
+        { w: "comfortable (adj.)", cn: "舒适的；宽裕的", note: "a comfortable income 宽裕的收入；be comfortable with doing 对……感到自在" },
+        { w: "discomfort (n.)", cn: "不适，不舒服", note: "physical discomfort 身体不适——dis- 否定前缀，名词" }
+      ],
+      tip: "词性接力：comfort（动/名）→ comfortable（形）→ comfortably（副）→ discomfort（否定名词）。发音陷阱：comfortable 只有三个音节 /ˈkʌmftəbl/，别读成四个。"
     }
+  ],
+  hidden: [
+    { w: "apply", known: "v. 申请", hidden: "v. 应用，运用（apply...to）；适用（apply to）", ex: "Old words wake old skills — apply them, and they hold.", excn: "旧词唤醒旧技能——用起来，它们就站得住。" },
+    { w: "mean", known: "v. 意思是", hidden: "adj. 刻薄的，吝啬的；mean to do 存心做", ex: "The tide was not mean; it was simply hungry.", excn: "黑潮不是刻薄，它只是饿。" },
+    { w: "sound", known: "n. 声音", hidden: "adj. 健全的，完好的（a sound sleep / sound mind）；v. 听起来", ex: "A sound mind lives in words that are reviewed.", excn: "健全的头脑住在常复习的词里。" },
+    { w: "last", known: "v. 持续", hidden: "adj. 最后的；最不可能的（the last person to do）", ex: "Zhou Qing was the last person to ask for help.", excn: "周擎是最不可能开口求助的人。" },
+    { w: "still", known: "adv. 仍然", hidden: "adj. 静止的，不动的（stand still）；v. 使平静", ex: "The whole city went still when the figure appeared.", excn: "残影出现的那一刻，全城静止。" }
   ],
   sentences: [
     {
-      en: "What <mark>happened</mark> in the storm was that a plan was made, notes were shared, and a failure was turned into a starting point.",
+      en: "Light an echo stone with a word you truly own, and its light will <mark>hold back</mark> the tide.",
       parts: [
-        "What happened in the storm 是主语从句；happen 不及物、无被动，永远不能写 was happened",
-        "表语从句里三个并列被动：was made / were shared / was turned，be 随主语用 was/were",
-        "turn A into B 的被动式：A was turned into B，A 是动作的承受者",
-        "fail 是动词「挂科」，这件事本身要用名词 failure——词性别混"
+        "主干：祈使句 Light an echo stone... + and + 将来时分句 = 「只要……就」条件结果句",
+        "you truly own 定语从句修饰 word，关系词 that 作宾语被省略",
+        "hold back 固定短语「阻挡」——宾语 the tide 别丢；hold back tears 忍住眼泪同款"
       ],
-      cn: "暴风雨中发生的事情是：一个计划被制定出来，笔记被分享，一次失败被变成了新的起点。",
-      slots: [
-        { s: "___ happened in the storm was that a plan was made：主语从句，happen 是不及物动词，前面缺主语。", opts: ["What", "That", "Which"], a: 0, why: "从句缺主语 → what；that 引导时从句必须完整" },
-        { s: "a plan was made, notes were shared：主语都是动作的承受者 → ___ 语态。", opts: ["passive", "active"], a: 0, why: "was made / were shared 都是 be + 过去分词，被动语态" }
-      ]
+      cn: "用你真正拥有的词点亮回响石，它的光就能挡住黑潮。"
     },
     {
-      en: "Only when you face your failure bravely <mark>can you turn</mark> it into the first step of success.",
+      en: "The team split three ways, <mark>loyal</mark> to one promise: no gate falls tonight.",
       parts: [
-        "Only + 状语从句放句首 → 主句部分倒装：can you turn（改错高频）",
-        "正常语序：you can turn it into...；倒装只动主句，从句不倒装",
-        "face your failure 直面失败；face 作动词「面对」",
-        "turn A into B 把 A 变成 B"
+        "主干：The team split three ways（小队兵分三路）",
+        "loyal to one promise 形容词短语作伴随状语（补充说明主语 the team 的状态）",
+        "冒号后 no gate falls tonight 是 promise 的同位语（falls 三单，主语 gate）"
       ],
-      cn: "只有勇敢地面对失败，你才能把它变成成功的第一步。",
-      slots: [
-        { s: "Only when you face your failure bravely ___ you turn it into the first step：Only + 状语从句放句首。", opts: ["can", "you can", "could"], a: 0, why: "主句部分倒装：can you turn；you can 是正常语序不倒装" },
-        { s: "turn it ___ the first step of success：固定搭配「把 A 变成 B」。", opts: ["into", "to", "for"], a: 0, why: "turn...into 把 A 变成 B" }
-      ]
+      cn: "小队兵分三路，忠于同一个誓言：今夜不丢一座门。"
+    },
+    {
+      en: "In the clearing dark above the wall <mark>hung</mark> an unexpected figure, ten years younger, <mark>holding</mark> a rolled scroll against a sea of fog, fighting stroke by stroke.",
+      parts: [
+        "全倒装：地点状语 In the clearing dark 提前，谓语 hung 走到主语 an unexpected figure 之前",
+        "ten years younger 比较级短语作后置定语（比记忆里年轻十岁）",
+        "holding / fighting 现在分词作伴随状语，逻辑主语都是 figure",
+        "一句装下：倒装 + 后置定语 + 双分词伴随——长难句教科书"
+      ],
+      cn: "城墙上方渐散的夜幕里悬着一个意外的身影，比记忆里年轻，把一卷卷轴抵向雾的海洋，一笔一画地作战。"
     }
   ],
   phrases: [
-    { p: "every cloud has a silver lining", cn: "黑暗中总有一线光明（因祸得福）", note: "本章题眼谚语，写作万能收尾；英译汉千万别直译成「每朵云都有银边」" },
-    { p: "take place", cn: "举行；发生", note: "⚠️ 不及物短语，没有被动：was taken place ❌。Great changes have taken place. 改错钉子户，happen 同罪", warn: true },
-    { p: "come true", cn: "（梦想、愿望）实现", note: "⚠️ 无被动：was come true ❌；主语是 dream/wish 本身：His dream came true", warn: true },
-    { p: "consist of", cn: "由……组成", note: "⚠️ 永远主动，没有被动：is consisted of ❌；= be made up of（这个才有被动）", warn: true },
-    { p: "be caught in", cn: "遇上（暴雨、堵车）；被困于", note: "We were caught in the storm. 被动含义固定用过去分词，别写 be catch in",
-      gap: { s: "We were caught ___ the storm on the way home.", opts: ["in", "by", "with"], a: 0, why: "be caught in 遇上暴雨/被困，固定介词 in" } },
-    { p: "cut off", cn: "切断；中断", note: "The power was cut off. 停电；cut in 插话、cut down 砍倒，介词别混",
-      gap: { s: "The power was cut ___ for three hours during the storm.", opts: ["off", "down", "in"], a: 0, why: "cut off 切断；cut down 砍倒，cut in 插话" } },
-    { p: "cheer up", cn: "（使）振作起来", note: "Cheer up! 代词放中间：cheer him up" },
-    { p: "calm down", cn: "冷静下来", note: "stay calm 保持冷静；calm down 指激动之后平复" },
-    { p: "encourage sb. to do", cn: "鼓励某人做某事", note: "to do 不定式；反义 discourage sb. from doing" },
-    { p: "be confident about", cn: "对……有信心", note: "⚠️ 介词 about/of，不能写 be confident in sth.（改错高频）", warn: true,
-      gap: { s: "Stay confident ___ yourself before the resit.", opts: ["about", "in", "at"], a: 0, why: "be confident about/of 对……有信心，介词不用 in" } },
-    { p: "look forward to doing", cn: "期待做某事", note: "⚠️ to 是介词！look forward to hearing from you，接动词原形必错", warn: true,
-      gap: { s: "I look forward to ___ from you soon.", opts: ["hearing", "hear", "heard"], a: 0, why: "to 是介词，后接 doing：look forward to hearing" } },
-    { p: "be afraid of doing", cn: "害怕做……", note: "of 是介词接 doing；be afraid to do 也对，但结构不同" },
-    { p: "give in to", cn: "屈服于", note: "give in 不及物（不能接宾语）；give in to pressure 屈服于压力；give up 才是放弃",
-      gap: { s: "Never give in ___ pressure during exam week.", opts: ["to", "for", "on"], a: 0, why: "give in to 屈服于，介词 to" } },
-    { p: "get along with", cn: "与……相处", note: "get along/on well with sb. 相处融洽，完形高频" },
-    { p: "in trouble", cn: "处于困境中", note: "get into trouble 惹上麻烦；help sb. in trouble 帮助困境中的人" },
-    { p: "face difficulty", cn: "直面困难", note: "face difficulties 动词用法；in the face of difficulty 面对困难" }
+    { p: "for good", cn: "永久地，一劳永逸地", note: "sealed the warehouse for good 永久封存仓库；for good (and all) 更强调" },
+    { p: "one after another", cn: "一个接一个地", note: "began to crack one after another 陆续碎裂" },
+    { p: "roll uphill", cn: "向山上卷/涌", note: "rolled uphill toward the academy 黑潮卷上山坡" },
+    { p: "learn from", cn: "向……学习；从……得知", note: "learned from the dead auctioneer 从死去的拍卖师那里学会" },
+    { p: "hold back", cn: "阻挡；忍住", note: "hold back the tide 挡住黑潮；hold back tears 忍住眼泪——及物短语，宾语别丢", warn: true },
+    { p: "split three ways", cn: "兵分三路", note: "The team split three ways. split 的过去式/过去分词同形", warn: true },
+    { p: "be loyal to", cn: "忠于……", note: "loyal to one promise 忠于誓言——to 是介词，后接名词/动名词", warn: true },
+    { p: "blaze gold", cn: "燃成金色", note: "The stone blazed gold. blaze 作系动词化用法 + 形容词补语" },
+    { p: "turn...into", cn: "把……变成", note: "her famous restraint turned into a blade 克制化作刀锋；复现 ch07" },
+    { p: "give back", cn: "归还，奉还", note: "gave back every meaning it had stolen 如数奉还——give back sth. 或 give sth. back" },
+    { p: "relight a lamp", cn: "重新点亮一盏灯", note: "To utter an old word is to relight a lamp. 不定式作主语，谓语用单数 is", warn: true },
+    { p: "in chorus", cn: "齐声，异口同声", note: "Strangers sang in chorus 陌生人齐声唱" },
+    { p: "the more..., the more...", cn: "越……，越……", note: "the more they sang, the more came back 前后都用比较级，主谓不倒装" },
+    { p: "wake weeping", cn: "醒来时哭着", note: "the ones who woke weeping——wake + 现在分词表伴随状态" },
+    { p: "lose one's temper", cn: "发脾气", note: "Even Juanyan lost her temper. 反义 keep one's temper 忍住怒气", warn: true },
+    { p: "too...to do", cn: "太……而不肯/不能", note: "too proud to ask for help 傲到不肯求助（否定含义）", warn: true }
   ],
   grammar: [
     {
-      t: "被动语态 be done 各时态（本章主菜）",
-      rule: "被动 = be + 过去分词，时态全靠变 be：一般现在 am/is/are done（English is spoken here）；一般过去 was/were done（The power was cut off last night）；一般将来 will be done（The resit will be held in two weeks）；现在完成 have/has been done（The results have been posted）。主语是动作的承受者，真正干活的人用 by 引出。",
-      ex: "The midterm results were posted last night, and the make-up exam will be held in two weeks.",
-      excn: "期中成绩昨晚被公布，补考将在两周后举行。",
-      signal: "看到主语是物/动作承受者、或不知道谁干的 → 被动。改错坑：漏 be（The bridge built in 1890 ❌ 缺谓语）",
-      quiz: { s: "English ___ spoken all over the world. → ___", opts: ["is", "are", "has"], a: 0, why: "主语 English 是承受者，一般现在被动 → is spoken" }
+      t: "现在分词作伴随状语（同一个主语，第二个动作）",
+      rule: "现在分词（doing）放句尾作伴随状语，逻辑主语 = 主句主语，两个动作同时发生：stood..., holding...（站着，手里拿着……）。与定语从句区分：伴随状语更简洁，写作加分；逻辑主语不一致就是错。",
+      ex: "The figure hung above the wall, holding a rolled scroll against the fog, fighting stroke by stroke.",
+      excn: "身影悬在城墙上空，把卷轴抵向迷雾，一笔一画地作战。",
+      signal: "句尾 doing 前有逗号 → 先判伴随状语；逻辑主语必须等于主句主语；被动关系则改用过去分词 done",
+      quiz: { s: "Zhibai stood in the square, ___ the family of affect and effect.", opts: ["singing", "sung", "sang"], a: 0, why: "Zhibai 与 sing 是主动关系（她在唱）→ 现在分词 singing 作伴随状语；sung 被动不通；sang 是谓语形式，一句不能有两个谓语" }
     },
     {
-      t: "无被动动词四兄弟：take place / happen / consist of / come true",
-      rule: "这四个不及物动词短语后面不能接宾语，也就永远没有被动语态：was happened ❌、was taken place ❌、is consisted of ❌、was come true ❌，全部判错。同族还有 break out（爆发）、belong to（属于）。",
-      ex: "Great changes have taken place in my hometown, and my dream has come true at last.",
-      excn: "我的家乡发生了巨大变化，我的梦想最终实现了。",
-      signal: "改错最爱：看到这四个词带了 been/was done 形式直接划掉被动部分；happen 主语是事情，take place 主语是活动/变化",
-      quiz: { s: "The story ___ in a small village. → ___", opts: ["happened", "was happened", "has been happened"], a: 0, why: "happen 不及物无被动，was happened ❌" }
+      t: "祈使句 + and/or（条件结果句）",
+      rule: "祈使句（或名词短语）+ and + 将来时分句 = 「只要……就」；+ or（else）= 「否则」。同义转换：If you light..., its light will...。写作万能句式。注意：祈使部分不能用将来时 will ❌。",
+      ex: "Light an echo stone with a word you truly own, and its light will hold back the tide.",
+      excn: "用你真正拥有的词点亮回响石，它的光就能挡住黑潮。",
+      signal: "空格前是动词原形/名词短语、空格后是 and + will → 选祈使句结构；and 换成 or 逻辑变「否则」",
+      quiz: { s: "___ the stone with an old word, and its light will hold back the tide.", opts: ["Lighting", "Light", "If light"], a: 1, why: "祈使句用动词原形 Light 开头；Lighting 动名词不能直接构成祈使句；If light 缺主语，if 从句应为 If you light" }
     },
     {
-      t: "情态动词 + be done（被动与情态的合体技）",
-      rule: "情态动词后必须接动词原形，要表被动就用 be done：must be finished（必须被完成）、can be seen（能被看见）、should be handed in（应该被上交）、may be prevented（可能被阻止）。否定词 not 放在情态动词后面：will not be accepted。",
-      ex: "The assignment must be handed in before the deadline, or it will not be accepted.",
-      excn: "作业必须在截止日期前上交，否则将不被接受。",
-      signal: "情态动词后面直接跟过去分词（must finished ❌）或跟了 to do（must to be finished ❌）都是错的——中间必须隔着 be",
-      quiz: { s: "The work must ___ at once. → ___", opts: ["be finished", "finish", "is finished"], a: 0, why: "情态动词 + be + done：must be finished" }
+      t: "时间连词 as / while / when 三兄弟",
+      rule: "① as 强调「一边……一边」或「随着」（As the smoke thinned, relief swept.）；② while 强调同时延续，常表对比（while = whereas）；③ when 既可指时间点（短暂动作），也可 = and then「这时突然」（was doing when did）。从句时态：延续动作用进行时或一般时均可。",
+      ex: "As the last smoke thinned, relief swept the streets.",
+      excn: "随着最后一线烟散去，如释重负的浪潮扫过全城。",
+      signal: "「随着」两个渐变过程 → as；对比两个分句 → while；短暂动作插入 → when（正……突然）",
+      quiz: { s: "___ the freshmen were singing, the stone grew brighter and brighter.", opts: ["While", "Unless", "Whether"], a: 0, why: "singing 是延续动作，与 grew brighter 同时进行 → While；Unless 表条件「除非」；Whether 表「是否」引导名词性从句，均不合逻辑" }
+    },
+    {
+      t: "真题高频 · 分词的否定式与完成式（Not doing / Having done）",
+      rule: "分词状语的否定：not 必须放在分词前——Not recognizing..., he...（❌ Recognizing not）；表先发生再用完成式 Having done：Having swallowed the howl, he gave back every meaning.（先吞下，再奉还）。改错雷区：Having been done 表被动先发生，别写成 Having done。同族延伸 · 不定式完成式 to have done / to have been done：动作发生在谓语之前，或用于未实现的愿望——He is said to have left for Beijing.（据说已经去了）/ We planned to have finished the task.（本打算完成却没完成）。被动版：The book is said to have been translated into six languages.",
+      ex: "Not recognizing a single word, the freshmen stood frozen before their books.",
+      excn: "一个词也认不出来，新生们在书本前呆立如冰。",
+      signal: "分词前有 not → 判否定分词状语；两个动作有先后且主语一致 → Having done；主语不一致 = 悬垂分词改错to have done 看「先于谓语」或「本打算没做成」；Not doing / Having done 看非谓语与谓语的先后与正负。",
+      quiz: { s: "___ the meaning it had stolen, the tide kept it without returning.", opts: ["Swallowing", "Swallowed", "To swallow"], a: 0, why: "tide 与 swallow 是主动关系（黑潮吞下）→ Swallowing 现在分词作原因状语；Swallowed 被动方向反了；To swallow 表目的，句子逻辑不是目的" }
+    },
+    {
+      t: "真题高频 · have/get sth. done（请人做/遭遇到）",
+      rule: "have/get + 宾语 + 过去分词：① 请/让某人做某事（I had my hair cut.）；② 遭遇不幸（She had her wallet stolen.）。对比 have sb. do（让某人做，省 to）与 have sb. doing（让某人一直做）。判断：宾语与分词是被动关系 → done。",
+      ex: "The city had its stolen names written back, word by word.",
+      excn: "这座城被偷走的名字被一一写了回来。",
+      signal: "空前的宾语与空格动词是被动关系 → 过去分词 done；have sb. do 后接动词原形；get sth. done 同义可互换",
+      quiz: { s: "The Academy had its three echo stones ___ before midnight.", opts: ["relit", "relighting", "relight"], a: 0, why: "stones 与 relight 是被动关系（石头被重新点亮）→ 过去分词 relit；relighting 主动矛盾；relight 原形不能接在 had its...done 结构中" }
     }
   ],
   quiz: [
     {
-      q: "The radio says a heavy ______ is on its way tonight. Close the windows before you leave.",
-      options: ["storm", "sunshine", "fog", "survey"],
+      q: "After the black tide passed, some memories stayed ___ : the students knew they had learned, but not what.",
+      options: ["vague", "plain", "clear", "sharp"], answer: 0, explain: "vague 模糊的、不明确的；clear 清楚的；sharp 锋利的、敏锐的；plain 简单的、朴素的。知道学过却想不起来 = 模糊。"
+    },
+    {
+      q: "\"City, ___ your voice!\" A-Luo sang, and word by word the bells found their notes again.",
+      options: ["stop", "resume", "delay", "pause"], answer: 1, explain: "resume 恢复、重新开始（中断后继续）；pause 暂停；stop 停止；delay 推迟。钟声找回音 = 恢复声音。"
+    },
+    {
+      q: "___ swept the streets when the last smoke thinned over the river.",
+      options: ["Relief", "Grief", "Belief", "Thief"],
       answer: 0,
-      explain: "a heavy storm 一场大暴风雨——本章主题词。sunshine 阳光、fog 雾、survey 调查，跟 close the windows 的警告语境不搭。"
+      explain: "relief 宽慰、如释重负；grief 悲痛；belief 信念；thief 小偷。危险解除的第一情绪 = relief。注意 relief 是名词，relieve 才是动词。"
     },
     {
-      q: "The ______ was cut off for three hours during the storm, so we studied by candlelight.",
-      options: ["power", "pressure", "energy", "strength"],
+      q: "Nothing can ___ a city of silence — words exist to be spoken.",
+      options: ["qualify", "modify", "notify", "justify"], answer: 3, explain: "复现 ch06 旧词 justify 证明……正当；notify 通知；modify 修改；qualify 使合格。四个 -fy 动词靠语境辨析。"
+    },
+    {
+      q: "The tide had learned from the dead auctioneer to ___ every vendor's voice in the city.",
+      options: ["irritate", "illustrate", "imitate", "intimate"], answer: 2, explain: "复现 ch07 旧词 imitate 模仿、仿效；irritate 激怒；intimate 亲密的（形容词）；illustrate 举例说明。黑潮学舌 = imitate。"
+    },
+    {
+      q: "The oldest ___ in Lexica stood because its people stood — its strength was never in walls.",
+      options: ["decoration", "constitution", "destination", "institution"],
+      answer: 3,
+      explain: "复现 ch07 旧词 institution 机构、制度；decoration 装饰；constitution 宪法/体质；destination 目的地。学院是机构。"
+    },
+    {
+      q: "___ an old word with a steady breath, and its light will not abandon a single name.",
+      options: ["Uttering", "If utter", "Uttered", "Utter"], answer: 3, explain: "复现 ch06 旧词 utter 说出；祈使句用动词原形 Utter 开头 + and 表条件；Uttering 动名词不能构成祈使句；If utter 缺主语。"
+    },
+    {
+      q: "By the third watch of the night, the Academy had its three echo stones ___.",
+      options: ["blaze it", "blaze", "blazing", "blazed"], answer: 3, explain: "复现 ch06 词根 families：have sth. done 结构 → stones 与 blaze 是被动完成关系 → 过去分词 blazed；blazing 表主动进行矛盾。"
+    },
+    {
+      q: "改错：The old library of Qingmeng is belonged to the academy, and its oldest book never left the shelf even on the night of the black tide.",
+      options: ["is belonged to → belongs to", "is → was", "its → his", "never → ever"],
       answer: 0,
-      explain: "power cut / the power was cut off 停电，固定表达。pressure 压力、energy 精力、strength 力量——三个近义干扰项都是词义辨析坑。"
+      explain: "改错雷区·主动表被动：belong to 属于，没有被动语态也没有进行时，is belonged to 是经典错误，应为 belongs to；B 图书管「属于」学院是现存状态，用一般现在时 is 正确；C its 指图书管的，物主代词无误；D never 表「从未离开」，正合「最老的书整夜未离书架」的句意。"
     },
     {
-      q: "After two weeks of hard work, Qian-Shao finally ______ in passing the make-up exam.",
-      options: ["success", "succeeded", "successful", "successfully"],
-      answer: 1,
-      explain: "finally 后缺谓语动词 → succeed in doing 成功做成某事。in 是介词，接 doing 不接 to do——success 全家桶第一钉子户。"
-    },
-    {
-      q: "The assignment must ______ before next Friday, or the teacher will not accept it.",
-      options: ["hand in", "be handed in", "be handed", "hand"],
-      answer: 1,
-      explain: "情态动词后接动词原形，作业是「被上交」→ must be handed in（情态 + be + done）。hand in 的 in 是小品词不能丢，所以 be handed ❌。"
-    },
-    {
-      q: "The old tower ______ in 1890, but it is still standing after the storm.",
-      options: ["built", "was built", "is built", "has built"],
-      answer: 1,
-      explain: "tower 是「被建造」的承受者 → 被动语态；in 1890 是过去时间点 → was built。is built 表经常性动作，has built 主动语态，都不对。"
-    },
-    {
-      q: "改错：The story was happened in a small village during the storm.",
-      options: ["was happened → happened", "in → at", "during → when", "small → smaller"],
+      q: "汉译英：在黑潮来袭之前，黑市的仓库就已经被学院查封了。",
+      options: ["The black market's warehouse had been sealed by the academy before the black tide came.", "The black market's warehouse has been sealed by the academy before the black tide came.", "The black market's warehouse had sealed by the academy before the black tide came.", "The black market's warehouse was sealing by the academy before the black tide came."],
       answer: 0,
-      explain: "happen 是不及物动词，没有被动语态！was happened 是改错题十大钉子户之一。take place / come true / consist of 同罪，见语法②。"
-    },
-    {
-      q: "英译汉选择：Every cloud has a silver lining.",
-      options: ["每朵云都有一条银色的边。", "黑暗中总有一线光明。", "云的边缘是用银子做成的。", "每片云都会发出银色的光。"],
-      answer: 1,
-      explain: "谚语不能逐字直译——望文生义是英译汉最大陷阱。本句 = 困境中总有希望，正是钱少的补考剧本，写作收尾万能句。"
-    },
-    {
-      q: "The team's plan consisted ______ three steps: review, practice, and sleep.",
-      options: ["of", "in", "on", "for"],
-      answer: 0,
-      explain: "consist of 由……组成，固定介词 of。注意 consist 永远主动——is consisted of 是错的（语法②），同义替换是 be made up of。"
+      explain: "考点：过去完成时被动 had been done + by 施动者，「查封」发生在「黑潮来袭」之前；B 错在 has been 现在完成时与 before the black tide came（一般过去时从句）时态冲突；C 错在漏掉 been，had sealed 变成主动，仓库不能自己封自己；D 错在 was sealing 是过去进行主动，既缺被动又与「已封」的状态不符。"
     }
   ]
 });

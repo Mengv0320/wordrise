@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+
+# 临时/审计产物
+_tmp_*
+*.tmp
+*.log
+
+# Node（仅本地起服务时可能产生）
+node_modules/

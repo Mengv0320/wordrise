@@ -1,237 +1,259 @@
 window.CHAPTERS = window.CHAPTERS || [];
 window.CHAPTERS.push({
   id: 18,
-  title: "灯塔老人 · 独行但不孤独",
-  desc: "风暴把全队推上一座小岛。悬崖上的守塔人独自生活三十年，救过十九艘船，勋章却锁在抽屉里——他说，光不是用来炫耀的。",
-  tag: "励志人物类高频词",
+  title: "秘境篇 · 残页觉醒·父亲的吟唱",
+  desc: "剧情章：残页里存着父亲半支吟唱与「心词名单」之始；周擎偷出父亲书房密档，证实教务长当年主持「词力清零案」。传承与真相的双线风暴，从纸页上醒来。",
+  tag: "传承与真相词域",
   story: {
-    title: "The Lighthouse Keeper 灯塔老人",
-    text: `On the way home, a real storm caught the team on the sea and pushed their small boat to an unknown island. Rain, wind, zero signal — Fei-Ge finally looked up from his phone. On the cliff stood an old lighthouse, and its light swept across the black water like a slow golden hand. An old keeper waved at them from the top. Later they learned that sailors from every port [[admire]] him.
+    title: "The Half Chant 半支吟唱",
+    text: `The library closed around them. A-Luo set the page flat, and the gold handwriting moved. "My chant is [[impressive]] when it is whole," the father had written, "but half a chant is a wound — the effect is the same. Finish it, or [[renew]] it every night, or the mist will finish it for you. Whole words are [[scarce]]; keep them."
 
-"Come in, come in," he said, pouring hot tea. Pang-Da, already on his second bowl of fish soup, whispered: "This keeper is [[generous]] with everything." "I keep the light every night. Thirty years alone here — but never lonely. The sea is my friend."
+Juanjuan explained: the page held half a chant and the start of a list titled HEART WORDS. "It [[accomplish]]es nothing alone. A chant is knowledge, practice, and a voice. Review it like a habit; guard it like treasure." They began to review the half-chant line by line, and where the mist had eaten a word, the line went grey — a strange experience: studying a page that could die.
 
-"Did you always want this life?" A-Luo asked. "My [[dream]] was to sail around the world," the old man smiled. "As a young [[sailor]] I was [[brave]] but not [[wise]]. A storm took my ship, and I [[struggled]] in the cold water for a whole night. The sea did not kill me; it gave me a new job."
+Zhou Qing arrived past midnight, carrying his father's sealed [[territory]] of files. His hands were calm; his voice not. "Trust the evidence, not my father. You want proof — I took it; the [[thrill]] of it frightened me." The seal cracked. Inside lay the ten-year-old order. The Dean had signed it. WORD-POWER PURGE — a [[radical]] idea: confiscate every student's earned words, rewrite them into templates, hand the "saved" power back as favor. His [[principle]] had one [[outline]]: the academy is my territory; every word in it is mine, [[drained]] into one vault.
 
-"And then?" "I was [[determined]] to save sailors instead of becoming one of the lost. It took [[courage]] to start again at forty. [[Failure]] did not beat me — it pointed me here. Since that night I have [[improved]] this lamp and kept it burning through nineteen storms. Keeping the light [[requires]] a [[patient]] heart; the sea is honest only to the patient."
+"Thousands forgot in one night," Zhou Qing read. "They woke up poor, [[drained]], told it was weather. My father [[deny]] nothing when I asked. He called it the greater, [[humor]]-less good: [[drain]] the students, feed the fog." The room went quiet — the kind of quiet that has a [[sorrow]] in it. A-Luo thought of the fog: confiscated words, a lasting [[fault]] passed to children. No wonder it knew the way.
 
-Pang-Da, holding his third bowl of fish soup, asked: "Nineteen storms — how many ships have you saved?"
+"Why us?" Sao-Ye asked. "Because I [[verify]] every page," Zhou Qing said, "I could not deny it. He will deny it publicly. Someone has to stop verifying and start testifying; I replace my silence with a signature." He looked at the half-chant. "Your father wrote the HEART WORDS list the night of the purge. Word one: courage. Word two: humor. Word three: home. I do not believe in coincidences that neat — a [[unique]] plan, the same night."
 
-The old man opened a wooden drawer. Nineteen [[medals]] lay inside, quiet as sleeping fish. He looked at them the way you look at old receipts. "Some men sail for medals," he said, closing the drawer slowly. "A medal cannot swim, so it cannot save you. Thousands of sailors [[benefit]] from this light every night — and they do not even know my name. That is enough."
+Nobody stopped to [[celebrate]]; [[utter]] silence; they worked till dawn. The [[solution]]: work. The outline grew on one sheet: protect the page, refuse to [[abandon]] it, renew the chant nightly, [[confirm]] every name inside, carry all to the Writing Temple, where the chant can be spoken before the city. A challenge of habit and heart. Zhou Qing accomplished one more thing before dawn: he signed his name under his father's — inheriting the case, on record.
 
-"Then why keep them?" Juanjuan asked. "To remember that failure is a door, not a wall," he said. "I stay [[modest]] about the medals and [[humble]] before the sea — the sea did most of the forgiving."
+Then he froze. "The last page." Four crooked gold characters: 写作圣殿见. "A [[reputation]] can be rebuilt; a father, found," A-Luo whispered. Juanjuan checked the map: the gate opens in three days — guarded, the Dean announced, by the Bureau.`,
+    translation: `图书管像一口屏住的呼吸合拢。一盏灯下，阿洛把残页摊平，金色字迹开始移动。「我的吟唱完整时是 impressive（令人印象深刻的），」父亲写道，「但半支吟唱是一道伤口。完成它，或每晚 renew（更新）它，否则雾替你完成它。完整的词很 scarce（稀缺）；守住它们。」
 
-Pang-Da asked the final question: "Weren't you afraid?" The old man smiled like sunset. "Fear visits everyone. I stay [[optimistic]], keep a good [[attitude]], and [[overcome]] it night after night. Some people call that [[success]]. I call it Tuesday."
+卷卷讲解原理：残页存着半支吟唱和心词名单的开头。「它自己什么也 accomplish（成就）不了，」她说，「吟唱 = 知识 + 练习 + 嗓子。像习惯一样 review（复习）它，像珍宝一样守护它。」他们逐行复习；被雾吃掉词的地方字迹发灰——一场怪的 experience（经历）：温习一页会死的纸。
 
-Before they left, A-Luo looked back at the tower. "It never flashes for attention. It just turns, and turns." "That is the whole lesson," the keeper said. "The light is not for showing off. It is for the ones still [[struggling]] in the dark. Work quietly, and the world will find you." "His story [[inspired]] all of us," Juanjuan whispered.
+午夜过后，周擎来了，抱着父亲封印的 territory（领地）卷宗。他的手 calm（冷静），声音不稳。「Trust（相信）证据，别信我父亲。你们要证据——我去拿了，那股 thrill（战栗）吓着了我。」封印裂开。里面是十年前的命令，教务长签发：词力清零案——一个 radical（激进的）主意：没收学生挣来的词，改写成模板，把「省下的」词力当恩惠发回。他的 principle（原则）只有一行 outline（大纲）：学院是我的领地，里面每个词都是我的。
 
-"We [[respect]] you, keeper," A-Luo said. "And I [[trust]] you," the old man laughed. Next morning he rowed them to the far beach. "Walk north until the road splits. A stone tablet is waiting there. It asked me the same question forty years ago; I answered with a lighthouse. Now it is your turn." Somewhere ahead, two roads were waiting.`,
-    translation: `回家路上，一场真正的风暴在海面截住了全队，把小船推到一座无名小岛。大雨、狂风、零信号——飞哥终于从手机上抬起了头。悬崖上立着一座旧灯塔，灯光像一只缓慢的金色手掌扫过黑色海面。一位老守塔人在塔顶朝他们招手。后来他们才知道，每个港口的水手都敬仰他。
-「进来吧，进来吧，」他倒着热茶说。已经捧上第二碗鱼汤的胖达小声感叹：「这位守塔人对什么都慷慨。」「我每晚都守着这盏灯。独自一人三十年——但从不孤独。大海是我的朋友。」
-「您一直想过这种生活吗？」阿洛问。「我的梦想是环球航行，」老人笑了。「年轻时我勇敢，但不明智。一场风暴夺走了我的船，我在冰冷的海水里挣扎了一整夜。大海没杀我，反而给了我一份新工作。」
-「然后呢？」「我下定决心去救水手，而不是成为失踪者之一。四十岁重新开始需要勇气。失败没有打倒我——它把我指向了这里。从那晚起，我一遍遍改良这盏灯，撑过了十九场风暴。守灯需要一颗耐心；大海只对有耐心的人诚实。」
-胖达捧着第三碗鱼汤，问道：「十九场风暴——您救了多少条船？」
-老人打开一个木抽屉。十九枚勋章躺在里面，安静得像睡着的鱼。他看它们的眼神，就像看一堆旧收据。「有人为勋章出海，」他慢慢合上抽屉说。「勋章不会游泳，救不了人。成千上万的水手每晚受益于这盏灯——他们甚至不知道我的名字。这就够了。」
-「那为什么留着它们？」卷卷问。「为了记住：失败是一扇门，不是一堵墙。我对勋章谦虚，在大海面前谦卑——大部分原谅都是大海做的。」
-胖达问了最后一个问题：「您不怕吗？」老人笑得像落日。「恐惧人人都有。我保持乐观，保持好心态，一夜一夜地战胜它。有人管这叫成功。我管它叫星期二。」
-临走前，阿洛回望灯塔。「它从不为引人注意而闪烁，只是转啊转。」「这就是全部的课，」守塔人说。「光不是用来炫耀的，它是给还挣扎在黑暗里的人的。安静做事，世界自会找到你。」「他的故事把我们全都点亮了，」卷卷轻声说。
-「我们尊敬您，守塔人。」阿洛说。「我也信任你们，」老人大笑。第二天清晨，他划船把他们送到远处的沙滩。「往北走，走到岔路口。有块石碑在那里等着。四十年前它问过我同一个问题，我用一座灯塔作答。现在轮到你们了。」在前方某处，两条路正等着他们。`
+「一夜之间，几千学生忘了，」周擎念道，「他们醒来一无所有，被 utter（彻底）地抢空，却被告知那是天气。我问时，父亲什么都没 deny（否认）。他称之为更大的、不带 humor（幽默）的好。」房间静下来——那种藏着 sorrow（悲伤）的静。阿洛想起那场雾：被没收的词，带着传给孩子的未愈伤口。难怪它认得路。
+
+「为什么带给我们？」扫爷问。「因为我 verify（核实）了每一页，」周擎说，「我再也无法否认。他会当众 deny（否认）。总得有人停止核实，开始作证；我用签名 replace（替换）沉默。」他看着半支吟唱。「你父亲在清零案当晚写下心词名单。第一个词：courage（勇气）。第二个词：humor（幽默）。第三个词：家。我不 believe（相信）这么整齐的巧合。一个 unique（独特的）计划，就在同一夜。」
+
+他们工作到窗纸发灰。solution（办法）就是干。一份 outline（大纲）在一页纸上长大：protect（保护）残页、拒绝 abandon（抛下）它、每晚更新吟唱、confirm（核实）里面的每个名字，把一切带到写作圣殿——在那里，一整段吟唱可以当着全城说出来。一场 challenge（挑战），考验 habit（习惯）与心。黎明前，周擎又 accomplish（完成）了一件事：在作证页上把自己的名字签在父亲名字下面——inherit（继承）此案，记录在案。无人 celebrate（庆祝）；无人敢。
+
+然后他僵住了。「最后一页，」他说。四行歪斜的金色大字：写作圣殿见。「A reputation（名声）可以重建；父亲，能找到，」阿洛低声说。卷卷核对地图：大门三天后开启——教务长已宣布，由词力署亲自把守。`
   },
 
-
   storyPoints: [
-    { "p": "现在完成时", "q": "Since that night I have improved this lamp and kept it burning through nineteen storms.", "n": "have/has + 过去分词；看到 already/yet/just/in the last few years 秒选" },
-    { "p": "被动语态", "q": "The sea did not kill me; it gave me a new job.\" \"And then?\" \"I was determined to save sailors instead of becoming one of the lost.", "n": "be + 过去分词：主语是动作承受者；无被动动词例外：happen/take place/consist of" },
-    { "p": "一般过去时", "q": "On the way home, a real storm caught the team on the sea and pushed their small boat to an unknown island.", "n": "动词过去式：过去发生且结束的动作；时间标志 yesterday/last week/…ago" },
-    { "p": "频率副词", "q": "Pang-Da, already on his second bowl of fish soup, whispered: \"This keeper is generous with everything.\" \"I keep the light every night.", "n": "频率副词是一般现在时的标志词；位置在实义动词前、be 动词后" }
+    { "p": "宾语从句（that 可省）", "q": "I do not believe in coincidences that neat.", "n": "believe in + 名词 表「信仰……的存在」；区别 believe + 从句「相信（某事属实）」——介词 in 是本题眼" },
+    { "p": "过去进行时背景 + 一般过去时事件", "q": "The library closed around them like a held breath. ... the gold handwriting began to move.", "n": "叙事双时态：环境用过去时铺底，关键动作用一般过去时推进；began to do 开始做某事" },
+    { "p": "情态动词 + be done", "q": "those words would need renewal or they would crumble", "n": "would need 过去将来：从「当时视角」看将来；need 后接名词 renewal（renew 的名词形式）" },
+    { "p": "祈使句 + or（否则）", "q": "Finish it, or renew it every night, or the mist will finish it for you. Whole words are scarce; keep them.", "n": "祈使句 + or = 「否则就……」；连用两个 or 形成递进威胁；will finish 一般将来时" },
+    { "p": "定语从句（介词提前）", "q": "the kind of quiet that has a sorrow in it", "n": "that 引导定语从句修饰 the kind of quiet；in it 介词短语收尾——介词 + which 亦可（in which there is a sorrow）" },
+    { "p": "并列祈使句（大纲句型）", "q": "protect the page, renew the chant, verify the rest of the archive", "n": "三个并列动词原形构成计划清单；并列结构朗读有节奏感——写作可模仿" }
   ],
   words: [
-    { w: "dream", ipa: "/driːm/", pos: "n./v.", cn: "梦想；做梦", ex: "His dream came true at last.", excn: "他的梦想最终实现了。", memo: "dream of doing 梦想做；dream-dreamt/dreamed；come true 实现" },
-    { w: "admire", ipa: "/ədˈmaɪə/", pos: "v.", cn: "钦佩；羡慕", ex: "I admire him for his honesty.", excn: "我因他的诚实而钦佩他。", memo: "admire sb. for sth. 因某事钦佩某人；admiration n." },
-    { w: "brave", ipa: "/breɪv/", pos: "adj.", cn: "勇敢的", ex: "It was a brave decision.", excn: "那是个勇敢的决定。", memo: "bravery n. 勇气 = courage；bravely adv." },
-    { w: "determine", ipa: "/dɪˈtɜːmɪn/", pos: "v.", cn: "决定；下决心", ex: "He was determined to start again.", excn: "他下定决心重新开始。", memo: "be determined to do 决心做；determination 决心 n.；determine to do" },
-    { w: "struggle", ipa: "/ˈstrʌɡl/", pos: "v./n.", cn: "挣扎；奋斗", ex: "He struggled in the water all night.", excn: "他在水里挣扎了一整夜。", memo: "struggle for freedom / against difficulties；struggle to do 努力做" },
-    { w: "wise", ipa: "/waɪz/", pos: "adj.", cn: "明智的；智慧的", ex: "It is wise to check the facts first.", excn: "先查证事实是明智的。", memo: "wisdom n. 智慧；wise 智慧（判断力）/ clever 聪明（脑子快）" },
-    { w: "generous", ipa: "/ˈdʒenərəs/", pos: "adj.", cn: "慷慨的；大方的", ex: "He is generous with his money.", excn: "他花钱很大方。", memo: "be generous with/to；generosity n. 慷慨；反义 mean 吝啬的" },
-    { w: "modest", ipa: "/ˈmɒdɪst/", pos: "adj.", cn: "谦虚的", ex: "She is modest about her achievements.", excn: "她对成就很谦虚。", memo: "be modest about 对……谦虚；反义 proud/show off；modesty n." },
-    { w: "humble", ipa: "/ˈhʌmbl/", pos: "adj.", cn: "谦逊的；卑微的", ex: "He stays humble after all the success.", excn: "成功之后他依然谦逊。", memo: "modest 谦虚（对成就）/ humble 谦卑（姿态放低）；humble origins 出身贫寒" },
-    { w: "medal", ipa: "/ˈmedl/", pos: "n.", cn: "奖章；勋章", ex: "He received nineteen medals but never showed them off.", excn: "他获得过十九枚勋章，却从不炫耀。", memo: "真题词：win/receive a medal；gold medal 金牌；形近 model 模型 / meddle 多管闲事" },
-    { w: "sailor", ipa: "/ˈseɪlə/", pos: "n.", cn: "水手；海员", ex: "A good sailor keeps calm in the storm.", excn: "好水手在风暴中保持冷静。", memo: "sail(航行) + -or（人）→ 水手；a bad sailor 常晕船的人，不是「坏水手」" },
-    { w: "inspire", ipa: "/ɪnˈspaɪə/", pos: "v.", cn: "鼓舞；激励；给……灵感", ex: "His story inspired all of us.", excn: "他的故事鼓舞了我们所有人。", memo: "inspire sb. to do sth. 鼓舞某人做；inspiration n. 灵感；形近 expire 到期" },
-    { w: "patient", ipa: "/ˈpeɪʃnt/", pos: "adj./n.", cn: "耐心的；病人", ex: "The sea is honest only to the patient.", excn: "大海只对有耐心的人诚实。", memo: "复现 ch05：be patient with；patience n. 耐心；一词两义" },
-    { w: "courage", ipa: "/ˈkʌrɪdʒ/", pos: "n.", cn: "勇气", ex: "It took courage to start again at forty.", excn: "四十岁重新开始需要勇气。", memo: "复现 ch08：encourage 使有勇气→鼓励；lose courage 丧失勇气" },
-    { w: "failure", ipa: "/ˈfeɪljə/", pos: "n.", cn: "失败；失败的人/事", ex: "Failure is a door, not a wall.", excn: "失败是一扇门，不是一堵墙。", memo: "复现 ch08：fail v.；fail to do 未能；Failure is the mother of success 万能谚语" },
-    { w: "success", ipa: "/səkˈses/", pos: "n.", cn: "成功", ex: "Some people call that success.", excn: "有人管那叫成功。", memo: "复现 ch08：success n. / succeed v. / successful adj. / successfully adv." },
-    { w: "optimistic", ipa: "/ˌɒptɪˈmɪstɪk/", pos: "adj.", cn: "乐观的", ex: "Stay optimistic in the storm.", excn: "风暴中保持乐观。", memo: "复现 ch08：反义 pessimistic 悲观；阅读态度题高频选项" },
-    { w: "attitude", ipa: "/ˈætɪtjuːd/", pos: "n.", cn: "态度", ex: "Keep a good attitude toward life.", excn: "保持对生活的好态度。", memo: "复现 ch08/ch09：attitude toward/to 对……的态度；态度题信号词" },
-    { w: "overcome", ipa: "/ˌəʊvəˈkʌm/", pos: "v.", cn: "克服；战胜", ex: "Overcome fear night after night.", excn: "一夜一夜地战胜恐惧。", memo: "复现 ch08：overcome-overcame-overcome；overcome difficulties/fear" },
-    { w: "respect", ipa: "/rɪˈspekt/", pos: "v./n.", cn: "尊重；敬意", ex: "We respect the old keeper deeply.", excn: "我们深深尊敬老守塔人。", memo: "复现 ch08：show respect for；respect sb. for sth. 因某事尊敬" },
-    { w: "trust", ipa: "/trʌst/", pos: "v./n.", cn: "信任", ex: "A good keeper trusts the light and himself.", excn: "好的守塔人相信灯，也相信自己。", memo: "复现 ch08：trust sb. 信任人品；have trust in = have faith in" },
-    { w: "require", ipa: "/rɪˈkwaɪə/", pos: "v.", cn: "要求；需要", ex: "Keeping the light requires a patient heart.", excn: "守灯需要一颗耐心。", memo: "复现 ch01：require sb. to do sth.；require doing 主动表被动；requirement n." },
-    { w: "improve", ipa: "/ɪmˈpruːv/", pos: "v.", cn: "改进；提高", ex: "He improved the old lamp night after night.", excn: "他一夜一夜地改良那盏旧灯。", memo: "复现 ch01：improvement n. 提高；improve 既是及物也是不及物：improve (one's English)" },
-    { w: "benefit", ipa: "/ˈbenɪfɪt/", pos: "n./v.", cn: "好处；受益", ex: "Thousands of sailors benefit from this light.", excn: "成千上万的水手受益于这盏灯。", memo: "复现 ch01：benefit from/by 从……受益；benefit sb. 使某人受益" }
+    { w: "accomplish", ipa: "/əˈkʌmplɪʃ/", pos: "v.", cn: "完成；实现", ex: "He accomplished one more thing before dawn: he signed the testimony.", excn: "黎明前他又完成了一件事：在作证页上签了名。", memo: "ac + compl（完整，同 complete）+ ish → 做完整 → 完成；accomplish a goal/task；名词 accomplishment；❌ 不接 to do" },
+    { w: "inherit", ipa: "/ɪnˈherɪt/", pos: "v.", cn: "继承；遗传", ex: "He signed under his father's name, inheriting the case.", excn: "他把名字签在父亲名字下面，继承此案。", memo: "in（进入）+ her（继承人，同 heir）+ it → 继承；inherit sth. from sb. 从……继承；ch11 的 heritage（遗产）是它的名词亲戚" },
+    { w: "renew", ipa: "/rɪˈnjuː/", pos: "v.", cn: "更新； renewed（恢复）；重新开始", ex: "Renew the chant every night, or the mist will finish it for you.", excn: "每晚更新吟唱，否则雾会替你完成它。", memo: "re（再）+ new（新）→ 更新；renewable energy 可再生能源（ch06 energy 老朋友）；renewal n. 更新" },
+    { w: "verify", ipa: "/ˈverɪfaɪ/", pos: "v.", cn: "核实；查证", ex: "I verified every page, and I could not deny it anymore.", excn: "我核实了每一页，再也没法否认了。", memo: "ver（真实，同 very 的词根真义）+ ify（使）→ 使成真 → 核实；verification n.；近义 confirm，verify 更强调「逐项查证」" },
+    { w: "deny", ipa: "/dɪˈnaɪ/", pos: "v.", cn: "否认；拒绝承认", ex: "He denied nothing when I asked. He will deny it publicly.", excn: "我问时他什么都没否认。他会当众否认的。", memo: "deny (doing) sth. / deny that...；deny oneself 节制；There is no denying that... 不可否认——写作金句" },
+    { w: "sorrow", ipa: "/ˈsɒrəʊ/", pos: "n.", cn: "悲伤；悲痛", ex: "The room went quiet — the kind of quiet that has a sorrow in it.", excn: "房间静下来——那种藏着悲伤的静。", memo: "sorrow 深沉持久的悲（近 grief）≠ sadness 泛泛的难过；in sorrow 悲伤地；反义 joy —— ch16 已在故事里铺垫过这个词，本章归队" },
+    { w: "humor", ipa: "/ˈhjuːmə/", pos: "n.", cn: "幽默；诙谐", ex: "He said it was for the greater, humor-less good.", excn: "他说这是为了更大的、不带幽默的好。", memo: "美式 humor / 英式 humour；a sense of humor 幽默感；humorous adj. 幽默的；心词名单二号词——雾最怕笑声" },
+    { w: "impressive", ipa: "/ɪmˈpresɪv/", pos: "adj.", cn: "令人印象深刻的", ex: "My chant is impressive when it is whole.", excn: "我的吟唱完整时是令人印象深刻的。", memo: "im + press（压）+ ive → 压进心里的 → 印象深刻的；impress v. / impression n.（ch07 词）；impressive 常修饰成就/表现" },
+    { w: "radical", ipa: "/ˈrædɪkl/", pos: "adj./n.", cn: "激进的；彻底的；激进分子", ex: "The certificate of a radical idea: confiscate every student's earned words.", excn: "一份激进主意的证书：没收每个学生挣来的词。", memo: "radic（根，同 radish 萝卜）+ al → 触及根本的 → 激进的/彻底的；radical change 彻底变革；radically adv." },
+    { w: "outline", ipa: "/ˈaʊtlaɪn/", pos: "n./v.", cn: "大纲；概要；概述", ex: "His principle had one outline: the academy is my territory.", excn: "他的原则只有一行大纲：学院是我的领地。", memo: "out + line（线）→ 画外线 → 轮廓/大纲；outline a plan 概述计划；写作列提纲 = make an outline" },
+    { w: "principle", ipa: "/ˈprɪnsəpl/", pos: "n.", cn: "原则；原理", ex: "His principle had one outline: the academy is my territory.", excn: "他的原则只有一行大纲：学院是我的领地。", memo: "prin（第一，同 prince）+ ciple → 排第一的规矩 → 原则；⚠️ 与 principal（校长/主要的）音同义异——本章 principal 正是反派校长！in principle 原则上" },
+    { w: "territory", ipa: "/ˈterətri/", pos: "n.", cn: "领土；领地；领域", ex: "The academy is my territory; every word in it is mine. No other rule exists.", excn: "学院是我的领地，学院里每个词都是我的。", memo: "terr（地，同 terrain）+ itory → 地盘；occupied territory 被占领土；动词 territory 化的领域义阅读常考" }
   ],
   confusions: [
     {
-      group: "lonely / alone — 复现 ch08，灯塔版",
+      group: "achieve / accomplish / fulfill — 完成·实现三兄弟",
       items: [
-        { w: "alone", cn: "独自一人（客观状态）", note: "He lives alone on the island. 他独自住在岛上" },
-        { w: "lonely", cn: "孤独的（内心感受）", note: "He is alone but never lonely. 独处但不孤独" }
+        { w: "achieve (v.)", cn: "实现（目标/成功）", note: "achieve a goal / achieve success（ch06 老朋友）——结果性达成" },
+        { w: "accomplish (v.)", cn: "完成（任务/事业）", note: "accomplish a task / accomplish nothing —— 强调过程做完整" },
+        { w: "fulfill (v.)", cn: "履行；满足（承诺/要求）", note: "fulfill a promise / fulfill the requirements —— 兑现义务" }
       ],
-      tip: "复现复习！alone 说身边没别人，lonely 说心里空落落。alone 可作形容词也可作副词，lonely 只作形容词。经典句：He lives alone, but he never feels lonely. 完形填空看到「内心感受」秒选 lonely。",
+      tip: "口诀：目标 achieve，任务 accomplish，承诺 fulfill。本章题眼：accomplish 的名词是 accomplishment，形容词 accomplished 表示「有造诣的」（an accomplished chanter 一位造诣深厚的吟唱者）。",
       drill: [
-        { s: "The keeper lives ___ on the island, but he never feels ___.", opts: ["alone / lonely", "lonely / alone", "alone / alone"], a: 0, why: "第一空客观独处→alone；第二空内心感受→lonely" },
-        { s: "Although he is ___, his heart is full of the sea.", opts: ["lonely", "alone", "loneliness"], a: 1, why: "心里装满大海就不孤独→客观状态 alone；lonely 与句意矛盾" }
+        { s: "The team ___ one more thing before dawn: signing the testimony.", opts: ["accomplished", "achieved", "fulfilled"], a: 0, why: "完成具体的一件事 → accomplished；achieve 偏目标/成就，fulfill 偏承诺" },
+        { s: "He finally ___ his dream of reopening the case.", opts: ["achieved", "accomplished", "fulfilled"], a: 0, why: "实现梦想 → achieve one's dream 固定搭配" }
       ]
     },
     {
-      group: "receive / accept — 复现 ch08，勋章版",
+      group: "principle / principal — 同音异义的世纪陷阱",
       items: [
-        { w: "receive", cn: "收到（客观动作）", note: "He received nineteen medals. 收到了" },
-        { w: "accept", cn: "接受（主观愿意）", note: "He never accepted them proudly. 接受并收下" }
+        { w: "principle (n.)", cn: "原则；原理", note: "a matter of principle 原则问题；in principle 原则上" },
+        { w: "principal (adj.)", cn: "主要的", note: "the principal reason 主要原因" },
+        { w: "principal (n.)", cn: "校长；本金", note: "the school principal 校长——本章教务长的职位近亲" }
       ],
-      tip: "复现复习！receive 是快递签收，accept 是真心收下。守塔人 received 十九枚勋章，却把它们锁进抽屉——收到了（receive）但没当回事（not accept happily）。reject 拒收 = 不接受。",
+      tip: "口诀：principle 有 le 是原则；principal 有 pal 是伙伴（校长是你校里的 pal）。真题最爱：the ___ of the school → principal（校长）；a man of ___ → principle（有原则）。本章双关：反派正是 principal（校长），却毫无 principle（原则）。",
       drill: [
-        { s: "The keeper ___ the medal, but he never accepted the glory.", opts: ["received", "accepted", "refused"], a: 0, why: "客观收到→receive；后半句 never accepted 已给出对照" },
-        { s: "She happily ___ the invitation and went to the party.", opts: ["received", "accepted", "returned"], a: 1, why: "happily 且去了派对→主观愿意收下 accept" }
+        { s: "The ___ of our school announced the new policy.", opts: ["principal", "principle", "principality"], a: 0, why: "校长 → principal（人）；principle 是抽象原则" },
+        { s: "In ___, we agree with the plan, but the details need work.", opts: ["principle", "principal", "priority"], a: 0, why: "in principle 原则上固定搭配" }
       ]
     },
     {
-      group: "success / succeed / successful / successfully — 复现 ch08 全家桶",
+      group: "deny / refuse / reject — 拒绝的三副面孔",
       items: [
-        { w: "success", cn: "n. 成功", note: "Failure is the mother of success." },
-        { w: "succeed", cn: "v. 成功（succeed in doing）", note: "He succeeded in saving nineteen ships." },
-        { w: "successful", cn: "adj. 成功的", note: "a successful keeper 一位成功的守塔人" },
-        { w: "successfully", cn: "adv. 成功地", note: "He finished the rescue successfully." }
+        { w: "deny (v.)", cn: "否认（说法/指控）", note: "deny the rumor / deny doing —— 对「真实性」说不" },
+        { w: "refuse (v.)", cn: "拒绝（请求/提议）", note: "refuse an offer / refuse to do —— 对「请求」说不" },
+        { w: "reject (v.)", cn: "拒绝接受（提案/申请）", note: "reject a plan / reject an application —— 正式驳回" }
       ],
-      tip: "复现复习！词性四件套缺一不可：succeed in doing 是核心搭配（in 后接 doing）；副词 successfully 修饰动词，形容词 successful 修饰名词。改错题最爱把 succeed in doing 写成 succeed to do。",
+      tip: "口诀：deny 否认事实，refuse 谢绝请求，reject 驳回申请。本章语境：教务长会 deny（否认）清零案——对指控说不用 deny，对提议说不才用 refuse。",
       drill: [
-        { s: "He ___ in saving nineteen ships during the storms.", opts: ["succeeded", "successful", "successfully"], a: 0, why: "缺谓语动词且接 in doing→succeeded" },
-        { s: "The rescue ended ___, and everyone was safe.", opts: ["successful", "successfully", "success"], a: 1, why: "修饰动词 ended 用副词→successfully" }
+        { s: "The Dean will ___ the accusation in front of the whole city.", opts: ["deny", "refuse", "reject"], a: 0, why: "否认指控 → deny an accusation；refuse 接提议，reject 驳回申请" },
+        { s: "The committee ___ the proposal without reading it.", opts: ["rejected", "denied", "ignored"], a: 0, why: "正式驳回提案 → reject a proposal；deny 用于否认说法" }
+      ]
+    },
+    {
+      group: "outline / outline — 名词动词一对儿",
+      items: [
+        { w: "outline (n.)", cn: "大纲；轮廓", note: "the outline of a plan 计划大纲；in outline 概括地" },
+        { w: "outline (v.)", cn: "概述；列出大纲", note: "outline the plan 概述计划——名词动词同形" },
+        { w: "deadline (n.)", cn: "截止日期（ch01 老朋友）", note: "meet the deadline——与 outline 同为「线」家族：dead-line / out-line" }
+      ],
+      tip: "口诀：outline 名动同形，看位置定词性：冠词后是名词（an outline），主语位是动词（The report outlines...）。-line 家族：outline 大纲 / deadline 死线 / underline 下划线——一词一线，考试常客。",
+      drill: [
+        { s: "The report ___ three ways to renew the chant.", opts: ["outlines", "outline", "outlining"], a: 0, why: "主语后缺谓语动词 → outlines 三单；outline 名词不能作谓语" },
+        { s: "Under the ___ of the plan, the temple gate opens in three days.", opts: ["outline", "deadline", "underline"], a: 0, why: "计划大纲 → outline；deadline 是截止日期，underline 是下划线" }
       ]
     }
   ],
+  hidden: [
+    { w: "certificate", known: "n. 证书", hidden: "n. 证明；凭据（the certificate of a radical idea）", ex: "The order was the certificate of a radical idea.", excn: "那份命令是一份激进主意的证明。" },
+    { w: "case", known: "n. 情况；箱子", hidden: "n. 案件；论据（in this case / a strong case）", ex: "He signed his name under his father's, on the testimony page — inheriting the case.", excn: "他把名字签在父亲名字下面——继承此案。" },
+    { w: "weather", known: "n. 天气", hidden: "v. 平安渡过（weather the storm）", ex: "They woke up poor and were told it was weather.", excn: "他们醒来一无所有，却被告知那是天气。" },
+    { w: "page", known: "n. 页", hidden: "n. 记录；侍者（a page of history / 历史的一页）", ex: "The last page was written by a man gone ten years.", excn: "最后一页出自一个消失了十年的人。" }
+  ],
   sentences: [
     {
-      en: "The old keeper, who has lived <mark>alone</mark> on the island for thirty years, never feels <mark>lonely</mark> because the sea and the light fill his heart.",
+      en: "<mark>Finish</mark> it, or <mark>renew</mark> it every night, or the mist will finish it for you.",
       parts: [
-        "who has lived alone... 非限制性定语从句，补充说明 keeper，逗号不能省",
-        "现在完成时 + for thirty years：live 是延续性动词，可直接用完成时",
-        "alone 此处作表语性质的状语成分，表示客观独处状态",
-        "lonely 是内心感受；alone but never lonely 正是本句灵魂"
+        "祈使句 + or：Finish it, or... = 「否则就……」（隐含条件：If you do not finish it, ...）",
+        "or the mist will finish it for you：一般将来时；for you 表「替你」",
+        "两个并列祈使句（Finish / renew）形成递进选择",
+        "renew 及物动词直接接宾语：renew it 代词放中间"
       ],
-      cn: "这位老守塔人独自在岛上生活了三十年，却从不感到孤独，因为大海和灯光填满了他的心。",
+      cn: "完成它，或者每晚更新它，否则雾会替你完成它。",
       slots: [
-        { s: "The old keeper, ___ has lived alone for thirty years,... 非限制性定语从句引导词填空。", opts: ["who", "which", "that"], a: 0, why: "非限制性定语从句修饰人用 who，不能用 that" },
-        { s: "has lived...for thirty years 考时态：live 是延续动词，for + 时间段 → ___。", opts: ["现在完成时", "一般过去时", "一般现在时"], a: 0, why: "for thirty years 与现在完成时连用：has lived" }
+        { s: "___ it every night, or the mist will finish it（祈使动词）", opts: ["Renew", "Renewing", "To renew"], a: 0, why: "祈使句用动词原形开头；Renewing 是动名词、To renew 是不定式，都不能构成祈使句" },
+        { s: "or the mist ___ it for you（时态）", opts: ["will finish", "finishes", "finished"], a: 0, why: "祈使句 + or 表「否则」→ 后句一般将来时 will finish" }
       ]
     },
     {
-      en: "What impressed us most was not the nineteen medals in his drawer, but the <mark>courage</mark> to start again at forty.",
+      en: "The certificate of a <mark>radical</mark> idea: confiscate every student's earned words, rewrite them into exam templates, and hand the \"saved\" power back as favor.",
       parts: [
-        "What impressed us most 主语从句：最打动我们的东西",
-        "not...but... 并列结构：不是……而是……（连接两个并列成分）",
-        "to start again at forty 不定式作后置定语，修饰 courage",
-        "主语从句作主语时谓语用单数：was ✓"
+        "冒号后三个并列祈使动词（confiscate / rewrite / hand）解释 idea 的内容——「清单式定义」",
+        "earned words：过去分词作定语，「被挣来的词」",
+        "hand sth. back as favor：as 介词「作为」",
+        "them 指代复数 words；代词回指是阅读指代题高频点"
       ],
-      cn: "最打动我们的不是抽屉里那十九枚勋章，而是他四十岁重新开始的勇气。",
+      cn: "一份激进主意的证书：没收每个学生挣来的词，改写成考试模板，再把「省下的」词力当恩惠发回去。",
       slots: [
-        { s: "___ impressed us most was not the medals but the courage. 主语从句引导词填空。", opts: ["What", "That", "Which"], a: 0, why: "从句缺主语→what；that 引导主语从句须从句完整" },
-        { s: "the courage ___ again at forty 考不定式后置定语。", opts: ["to start", "starting", "started"], a: 0, why: "the courage to do sth. 做某事的勇气，不定式修饰 courage" }
+        { s: "confiscate every student's ___ words（分词定语）", opts: ["earned", "earning", "earn"], a: 0, why: "词是「被挣来的」→ 过去分词 earned 作前置定语；earning 表主动进行" },
+        { s: "rewrite ___ into exam templates（代词指代）", opts: ["them", "it", "those"], a: 0, why: "指代复数 words → them；it 单数不符；those 需要后置限定" }
       ]
     }
   ],
   phrases: [
-    { p: "make up one's mind", cn: "下定决心", note: "He made up his mind to keep the light. mind 随主语变：my/his mind", gap: { s: "He made up his ___ to keep the light.", opts: ["mind", "minds", "heart"], a: 0, why: "make up one's mind，mind 随主语 his 用单数" } },
-    { p: "dream of", cn: "梦想；渴望", note: "She dreams of becoming a sailor. of 后接 doing", gap: { s: "She dreamed ___ becoming a sailor.", opts: ["of", "on", "for"], a: 0, why: "dream of doing 固定介词 of" } },
-    { p: "come true", cn: "实现", note: "⚠️ 不及物短语，没有被动：was come true ❌；主语只能是 dream/wish", warn: true },
-    { p: "be determined to do", cn: "决心做", note: "He was determined to start again. = make up one's mind to do" },
-    { p: "struggle for / against", cn: "为……奋斗 / 与……抗争", note: "struggle for freedom 争取自由；struggle against the storm 与风暴抗争" },
-    { p: "have faith in", cn: "对……有信心", note: "Have faith in yourself. = believe in oneself" },
-    { p: "look up to", cn: "尊敬；仰慕", note: "Sailors look up to the keeper. 反义 look down on 轻视", gap: { s: "Sailors look ___ to the old keeper.", opts: ["up", "down", "forward"], a: 0, why: "look up to 尊敬；look down on 轻视，方向别反" } },
-    { p: "believe in", cn: "信任；信仰", note: "believe sb. 信某人的话；believe in sb. 信某人的人品/能力" },
-    { p: "give in", cn: "屈服；让步", note: "复现 ch08：give in 不及物，不接宾语；give up doing 放弃做" },
-    { p: "no matter how", cn: "无论怎样", note: "No matter how hard it is, never give up. = however hard it is" },
-    { p: "devote oneself to doing", cn: "献身于；致力于", note: "⚠️ to 是介词，后接 doing：He devoted himself to keeping the light. 改错最爱写成 to keep", warn: true, gap: { s: "He devoted himself to ___ the light for thirty years.", opts: ["keeping", "keep", "kept"], a: 0, why: "devote...to 中 to 是介词，后接 doing" } },
-    { p: "be proud of", cn: "为……骄傲", note: "He was proud of his crew. 反义 be ashamed of；pride n. take pride in" },
-    { p: "above all", cn: "最重要的是", note: "⚠️ 区别 after all 毕竟 / in all 总共。Above all, keep the light burning.", warn: true },
-    { p: "more than ever", cn: "比以往任何时候更", note: "The light matters more than ever in a storm. 完形阅读双高频" },
-    { p: "suffer from", cn: "遭受；患……之苦", note: "suffer from the storm / cold / illness；suffer losses 遭受损失" },
-    { p: "in charge of", cn: "负责；管理", note: "⚠️ 方向陷阱：He is in charge of the light. 他管灯；in the charge of sb. 由某人管（被动）", warn: true, gap: { s: "The keeper is in charge ___ the lighthouse.", opts: ["of", "for", "with"], a: 0, why: "in charge of 主动管理；in the charge of 才表被管" } }
+    { p: "renew the chant", cn: "更新吟唱", note: "renew 及物直接接宾语；renewal n.；renewable 可再生的（energy 老朋友）" },
+    { p: "verify every page", cn: "核实每一页", note: "verify + 宾语；verification n.；近义 confirm（ch13 词）" },
+    { p: "deny doing / deny that", cn: "否认做过 / 否认……", note: "deny 后接 doing 或 that 从句；❌ deny to do", warn: true },
+    { p: "in principle", cn: "原则上", note: "In principle, we agree.；与 principal（校长/主要）同音异义——见易混组", warn: true },
+    { p: "the outline of a plan", cn: "计划的大纲", note: "outline 兼作动词：outline a plan 概述计划" },
+    { p: "accomplish nothing", cn: "一事无成", note: "accomplish + 宾语；❌ accomplish to do；近 achieve（ch06）" },
+    { p: "inherit sth. from sb.", cn: "从……继承某物", note: "inherit the case from his father；heritage（ch11）是名词亲戚", warn: true },
+    { p: "on record", cn: "记录在案", note: "sign on record 签名存证；反义 off the record 不公开", warn: true },
+    { p: "the kind of...that...", cn: "那种……的……", note: "the kind of quiet that has a sorrow in it；定语从句修饰 kind" },
+    { p: "for the greater good", cn: "为了更大的善", note: "反讽语境：以善之名作恶；good 作名词「好处/善」" },
+    { p: "carry sth. to sp.", cn: "把某物带到某地", note: "carry everything to the Writing Temple；carry out 执行（短语辨析）" },
+    { p: "protect the page", cn: "保护残页", note: "protect...from...（ch06 老口诀）；protection n." },
+    { p: "go still", cn: "僵住", note: "He went very still. go + adj. 系动词（go bad / go pale 同族）" },
+    { p: "check the map", cn: "核对地图", note: "check 及物：核对；check in 入住 / check out 退房（辨析）" },
+    { p: "city-wide", cn: "全城的", note: "合成形容词：city-wide announcement 全城通告；world-wide 同构" },
+    { p: "in front of", cn: "在……面前", note: "in front of the whole city 当着全城的面；区别 in the front of（在内部前排）", warn: true }
   ],
   grammar: [
     {
-      t: "wish + 过去式虚拟：愿望落空专用（单选高频）",
-      rule: "wish 后的宾语从句必须用虚拟语气：与现在事实相反 → 过去式（be 一律用 were）；与过去事实相反 → had done。核心逻辑：真正的愿望，都是现实里还没有的东西，所以时态要「后退一步」。",
-      ex: "I wish I were a young sailor again. He wishes he had kept the light earlier.",
-      excn: "我真希望自己还是个年轻水手。他真希望自己早点守上这盏灯。",
-      signal: "看到 wish 别再填 will/can：现在的事用过去式，过去的事用 had done。注意区分 hope（可能实现的希望，接陈述语气）",
-      quiz: { s: "I wish I ___ a young sailor again. → ___（与现在事实相反）", opts: ["am", "were", "had been"], a: 1, why: "wish 与现在事实相反 → 过去式虚拟，be 一律用 were" }
+      t: "祈使句 + or / and（隐含条件句·本章父亲遗言句型）",
+      rule: "祈使句 + or + 将来时 = 「否则就……」（= If not..., ...）；祈使句 + and + 将来时 =「那么就……」（= If..., ...）。关键：前半句必须动词原形，后半句用一般将来时。",
+      ex: "Finish the chant, or the mist will finish it for you; protect the page, and the whole city will hear it.",
+      excn: "完成吟唱，否则雾会替你完成它；保护好残页，全城都会听见它。",
+      signal: "改错双坑：① or 后用过去时 ② 祈使位用了 to do / doing。or = 否则，and = 那么",
+      quiz: { s: "___ the page flat, and the gold handwriting begins to move.", opts: ["Set", "Setting", "To set"], a: 0, why: "祈使句 + and 结构：动词原形 Set 开头；Setting/To set 不能引导祈使句" }
     },
     {
-      t: "It is high time that + did：该是……的时候了（写作模板句）",
-      rule: "It is (high/about) time that sb. did sth. = 该是做某事的时候了（其实早就该做了）。that 从句用过去式，或 should + 动词原形（should 不可省）。另一句型 It is time for sb. to do sth. 用的是 to do，别混。",
-      ex: "It is high time that we made up our minds about the future.",
-      excn: "该是我们对未来下定决心的时候了。",
-      signal: "从句动词用过去式是铁律：It is high time that we make ❌ → made ✓；写作里用它收尾，阅卷老师眼前一亮",
-      quiz: { s: "It is high time that we ___ up our minds. → ___", opts: ["make", "made", "will make"], a: 1, why: "It is high time that + 过去式，从句时态退一步" }
+      t: "过去将来时 would do（从过去看将来）",
+      rule: "站在过去时点说「将要发生」→ would + 动词原形。常用于宾语从句（主句过去时，从句未来动作）或叙事转述。The Dean said the gate would open in three days. 与 will 的区别：will 站现在，would 站过去。",
+      ex: "Juanjuan said the temple gate would open in three days, and nobody believed it would be guarded by students.",
+      excn: "卷卷说圣殿之门三天后开启，没人相信守门的是学生。",
+      signal: "主句 said/told + 从句 will → 改 would；时间状语用 three days later 而不是 in three days（转述位移）",
+      quiz: { s: "The Dean announced that the gate ___ be guarded by the Bureau.", opts: ["would", "will", "is going to"], a: 0, why: "announced 过去时 → 从句过去将来 would be；will 是现在时态越位" }
     },
     {
-      t: "as if / as though 好像：虚拟与真实的分界线",
-      rule: "as if / as though（好像）引导从句：内容与事实相反时用虚拟——与现在相反 → did/were；与过去相反 → had done。若从句内容可能是真的，用陈述语气。",
-      ex: "The old man talks about the sea as if he had sailed it for a hundred years. He looks as if he is tired.",
-      excn: "老人谈起大海，好像已经航行了一百年（其实没有——虚拟）。他看起来好像累了（可能真累——陈述）。",
-      signal: "判断真假再选时态：明知不可能（人活不了一百岁）→ had done；可能是事实 → 正常时态。单选看到 as if 先问：这是比喻还是事实？",
-      quiz: { s: "He talks about the sea as if he ___ it for a hundred years. → ___（比喻，虚拟）", opts: ["sailed", "had sailed", "sails"], a: 1, why: "as if 与过去事实相反的比喻 → had done" }
+      t: "并列祈使动词作「清单式定义」（冒号句型）",
+      rule: "名词/名词短语 + 冒号 + 三个并列动词原形，可用来给抽象概念下「行动定义」：The plan: protect the page, renew the chant, verify the archive. 三个并列成分必须形态一致（都是原形），这是写作高分句式，也是改错考点（并列不一致）。",
+      ex: "The plan: protect the page, renew the chant, and carry everything to the temple.",
+      excn: "计划：保护残页，更新吟唱，把一切带到圣殿。",
+      signal: "改错：并列成分一个 doing、一个 do、一个 to do → 全部统一成原形；写作：清单式定义让段落立刻有骨架",
+      quiz: { s: "The outline: ___ the page, renew the chant, verify the rest.", opts: ["protect", "protecting", "to protect"], a: 0, why: "与 renew/verify 并列的动词必须同为原形 protect；doing/to do 破坏并列一致" }
+    },
+    {
+      t: "真题高频 · 现在分词作定语 vs 过去分词作定语（单选高频）",
+      rule: "单个分词作前置定语：doing 表主动/进行（the sleeping city 沉睡的城），done 表被动/完成（earned words 被挣来的词）。判断口诀：被修饰的名词能不能主动发出这个动作？能 → doing；只能承受 → done。",
+      ex: "Confiscated words fed the mist, and the crying students were told it was weather.",
+      excn: "被没收的词喂养了雾，哭泣的学生们被告知那是天气。",
+      signal: "earned/confiscated words（词被挣/被没收）→ done；crying students（学生主动哭）→ doing；改错高频互换坑",
+      quiz: { s: "The ___ words were rewritten into templates overnight.", opts: ["confiscated", "confiscating", "confiscate"], a: 0, why: "词「被没收」→ 过去分词 confiscated 作定语；confiscating 主动 ❌；confiscate 原形不能作定语" }
+    },
+    {
+      t: "真题高频 · it 指代与形式主语（阅读指代题）",
+      rule: "it 三大身份：① 形式主语（It is strange that...）② 形式宾语（find it hard to...）③ 指代前文整件事（It was the mist that did it —— it 指雾袭事件）。指代题技巧：往前找最近的名词短语或整句事件，单数 it 通常回指整件事而非单个名词。",
+      ex: "He knew someone would read this. He left a meeting, not a grave — and it changed everything.",
+      excn: "他知道会有人读到。他留下的是一场约，不是一座坟——而它改变了一切。",
+      signal: "「it 指代什么？」→ 选项常混单一名词 vs 整句事件；it 单数回指整件事（the meeting/promise）是高频正确项",
+      quiz: { s: "The father left a meeting, not a grave, and ___ changed everything.", opts: ["it", "he", "they"], a: 0, why: "it 回指前面整件事「留下约定」；he 指父亲但语义不通；they 复数不符" }
     }
   ],
   quiz: [
     {
-      q: "He lives ______ on a small island, but he never feels ______.",
-      options: ["alone; lonely", "lonely; alone", "alone; alone", "lonely; lonely"],
+      q: "The team worked all night to ______ the chant before the mist returned.",
+      options: ["remove", "remind", "renew", "return"], answer: 2, explain: "renew 更新、恢复（re + new）；return 归还；remove 移除；remind 提醒。「赶在雾回来前更新吟唱」→ renew。"
+    },
+    {
+      q: "Scientists ______ the data three times before publishing the result.",
+      options: ["unified", "notified", "verified", "qualified"], answer: 2, explain: "verify 核实、逐项查证；qualify 使合格；unify 统一；notify 通知。「发表前反复核实数据」→ verified。"
+    },
+    {
+      q: "The old principle had only one ______ : control every word in the academy.",
+      options: ["outlet", "outline", "outlook", "outcome"], answer: 1, explain: "outline 大纲、要点；outlet 出口；outcome 结果；outlook 前景/景色。「原则只有一行大纲」→ outline。"
+    },
+    {
+      q: "The Dean will ______ the accusation in front of the whole city.",
+      options: ["deny", "refuse", "reject", "avoid"],
       answer: 0,
-      explain: "复现 ch08：alone 客观独处（独自住），lonely 内心孤独（感到孤独）。经典搭配 live alone / feel lonely——独处不等于孤独。"
+      explain: "否认指控 → deny an accusation；refuse 拒绝请求；reject 驳回提案；avoid 回避。「当众否认」→ deny。"
     },
     {
-      q: "After ten years of hard work, he finally ______ in rebuilding the lighthouse.",
-      options: ["succeeded", "success", "successful", "successfully"],
+      q: "The plan: protect the page, ______ the chant, verify the rest.",
+      options: ["to renew", "renewing", "renewed", "renew"], answer: 3, explain: "与 protect/verify 并列的动词必须同为原形 → renew；并列结构形态一致是改错高频考点。"
+    },
+    {
+      q: "复现 ch09/ch15：He aimed well, but never ______ the last door.",
+      options: ["achieved", "attracted", "attended", "attempted"],
       answer: 0,
-      explain: "复现 ch08 四件套：succeed in doing 固定搭配作谓语动词 → succeeded。success 名词、successful 形容词、successfully 副词，词性都不合。"
+      explain: "复现旧词 achieve 实现、达成（ch06/ch09/ch15 老朋友）；attract 吸引；attend 出席；attempt 试图。「从未达成」→ achieved。"
     },
     {
-      q: "It took great ______ for him to start again at forty.",
-      options: ["encourage", "courage", "discourage", "courageous"],
-      answer: 1,
-      explain: "It takes courage to do sth. 做某事需要勇气——此处需要名词 courage。encourage 是动词「鼓励」，courageous 是形容词「有勇气的」。"
+      q: "复现 ch15/ch07：It took courage and ______ to finish the hardest door.",
+      options: ["error", "effort", "errand", "employer"], answer: 1, explain: "复现旧词 effort 努力（make an effort，ch06-ch15 多轮复现）；error 错误；errand 差事；employer 雇主。形近辨析。"
     },
     {
-      q: "Your ______ toward the exam decides your result, so stay calm and positive.",
-      options: ["attitude", "altitude", "gratitude", "aptitude"],
+      q: "复现 ch13：The tower would ______ nothing twice: knowledge, not memory.",
+      options: ["exploit", "explode", "explain", "explore"], answer: 2, explain: "复现旧词 explain 解释（explain sth. to sb.，ch13 词）；explore 探索；explode 爆炸；exploit 剥削。「不解释第二遍」→ explain。"
+    },
+    {
+      q: "改错：The outline grew on one sheet: protect the page, to renew the chant nightly, and confirm every name inside.",
+      options: ["to renew → renew", "protect → protecting", "grew → grown", "inside → in"],
       answer: 0,
-      explain: "形近四兄弟：attitude 态度 / altitude 高度 / gratitude 感激 / aptitude 天赋。attitude toward 对……的态度；态度决定结果，本句考 attitude。"
+      explain: "改错雷区·并列结构一致：冒号后是三个并列祈使动词 protect / renew / confirm，形态必须统一为动词原形，to renew 破坏并列；B protecting 同样破坏并列一致，应为原形；C 主语 the outline 是「长大」的发出者，过去式 grew 正确，grown 是分词不能作谓语；D confirm every name inside 中 inside 副词修饰，用 in 反而不完整。"
     },
     {
-      q: "I wish I ______ as brave as the old keeper when I face the sea.",
-      options: ["am", "were", "will be", "have been"],
-      answer: 1,
-      explain: "wish 后的从句与现在事实相反 → 用过去式虚拟，be 动词一律用 were。愿望都是现实里没有的东西：我现在并不 brave，所以用虚拟。"
-    },
-    {
-      q: "It is high time that we ______ a decision about the road ahead.",
-      options: ["make", "made", "will make", "have made"],
-      answer: 1,
-      explain: "It is high time that + 过去式（或 should + 原形），表示「该是做……的时候了」，写作模板句。made 是过去式；make 原形是最大陷阱。这句话在第十九章岔路口应验。"
-    },
-    {
-      q: "改错：He wished that he can sail around the world someday.",
-      options: ["can → could", "wished → wishes", "that → what", "sail → sailing"],
+      q: "汉译英：保护残页，整段吟唱就会被全城听见。",
+      options: ["Protect the page, and the whole chant will be heard by the whole city.", "Protecting the page, and the whole chant will be heard by the whole city.", "Protect the page, or the whole chant will be heard by the whole city.", "Protect the page, and the whole chant will hear by the whole city."],
       answer: 0,
-      explain: "wish 后的从句用虚拟语气：与将来事实相反用过去式情态动词，can 必须变 could。wished 主句时态没错；that 引导宾语从句不换 what；sail 前有情态动词用原形。"
-    },
-    {
-      q: "英译汉选择：The old keeper made light of his nineteen medals.",
-      options: ["守塔人把十九枚勋章做得很轻。", "守塔人对十九枚勋章毫不在意。", "守塔人点燃了十九枚勋章。", "守塔人把勋章保管得很轻便。"],
-      answer: 1,
-      explain: "make light of 固定搭配「轻视；对……不在乎」，不是把东西做轻或点亮。望文生义是英译汉最大陷阱——老人把勋章锁进抽屉，正是「毫不在意」的剧情呼应。"
+      explain: "考点：祈使句 + and + 将来时（= If you protect...,...），chant 与 hear 是被动关系用 will be heard；B 错在动名词 Protecting 不能构成祈使句，and 前必须是动词原形；C 错在 or 表「否则」，逻辑方向完全相反；D 错在 will hear 缺 be，被动语态必须是 will be done。"
     }
   ]
 });

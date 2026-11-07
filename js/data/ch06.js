@@ -1,257 +1,246 @@
 window.CHAPTERS = window.CHAPTERS || [];
 window.CHAPTERS.push({
   id: 6,
-  title: "环境保护 · 绿色森林保卫战",
-  desc: "雾霾怪败退一个月后，塑料袋巨兽又站了起来——它不是天生的，是被一袋一袋扔出来的。种树吧少年，顺便看住你的购物车。",
-  tag: "环保类高频词",
+  title: "觉醒篇 · 词魂黑市",
+  desc: "小队循雾源深入词林，撞见地下拍卖会：「速成词魂」装瓶叫卖，一夜词士的谎言让全场疯狂。阿洛听声辨魂，当场戳穿混淆兽幼体假扮的假货，黑市崩塌；散场账本上，却盖着教务长府的徽记。",
+  tag: "交易与欺骗 · 商贸高频词",
   story: {
-    title: "The Green Forest War 绿色森林保卫战",
-    text: `A month after Smog's escape, Green Valley Forest turned green again. The [[atmosphere]] smelled like rain and pine. Ping-Ye the Bottle Cat slept on a warm rock, dreaming of a world without [[rubbish]].
+    title: "The Night Fair of Bottled Souls 瓶装词魂夜市",
+    text: `Three nights after the promotion battle, the Dean's whisper still followed A-Luo: the bloodline from ten years ago still lives. He kept it to himself, unwilling to [[confess]] the [[dread]] it carried, and threw himself into review with his [[eager]] team. When Shen Zhibai traced the fog's source deeper into the [[jungle]], the whole team followed — and at the bottom of a mossy ravine, lantern light burned under the roots. The air smelled of hot metal and paper, a hundred voices below shouting numbers.
 
-Peace never lasts long here. On Friday, the ground shook. A white monster rolled out of the valley: thousands of [[plastic]] bags stuck together, growing bigger with every bite of trash. Tourists threw them away after picnics; the bags found each other and stood up.
+A puppet in a merchant's coat sprang onto a barrel stage — the [[auctioneer]]. "Bottled word-souls!" it cried. "[[Genuine]] power, ready to drink! Why study for years? One bottle, and tonight you stand a Word-Scholar!" The roar made the cavern walls [[tremble]] with the [[thrill]] of it. Real word-souls were [[scarce]]: each took a scholar years of singing to create, so one bottle should have been worth a house. Yet the shelves behind the puppet bowed under hundreds of glowing bottles, and puppet guards lined every wall with rods forged to [[drain]] a man's word-power in one strike. Cages waited to [[capture]] the real ones. Between the shelves moved buyers gray as ash, people who had paid everything and drunk only fog.
 
-"White Beast," Ping-Ye said coldly. "Smog ate the sky. You eat the trees. White [[pollution]] has a face now."
+Pangda's hand was already counting coins. Shen Zhibai caught his wrist. "[[Blame]] the wallet later. Restraint first." A-Luo stepped close, listening on [[instinct]]. A true word-soul sings every meaning of its word. This [[creature]] hummed one flat tune, [[forgettable]] as a falling leaf, over and over, as if that tune were the only song it had ever learned. Taught to copy the glow, it had never learned to sing. "It is not a word-soul," he said. "It is a cub of the Confusion Beast wearing a bottle."
 
-The team arrived in an hour. Juanjuan brought a plan, Sao-Ye brought scanner eyes, Pangda brought snacks — for himself.
-"Listen," she said. "You cannot punch a monster made of garbage. We must [[reduce]] its food, [[reuse]] whatever we can, and get the rest [[recycled]]. Three R tactics." The team added [[various]] tricks too, including one recycling rap nobody requested.
+"Fraud!" the auctioneer shrieked. "Buyers felt real power — you cannot [[claim]] it is fake, and that does not [[justify]] calling my market a lie!" "Then watch the real thing answer," A-Luo said, and did not [[utter]] the label's word — he sang every meaning it owned. The bottle cracked. The thing inside twisted, grew a second head and a third tail, and the cavern exploded into screams. [[Guilty]] buyers dropped bottles and ran, quick to [[abandon]] the lies; the cubs leaked out as gray smoke and fled. For a breath the guards' rods lifted and the hall slid toward [[violence]] — until Shen Zhibai's binding word pinned the auctioneer to its barrel.
 
-They dug holes and planted trees. Muscle-Ge dug so fast the shovel smoked. "One tree looks small," A-Luo panted, "but ten thousand trees can [[protect]] the valley and [[improve]] the air. A real [[challenge]]."
-But the beast grew faster. Every minute, visitors threw bags. Their [[influence]] was simple: money in one hand, plastic in the other. Ping-Ye watched it double and understood: they were feeding it while fighting it.
+The victims woke slowly, color returning like sunrise. An old woman heard her own words come home and wept; one by one the freed buyers began to [[celebrate]] in the wreckage, naming every word they had recovered. Pangda [[declared]] a feast. Then Shen Zhibai lifted the ledger from the broken counter — and went still. On its back cover, stamped in blue wax, shone the crest of the Dean's own house — an [[unfair]] trade from start to end.`,
+    translation: `升阶战后的第三个夜晚，教务长那句低语仍追着阿洛：十年前那一脉，还活着。他不肯向任何人坦白这句话带来的恐惧，只跟着他那支心气正高的小队一头扎进复习。谨慎的沈知白循出雾源深入词林时，全队跟着走了——在一条长满青苔的溪谷底部，灯光正从树根底下透出来。空气里是热金属和旧纸的味道，下面一百多个声音在喊着数字。
 
-"We have got the wrong enemy," he said. "The beast is just [[rubbish]] with a shape. The real monster is the [[habit]] of throwing things away — and [[waste]] is its mother."
-Pangda raised his hand. "Can we feed it till it is too fat to move?" Everyone stared.
+一个穿着商人外套的傀儡跳上木桶搭成的台子——拍卖师。「瓶装词魂！」它喊，「真材实料的力量，开瓶即饮！何必苦学多年？一瓶下肚，今夜你就是词士！」轰鸣声震得洞穴墙壁直颤。真正的词魂极其稀缺：每一只都要一位词师歌唱数年才能养成，一瓶本该值一栋房子。可傀儡身后的架子上，几百只发光的瓶子压弯了木架，傀儡卫兵沿每面墙排开，手里握着锻打得一击就能抽干词力的铁棍，旁边还有等着捕捉真词魂的笼子。架子之间走动着灰如死灰的买主——付出了一切、喝下去却只有雾的人。
 
-Night fell. The plan changed: do not attack the beast, attack its dinner. Sao-Ye marked every piece of trash. A-Luo and Ping-Ye picked up bags while the beast was sleeping. Qian-Shao, for the first time, spent money on something free — a thousand cloth bags at the gate, to [[promote]] them to every tourist. A sign by the road read: NO LITTERING. Every [[effort]] counted.
+胖达的手已经开始数钱币。沈知白攥住他的手腕：钱包的事回头再怪，先克制。阿洛凭本能凑近去听。真正的词魂会唱出它的词的全部释义。而这生物只哼一条平直的调子，像一片落叶一样让人过耳即忘，一遍又一遍，仿佛那条调子就是它此生学会的唯一一首歌。它被教会的只是模仿光，从没学会唱歌。「这不是词魂，」他说，「这是一只穿着瓶子的混淆兽幼体。」
 
-In three days, the beast went hungry. It shrank and fell like a deflated balloon. They had [[achieved]] the impossible: they starved a monster. On the ground lay one shopping bag: DOUBLE ELEVEN PRE-SALE.
-"One bag [[caused]] all this?" A-Luo asked.
-"Yes," Ping-Ye said. "A monster is never born; it is piled up, bag by bag."
+「诽谤！」拍卖师尖叫，「买主们感到了真的力量——你不能咬定它是假的，这也不能证明我的市场是骗局！」「那就看看真货怎么应答，」阿洛说，他没有说出标签上的那个词——他唱出了它拥有的全部释义。瓶子裂了。里面的东西扭曲起来，长出第二颗头、第三条尾巴，洞穴炸成一片尖叫。心虚的买主们摔下瓶子就跑，争着抛弃那些谎言；幼体化作灰烟漏出来，逃进雾里。有一瞬，卫兵的铁棍举起，大厅滑向暴力的边缘——直到沈知白的缚词把拍卖师钉在木桶上。
 
-That evening, they sat on the hill. Planting trees could not [[prevent]] every disaster, A-Luo thought, but it taught people the [[balance]] between taking and giving back. The [[environment]] is not a gift from our ancestors; it is a loan from our children. A green victory brings no medals, but pays [[benefit]]s — clean air, clear rivers, saved [[energy]]. The war was an [[experience]] no classroom could give.
-
-Just then, Qian-Shao's phone buzzed like an angry bee. Again. And again. Ninety-nine notifications.
-"The Double Eleven pre-sale is open," he whispered, tears in his eyes. "My shopping cart has grown legs. My [[resources]] are running out."
-Juanjuan frowned at the sky. Somewhere far away, a new monster was waking up — red banner, countdown, biggest appetite on this continent.
-"Its name is Shopping," she said. "And it eats roommates like yours first."`,
-    translation: `雾霾怪败退一个月后，绿谷森林重新绿了起来。大气里有雨和松针的味道。瓶爷——那只捡瓶子的猫——睡在暖石头上，梦见一个没有垃圾的世界。
-可安宁从来长不了。周五，大地一震。一头白色巨兽滚出山谷：几千只粘在一起的塑料袋，每吞下一口垃圾就长大一圈。游客野餐后把它们随手一扔，袋子们在黑暗中找到了彼此，站了起来。
-「白色巨兽，」瓶爷冷冷地说，「雾霾吃天空，你吃树。白色污染，终于长出脸来了。」
-队伍一小时内到齐。卷卷带了计划，扫爷带了扫描眼，胖达带了零食——给他自己的。
-「听好，」她说，「拳头打不赢垃圾做的怪物。我们必须减少它的食物，能再利用的再利用，剩下的回收。三个 R 战术。」队伍还加了各种花式操作，包括一段没人点单的回收说唱。
-于是他们挖坑种树。肌肉哥挖得太快，铁锹都冒烟了。「一棵树看着小，」阿洛喘着气说，「可一万棵树能保护山谷、改善空气。真是一场硬仗。」
-可巨兽长得更快。每一分钟，都有游客扔下袋子。他们的影响力很直接：一只手掏钱，另一只手掏塑料袋。瓶爷看着它体积翻倍，明白了：他们一边打怪，一边喂怪。
-「我们搞错敌人了，」他说，「巨兽不过是长了形状的垃圾。真正的怪物，是随手乱扔的习惯——浪费是它的妈妈。」
-胖达举手：「能不能把它喂到胖得动不了？」所有人齐刷刷盯着他。
-夜幕降临。计划变了：不打巨兽，打它的晚饭。扫爷标记出每一件垃圾。阿洛和瓶爷趁巨兽睡觉时捡袋子。钱少平生第一次花钱买了免费的东西——一千只布袋摆在谷口，逢游客就热情推销。路边立起牌子：禁止乱扔。每一份微小的努力都算数。
-三天之内，巨兽饿了。它瘪了下去，像一只泄了气的气球。他们实现了不可能的事：把一头怪物饿趴下了。地上躺着一只购物袋，印着：双十一预售。
-「一切都是一只袋子搞出来的？」阿洛问。
-「一切都是一只袋子搞出来的，」瓶爷说，「怪物从来不是生出来的，是一袋一袋堆出来的。」
-傍晚，他们坐在山上吹风。阿洛想：种树防不住所有灾难，但它教会人们在索取与回馈之间保持平衡。环境不是祖先的馈赠，而是向子孙借的贷款。绿色的胜利没有勋章，却给所有人红利——干净的空气、清澈的河流、省下的能源。而这场仗本身，就是一段课堂给不了的经历。
-就在这时，钱少的手机像愤怒的蜜蜂一样震了起来。震完一轮又一轮。九十九条通知。
-「双十一预售开了，」他低声说，眼里含着泪，「我的购物车长腿了。我的资源——我是说钱包——正在耗尽。」
-卷卷望天皱眉。很远的地方，一头新怪物正在醒来——红色横幅、倒计时，以及这片大陆上最大的胃口。
-「它的名字叫购物，」她轻声说，「而且它先吃你这种室友。」`
+受害者们慢慢醒来，血色像日出一样一点点回来。一位老妇人听见自己的词回家了，哭了；获救的买主一个接一个当场在废墟里庆祝起来，报出他们找回来的每一个词。胖达宣布摆宴。然后，沈知白从破碎的柜台上拾起那本账簿——忽然僵住。封底上，蓝色火漆里烙着教务长府的徽记——一场从头到尾都不公平的买卖。`
   },
 
-
   storyPoints: [
-    { "p": "现在完成时", "q": "\"My shopping cart has grown legs.", "n": "have/has + 过去分词：过去发生影响现在；标志词 since/for/already/yet/just" },
-    { "p": "过去完成时", "q": "They had achieved the impossible: they starved a monster.", "n": "had + 过去分词：过去的过去" },
-    { "p": "被动语态", "q": "\"A monster is never born; it is piled up, bag by bag.\" That evening, they sat on the hill.", "n": "be + 过去分词：主语是动作承受者；无被动动词例外：happen/take place/consist of" },
-    { "p": "时间状语从句", "q": "Ping-Ye watched it double and understood: they were feeding it while fighting it.", "n": "as soon as 一……就；while 后接延续性动词/进行时" },
-    { "p": "情态动词", "q": "We must reduce its food, reuse whatever we can, and get the rest recycled.", "n": "情态动词 + 动词原形；must be 表肯定推测，can't be 表否定推测" },
-    { "p": "一般过去时", "q": "The war was an experience no classroom could give.", "n": "was/were 系表结构也是一般过去时：过去的状态；行为动词过去式见 -ed" },
-    { "p": "一般过去时", "q": "A month after Smog's escape, Green Valley Forest turned green again.", "n": "动词过去式：过去发生且结束的动作；时间标志 yesterday/last week/…ago" }
+    { "p": "as if + 虚拟语气（对现在的虚拟一律用 were）", "q": "as if that tune were the only song it had ever learned", "n": "那条调子并不是它学过的唯一歌（与事实相反）→ as if + were；as if/as though 对过去的虚拟用 had done（the only song it had ever learned 正是「唱出来的过去之前」的过去）" },
+    { "p": "with 复合结构（with + 宾语 + doing/done）", "q": "The puppet kept crying its prices, with buyers still pressing coins into its hands.", "n": "with + 宾语 + 现在分词表伴随：buyers 与 press 是主动关系 → pressing；若宾语承受动作则用过去分词（with a letter sealed in wax 信被封好）" },
+    { "p": "过去分词作原因状语（悬垂分词雷区）", "q": "Taught to copy the glow, it had never learned to sing.", "n": "句首 Taught = Because it was taught（被动：被教会模仿光）；分词状语的逻辑主语必须是主句主语 it，换了主语就是悬垂分词改错题" },
+    { "p": "名词词组 + and 表条件", "q": "One bottle, and tonight you stand a Word-Scholar!", "n": "= (If you drink) one bottle, and...；「祈使句/名词短语 + and」暗含条件，or 则表「否则」——写作金句结构" },
+    { "p": "形容词短语作结果状语", "q": "Buyers dropped bottles and ran, quick to abandon the glowing lies", "n": "quick to abandon 补充说明主语 buyers 的状态（= and were quick to abandon）；形容词短语可挂在句尾，不用连词" },
+    { "p": "过去分词后置定语 + 不定式表目的", "q": "rods forged to drain a man's word-power with a single strike", "n": "forged 过去分词修饰 rods（棍被锻打）；to drain 表锻打的目的。呼应：make sb do 主动省 to，被动 be made to do 必须「还 to」" }
   ],
   words: [
-    { w: "environment", ipa: "/ɪnˈvaɪrənmənt/", pos: "n.", cn: "环境", ex: "We must protect the environment before it is too late.", excn: "我们必须趁来得及保护环境。", memo: "protect the environment 固定搭配；environmental 环境的（问题）" },
-    { w: "pollution", ipa: "/pəˈluːʃn/", pos: "n.", cn: "污染", ex: "Air pollution is a serious problem in big cities.", excn: "空气污染是大城市的严重问题。", memo: "pollute 动词污染；polluted 被污染的；air/water/noise/white pollution 四件套" },
-    { w: "protect", ipa: "/prəˈtekt/", pos: "v.", cn: "保护", ex: "Wear a hat to protect your head from the sun.", excn: "戴帽子保护头部免受日晒。", memo: "protect...from... 保护……免受；protection n. 保护" },
-    { w: "plastic", ipa: "/ˈplæstɪk/", pos: "n./adj.", cn: "塑料；塑料的", ex: "Plastic bags cause white pollution.", excn: "塑料袋造成白色污染。", memo: "plastic bags 塑料袋；white pollution 白色污染，本章故事反派本体" },
-    { w: "recycle", ipa: "/ˌriːˈsaɪkl/", pos: "v.", cn: "回收利用", ex: "We recycle old paper to save trees.", excn: "我们回收旧纸来拯救树木。", memo: "re（再）+ cycle（循环）→ 再循环；recyclable 可回收的" },
-    { w: "rubbish", ipa: "/ˈrʌbɪʃ/", pos: "n.", cn: "垃圾（不可数）", ex: "Don't throw rubbish everywhere.", excn: "不要到处扔垃圾。", memo: "不可数！不能说 a rubbish；英式口语里 rubbish 还有「胡说八道」的意思" },
-    { w: "resource", ipa: "/rɪˈsɔːs/", pos: "n.", cn: "资源", ex: "Natural resources are running out.", excn: "自然资源正在耗尽。", memo: "常用复数 resources；别和 source（来源）搞混——resource 是能用完的储备，source 是从哪来" },
-    { w: "reduce", ipa: "/rɪˈdjuːs/", pos: "v.", cn: "减少；降低", ex: "We must reduce the use of cars.", excn: "我们必须减少汽车的使用。", memo: "reduce...by 减少了（幅度）/ reduce...to 减少到（结果），完形高频" },
-    { w: "reuse", ipa: "/ˌriːˈjuːz/", pos: "v.", cn: "再利用", ex: "Reuse your bags instead of buying new ones.", excn: "重复使用你的袋子，别买新的。", memo: "reduce → reuse → recycle 三个 R，环保作文万能模板" },
-    { w: "forest", ipa: "/ˈfɒrɪst/", pos: "n.", cn: "森林", ex: "Cutting down forests destroys animal homes.", excn: "砍伐森林毁掉动物的家园。", memo: "deforestation 滥砍滥伐 = de（去掉）+ forest" },
-    { w: "atmosphere", ipa: "/ˈætməsfɪə/", pos: "n.", cn: "大气；气氛", ex: "The earth's atmosphere is getting warmer.", excn: "地球的大气正在变暖。", memo: "两个意思都高频：大气层 / 轻松的气氛 a relaxed atmosphere" },
-    { w: "cause", ipa: "/kɔːz/", pos: "v./n.", cn: "导致；原因", ex: "Smoking causes many diseases.", excn: "吸烟导致许多疾病。", memo: "cause sb. to do；和 reason 的区别见易混词区，超高频" },
-    { w: "improve", ipa: "/ɪmˈpruːv/", pos: "v.", cn: "改进；提高", ex: "Planting trees improves the air quality.", excn: "植树能改善空气质量。", memo: "复现 ch01：缓慢、枯燥、但真实的进步；improvement n. 改善" },
-    { w: "benefit", ipa: "/ˈbenɪfɪt/", pos: "n./v.", cn: "好处；受益", ex: "Everyone benefits from a green forest.", excn: "人人都从绿色森林中受益。", memo: "复现 ch01：聪明学生从今天获益；benefit from 从……受益" },
-    { w: "effort", ipa: "/ˈefət/", pos: "n.", cn: "努力", ex: "Every small effort helps the earth breathe.", excn: "每一份小努力都帮地球呼吸。", memo: "复现 ch01：make an effort，知识银行没有免费的钱" },
-    { w: "achieve", ipa: "/əˈtʃiːv/", pos: "v.", cn: "实现；达到", ex: "Together they achieved the green goal.", excn: "他们一起实现了绿色目标。", memo: "复现 ch01：努力的人实现目标；achievement n. 成就" },
-    { w: "waste", ipa: "/weɪst/", pos: "v./n.", cn: "浪费", ex: "Don't waste water; every drop counts.", excn: "别浪费水，每一滴都算数。", memo: "复现 ch02：waste time/money (in) doing；环保主题绝配——浪费是巨兽的妈妈" },
-    { w: "habit", ipa: "/ˈhæbɪt/", pos: "n.", cn: "习惯", ex: "Throwing rubbish everywhere is a bad habit.", excn: "到处扔垃圾是个坏习惯。", memo: "复现 ch02：be in the habit of 有……的习惯；form good habits 养成好习惯" },
-    { w: "balance", ipa: "/ˈbæləns/", pos: "n./v.", cn: "平衡", ex: "Keep a balance between taking and giving back.", excn: "在索取与回馈之间保持平衡。", memo: "复现 ch02：keep a balance between A and B；ch03 面试热题 work-life balance" },
-    { w: "challenge", ipa: "/ˈtʃælɪndʒ/", pos: "n./v.", cn: "挑战", ex: "The green war was a real challenge.", excn: "这场绿色保卫战是一场真正的挑战。", memo: "复现 ch03：face/meet the challenge 迎接挑战；challenging adj. 有挑战的" },
-    { w: "experience", ipa: "/ɪkˈspɪəriəns/", pos: "n.", cn: "经验（不可数）；经历（可数）", ex: "Planting trees was an experience no classroom could give.", excn: "种树是一段课堂给不了的经历。", memo: "复现 ch03：⚠️ work experience 工作经验不加 s；经历可数，经验不可数" },
-    { w: "influence", ipa: "/ˈɪnfluəns/", pos: "n./v.", cn: "影响", ex: "Human actions have a deep influence on nature.", excn: "人类行为对自然影响深远。", memo: "复现 ch04：have an influence on = have an effect on；和 affect（动词）对比记" },
-    { w: "energy", ipa: "/ˈenədʒi/", pos: "n.", cn: "能量；精力", ex: "Saving energy saves the earth.", excn: "节约能源就是拯救地球。", memo: "复现 ch05：be full of energy；solar energy 太阳能，环保写作高频" },
-    { w: "prevent", ipa: "/prɪˈvent/", pos: "v.", cn: "预防；阻止", ex: "Trees prevent the wind from blowing the soil away.", excn: "树木防止风把土壤吹走。", memo: "复现 ch05：prevent...from doing，from 是介词后接 doing，改错高频" },
-    { w: "promote", ipa: "/prəˈməʊt/", pos: "v.", cn: "促进；提升", ex: "Planting trees helps promote a greener lifestyle in the valley.", excn: "植树有助于在山谷推动更绿色的生活方式。", memo: "真题高频：promote the development of 促进……发展；be promoted to 被提拔；promotion n. 晋升/促销" },
-    { w: "various", ipa: "/ˈveəriəs/", pos: "adj.", cn: "各种各样的", ex: "Volunteers collect various kinds of plastic bags for recycling.", excn: "志愿者收集各种各样的塑料袋用于回收。", memo: "真题高频：various kinds of = a variety of 各种各样的；variety n. 多样化" }
+    { w: "auctioneer", ipa: "/ˌɔːkʃəˈnɪə(r)/", pos: "n./v.", cn: "拍卖师；拍卖", ex: "The puppet auctioneer cried every price in one breath.", excn: "傀儡拍卖师一口气报完了所有价格。", memo: "auct（增加，同 augment）+ eer（人）→ 拍卖靠不断加价 → 加价的人 = 拍卖师；engineer/mountaineer 同后缀" },
+    { w: "genuine", ipa: "/ˈdʒenjuɪn/", pos: "adj.", cn: "真的，正宗的；真诚的", ex: "Genuine word-souls were scarce; bottled beasts were not.", excn: "真词魂稀缺，瓶装假货却堆成了山。", memo: "genu（膝）→ 古罗马父亲把新生儿放在膝上认亲 → 膝上的才是亲生的 → genuine 真的；对比 generous 慷慨的" },
+    { w: "forgettable", ipa: "/fəˈɡetəbl/", pos: "adj.", cn: "容易被忘的，平淡无奇的", ex: "The cub's tune was forgettable the moment it stopped.", excn: "幼体的调子一停就让人忘光。", memo: "forget + able（可被……的）→ 可被忘记的；反义词 unforgettable 难忘的（un- 否定 + forgettable）" },
+    { w: "abandon", ipa: "/əˈbændən/", pos: "v./n.", cn: "放弃，抛弃；放纵", ex: "Buyers were quick to abandon the glowing lies and run.", excn: "买主们迅速抛弃那些发光的谎言逃跑了。", memo: "a + band（带子）→ 松开缰带 → 撒手不管 → 抛弃；abandon oneself to 沉溺于；with abandon 尽情地" },
+    { w: "justify", ipa: "/ˈdʒʌstɪfaɪ/", pos: "v.", cn: "证明……正当，为……辩护", ex: "No profit justifies draining a student's word-power.", excn: "任何利润都不能为抽干学生词力辩护。", memo: "just（正义，同 justice）+ ify（使）→ 使显得正义 → 辩护；justify (doing) sth. 后接动名词" },
+    { w: "scarce", ipa: "/skeəs/", pos: "adj.", cn: "稀缺的，不足的", ex: "Real word-souls were scarce: each took years of singing to create.", excn: "真词魂极其稀缺：每一只都要数年歌唱才能养成。", memo: "一字之差三兄弟：scarce 稀缺 / scared 害怕（scare 的过去式/过去分词）/ scarred 布满伤疤；make oneself scarce 溜走" },
+    { w: "thrill", ipa: "/θrɪl/", pos: "n./v.", cn: "兴奋，刺激；使兴奋", ex: "The thrill of easy power made buyers stop asking questions.", excn: "轻松得来的力量带来的刺激，让买主们不再问问题。", memo: "thr- 同 through（穿透）→ 一阵刺激穿透全身 → 战栗；a thrill of joy/ horror 一阵狂喜/惊悚；thrilling adj." },
+    { w: "violence", ipa: "/ˈvaɪələns/", pos: "n.", cn: "暴力，暴行；猛烈", ex: "For a breath the hall slid toward violence.", excn: "有那么一瞬，大厅滑向了暴力。", memo: "viol（力量，同 violate 违反）+ ence → 用蛮力 → 暴力；do violence to 损害；形容词 violent" },
+    { w: "restraint", ipa: "/rɪˈstreɪnt/", pos: "n.", cn: "克制，抑制；约束", ex: "Shen Zhibai's restraint stopped Pangda's coins in mid-air.", excn: "沈知白的克制把胖达的钱币拦在了半空。", memo: "re（往回）+ strain（拉紧）→ 拉回来 → 克制；动词 restrain（restrain sb. from doing）；without restraint 毫无节制" },
+    { w: "utter", ipa: "/ˈʌtə(r)/", pos: "v./adj.", cn: "说出，发出（声音）；完全的，十足的", ex: "He did not utter the label's word — he sang all of its meanings.", excn: "他没有说出标签上的词，而是唱出了它的全部释义。", memo: "ut（向外，outer 同源）+ ter → 把话放到外面 → 说出；形容词「完全的」：an utter lie 彻头彻尾的谎言" },
+    { w: "drain", ipa: "/dreɪn/", pos: "v./n.", cn: "排干，耗尽；排水沟；消耗", ex: "The iron rods were forged to drain word-power in one strike.", excn: "铁棍被锻打得一击就能抽干词力。", memo: "d + rain：把雨水（rain）排走 → 排干 → 耗尽；drain...from/out of；brain drain 人才流失（阅读高频）" },
+    { w: "celebrate", ipa: "/ˈselɪbreɪt/", pos: "v.", cn: "庆祝；赞扬", ex: "The freed buyers began to celebrate in the wreckage.", excn: "获救的买主们在废墟里庆祝起来。", memo: "celebr（著名，同 celebrated 著名的）+ ate → 大肆扬名 → 庆祝；celebrate sth. with sb.；celebration n." }
   ],
   confusions: [
     {
-      group: "cause / reason — 罪魁祸首 vs 理由解释",
+      group: "genuine / generous / genius — 拍卖台上的三 G 兄弟",
       items: [
-        { w: "cause", cn: "原因（直接导致结果的那只手）", note: "The cause of the fire was a cigarette. 火灾的起因是烟头" },
-        { w: "reason", cn: "理由（解释为什么的一套说法）", note: "The reason why he was late is unknown. 他迟到的原因不明" }
+        { w: "genuine (adj.)", cn: "真的，正宗的；真诚的", note: "a genuine word-soul 真词魂；genuine concern 真心的关切" },
+        { w: "generous (adj.)", cn: "慷慨的，大方的", note: "be generous with money 花钱大方；a generous offer 慷慨的提议" },
+        { w: "genius (n.)", cn: "天才；天资", note: "a musical genius 音乐天才；have a genius for doing sth. 有做某事的天赋" }
       ],
-      tip: "口诀：cause 是罪魁祸首，reason 是理由说辞。The ___ of the accident → cause；the ___ why he left → reason。真题最爱在 accident/fire 后面挖 cause。",
-      drill: [
-        { s: "The police found the ___ of the fire: a broken wire in the old machine.", opts: ["cause", "reason", "course"], a: 0, why: "直接导致起火的那只手 → cause；reason 是解释为什么的说辞" }
-      ]
+      tip: "本章拍卖会三连坑：瓶里装的若是 genius（天才），那是稀有物种；若是 generous（慷慨）的卖家，价签不会那么黑；只有 genuine（真）才配「真材实料」四个字。口诀：膝上认亲是真（genuine），掏钱大方是慷慨（generous），天生会唱是天才（genius）。"
     },
     {
-      group: "rubbish / litter / waste — 三种「垃圾」",
+      group: "scarce / scared / scarred — 一字之差三兄弟",
       items: [
-        { w: "rubbish", cn: "垃圾（泛指，不可数）", note: "throw away rubbish；英式口语「胡说」= That's rubbish!" },
-        { w: "litter", cn: "乱扔的杂物；（动词）乱扔", note: "No littering! 禁止乱扔垃圾——动词用法是完形高频" },
-        { w: "waste", cn: "浪费；废弃物", note: "a waste of time 浪费时间；industrial waste 工业废料" }
+        { w: "scarce (adj.)", cn: "稀缺的，不足的", note: "Fresh water grew scarce. 淡水变得稀缺；make oneself scarce 溜走" },
+        { w: "scared (adj.)", cn: "害怕的", note: "be scared of / to do 害怕……；scared 是动词 scare（惊吓）的过去分词作形容词" },
+        { w: "scarred (adj.)", cn: "留下伤疤的；留有创伤的", note: "a scarred veteran 浑身伤疤的老兵；scars 名词复数：伤疤" }
       ],
-      tip: "口诀：rubbish 泛指垃圾，litter 强调乱扔（No littering!），waste 强调浪费。看到「不要乱扔垃圾」翻译题，用 Don't litter. 最地道。",
-      drill: [
-        { s: "The sign by the road says NO ___ — do not throw bags on the ground.", opts: ["LITTERING", "RUBBISHING", "WASTING"], a: 0, why: "禁止乱扔 → No littering，litter 的动词用法是完形高频；rubbish 无动词用法" },
-        { s: "Don't ___ water; every drop counts in the dry valley.", opts: ["waste", "litter", "rubbish"], a: 0, why: "浪费 → waste（动词）；rubbish 是名词，litter 是乱扔" }
-      ]
+      tip: "记词序：scar（伤疤）+ e 结尾是 scarce 稀缺——伤疤不常见所以稀缺；scar 加 -ed 是 scarred 留疤的；scare 加 -d 是 scared 被吓的。本章考点：真词魂 scarce，假词魂多得让买主 scared。"
     },
     {
-      group: "rise / raise / arise — 抬头三兄弟（超高频！）",
+      group: "abandon / abundant — 弃与丰一字之差",
       items: [
-        { w: "rise", cn: "升起；上升（不及物，自己升）", note: "rise-rose-risen. The sun rises in the east. / Prices are rising." },
-        { w: "raise", cn: "举起；提高；筹集（及物，要接宾语）", note: "raise your hand / raise money / raise prices" },
-        { w: "arise", cn: "出现；产生（麻烦、问题）", note: "arise-arose-arisen. A problem arose. 问题出现了" }
+        { w: "abandon (v.)", cn: "放弃，抛弃", note: "abandon the plan 放弃计划；abandon oneself to despair 陷入绝望" },
+        { w: "abundant (adj.)", cn: "丰富的，充裕的", note: "be abundant in = be rich in 富于……；an abundant harvest 丰收" }
       ],
-      tip: "口诀：raise 要动手（及物），rise 自己走（不及物），arise 说的是麻烦冒出来。改错钉子户：The sun raises in the east ❌ → rises！太阳自己升，不用 raise。",
-      drill: [
-        { s: "The sun ___ in the east and sets in the west.", opts: ["rises", "raises", "arises"], a: 0, why: "太阳自己升 → 不及物 rise 三单 rises；raise 是及物要接宾语" },
-        { s: "A new problem ___ when the tourists kept throwing bags.", opts: ["arose", "raised", "rose"], a: 0, why: "麻烦冒出来 → arise-arose-arisen；rise 指升降，raise 要接宾语" }
-      ]
+      tip: "band（带子）松开 = abandon 抛弃；bund 音像 bound（捆）扎紧 = abundant 成捆成堆的丰富。一松一捆，词义相反。改错雷区：abandon doing（接动名词），abundant 后接 in。"
+    },
+    {
+      group: "price / prize / praise — 黑市招牌三连",
+      items: [
+        { w: "price (n./v.)", cn: "价格；给……定价", note: "at a high price 以高价；priced goods 标价的商品" },
+        { w: "prize (n.)", cn: "奖赏，奖品", note: "win the first prize 获一等奖；the Nobel Prize 诺贝尔奖" },
+        { w: "praise (v./n.)", cn: "赞扬，表扬", note: "praise sb. for sth. 因某事表扬某人；in praise of 赞扬……" }
+      ],
+      tip: "拍卖师嗓门里的三连：报的是 price（价格），许诺的是 prize（奖赏），换来的本该是 praise（赞扬）——直到阿洛拆穿，praise 变成了 police（警察）的哨声。发音：price /praɪs/，prize /praɪz/（浊音），praise /preɪz/。"
     }
+  ],
+  hidden: [
+    { w: "utter", known: "v. 说出，发出（声音）", hidden: "adj. 完全的，十足的（an utter lie / utter darkness）；utterly adv. 全然", ex: "'An utter lie,' A-Luo said. 'Real souls sing every meaning.'", excn: "「彻头彻尾的谎言，」阿洛说，「真词魂会唱出全部释义。」" },
+    { w: "fair", known: "adj. 公平的", hidden: "n. 集市，博览会（a night fair / a book fair）；adj. 相当好的；晴朗的", ex: "The night fair promised easy power; its price was never fair.", excn: "夜市许诺轻松的力量，代价却从来谈不上公平。" },
+    { w: "figure", known: "n. 数字", hidden: "n. 身影，人物；v. 认为；figure out 弄明白", ex: "A gray figure moved between the shelves, counting bottles.", excn: "一个灰色的身影在架子间移动，清点着瓶子。" },
+    { w: "novel", known: "n. 小说", hidden: "adj. 新奇的，新颖的（a novel idea / novel methods）", ex: "Selling beasts as souls was a novel trick in the trade.", excn: "把幼兽当词魂卖，是这行当里的新花样。" },
+    { w: "company", known: "n. 公司", hidden: "n. 陪伴，同伴（in the company of）；一群人", ex: "In the company of two friends, he walked into the cavern.", excn: "在两位同伴的陪同下，他走进了洞穴。" }
   ],
   sentences: [
     {
-      en: "It is everyone's duty to <mark>protect</mark> the environment, because the resources on the earth are <mark>running out</mark> faster than we expected.",
+      en: "Yet the shelves behind the puppet bowed under hundreds of glowing bottles, and puppet guards lined every wall with rods <mark>forged</mark> to <mark>drain</mark> a man's word-power in one strike.",
       parts: [
-        "It is one's duty to do 形式主语句型：做……是某人的责任",
-        "because 引导原因状语从句",
-        "are running out 现在进行时「正在耗尽」；run out 不及物，没有被动语态",
-        "faster than we expected 比较级 + than 从句：比我们预期的更快"
+        "主干①：the shelves bowed under hundreds of bottles（架子被压弯）；主干②：guards lined every wall（卫兵沿墙排开）——and 并列两分句",
+        "forged 过去分词作后置定语：rods 与 forge 是被动关系（棍「被锻打」）",
+        "to drain 不定式表目的：锻打的目的是「抽干」词力",
+        "考点双拼：被动分词 + 目的不定式，单选完形同款"
       ],
-      cn: "保护环境是每个人的责任，因为地球上的资源正以比我们预期更快的速度耗尽。",
-      slots: [
-        { s: "___ is everyone's duty to protect the environment.（形式主语）", opts: ["It", "This", "That"], a: 0, why: "It is one's duty to do 形式主语句型，只有 It 能充当" },
-        { s: "The resources on the earth are ___ fast.（耗尽，不及物）", opts: ["running out", "running out of", "running off"], a: 0, why: "run out 不及物无被动；run out of 需要人作主语" }
-      ]
+      cn: "可傀儡身后的架子上，几百只发光的瓶子压弯了木架，傀儡卫兵沿每面墙排开，手里握着锻打得一击就能抽干词力的铁棍。"
     },
     {
-      en: "If the <mark>government</mark> takes action now, the air <mark>pollution</mark> in big cities will be greatly <mark>reduced</mark> in the next five years.",
+      en: "This creature hummed one flat tune, <mark>forgettable</mark> as a falling leaf, over and over, <mark>as if</mark> that tune <mark>were</mark> the only song it had ever learned.",
       parts: [
-        "if 条件状语从句口诀「主将从现」：从句用 takes 现在时，主句用 will 将来时（改错高频）",
-        "take action = take measures / steps 采取行动",
-        "will be greatly reduced 一般将来时被动语态：将被大大减少",
-        "in the next five years 和将来时连用的时间状语"
+        "主干：This creature hummed one flat tune（这生物哼一条平直的调子）",
+        "forgettable as a falling leaf：形容词短语作后置定语 + as 同级比较（像落叶一样让人过耳即忘）",
+        "as if + were：与事实相反的虚拟（它学过的歌远不止这一条）",
+        "it had ever learned 定语从句修饰 song，过去完成时点明「学」先于「哼」"
       ],
-      cn: "如果政府现在采取行动，大城市里的空气污染在未来五年内将大大减少。",
-      slots: [
-        { s: "If the government ___ action now, the pollution will be greatly reduced.（主将从现）", opts: ["takes", "will take", "took"], a: 0, why: "主将从现：if 从句用一般现在时，主句才用 will" },
-        { s: "The air pollution will be greatly ___ in the next five years.（被动语态）", opts: ["reduced", "reducing", "reduce"], a: 0, why: "will be + 过去分词 构成一般将来时被动语态" }
-      ]
+      cn: "而这东西只哼一条平直的调子，像一片落叶一样让人过耳即忘，一遍又一遍，仿佛那条调子就是它此生学会的唯一一首歌。"
+    },
+    {
+      en: "<mark>Taught</mark> to copy the glow, it had never learned to sing.",
+      parts: [
+        "主干：it had never learned to sing（它从没学会唱歌）——过去完成时：学不唱歌在「哼调子」之前",
+        "Taught to copy the glow 过去分词短语作原因状语 = Because it was taught to copy the glow（被动：被教会模仿光）",
+        "逻辑主语一致：分词 Taught 的逻辑主语就是主句主语 it——换主语即悬垂分词（改错高频）"
+      ],
+      cn: "它被教会的只是模仿光，从没学会唱歌。"
     }
   ],
   phrases: [
-    { p: "throw away", cn: "扔掉", note: "代词放中间：throw it away；throw away a chance 浪费机会（比喻用法）" },
-    { p: "run out of", cn: "用完（人作主语）", note: "We ran out of water. = The water ran out. 前者及物后者不及物，完形爱换着考", gap: { s: "Qian-Shao has run ___ of money again — his cart grew legs.", opts: ["out", "away", "off"], a: 0, why: "run out of 用完（人作主语）；资源自己耗尽用 run out" } },
-    { p: "be made of / from", cn: "由……制成", note: "⚠️ of 看得出原材料（桌椅），from 看不出（纸、酒）；be made in 产地，改错高频三坑", warn: true, gap: { s: "The White Beast is made ___ plastic bags — you can see them clearly.", opts: ["of", "from", "in"], a: 0, why: "看得出原材料 → be made of；看不出才用 from" } },
-    { p: "cut down", cn: "砍倒；削减", note: "cut down trees 砍树 / cut down expenses 削减开支" },
-    { p: "pick up", cn: "捡起；（顺便）接人", note: "pick up the bottle / I'll pick you up at six. 顺路接你的 pick up" },
-    { p: "do harm to", cn: "对……有害", note: "⚠️ = be harmful to = harm，Pollution does harm to health. 改错常挖 harm 前的冠词", warn: true },
-    { p: "take action", cn: "采取行动", note: "take measures / take steps 同义替换，action 不加冠词" },
-    { p: "protect...from", cn: "保护……免受", note: "from 不能省：protect the earth from pollution" },
-    { p: "call on", cn: "号召；拜访", note: "call on sb. to do sth. 号召某人做某事；call at 后接地点" },
-    { p: "play a part in", cn: "在……中起作用", note: "= play a role in；part/role 前的 a 别丢，in 后接名词或 doing" },
-    { p: "prevent...from doing", cn: "防止/阻止……做某事", note: "⚠️ from 是介词后接 doing：prevent people from cutting trees；= stop...from doing，改错高频", warn: true, gap: { s: "Trees prevent the wind ___ blowing the soil away.", opts: ["from", "to", "of"], a: 0, why: "prevent...from doing，from 是介词后接 doing" } },
-    { p: "as a result of", cn: "由于；因为", note: "⚠️ of 后接名词短语不接句子：As a result of the heavy rain...；接句子用 because", warn: true, gap: { s: "___ result of the heavy rain, the activity was put off.", opts: ["As a", "As", "For a"], a: 0, why: "as a result of 由于 + 名词短语；接句子用 because" } },
-    { p: "due to", cn: "由于；归功于", note: "= because of + 名词：The activity was put off due to the storm." },
-    { p: "suffer from", cn: "遭受；患（病）", note: "suffer from pollution / headaches / loss；suffer 及物时直接接 defeat/loss" },
-    { p: "pay attention to", cn: "注意；关注", note: "⚠️ to 是介词：pay attention to protecting the environment，改错爱挖 to 后接动词原形", warn: true, gap: { s: "We should pay attention ___ protecting the rivers and forests.", opts: ["to", "on", "at"], a: 0, why: "pay attention to 固定搭配，to 是介词" } },
-    { p: "depend on", cn: "依靠；取决于", note: "= rely on；It depends. 看情况；无被动语态（ch08 呼应）" }
+    { p: "trace...to its source", cn: "追溯到……的源头", note: "She traced the fog's source deeper into the jungle. trace back to 可加年份" },
+    { p: "keep sth. to oneself", cn: "把……藏在心里，不告诉别人", note: "He kept it to himself. 反义：confide sth. to sb. 向某人吐露", warn: true },
+    { p: "throw oneself into", cn: "投入，一头扎进", note: "He threw himself into review. 后接名词/动名词" },
+    { p: "spring onto", cn: "猛地跳上", note: "The puppet sprang onto a barrel stage. spring 的过去式 sprang，过去分词 sprung", warn: true },
+    { p: "be worth + n./doing", cn: "值……；值得做", note: "One bottle should have been worth a house. be worth doing 主动形式表被动（The book is worth reading）", warn: true },
+    { p: "bow under", cn: "在……重压下弯腰", note: "The shelves bowed under hundreds of bottles. 比喻「不堪重负」" },
+    { p: "press...into", cn: "把……按进/塞进", note: "buyers still pressing coins into its hands 买主往它手里按硬币" },
+    { p: "over and over", cn: "一遍又一遍", note: "over and over again 更强调；同义 time after time" },
+    { p: "as if + 虚拟", cn: "好像……（与事实相反）", note: "as if that tune were the only song. 对现在的虚拟用 were；对过去用 had done", warn: true },
+    { p: "grow a second head", cn: "长出第二颗头", note: "grow 此处及物「长出」；grow up 才是长大", warn: true },
+    { p: "slide toward", cn: "滑向，渐渐走向", note: "the hall slid toward violence 大厅滑向暴力——抽象趋势用 slide" },
+    { p: "pin...to", cn: "把……钉在/按在", note: "pinned the auctioneer to its barrel 把拍卖师钉在木桶上" },
+    { p: "come home", cn: "回家；归位", note: "heard her own words come home 听见自己的词回家了—— hear sb. do 省 to" },
+    { p: "one by one", cn: "一个接一个地", note: "one by one the freed buyers began to celebrate 状语提前，主谓不倒装" },
+    { p: "in the wreckage", cn: "在废墟中", note: "wreck（v. 毁坏）+ age → 残骸；the wreckage of the market 黑市残迹" },
+    { p: "stamp...in wax", cn: "用火漆盖印", note: "stamped in blue wax 蓝色火漆烙印；stamp 还可表「盖章于；贴邮票」" }
   ],
   grammar: [
     {
-      t: "并列连词 and/but/or/so；although 不与 but 连用（改错雷区⑨）",
-      rule: "and 并列顺承；but 转折；or 或者/否则（祈使句 + or = 否则就……）；so 因果结果。⚠️ 一个句子里 although 和 but 只能留一个，because 和 so 同罪——连词只能用一次，中文「虽然……但是……」的直译是最大的坑。",
-      ex: "Although the White Beast looked strong, it was made of bags. The valley was dirty, so we cleaned it up.",
-      excn: "虽然白色巨兽看起来很强，但它是袋子做的。山谷很脏，所以我们把它清理干净了。",
-      signal: "改错看到 Although...but 连用 → 删其一；Because...so 连用 → 同罪。or 在祈使句后 = 否则：Hurry up, or you will miss it.",
-      quiz: { s: "改错：Although the beast looked strong, but it fell down at last. → ___", opts: ["删去 but", "looked → looks", "fell → falls"], a: 0, why: "although 与 but 不能连用，一个句子只留一个连词" }
+      t: "as if / as though + 虚拟语气（「装」出来的样子）",
+      rule: "as if/as though 引导方式状语从句：① 与事实相反的设想 → 从句用一般过去时（be 一律用 were）；对过去的设想 → had done。② 若从句内容很可能是事实，也可用陈述语气（It looks as if it is going to rain 看样子真要下雨）。判断标准：主句视角里从句内容「不是真的」→ 用虚拟。",
+      ex: "The cub hummed the same flat tune as if it were the only song it had ever learned.",
+      excn: "幼体哼着同一条平直的调子，仿佛那是它此生学会的唯一一首歌。",
+      signal: "as if/though + were / had done = 「装得像」；看到 as if 后接 were 基本判虚拟；对过去的假设用 as if + had done",
+      quiz: { s: "The merchant talked as if every bottle ___ a genuine soul inside.", opts: ["were", "is", "has"], a: 0, why: "瓶里装的不是真词魂（与事实相反）→ as if + were 虚拟语气；is/has 是陈述语气，用在「装」的语境就穿帮" }
     },
     {
-      t: "because vs because of（单选改错双高频）",
-      rule: "because + 完整句子（有自己的主谓）；because of + 名词/代词/doing（短语）。同义替换：because of = due to + 名词。判断口诀：空后有主谓选 because，只有名词短语选 because of。",
-      ex: "We stayed at home because it rained heavily. = We stayed at home because of the heavy rain.",
-      excn: "因为雨下得大，我们待在家里。",
-      signal: "改错爱把 because of 后面塞进一个句子 → 删 of；或 because 后面只跟了名词 → 补 of",
-      quiz: { s: "We stayed at home ___ it rained heavily. → ___", opts: ["because", "because of", "due to"], a: 0, why: "空后有完整主谓 it rained → because；because of/due to 只接名词短语" }
+      t: "with 复合结构（with + 宾语 + doing/done）",
+      rule: "with + 宾语 + 现在分词（主动进行）/过去分词（被动完成）/不定式（将做）/形容词/介词短语，作伴随或原因状语。判断主动被动：看宾语与动词的关系——买主「按」硬币（主动）→ pressing；信「被封」（被动）→ sealed。改错雷区：with sb. do ❌，要说 with sb. doing/done。",
+      ex: "The puppet kept crying its prices, with buyers still pressing coins into its hands.",
+      excn: "傀儡不停地报价，买主们还在往它手里按硬币。",
+      signal: "with + 名词 + doing/done/to do/adj/介短；with 后面的动词先判主动被动，再看时间（将做用 to do）",
+      quiz: { s: "The herald stood at the gate, with a letter ___ in red wax.", opts: ["sealed", "sealing", "to seal"], a: 0, why: "信是「被封」的（被动）→ 过去分词 sealed；sealing 主动（信去封别人）逻辑不通；to seal 表「将要封」，与已站门口的状态矛盾" }
     },
     {
-      t: "时间状语从句 when/while/as soon as/before（主将从现）",
-      rule: "when 通吃（短暂、延续动作都行）；while 只接延续动作，常配进行时；as soon as 一……就……；before 在……之前。铁律：主句将来时，从句用一般现在时（主将从现）——When the beast comes 才对，will come 是错的。",
-      ex: "As soon as the rain stopped, we went on planting trees. While the beast was sleeping, we picked up the bags.",
-      excn: "雨一停我们就继续种树。趁巨兽睡觉时，我们把袋子捡走了。",
-      signal: "while 后接短暂动词（While he came ❌）→ 换 when；主将从现：When/As soon as/If + 一般现在时，主句才用 will",
-      quiz: { s: "As soon as the rain ___ (stop), we will go on planting trees. → ___", opts: ["stops", "will stop", "stopped"], a: 0, why: "主将从现：时间/条件从句用一般现在时，主句才用 will" }
+      t: "过去分词作状语 + 形容词短语作状语（一句两态）",
+      rule: "分词/形容词短语放句首或句尾作状语，逻辑主语 = 主句主语。过去分词（done）表被动或状态原因：Taught to copy..., it... = Because it was taught...；形容词短语（quick to do）表伴随或结果：..., quick to abandon...。改错雷区：分词逻辑主语与主句主语不一致 = 悬垂分词。",
+      ex: "Taught to copy the glow, it had never learned to sing.",
+      excn: "它被教会的只是模仿光，从没学会唱歌。",
+      signal: "句首/句尾的 done/形容词短语 → 先问它属于谁；逻辑主语必须等于主句主语，否则改错",
+      quiz: { s: "___ from a real soul, the bottled tune sounded flat and dead.", opts: ["Heard", "Hearing", "To hear"], a: 0, why: "tune 是「被听到」→ 过去分词 Heard（= When it was heard...）；Hearing 主动（调子去听别人）不通；To hear 表目的，句子逻辑并非目的" }
+    },
+    {
+      t: "真题高频 · 动名词作宾语（justify / admit / deny / avoid + doing）",
+      rule: "这些动词后只能接动名词：justify doing 证明……正当；admit doing 承认做过；deny doing 否认做过；avoid doing 避免；suggest doing 建议；practise doing 练习；mind doing 介意。口诀：建议承认否认避，练习介意莫迟疑。",
+      ex: "Nothing justifies draining a student's word-power for profit.",
+      excn: "任何理由都不能证明为利润抽干学生词力是正当的。",
+      signal: "看到 admit/deny/avoid/justify/suggest/mind → 后面动词一律 +ing；改错题出现 admit to do / deny to do 直接判错",
+      quiz: { s: "The puppet merchant denied ___ fake goods to students.", opts: ["selling", "to sell", "sold"], a: 0, why: "deny 后只能接动名词 selling（deny doing 否认做过某事）；to sell / sold 都是错误搭配" }
+    },
+    {
+      t: "真题高频 · so...that 与 such...that（结果状语从句）",
+      rule: "so + 形容词/副词 + that...（so scarce that...如此稀缺以至于）；such + (a/an) + 形容词 + 名词 + that...（such a thrill that...）。固定雷区：so many/much/few/little + 名词（跟量词时用 so 不用 such）；so + adj + a/an + 单数名词 = such a + adj + 单数名词（so scarce a lesson = such a scarce lesson）。",
+      ex: "The thrill of easy power was so strong that buyers stopped asking questions.",
+      excn: "轻松得来的力量带来的刺激太强，买主们都不再问问题。",
+      signal: "空后是 adj/adv → so；空后是 a/an + adj + n → such；many/much/few/little 前永远用 so",
+            quiz: { s: "Real word-souls were ___ scarce that one bottle should have been worth a house.", opts: ["so", "such", "very"], a: 0, why: "scarce 是形容词 → so + adj + that 固定结构；such 后要接名词短语（such a scarce lesson）；very 不能引导结果状语从句" }
+    },
+    {
+      t: "真题高频 · worth / worthy / worthwhile 三兄弟辨析",
+      rule: "① be worth + n. / doing：主动形式表被动，最简——The book is worth reading.（❌ worth being read / ❌ worth to be read）；worth 后可直接接价格：worth a fortune。② be worthy of + n. / of being done；be worthy to be done——两条路二选一，❌ worthy of to be done（of 与 to be done 不能同框）。③ It is worthwhile to do / doing sth.：it 作形式主语，不定式与动名词都收。速记：worth 最懒（一个 doing 走天下）；worthy 最讲究（of being done 或 to be done）；worthwhile 最宽容（it 形式主语随便挑）。",
+      ex: "One bottle should have been worth a house. The real word-souls are worth protecting. The puppet's trick is worthy of being exposed. It is worthwhile to revisit this cavern.",
+      excn: "一瓶本该值一座房子。真正的词魂值得被保护。木偶的把戏值得被揭穿。重温这个洞窟是值得的。",
+      signal: "worth 后禁 of、禁 to be；worthy 必带 of（接名词/being done）或直接 to be done；It is worthwhile 后 to do / doing 皆可。改错三连坑：worth of ✘ / worthy doing ✘ / worthy of to be done ✘。",
+      quiz: { s: "This cause is worthy ___ for.", opts: ["being fought", "to be fought", "of to be fought"], a: 1, why: "worthy 两条正路：of being done 或 to be done；of 后不能接 to be done（C 三重错误）；A being fought 缺 of（主语 cause 是被支持的一方，应用 to be fought）" }
     }
   ],
   quiz: [
     {
-      q: "The earth's ______ is becoming warmer and warmer, which is a serious problem for all living things.",
-      options: ["atmosphere", "appointment", "attraction", "application"],
-      answer: 0,
-      explain: "大气层变暖是全球变暖语境 → atmosphere。其余是形近词干扰：appointment 预约、attraction 吸引力、application 申请。"
+      q: "The bottle glowed brightly, but the thing inside was no ___ word-soul — it was a beast cub in glass.",
+      options: ["genuine", "generous", "genetic", "general"], answer: 0, explain: "genuine 真的、正宗的（真词魂 vs 兽幼体）；generous 慷慨的；genetic 遗传的；general 总的。三 G 家族靠词义辨析锁定。"
     },
     {
-      q: "Water, coal and oil are important natural ______, so we must save them instead of wasting them.",
-      options: ["sources", "resources", "courses", "senses"],
+      q: "Fresh water grew ___ in the deep jungle camp, so the team cut the stay short.",
+      options: ["scarred", "scattered", "scared", "scarce"], answer: 3, explain: "scarce 稀缺的；scared 害怕的；scarred 留疤的；scattered 分散的。一字之差：scarce 东西少，scared 人发抖，scarred 有伤疤。"
+    },
+    {
+      q: "The guards' iron rods were forged to ___ a man's word-power with one strike.",
+      options: ["stain", "drain", "chain", "train"], answer: 1, explain: "drain 排干、耗尽（抽干词力）；train 训练；chain 用锁链锁住；stain 弄脏。黑市铁棍的功能 = 抽干，drain...from/out of。"
+    },
+    {
+      q: "The cub hummed the same flat tune ___ it were the only song it had ever learned.",
+      options: ["even if", "as for", "so that", "as if"],
+      answer: 3,
+      explain: "as if + were 虚拟语气「仿佛是」（事实并非如此）；even if 即使（让步）；as for 至于；so that 以便。与事实相反的「装」用 as if + were。"
+    },
+    {
+      q: "The puppet merchant could not justify ___ such fake goods to students.",
+      options: ["to sell", "selling", "sold", "sell"],
       answer: 1,
-      explain: "natural resources 自然资源固定搭配。sources 是来源（信息来源），courses 课程，senses 感官。resource 是能用完的储备，source 是从哪来。"
+      explain: "justify 后接动名词：justify doing sth. 证明做某事正当；to sell/sold/sell 均为错误搭配。同类：admit/deny/avoid + doing。"
     },
     {
-      q: "The sun ______ in the east and sets in the west.",
-      options: ["raises", "rises", "raise", "arise"],
-      answer: 1,
-      explain: "太阳自己升起 → 不及物 rise，三单 rises。raise 是及物动词要接宾语（raise your hand），arise 指问题出现。改错钉子户：The sun raises ❌。"
-    },
-    {
-      q: "______ the heavy rain, the tree-planting activity was put off till next week.",
-      options: ["Because", "Because of", "Since of", "As for"],
-      answer: 1,
-      explain: "空后 the heavy rain 是名词短语，没有主谓 → because of。because 后面必须跟完整句子：Because it rained heavily...。Since of 不存在，As for 是至于。"
-    },
-    {
-      q: "The valley was full of rubbish, ______ the young volunteers spent the whole morning cleaning it up.",
-      options: ["or", "but", "so", "although"],
+      q: "The mirror's whole job was to ___ the word you had memorized wrong.",
+      options: ["impose", "dispose", "expose", "compose"],
       answer: 2,
-      explain: "前因后果 → so。or 或者/否则，but 转折（前后语义矛盾才用），although 尽管（且不能与 but 连用）。逻辑连词题先判断两句关系再选。"
+      explain: "复现 ch05 旧词 expose 揭露、暴露（ex- 向外 + pose 放）；impose 强加；dispose 处理；compose 组成。四个 pose 家族靠前缀辨义。"
     },
     {
-      q: "改错：Although the White Beast looked strong, but it fell down when the bags ran out.",
-      options: ["Although → Because", "删去 but", "looked → looks", "ran → runs"],
-      answer: 1,
-      explain: "改错雷区⑨连词逻辑：although 与 but 不能连用，一个句子只留一个连词 → 删 but（或把 although 换成 but 二选一）。C、D 项的时态改动没有依据。"
+      q: "Pangda's hands began to ___ when the auctioneer cried \"One bottle, one Word-Scholar!\"",
+      options: ["tremble", "trade", "tempt", "tumble"], answer: 0, explain: "复现 ch03 旧词 tremble 发抖、颤抖——心动或害怕时的第一反应；tumble 跌倒；tempt 诱惑；trade 交易。"
     },
     {
-      q: "英译汉选择：Trees take in carbon dioxide and give out oxygen, so people call them the lungs of the earth.",
-      options: ["树把二氧化碳拿进屋里，又把氧气分出去，所以人们管树叫地球的空气。", "树吸收二氧化碳并释放氧气，因此人们把树木称为地球之肺。", "树接受二氧化碳的礼物又放弃氧气，所以地球的肺在呼吸。", "树把二氧化碳收进口袋再吐出氧气，因此地球的肺需要锻炼。"],
-      answer: 1,
-      explain: "take in 吸收（不是「拿进屋」「收下」），give out 释放/分发（不是「放弃」give up），lung 肺是比喻——树像肺一样净化空气。望文生义是英译汉最大的陷阱。"
+      q: "Trust the whole sentence, not one face of a word — that was the ___ behind A-Luo's rule.",
+      options: ["judgment", "journal", "journey", "justice"], answer: 0, explain: "复现 ch02 旧词 judgment 判断（力）；journey 旅程；journal 日志；justice 正义。看句子不看脸，靠的正是判断力。"
     },
     {
-      q: "This chair is made ______ wood, and paper is also made ______ wood.",
-      options: ["of; from", "from; of", "of; of", "from; from"],
+      q: "改错：Although the bottled cubs glowed brightly, but the gray buyers could not see the truth inside the glass.",
+      options: ["but → 删去", "Although → Because", "brightly → bright", "could not → could"],
       answer: 0,
-      explain: "椅子看得出木头原材料 → of；纸看不出木头 → from。看得出用 of，看不出用 from；be made in 后接产地，三个介词改错轮着考。"
+      explain: "改错雷区·连词（让步从句）：although/though 引导让步状语从句，不能与 but 连用，一句只留一个连词，应删去 but；B 改成 because 变成因果，与剧情（买主受骗看不出真相）不符；C glow 是实义动词，需副词 brightly 修饰，形容词反错；D could not see 与「黑市骗局」剧情矛盾。"
+    },
+    {
+      q: "汉译英：尽管有装瓶假魂的诱惑，沈知白还是克制住了。",
+      options: ["Despite the temptation of the bottled fakes, Shen Zhibai held herself back with restraint.", "Despite of the temptation of the bottled fakes, Shen Zhibai held herself back with restraint.", "Although the temptation of the bottled fakes, Shen Zhibai held herself back with restraint.", "Despite the temptation of the bottled fakes, but Shen Zhibai held herself back with restraint."],
+      answer: 0,
+      explain: "考点：despite + 名词（尽管……），= in spite of + 名词；B 错在 despite of 是多余搭配，despite 本身就是介词；C 错在 although 是连词，后面必须接完整从句，不能直接接名词短语；D 错在 despite 与 but 连用，中文「尽管……但是」的「但」在英文里必须省略。"
     }
   ]
 });

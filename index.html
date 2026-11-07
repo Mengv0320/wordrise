@@ -1,32 +1,39 @@
-﻿﻿<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>专升本英语进化之路</title>
-<link rel="stylesheet" href="css/style.css?v=5">
+<link rel="icon" href="data:,">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>WordRise · 词力觉醒 —— 专升本英语进化之路</title>
+<link rel="stylesheet" href="css/style.css?v=29">
 </head>
 <body>
 <div id="app">
   <!-- 顶部：标题 + 总进度 -->
   <header id="topbar">
     <div class="topbar-inner">
-      <h1>⚔️ 专升本英语进化之路</h1>
+      <h1><span class="logo-mark">词</span> 专升本英语进化之路</h1>
       <div id="progress-wrap" title="学习进度">
         <div id="progress-bar"><div id="progress-fill"></div></div>
         <span id="progress-text">0%</span>
       </div>
-      <button id="btn-home" class="ghost-btn" onclick="App.goHome()">🗺 世界地图</button>
-      <button id="btn-reset" class="ghost-btn" onclick="App.resetProgress()">↺ 重置存档</button>
+      <button id="btn-home" class="ghost-btn" onclick="App.goHome()"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4l6 2 5-2v14l-5 2-6-2-5 2V6z"/><path d="M9 4v14M15 6v14"/></svg> 世界地图</button>
+      <button id="btn-reset" class="ghost-btn" onclick="App.resetProgress()"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 12a8 8 0 1 1-3-6"/><path d="M20 3v4h-4"/></svg> 重置存档</button>
     </div>
   </header>
 
   <!-- 世界地图（章节选择） -->
   <section id="map-view">
     <div class="map-intro">
-      <p class="map-slogan">「单词不是背出来的，是在故事里活出来的。」</p>
-      <p class="map-tip">每章流程：读故事（点词知义）→ 攻核心词 → 易混词对决 → 长难句拆解 → 短语弹药库 → 语法碉堡 → 关卡测验。通关一章自动解锁下一章。</p>
-      <button class="training-entry" onclick="App.goTraining()">🎯 进入题型特训营 · 阅读理解 / 完形填空 / 改错</button>
+      <p class="hero-kicker g-fade-up">ZHUANSHENG BENKE · ENGLISH QUEST</p>
+      <h2 class="hero-title g-fade-up">单词不是背出来的，<br>是在<span class="hero-em">故事</span>里<span class="hero-em">活</span>出来的。</h2>
+      <p class="hero-sub g-fade-up">读故事 · 攻核心词 · 破易混 · 拆长难句 · 闯关测验 —— 通关一章，自动点亮下一章。</p>
+      <div class="hero-entries">
+        <button class="training-entry hero-card g-fade-up" onclick="App.goTraining()"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.5"/></svg><span class="hc-txt"><b class="hc-title">题型特训营</b><small class="hc-desc">八题型逐个击破</small></span></button>
+        <button class="training-entry phrasal-entry hero-card g-fade-up" onclick="App.goPhrasal()"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 15c-1 3-1 4-1 4s1 0 4-1"/><path d="M14 4c3 0 6 3 6 6-4 6-9 9-12 10l-4-4C5 13 8 8 14 4z"/><circle cx="14.5" cy="9.5" r="1.5"/></svg><span class="hc-txt"><b class="hc-title">动词军团</b><small class="hc-desc">40 大动词全家福</small></span></button>
+        <button class="training-entry syn-entry hero-card g-fade-up" onclick="App.goSynonyms()"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 12a8 8 0 1 1-3-6"/><path d="M20 3v4h-4"/></svg><span class="hc-txt"><b class="hc-title">同义替换</b><small class="hc-desc">70 组同义换装</small></span></button>
+        <button class="training-entry score-entry hero-card g-fade-up" onclick="App.goScore()"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 4h8v5a4 4 0 0 1-8 0z"/><path d="M8 6H5a3 3 0 0 0 3 4M16 6h3a3 3 0 0 1-3 4M12 13v4M9 20h6"/></svg><span class="hc-txt"><b class="hc-title">提分战记</b><small class="hc-desc">150 分得分地图</small></span></button>
+      </div>
     </div>
     <div id="chapter-grid" class="chapter-grid"></div>
   </section>
@@ -34,19 +41,49 @@
   <!-- 题型特训营 -->
   <main id="training-view" class="hidden">
     <div class="training-header">
-      <h2>🎯 题型特训营</h2>
-      <p>近五年真题 + 预测卷提炼：先学方法，再打真题示范，逐题看解析。</p>
+      <h2><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.5"/></svg> 题型特训营</h2>
+      <p>近八年真题 + 机构预测卷提炼：先看考情规律，再学方法，逐题看解析。</p>
     </div>
     <div class="training-tabs">
-      <button class="t-tab active" data-t="reading" onclick="App.switchTraining('reading')">📖 阅读理解 40分</button>
-      <button class="t-tab" data-t="cloze" onclick="App.switchTraining('cloze')">🕳 完形填空 20分</button>
-      <button class="t-tab" data-t="error" onclick="App.switchTraining('error')">✏️ 短文改错 20分</button>
-      <button class="t-tab" data-t="translation" onclick="App.switchTraining('translation')">🔄 英汉互译 40分</button>
-      <button class="t-tab" data-t="writing" onclick="App.switchTraining('writing')">✍️ 写作 30分</button>
+      <button class="t-tab" data-t="overview" onclick="App.switchTraining('overview')"><svg class="ic" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 20h16"/><path d="M7 16v-6M12 16V5M17 16v-9"/></svg> 考情总览</button>
+      <button class="t-tab" data-t="arsenal" onclick="App.switchTraining('arsenal')"><svg class="ic" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="4" width="7" height="7" rx="1.5"/><rect x="13" y="4" width="7" height="7" rx="1.5"/><rect x="4" y="13" width="7" height="7" rx="1.5"/><rect x="13" y="13" width="7" height="7" rx="1.5"/></svg> 军火库总览</button>
+      <button class="t-tab active" data-t="reading" onclick="App.switchTraining('reading')"><svg class="ic" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19V5a2 2 0 0 1 2-2h13v14H6a2 2 0 0 0-2 2z"/><path d="M4 19a2 2 0 0 0 2 2h13"/></svg> 阅读理解 40分</button>
+      <button class="t-tab" data-t="cloze" onclick="App.switchTraining('cloze')"><svg class="ic" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M8 12h8"/></svg> 完形填空 20分</button>
+      <button class="t-tab" data-t="judge" onclick="App.switchTraining('judge')"><svg class="ic" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 13l4 4L19 7"/></svg> 阅读判断 10分</button>
+      <button class="t-tab" data-t="blankSelect" onclick="App.switchTraining('blankSelect')"><svg class="ic" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><text x="12" y="16" text-anchor="middle" font-size="13" font-weight="600" fill="currentColor" stroke="none">Aa</text></svg> 选词填空 15分</button>
+      <button class="t-tab" data-t="transChoice" onclick="App.switchTraining('transChoice')"><svg class="ic" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 7h14M15 3l4 4-4 4"/><path d="M20 17H6M9 13l-4 4 4 4"/></svg> 英译汉选择 10分</button>
+      <button class="t-tab" data-t="translation" onclick="App.switchTraining('translation')"><svg class="ic" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 7H6M9 3L5 7l4 4"/><path d="M4 17h14M15 13l4 4-4 4"/></svg> 汉译英 15分</button>
+      <button class="t-tab" data-t="error" onclick="App.switchTraining('error')"><svg class="ic" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 3l4 4L8 20l-5 1 1-5z"/><path d="M15 5l4 4"/></svg> 短文改错 20分</button>
+      <button class="t-tab" data-t="writing" onclick="App.switchTraining('writing')"><svg class="ic" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 20l3-1 12-12-2-2L5 17z"/><path d="M17 5l2 2"/><circle cx="8.5" cy="15.5" r="0.5"/></svg> 写作 20分</button>
+      <button class="t-tab" data-t="all" onclick="App.switchTraining('all')"><svg class="ic" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.5"/></svg> 全题型模考</button>
     </div>
     <div id="training-body"></div>
     <div class="chapter-nav">
-      <button class="nav-btn" onclick="App.goHome()">🗺 回地图</button>
+      <button class="nav-btn" onclick="App.goHome()"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4l6 2 5-2v14l-5 2-6-2-5 2V6z"/><path d="M9 4v14M15 6v14"/></svg> 回地图</button>
+    </div>
+  </main>
+
+  <!-- 动词短语总军团 -->
+  <main id="phrasal-view" class="hidden">
+    <div id="phrasal-body"></div>
+    <div class="chapter-nav">
+      <button class="nav-btn" onclick="App.goHome()"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4l6 2 5-2v14l-5 2-6-2-5 2V6z"/><path d="M9 4v14M15 6v14"/></svg> 回地图</button>
+    </div>
+  </main>
+
+  <!-- 同义替换弹药库 -->
+  <main id="syn-view" class="hidden">
+    <div id="syn-body"></div>
+    <div class="chapter-nav">
+      <button class="nav-btn" onclick="App.goHome()"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4l6 2 5-2v14l-5 2-6-2-5 2V6z"/><path d="M9 4v14M15 6v14"/></svg> 回地图</button>
+    </div>
+  </main>
+
+  <!-- 提分战记 -->
+  <main id="score-view" class="hidden">
+    <div id="score-body"></div>
+    <div class="chapter-nav">
+      <button class="nav-btn" onclick="App.goHome()"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4l6 2 5-2v14l-5 2-6-2-5 2V6z"/><path d="M9 4v14M15 6v14"/></svg> 回地图</button>
     </div>
   </main>
 
@@ -59,14 +96,15 @@
 
       <!-- 左栏：故事（sticky） -->
       <aside class="split-left">
-        <section class="module" id="mod-story">
-          <h2 class="mod-title">📖 第一幕 · 故事剧场</h2>
+        <section class="module rv" id="mod-story">
+          <h2 class="mod-title"><svg class="ic" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19V5a2 2 0 0 1 2-2h13v14H6a2 2 0 0 0-2 2z"/><path d="M4 19a2 2 0 0 0 2 2h13"/></svg> 故事剧场</h2>
           <p class="mod-tip">高亮的词就是本章核心词，<b>点一下</b>看释义。先通读一遍不求全懂，再点词精读。</p>
           <div class="story-box">
             <h3 id="story-title"></h3>
             <div id="story-text" class="story-text"></div>
             <div class="story-trans">
-              <button class="ghost-btn" onclick="App.toggleTrans()">🇨🇳 展开/收起全文翻译</button>
+              <button class="ghost-btn" onclick="App.toggleTrans()"><svg class="ic" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 7H6M9 3L5 7l4 4"/><path d="M4 17h14M15 13l4 4-4 4"/></svg> 展开/收起全文翻译</button>
+              <button class="ghost-btn" onclick="App.toggleBilingual()"><svg class="ic" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19V5a2 2 0 0 1 2-2h13v14H6a2 2 0 0 0-2 2z"/><path d="M4 19a2 2 0 0 0 2 2h13"/></svg> 中英对照</button>
               <p id="story-translation" class="hidden"></p>
             </div>
           </div>
@@ -76,50 +114,57 @@
       <!-- 右栏：知识点（独立滚动） -->
       <div class="split-right">
         <!-- 模块2：核心词汇 -->
-        <section class="module" id="mod-words">
-          <h2 class="mod-title">🔑 第二幕 · 核心词军火库</h2>
+        <section class="module rv" id="mod-words">
+          <h2 class="mod-title"><svg class="ic" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="8" cy="15" r="4"/><path d="M11 12L20 3M16 7l3 3"/></svg> 核心词军火库</h2>
           <p class="mod-tip">点卡片翻面：正面是单词，背面是音标+释义+真题风格例句+助记。</p>
           <div id="word-cards" class="word-cards"></div>
         </section>
 
         <!-- 模块3：易混词对决 -->
-        <section class="module" id="mod-confuse">
-          <h2 class="mod-title">⚔️ 第三幕 · 易混词竞技场</h2>
+        <section class="module rv" id="mod-confuse">
+          <h2 class="mod-title"><svg class="ic" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4l16 16M20 4L4 20"/></svg> 易混词竞技场</h2>
           <p class="mod-tip">最容易一混混整篇的杀手词，全在这了。先看对比，再看口诀。</p>
           <div id="confuse-list"></div>
         </section>
 
+        <!-- 模块4：熟词生义 -->
+        <section class="module rv" id="mod-hidden">
+          <h2 class="mod-title"><svg class="ic" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16v8a8 8 0 0 1-16 0z"/><path d="M9 9h.01M15 9h.01M9 15c1.5 1 4.5 1 6 0"/></svg> 熟词生义暗雷阵</h2>
+          <p class="mod-tip">这些词你都"认识"——但考试考的是你不知道的那层意思。左边是你以为的，右边是真题挖坑的。</p>
+          <div id="hidden-list"></div>
+        </section>
+
         <!-- 模块4：长难句 -->
-        <section class="module" id="mod-sentence">
-          <h2 class="mod-title">🏗 第四幕 · 长难句拆解工坊</h2>
+        <section class="module rv" id="mod-sentence">
+          <h2 class="mod-title"><svg class="ic" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l9 5-9 5-9-5z"/><path d="M3 13l9 5 9-5"/></svg> 长难句拆解工坊</h2>
           <p class="mod-tip">先自己读，再看主干拆解，最后看翻译。句子看懂了，阅读就赢了一半。</p>
           <div id="sentence-list"></div>
         </section>
 
         <!-- 模块5：短语 -->
-        <section class="module" id="mod-phrase">
-          <h2 class="mod-title">💬 第五幕 · 短语弹药库</h2>
-          <p class="mod-tip">完形填空爱考搭配，改错爱考介词。带 ⚠️ 的是改错高频雷区。</p>
+        <section class="module rv" id="mod-phrase">
+          <h2 class="mod-title"><svg class="ic" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a8 8 0 0 1-8 8H4l2-4a8 8 0 1 1 15-4z"/></svg> 短语弹药库</h2>
+          <p class="mod-tip">完形填空爱考搭配，改错爱考介词。带 <svg class="ic" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4L3 20h18z"/><path d="M12 10v4M12 17h.01"/></svg> 的是改错高频雷区。</p>
           <div id="phrase-list" class="phrase-list"></div>
         </section>
 
         <!-- 模块5.5：语法考点 -->
-        <section class="module" id="mod-grammar">
-          <h2 class="mod-title">📐 第五点五幕 · 语法碉堡</h2>
+        <section class="module rv" id="mod-grammar">
+          <h2 class="mod-title"><svg class="ic" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M15 9l-6 6M9 9l6 6"/></svg> 语法碉堡</h2>
           <p class="mod-tip">真题高频语法点：规则 + 例句 + 标志词。翻译改错写作全靠它。</p>
           <div id="grammar-list"></div>
         </section>
 
         <!-- 模块6：测验 -->
-        <section class="module" id="mod-quiz">
-          <h2 class="mod-title">🎯 终幕 · 关卡测验</h2>
+        <section class="module rv" id="mod-quiz">
+          <h2 class="mod-title"><svg class="ic" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.5"/></svg> 关卡测验</h2>
           <p class="mod-tip">80 分及以上即通关本章，解锁下一章。错题有解析，别怕错。</p>
           <div id="quiz-list"></div>
           <div id="quiz-result" class="hidden"></div>
         </section>
 
         <div class="chapter-nav">
-          <button class="nav-btn" id="btn-prev" onclick="App.goHome()">🗺 回地图</button>
+          <button class="nav-btn" id="btn-prev" onclick="App.goHome()"><svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4l6 2 5-2v14l-5 2-6-2-5 2V6z"/><path d="M9 4v14M15 6v14"/></svg> 回地图</button>
           <button class="nav-btn next" id="btn-next" onclick="App.nextChapter()">下一章 →</button>
         </div>
       </div><!-- /split-right -->
@@ -128,47 +173,56 @@
   </main>
 
   <!-- 单词弹层 -->
-  <div id="word-popup" class="hidden"></div>
+  <div id="word-popup" class="hidden" role="dialog" aria-label="词条释义"></div>
   <!-- 地图路径 canvas -->
   <canvas id="map-canvas" style="position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:0;opacity:.5"></canvas>
 </div>
 
-<script src="js/data/ch01.js?v=3"></script>
-<script src="js/data/ch02.js?v=3"></script>
-<script src="js/data/ch03.js?v=3"></script>
-<script src="js/data/ch04.js?v=3"></script>
-<script src="js/data/ch05.js?v=3"></script>
-<script src="js/data/ch06.js?v=3"></script>
-<script src="js/data/ch07.js?v=3"></script>
-<script src="js/data/ch08.js?v=3"></script>
-<script src="js/data/ch09.js?v=3"></script>
-<script src="js/data/ch10.js?v=3"></script>
-<script src="js/data/ch11.js?v=3"></script>
-<script src="js/data/ch12.js?v=3"></script>
-<script src="js/data/ch13.js?v=3"></script>
-<script src="js/data/ch14.js?v=3"></script>
-<script src="js/data/ch15.js?v=3"></script>
-<script src="js/data/ch16.js?v=3"></script>
-<script src="js/data/ch17.js?v=3"></script>
-<script src="js/data/ch18.js?v=3"></script>
-<script src="js/data/ch19.js?v=3"></script>
-<script src="js/data/ch20.js?v=3"></script>
-<script src="js/data/ch21.js?v=3"></script>
-<script src="js/data/ch22.js?v=3"></script>
-<script src="js/data/ch23.js?v=3"></script>
-<script src="js/data/ch24.js?v=3"></script>
-<script src="js/data/ch25.js?v=3"></script>
-<script src="js/data/ch26.js?v=3"></script>
-<script src="js/data/ch27.js?v=3"></script>
-<script src="js/data/ch28.js?v=3"></script>
-<script src="js/data/ch29.js?v=3"></script>
-<script src="js/data/ch30.js?v=3"></script>
+<script src="js/data/ch01.js?v=8"></script>
+<script src="js/data/ch02.js?v=8"></script>
+<script src="js/data/ch03.js?v=8"></script>
+<script src="js/data/ch04.js?v=7"></script>
+<script src="js/data/ch05.js?v=8"></script>
+<script src="js/data/ch06.js?v=9"></script>
+<script src="js/data/ch07.js?v=8"></script>
+<script src="js/data/ch08.js?v=9"></script>
+<script src="js/data/ch09.js?v=9"></script>
+<script src="js/data/ch10.js?v=8"></script>
+<script src="js/data/ch11.js?v=9"></script>
+<script src="js/data/ch12.js?v=8"></script>
+<script src="js/data/ch13.js?v=9"></script>
+<script src="js/data/ch14.js?v=8"></script>
+<script src="js/data/ch15.js?v=8"></script>
+<script src="js/data/ch16.js?v=8"></script>
+<script src="js/data/ch17.js?v=8"></script>
+<script src="js/data/ch18.js?v=8"></script>
+<script src="js/data/ch19.js?v=8"></script>
+<script src="js/data/ch20.js?v=8"></script>
+<script src="js/data/ch21.js?v=8"></script>
+<script src="js/data/ch22.js?v=8"></script>
+<script src="js/data/ch23.js?v=8"></script>
+<script src="js/data/ch24.js?v=9"></script>
+<script src="js/data/ch25.js?v=8"></script>
+<script src="js/data/ch26.js?v=10"></script>
+<script src="js/data/ch27.js?v=10"></script>
+<script src="js/data/ch28.js?v=9"></script>
+<script src="js/data/ch29.js?v=8"></script>
+<script src="js/data/ch30.js?v=9"></script>
 <script src="js/data/core800.js?v=3"></script>
-<script src="js/data/training.js?v=3"></script>
-<script src="js/data/translation.js?v=1"></script>
-<script src="js/data/writing.js?v=1"></script>
-<script src="js/data/structure.js?v=5"></script>
-<script src="js/app.js?v=5"></script>
+<script src="js/data/training.js?v=10"></script>
+<script src="js/data/translation.js?v=2"></script>
+<script src="js/data/writing.js?v=3"></script>
+<script src="js/data/phrasal.js?v=6"></script>
+<script src="js/data/synonyms.js?v=2"></script>
+<script src="js/data/vocab.js?v=4"></script>
+<script src="js/data/dict.js?v=3"></script>
+<script src="js/data/dict_ext.js?v=3"></script>
+<script src="js/data/freq200.js?v=1"></script>
+<script src="js/data/freqph.js?v=1"></script>
+<script src="js/data/score.js?v=2"></script>
+<script src="js/data/structure.js?v=7"></script>
+<script src="js/app.js?v=49"></script>
+<script src="js/data/achievements.js?v=1"></script>
+<script src="js/game.js?v=19"></script>
 </body>
 </html>
-

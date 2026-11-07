@@ -1,243 +1,234 @@
 window.CHAPTERS = window.CHAPTERS || [];
 window.CHAPTERS.push({
   id: 20,
-  title: "终极考场 · 五关大决战",
-  desc: "十个月，二十章，终有一战。考卷上竟藏着老朋友——博物馆、守塔人、石碑、巨龙……这次，轮到你用他们教你的东西应战。",
-  tag: "考场动作类高频词",
+  title: "回响试炼 · 写作圣殿",
+  desc: "第七关写作圣殿：词穷兽吞尽词汇，考生提笔只会 good/bad；旧词吟唱充能回响石，阿洛以三段式精准用词反杀，五关全通。大典上周擎倒戈举证，教务长出逃——父亲留言浮现：去词帝塔。",
+  tag: "旧词回响",
   story: {
-    title: "The Five Gates 五关",
-    text: `The morning of the big [[exam]] finally came. At the gate, A-Luo's hands were cold, his heart drumming. Ten months, twenty chapters, five gates — everything in the Knowledge Bank would be counted today.
+    title: "The Temple of Empty Words 空词圣殿",
+    text: `The seventh gate rose at the end of a long stone [[trail]]: the Writing Temple, white as bone. Inside, three hundred candidates bent over their desks, every essay saying the same thing — good, bad, very good, very bad. On the altar squatted the Word-Famine Beast, patient, ready to [[absorb]] the hall's vocabulary. Years of empty praise had [[erode]]d it; a city's habit of wasting words had helped [[ruin]] it; and everyone had [[misunderstand]]ed the [[creature]]. It did not hate words. It had simply never been used well — no honest reader, no [[appreciation]], no [[permission]] to serve.
 
-"Take it easy," Pang-Da said, pushing chocolate into his pocket. "One before each hard part." Muscle Bro knocked his fist. Qian-Shao lent him his best pen: "No discount — it is a gift."
+Juanjuan laid out the five Echo Stones, one per gate — dead grey glass until the chant began. Gate one sent back the black market: [[auctioneer]], [[genuine]], [[scarce]]. Gate two sent the maze: [[drain]], [[virtue]], [[discipline]]. Gate three sent the arena: [[thrill]], [[violence]], [[restraint]]. Gate four sent the towers: [[verify]], [[deny]]. Gate five sent the storm: [[advocate]], [[revolt]], [[tolerance]], [[standard]]. Each recalled word burned a hole in its grey hide — words that had once been loved, the one thing it could not digest.
 
-"Your [[account]] is full," Juanjuan's voice rose from the old letter in his pocket. "Today the bank pays its interest. Read the [[instructions]] first, and stay [[calm]]." Fei-Ge's voice came from that stormy night long ago: "I once failed, but I passed at last. So will you." A-Luo walked in with all his [[courage]].
+So the duel was a three-paragraph essay — precision would [[conquer]] what force never could. A-Luo took the altar chair and wrote. Thesis: the beast's [[motive]] was not hunger but neglect. Proof: every [[vague]] "good" and every [[superficial]] "very bad" had starved it for ten years. Close: the offer — a job, a purpose, a reader; the appreciation every word secretly wanted. The beast leaned over the page like a beggar, then shrank, word by word, into one small grey syllable. The change was [[immediate]] and [[apparent]]: the hall's vocabulary came home, three hundred pens were free to [[resume]], and the temple filled with better sentences than it had heard in years.
 
-Gate one, listening. For one terrible second the room spun — then training took over, and his mind did not go [[blank]] once.
+At the Certification Ceremony, the Dean rose to strike: "Their power is borrowed — I [[demand]] an inquiry." Before the echo died, Zhou Qing stepped forward with the five-gate archives and his father's hidden ledger. "I can [[verify]] every score," he said. "The tenth-year purge was real: men who loved to [[regulate]] built a [[slavery]] of silence." [[Deny]] it, Father. The records did [[confirm]] everything: the Dean's [[fame]] collapsed by noon, and he fled that night to the New Continent, leaving his [[reputation]] as a warning.
 
-Gate two, reading. He almost laughed: the passage was about a [[museum]] at night, where bronze cups rap on glass and pottery horses gossip. The last [[question]] asked what readers could [[infer]] — the writer only implies; readers infer. Old friends everywhere.
+Dawn found the team at the harbor, the sea wind carrying an [[odd]] [[relief]]. Behind them: five gates cleared. Ahead: one escaped liar. In A-Luo's pocket the blank page grew warm; under his father's half-spent chant a new line surfaced: The truth stands after the five gates — go to the Tower of the Word-Emperor. "A tower higher than any gate," Juanjuan said. "Then we climb," said A-Luo.`,
+    translation: `第七关立在一道长长的石径尽头：写作圣殿，白得像骨。殿内，三百名考生伏案疾书，每一篇作文说的都是同一句话——good（好）、bad（坏）、非常好、非常坏。圣坛上蹲着词穷兽，耐心，随时准备吸走全场词汇。多年的空洞表扬 erode（侵蚀）了它；全城糟蹋词的习惯帮着把它 ruin（毁掉）；而所有人都 misunderstand（误解）了这头兽。它不恨词。它只是从没被好好用过——没有诚实的读者，没有 appreciation（欣赏），没有被 permission（许可）去效力。
 
-Gate three, cloze: fill each [[blank]] with the right word. The sentence was about a keeper who lives alone on an island but never feels lonely. A-Luo smiled and wrote down the [[answer]].
+卷卷摆出五块回响石，一关一块——死灰的玻璃，直到吟唱响起。第一关送回黑市：auctioneer（拍卖师）、genuine（真货）、scarce（稀缺）。第二关送回迷宫：drain（流失）、virtue（美德）、discipline（纪律）。第三关送回竞技场：thrill（狂喜）、violence（暴力）、restraint（克制）。第四关送回高塔：verify（核实）、deny（否认）。第五关送回风暴：advocate（倡导）、revolt（反抗）、tolerance（宽容）、standard（标准）。每一个被唤回的词都在它的灰皮上烧出一个小洞——这些词曾被好好爱过，而爱，是它唯一消化不了的东西。
 
-Gate four, error correction. First line: He used to getting up late. Three seconds — to get, not to getting; thank you, stone tablet. He hunted the other [[mistakes]] as the old Error Dragon had taught, remembering its last [[advice]]: correct your sentences, but never correct your dreams.
+于是决斗以一篇三段式作文打响——精准将 conquer（征服）武力永远征服不了的东西。阿洛坐上圣坛之椅，落笔。论点：兽的 motive（动机）不是饥饿，而是被冷落。论据：每一个 vague（含糊）的「好」、每一个 superficial（肤浅）的「非常坏」，都让它饿了十年。收束：一份邀约——一份差事、一个目的、一位读者；每个词暗中渴望的 appreciation（欣赏）。兽像乞丐扑向面包一样扑向那页纸，随即一个词一个词地缩小，缩成一个小小的灰色音节。变化 immediate（立竿见影）而 apparent（显而易见）：全场词汇回了家，三百支笔获准 resume（重新执笔），圣殿里响起了多年未有的好句子。
 
-Gate five, writing: an [[essay]] of 120 words — My Goal. He wrote about a fork in the road, a light on an island, and a promise: I will [[persist]]. When the bell rang, his pen stopped mid-sentence.
+认证大典上，教务长起身发难：「他们的词力是借来的——我 demand（要求）彻查。」回声未落，周擎带着五关档案和他父亲的密账向前一步。「我可以 verify（核实）每一个分数，」他说，「十年前的清零是真的：一群热衷 regulate（管制）的人筑起了沉默的 slavery（奴役）。」否认吧，父亲。记录 confirm（证实）了一切：教务长的 fame（名望）正午崩塌，当夜 flee（逃往）新大陆，把 reputation（名声）留下当警告。
 
-Weeks later, the [[result]] arrived. The [[grade]] on top was so high that even Qian-Shao could not bargain it down. The [[score]] was higher than anything he had dared to deposit. Then came the bonus line to [[translate]]: Where there is a will, there is a way. Its [[translation]] was exactly what the old keeper always said. Some sentences had walked beside him the whole [[journey]].
-
-The letter came with a golden seal. He received it, opened it, and happily accepted it. That night Juanjuan flew out one last time: "Knowledge Bank, final statement." Golden lines filled the wall: coin by coin, ten months of [[effort]] stood in line like soldiers. "You did not [[pass]] because of luck. You passed because you kept depositing on the days nobody was watching." "So this is what it feels like to [[achieve]] a goal," A-Luo said. "Tastes like chocolate," Pang-Da agreed, unwrapping another one.
-
-"Is this the end?" A-Luo asked. "A degree is not a full stop; it is a comma," Juanjuan said. "A bigger continent is waiting." The real [[reward]] was never the number on the paper. It was the boy who once feared English, now knowing the way at last. Where there is a will, there is a way. The light in his eyes was on — for the road ahead.`,
-    translation: `大日子终于来了。考场门口，阿洛双手冰凉，心跳如鼓。十个月，二十章，五道关卡——知识银行里存下的一切，今天都要清点。
-「放轻松，」胖达说，往他口袋里塞巧克力。「每道难题前吃一块。」肌肉哥碰了碰他的拳头。钱少把最好的笔借给他：「不打折——是送的。」
-「你的账户满了，」卷卷的声音从口袋里的旧通知书里传出来。「今天，银行要付利息了。先读考试说明，保持冷静。」飞哥的声音从很久以前那个暴风雨之夜传来：「我失败过一次，但最后考过了。你也会的。」阿洛鼓起全部勇气走了进去。
-第一关，听力。有那么可怕的一秒，房间天旋地转——然后训练接管了一切，他的大脑一次都没有空白。
-第二关，阅读。他差点笑出声：文章讲的是一座夜晚的博物馆，青铜杯敲着玻璃，陶马在八卦。「老朋友们无处不在。」最后一题问读者能推断出什么——作者只负责暗示，读者负责推断。这种题，他在满是谜题的古堡里就答过。
-第三关，完形：在每个空格里填上正确的词。那句话讲一位守塔人，独自住在岛上却从不孤独。阿洛笑了，立刻写下答案。
-第四关，改错。第一行：He used to getting up late。三秒——是 to get，不是 to getting；谢谢了，岔路口的石碑。他按老改错巨龙教的方法揪出其余错误，心里记着它最后的忠告：修改你的句子，但永远不要修改你的梦想。
-第五关，写作：一篇 120 词的作文——我的目标。他写了岔路口、小岛上的灯，和一个承诺：我会坚持。铃声响起时，他的笔停在一个工整安静的句子中间。
-几周后，结果来了。顶上的成绩高得连钱少都砍不了价。得分比他敢存的任何数字都高。然后是附加题，最后一行翻译：有志者事竟成。译文正是老守塔人常说的那句话。原来有些句子，一路都走在他身边。
-录取通知书到了，盖着金色的印章。他收到它，拆开它，欣然接受了它。当晚，卷卷最后一次飞出来：「知识银行，最终账单。」金色线条铺满墙壁：一枚硬币接一枚硬币，十个月的努力像士兵一样列队。「你通过考试不是因为运气。是因为在没人看见的日子里，你一直在存款。」「原来这就是实现目标的感觉，」阿洛说。「像巧克力的味道，」胖达表示同意，又拆开一块。
-「这是终点吗？」阿洛问。「学位不是句号，是逗号，」卷卷说。「更大的大陆在前方等着。」真正的奖励从来不是纸上的数字，而是那个曾经害怕英语的少年，终于认得了路。有志者，事竟成。他眼中的灯亮了——照亮前方的路。`
+黎明在港口找到全队，海风里飘着一种 odd（说不清）的 relief（轻松）。身后：五关已清。身前：一个在逃的骗子。阿洛口袋里的空白残页变暖了；父亲的半段吟唱之下，一行新字浮现：真相立在五关之后——去词帝塔。「一座比任何一关都高的塔，」卷卷说。「那就爬，」阿洛说。`
   },
 
-
   storyPoints: [
-    { "p": "过去完成时", "q": "The score was higher than anything he had dared to deposit.", "n": "had + 过去分词：过去的过去" },
-    { "p": "被动语态", "q": "Ten months, twenty chapters, five gates — everything in the Knowledge Bank would be counted today.", "n": "be + 过去分词：主语是动作承受者；无被动动词例外：happen/take place/consist of" },
-    { "p": "定语从句", "q": "The sentence was about a keeper who lives alone on an island but never feels lonely.", "n": "先行词 + 关系词：人用 who，物用 which/that，地点用 where" },
-    { "p": "宾语从句", "q": "The last question asked what readers could infer — the writer only implies; readers infer.", "n": "宾语从句用陈述语序；主过从过：主句过去时从句跟过去时态" },
-    { "p": "used to", "q": "First line: He used to getting up late.", "n": "used to do：过去常常（现在不了）；be used to doing 习惯于——两个完全不同" },
-    { "p": "动名词 doing", "q": "You passed because you kept depositing on the days nobody was watching.\" \"So this is what it feels like to achieve a goal,\" A-Luo said.", "n": "这些动词后只接 doing：enjoy/finish/avoid/practice/mind/suggest/keep" },
-    { "p": "there be 句型", "q": "Then came the bonus line to translate: Where there is a will, there is a way.", "n": "there be：某地有某物；谓语就近一致，不能与 have 混用" }
+    { "p": "过去完成时 had done（兽的旧伤）", "q": "Years of empty praise had eroded it", "n": "空洞表扬「先」发生，兽「如今」蹲在圣坛——先发生的过去用 had done；years of... 开头的追因句是过去完成时的高频信号" },
+    { "p": "help (to) do 省略 to 的不定式", "q": "a city's habit of wasting words had helped ruin it", "n": "help sb. (to) do / help do 均可，省 to 更常见；改错雷区：helped ruining ❌" },
+    { "p": "not A but B（取舍结构）", "q": "the beast's motive was not hunger but neglect", "n": "不是 A 而是 B：否定前项、肯定后项，写作立论金句；与 not only...but also（递进）区分" },
+    { "p": "定语从句 that（先行词是物）", "q": "words that had once been loved", "n": "that/which 皆可指物；从句里 had been loved 是过去完成被动——「被爱」早于「被吟唱」" },
+    { "p": "强调句 It was...that（大典钉子句）", "q": "It was honest use, not empty praise, that tamed the beast", "n": "强调句框架内句子完整（Honest use tamed the beast）；强调物用 that；呼应 ch17 汉译英升格第一式" },
+    { "p": "be free to do + resume 的重启义", "q": "three hundred pens were free to resume", "n": "be free to do 自由得以做；resume = re（再）+ sume（拿）→ 重新拿起笔；re- 家族回响：renew / revise / recall" },
+    { "p": "by + 时间点 → 过去完成时", "q": "the Dean's fame collapsed by noon, and he fled that night", "n": "by noon 到正午前（已完成）→ 与 had done 连用（By noon four pens had fallen，ch16 同款）；fled 是 flee 的过去式（flee-fled-fled）" }
   ],
   words: [
-    { w: "exam", ipa: "/ɪɡˈzæm/", pos: "n.", cn: "考试", ex: "He passed the exam with a high score.", excn: "他以高分通过了考试。", memo: "exam = examination 的缩写；take an exam 参加考试；fail the exam 考砸" },
-    { w: "instruction", ipa: "/ɪnˈstrʌkʃn/", pos: "n.", cn: "说明；指示", ex: "Read the instructions before the test.", excn: "考试前先读说明。", memo: "常用复数 instructions；follow the instructions 按说明操作；instruct v. 指示" },
-    { w: "question", ipa: "/ˈkwestʃən/", pos: "n.", cn: "问题", ex: "Answer the questions in full sentences.", excn: "用完整句子回答问题。", memo: "answer the question；question 需要回答的问题 / problem 需要解决的难题，别混" },
-    { w: "answer", ipa: "/ˈɑːnsə/", pos: "n./v.", cn: "回答；答案", ex: "The answer to the question is B.", excn: "这个问题的答案是 B。", memo: "the answer/key to the question，用 to 不用 of；reply to 同理" },
-    { w: "blank", ipa: "/blæŋk/", pos: "n./adj.", cn: "空格；空白的", ex: "Fill in each blank with a proper word.", excn: "用适当的词填空。", memo: "fill in the blanks 填空；a blank page 空白页；mind went blank 大脑一片空白" },
-    { w: "translate", ipa: "/trænsˈleɪt/", pos: "v.", cn: "翻译", ex: "Translate the sentence into Chinese.", excn: "把这句话翻译成中文。", memo: "translate...into... 把……翻译成；translate A from B 从 B 语翻译过来" },
-    { w: "translation", ipa: "/trænsˈleɪʃn/", pos: "n.", cn: "翻译；译文", ex: "The translation of the proverb is beautiful.", excn: "这句谚语的译文很美。", memo: "translate v. → translation n. → translator n. 翻译家，词族三连" },
-    { w: "essay", ipa: "/ˈeseɪ/", pos: "n.", cn: "文章；作文", ex: "Write an essay of about 120 words.", excn: "写一篇约 120 词的作文。", memo: "essay 指短论说文/作文；形近 ease 轻松 / sea 海，别混" },
-    { w: "grade", ipa: "/ɡreɪd/", pos: "n.", cn: "分数；年级", ex: "She got a good grade in English.", excn: "她英语得了个好分数。", memo: "grade 分数（美式）/ mark 分数（英式）；Grade Three 三年级；upgrade 升级" },
-    { w: "pass", ipa: "/pɑːs/", pos: "v.", cn: "通过；传递", ex: "He passed the driving test at last.", excn: "他终于通过了驾照考试。", memo: "及物动词直接接宾语：pass the exam（不用 pass through）；pass sth. to sb. 传递" },
-    { w: "result", ipa: "/rɪˈzʌlt/", pos: "n.", cn: "结果", ex: "The result of the exam came out.", excn: "考试结果出来了。", memo: "as a result 结果（副词性）；result in 导致 / result from 起因于（方向相反！）" },
-    { w: "reward", ipa: "/rɪˈwɔːd/", pos: "n./v.", cn: "报酬；奖励", ex: "Effort is its own reward.", excn: "努力本身就是回报。", memo: "as a reward for 作为对……的奖励；award 是奖（荣誉），reward 是回报（酬劳）" },
-    { w: "effort", ipa: "/ˈefət/", pos: "n.", cn: "努力", ex: "Ten months of effort finally paid off.", excn: "十个月的努力终于有了回报。", memo: "复现 ch01：make an effort；ch02-ch19 全员老朋友，压轴词非他莫属；spare no effort 不遗余力" },
-    { w: "achieve", ipa: "/əˈtʃiːv/", pos: "v.", cn: "实现；达到", ex: "He achieved his goal at last.", excn: "他最终实现了目标。", memo: "复现 ch01：achieve one's goal 实现目标；ch05/ch11/ch15/ch19 多轮复现；achievement n. 成就" },
-    { w: "account", ipa: "/əˈkaʊnt/", pos: "n./v.", cn: "账户；描述；解释", ex: "He opened his account on day one and never stopped depositing.", excn: "他第一天就开了账户，从未停止存入。", memo: "复现 ch01：知识银行账户，本传第一词；account for 解释/占比例；take...into account 考虑" },
-    { w: "courage", ipa: "/ˈkʌrɪdʒ/", pos: "n.", cn: "勇气", ex: "It took all his courage to walk into the hall.", excn: "走进考场用尽了他全部的勇气。", memo: "复现 ch08：take courage 鼓起勇气；encourage = en + courage 使有勇气；ch09/ch16/ch18/ch19 已连环复现" },
-    { w: "calm", ipa: "/kɑːm/", pos: "adj./v.", cn: "冷静的；使平静", ex: "Stay calm and read every question twice.", excn: "保持冷静，每道题读两遍。", memo: "复现 ch08：stay/keep calm 保持冷静，calm down 冷静下来；考场第一装备" },
-    { w: "infer", ipa: "/ɪnˈfɜː/", pos: "v.", cn: "推断", ex: "What can we infer from the passage?", excn: "我们能从文中推断出什么？", memo: "复现 ch09：infer 是读者推断 ↔ imply 是作者暗示，方向别反；阅读最后一题常客" },
-    { w: "advice", ipa: "/ədˈvaɪs/", pos: "n.", cn: "建议（不可数）", ex: "The dragon's last advice: correct sentences, never dreams.", excn: "巨龙最后的忠告：修改句子，别改梦想。", memo: "复现 ch10：⚠️ 不可数，一条 = a piece of advice；advise 才是动词；改错巨龙的退场赠言" },
-    { w: "museum", ipa: "/mjuˈziːəm/", pos: "n.", cn: "博物馆", ex: "The reading passage was about a museum at night.", excn: "阅读文章讲的是一座夜晚的博物馆。", memo: "复现 ch11：复数 museums；a history museum 修饰语用单数；老朋友直接印在了考卷上" },
-    { w: "journey", ipa: "/ˈdʒɜːni/", pos: "n.", cn: "旅程（长途陆路）", ex: "The twenty-chapter journey ends where the degree begins.", excn: "二十章的旅程在学位开始的地方结束。", memo: "复现 ch12：trip/journey/tour/travel 四兄弟（ch16 易混区详讲）；journey 偏长途陆路，也有「人生旅程」义" },
-    { w: "mistake", ipa: "/mɪˈsteɪk/", pos: "n./v.", cn: "错误；弄错", ex: "He hunted every mistake in three minutes.", excn: "他三分钟揪出了每个错误。", memo: "复现 ch13：make mistakes 犯错；by mistake 无意错拿；mistake...for... 把……误认为；改错关主角词" },
-    { w: "score", ipa: "/skɔː/", pos: "n./v.", cn: "比分；得分", ex: "The final score was higher than he dared to dream.", excn: "最终分数比他敢梦的还高。", memo: "复现 ch15：the final score 最终比分/得分；score a goal 进一球；考试分数也用它" },
-    { w: "persist", ipa: "/pəˈsɪst/", pos: "v.", cn: "坚持", ex: "I will persist — the promise he wrote in the essay.", excn: "我会坚持——他写进作文里的承诺。", memo: "复现 ch19：persist in doing 坚持做；persistence n. 坚持（别拼成 persistance）；岔路口许下的承诺，今天兑现" }
+    { w: "erode", ipa: "/ɪˈrəʊd/", pos: "v.", cn: "侵蚀；磨损；逐渐削弱", ex: "Years of empty praise had eroded the beast's heart.", excn: "多年的空洞表扬侵蚀了词穷兽的心。", memo: "e（向外）+ rode（啃，与 rodent 啮齿动物同源）→ 一点一点向外啃 → 侵蚀；time erodes memory 时间侵蚀记忆；名词 erosion（土壤侵蚀＝环境话题写作高频）" },
+    { w: "misunderstand", ipa: "/ˌmɪsʌndəˈstænd/", pos: "v.", cn: "误解；误会", ex: "Everyone misunderstood the creature: it wanted honest use, not food.", excn: "所有人都误解了这头兽：它想要的是被诚实地使用，不是食物。", memo: "mis（错）+ understand（理解）→ 理解错了；过去式/过去分词 misunderstood（understand-understood 系列）；名词 misunderstanding" },
+    { w: "ruin", ipa: "/ˈruːɪn/", pos: "v./n.", cn: "毁坏；毁灭；废墟（pl. ruins）", ex: "A city's habit of wasting words had helped ruin the beast.", excn: "全城糟蹋词的习惯帮着把这头兽毁了。", memo: "in ruins 成一片废墟（写作高频）；ruin one's reputation 毁人名声；区别 damage（部分损坏可修复）/ destroy（彻底摧毁）/ ruin（毁到无法挽回，多接希望、名誉、计划）" },
+    { w: "conquer", ipa: "/ˈkɒŋkə/", pos: "v.", cn: "征服；攻克；克服", ex: "Precision would conquer what force never could.", excn: "精准能征服武力永远征服不了的东西。", memo: "con（完全）+ quer（寻求，同 quest/query）→ 彻底拿到 → 征服；conquer fear/shyness 克服恐惧/羞怯；名词 conquest；写作金句：Divide and conquer. 各个击破" },
+    { w: "appreciation", ipa: "/əˌpriːʃiˈeɪʃn/", pos: "n.", cn: "感激；欣赏；理解", ex: "The offer was the appreciation every word secretly wanted.", excn: "那份邀约正是每个词暗中渴望的欣赏。", memo: "ap + preci（价值，同 precious）+ ation → 看出价值 → 欣赏/感激；ch19 动词 appreciate 在此归队；in appreciation of... 为感谢……；I'd appreciate it if... 的名词版常考「欣赏/感激」双义" },
+    { w: "permission", ipa: "/pəˈmɪʃn/", pos: "n.", cn: "许可；允许", ex: "It had never been given permission to serve a real reader.", excn: "它从未被允许去服务一位真正的读者。", memo: "per（通过）+ miss（送，同 mission）+ ion → 放行 → 许可；without permission 未经许可；ask for permission 申请许可；动词 permit sb. to do；⚠️ 区别 admission（入场许可；承认）" }
   ],
   confusions: [
     {
-      group: "pass / fail — 考场双色",
+      group: "conquer / overcome / defeat —「赢」的三种境界",
       items: [
-        { w: "pass", cn: "通过（考试）", note: "pass the exam 及物动词直接接宾语，不用 pass through" },
-        { w: "fail", cn: "不及格；未能", note: "fail the exam；fail to do 未能做成某事" },
-        { w: "pass sth. to sb.", cn: "传递", note: "Pass the salt to me. pass 的另一个高频义" }
+        { w: "conquer (v.)", cn: "征服；攻克（彻底拿下，气势最足）", note: "conquer fear / conquer a city" },
+        { w: "overcome (v.)", cn: "克服（困难/情绪，最通用）", note: "overcome difficulties / overcome the fear of fog" },
+        { w: "defeat (v./n.)", cn: "击败（对手，比赛/战争）", note: "defeat the enemy / suffer defeat" }
       ],
-      tip: "pass the exam = 通过考试（不是「传考试」）；fail the exam = 考砸。阅读里 Pass me the book 是递书，The bill passed 是法案通过。一词三义看宾语定。",
+      tip: "口诀：conquer 气吞山河，overcome 稳扎稳打，defeat 针锋相对。写作升级：把 beat the difficulty 升格成 conquer the difficulty——本章三段式反杀的关键就是这个词。",
       drill: [
-        { s: "After ten months of effort, he finally ___ the exam.", opts: ["passed", "failed", "fell"], a: 0, why: "十个月努力 + finally → 通过 passed" },
-        { s: "She ___ to arrive on time because of the storm.", opts: ["failed", "passed", "made"], a: 0, why: "fail to do 未能做成某事" }
+        { s: "She finally ___ her stage fright and delivered the speech.", opts: ["conquered", "defeated", "won"], a: 0, why: "克服内心恐惧 → conquered；defeat 的宾语通常是对手/军队；won 后接比赛/奖项" },
+        { s: "The allied fleet ___ the enemy in a three-hour battle.", opts: ["defeated", "overcame", "ruined"], a: 0, why: "战场上击败对手 → defeated；overcome 多接抽象困难；ruin 表「毁掉」，宾语应是希望/名声" }
       ]
     },
     {
-      group: "grade / mark / score — 分数三兄弟",
+      group: "ruin / damage / destroy / spoil —「毁」的四档破坏力",
       items: [
-        { w: "grade", cn: "分数（美式）；年级", note: "get good grades；Grade Three 三年级" },
-        { w: "mark", cn: "标记；分数（英式）", note: "英式说 full marks 满分（用复数）；mark the words 做标记" },
-        { w: "score", cn: "比分；得分", note: "复现 ch15：the final score 最终比分；考试分数也可用" }
+        { w: "damage (v./n.)", cn: "损坏（部分，可修复）", note: "damage the car / cause damage to..." },
+        { w: "destroy (v.)", cn: "摧毁（彻底，化为乌有）", note: "destroy the bridge / destroy all hope" },
+        { w: "ruin (v./n.)", cn: "毁灭（无可挽回，多接抽象物）", note: "ruin one's reputation / in ruins" },
+        { w: "spoil (v.)", cn: "糟蹋；宠坏；（食物）变质（ch06 旧词归队）", note: "spoil the fun / a spoiled child" }
       ],
-      tip: "复现复习！美式说 grade，英式说 mark，体育说 score（复现 ch15），三者都能表示「考试分数」。改错坑：full marks 用复数（mark 加 s），a high score 用单数。",
+      tip: "口诀：damage 掉漆，destroy 粉碎，ruin 万劫不复，spoil 糟蹋加宠坏。真题语境：The rain ruined our picnic.（毁掉计划）；Don't spoil the child.（宠坏）。词穷兽就是被空洞表扬 spoil 大的。",
       drill: [
-        { s: "He got full ___ in the listening test — 100 out of 100.", opts: ["marks", "mark", "grade"], a: 0, why: "英式 full marks 满分，mark 用复数" },
-        { s: "The final ___ of the match was 2:1.", opts: ["score", "mark", "grade"], a: 0, why: "比分用 score，复现 ch15" }
+        { s: "The old castle lies in ___ after the war.", opts: ["ruins", "damages", "spoils"], a: 0, why: "in ruins 成废墟固定搭配；damage/spoil 无此搭配" },
+        { s: "Too much praise will ___ a child, the old ledger warned.", opts: ["spoil", "destroy", "erode"], a: 0, why: "宠坏 → spoil；erode 是本章新词，只管「一点点侵蚀」，不接「惯坏」义" }
       ]
     },
     {
-      group: "award / reward — 奖赏双胞胎",
+      group: "permission / permit / admit / allow —「放行」一家人",
       items: [
-        { w: "award", cn: "奖；奖品（荣誉性质）", note: "win the first award 获得一等奖；award sb. sth. 授予" },
-        { w: "reward", cn: "报酬；回报（付出所得）", note: "as a reward for hard work 努力的回报" }
+        { w: "permission (n.)", cn: "许可", note: "without permission / ask for permission" },
+        { w: "permit (v./n.)", cn: "允许；许可证", note: "permit sb. to do / a parking permit" },
+        { w: "admit (v.)", cn: "承认；准许进入", note: "admit doing / be admitted to a school" },
+        { w: "allow (v.)", cn: "允许（最通用）", note: "allow sb. to do / allow doing" }
       ],
-      tip: "口诀：award 发给赢家（奥斯卡奖），reward 付给付出（抓到小偷的酬金）。考试作文里 Effort is its own reward 努力本身就是回报，金句直接用。",
+      tip: "口诀：permission 是名词，permit 动名词两栖，admit 承认加放行，allow 万能。改错钉子户：permission sb. to do ❌（名词不能带宾语）→ permit sb. to do ✓。词穷兽等的就是一句 permission——词也要被允许才有用。",
       drill: [
-        { s: "The high score was the best ___ for his hard work.", opts: ["reward", "award", "prize"], a: 0, why: "努力换来的回报→reward；award 是发给赢家的荣誉奖" },
-        { s: "She won the first ___ in the speech contest.", opts: ["award", "reward", "salary"], a: 0, why: "比赛荣誉奖→award，win the first award" }
+        { s: "No word may leave the hall without the keeper's ___.", opts: ["permission", "permit", "admission"], a: 0, why: "the keeper's + 名词 → permission 许可；permit 作名词指「许可证」实物；admission 指入场资格" },
+        { s: "The rules do not ___ candidates to bring the Arsenal in.", opts: ["permit", "permission", "admit"], a: 0, why: "缺谓语动词且接 sb. to do → permit；permission 是名词；admit 后不接 sb. to do" }
       ]
     }
+  ],
+  hidden: [
+    { w: "master", known: "n. 主人；大师", hidden: "v. 精通，掌握", ex: "Three hundred candidates could not master a single precise adjective.", excn: "三百名考生竟掌握不了一个精准的形容词。" },
+    { w: "novel", known: "n. 小说", hidden: "adj. 新颖的", ex: "The beast had never met a novel use for an old word.", excn: "这头兽从未见过一个旧词被新颖地使用。" },
+    { w: "stage", known: "n. 舞台；阶段", hidden: "v. 上演；发起", ex: "The inquiry was staged to frighten the whole hall.", excn: "那场调查是为了吓住全场而上演的一出戏。" },
+    { w: "rest", known: "n. 休息", hidden: "n. 其余部分（the rest of...）", ex: "The rest of the vocabulary came home by dusk.", excn: "其余的词汇在黄昏前全部归位。" }
   ],
   sentences: [
     {
-      en: "What the result tells us is simple: those who stay <mark>calm</mark> in the <mark>exam</mark> hall always perform better than those who let fear take over.",
+      en: "Years of empty praise had <mark>eroded</mark> it; a city's habit of wasting words had helped <mark>ruin</mark> it; and everyone had <mark>misunderstood</mark> the creature.",
       parts: [
-        "What the result tells us 主语从句：结果告诉我们的东西",
-        "those who... 定语从句：……的人；who 从句修饰 those",
-        "比较级结构 perform better than：表现比……更好",
-        "stay calm 系动词 + 形容词；let fear take over 让恐惧接管（使役 + 原形）"
+        "分号连接三个并列分句，一条追因链读完兽的前史",
+        "had eroded / had helped / had misunderstood：三个过去完成时，伤情全部发生在「此刻叙事」之前",
+        "help (to) do：help 后省 to（had helped ruin）——改错雷区：helped to ruining ❌",
+        "misunderstood 是 misunderstand 的过去分词（understand-understood 系列）"
       ],
-      cn: "结果告诉我们的很简单：考场上保持冷静的人，总是比被恐惧接管的人发挥得更好。",
-      slots: [
-        { s: "___ the result tells us is simple 主语从句引导词填空。", opts: ["What", "That", "Which"], a: 0, why: "从句缺 tells 的宾语→what；that 引导主语从句须从句完整" },
-        { s: "those ___ stay calm 定语从句关系词填空。", opts: ["who", "whom", "which"], a: 0, why: "先行词 those 指人且从句缺主语→who；whom 只作宾语" }
-      ]
+      cn: "多年的空洞表扬侵蚀了它；全城糟蹋词的习惯帮着毁了它；而所有人都误解了这头兽。"
     },
     {
-      en: "Only when you treat every <mark>blank</mark> as a chance <mark>can you</mark> turn your months of <mark>effort</mark> into a satisfying <mark>grade</mark>.",
+      en: "Each recalled word burned a hole in its grey hide — words <mark>that</mark> had once been loved, the one thing it could not digest.",
       parts: [
-        "Only when... 置于句首，主句用部分倒装：can you turn（本章语法①实弹演示）",
-        "treat A as B：把 A 当作 B",
-        "turn...into... 把……变成……；months of effort 数月的努力",
-        "a satisfying grade 令人满意的分数；-ing 修饰物，-ed 修饰人"
+        "recalled 过去分词作前置定语：被唤回的词",
+        "that 引导定语从句修饰 words（先行词是物），关系词作从句主语不可省",
+        "had been loved 过去完成被动：「被爱」发生在「被吟唱」之前",
+        "破折号后 the one thing... 是 words 的同位语，收束点题"
       ],
-      cn: "只有当你把每个空格都当作机会，你才能把数月的努力变成满意的分数。",
-      slots: [
-        { s: "Only when you treat every blank as a chance can ___ turn... Only 置句首时倒装发生在主句，主句主语是：", opts: ["you", "every blank", "a chance"], a: 0, why: "Only + 状语从句放句首，从句不倒装；主句主语是 you" },
-        { s: "can you turn 把情态动词提到主语前，这种语序叫 ___。", opts: ["部分倒装", "完全倒装", "陈述语序"], a: 0, why: "只提前 be/助动词/情态动词→部分倒装" }
-      ]
+      cn: "每一个被唤回的词都在它的灰皮上烧出一个小洞——这些词曾被好好爱过，而爱是它唯一消化不了的东西。"
+    },
+    {
+      en: "The change was immediate and apparent: the hall's vocabulary came home, three hundred pens were free to <mark>resume</mark>, and the temple filled with better sentences than it had heard in years.",
+      parts: [
+        "冒号总结：前句定性（immediate and apparent 并列表语），后面铺证据",
+        "and 连接三个并列分句：came home / were free to resume / filled",
+        "be free to do：得以自由地做；resume 此处「重新开始（执笔）」",
+        "than it had heard in years：than 引导比较从句，从句用过去完成时"
+      ],
+      cn: "变化立竿见影：全场的词汇回了家，三百支笔重新执笔，圣殿里响起了多年未有的好句子。"
     }
   ],
   phrases: [
-    { p: "take an exam", cn: "参加考试", note: "take the exam 亲自考；exam 前动词用 take/sit（不是 join）" },
-    { p: "pass the exam", cn: "通过考试", note: "pass 及物动词直接接宾语：pass the exam ✓；pass through the exam ❌" },
-    { p: "fail to do", cn: "未能做成", note: "fail 后接 to do 表「没能」：He failed to arrive on time." },
-    { p: "fill in the blank", cn: "填空", note: "fill in each blank；英式 fill in / 美式 fill out 表格" },
-    { p: "the answer to", cn: "……的答案", note: "⚠️ the answer to the question，介词用 to 不用 of；the key to 同理", warn: true, gap: { s: "The answer ___ the question is on the blackboard.", opts: ["to", "of", "for"], a: 0, why: "the answer/key to，介词用 to 不用 of" } },
-    { p: "translate...into...", cn: "把……翻译成……", note: "Translate the passage into English. into 后接目标语言", gap: { s: "Translate the sentence ___ Chinese.", opts: ["into", "in", "to"], a: 0, why: "translate...into 把……翻译成" } },
-    { p: "as a result", cn: "结果；因此", note: "副词性短语，修饰整句：As a result, he passed. = so" },
-    { p: "result in / result from", cn: "导致 / 起因于", note: "⚠️ 方向相反！Hard work results in success；success results from hard work", warn: true, gap: { s: "Hard work results ___ success.", opts: ["in", "from", "of"], a: 0, why: "result in 导致（因→果）；result from 起因于" } },
-    { p: "stay calm", cn: "保持冷静", note: "复现 ch08：= keep calm；calm down 冷静下来（动词短语）" },
-    { p: "as a reward for", cn: "作为对……的奖励", note: "He got a bike as a reward for his progress. for 后接名词/doing" },
-    { p: "pay attention to", cn: "注意；留意", note: "⚠️ to 是介词：pay attention to doing/to 名词；改错最爱挖成 on/for", warn: true },
-    { p: "depend on", cn: "依靠；取决于", note: "Success depends on daily review. = rely on；dependent adj.", gap: { s: "Success depends ___ daily review.", opts: ["on", "in", "at"], a: 0, why: "depend on 固定介词 on" } },
-    { p: "make up for", cn: "弥补", note: "make up for lost time 弥补失去的时间；make up 还有「编造/和解」义", gap: { s: "He studied harder to make up ___ lost time.", opts: ["for", "of", "with"], a: 0, why: "make up for 弥补" } },
-    { p: "take...into account", cn: "把……考虑在内", note: "= take...into consideration；真题完形高频：take everything into account" },
-    { p: "in conclusion", cn: "总之（写作收尾）", note: "In conclusion, persistence pays off. 作文最后一段第一词" },
-    { p: "only in this way", cn: "只有这样", note: "⚠️ 置于句首主句倒装：Only in this way can we pass. 呼应本章语法①", warn: true }
+    { p: "bend over", cn: "俯身；埋头于", note: "candidates bent over their desks 考生伏案；bend-bent-bent", warn: true },
+    { p: "be ready to do", cn: "随时准备做", note: "ready to absorb the hall's vocabulary 准备吸走全场词汇" },
+    { p: "one per / one for each", cn: "每……一块", note: "one Echo Stone per gate 一关一块回响石；per 后接单数名词", warn: true },
+    { p: "word by word", cn: "逐词地", note: "名词 after 同名词重复表「逐渐」——复现 ch05 bolt after bolt、ch16 一个词一个词拖回记忆" },
+    { p: "be free to do", cn: "自由地做；得以做", note: "three hundred pens were free to resume 笔获准重新落墨" },
+    { p: "come home", cn: "回家；归位", note: "the hall's vocabulary came home 词汇归位（拟人）——与 ch16 relit a lantern 同款画面感；复现 ch06" },
+    { p: "not A but B", cn: "不是 A 而是 B", note: "not hunger but neglect 不是饥饿而是冷落；写作立论句式", warn: true },
+    { p: "feed on", cn: "以……为食", note: "复现 ch16：the fog feeds on violence 雾以暴力为食——老敌人换了一副胃口" },
+    { p: "step forward", cn: "站出来；挺身而出", note: "Zhou Qing stepped forward 周擎倒戈向前一步；对比 ch19 step out of the line" },
+    { p: "demand an inquiry", cn: "要求调查", note: "demand 后接名词；demand that + (should) do 虚拟——复现 ch19 建议类动词家族" },
+    { p: "deny doing / deny sth.", cn: "否认", note: "❌ deny to do；Deny it, Father. 祈使句戳心", warn: true },
+    { p: "flee to", cn: "逃往", note: "flee-fled-fled；flee the country 逃出国", warn: true },
+    { p: "leave...behind", cn: "把……抛在身后", note: "leaving his reputation as a warning 把名声留下当警告；现在分词作伴随状语" },
+    { p: "shrink into", cn: "缩成", note: "shrank into one small grey syllable；shrink-shrank-shrunk（对照 sink-sank-sunk）", warn: true },
+    { p: "by noon / by nightfall", cn: "到正午/夜幕降临时", note: "by + 时间点 → 完成时搭档；By noon four pens had fallen（ch16 同款）" }
   ],
   grammar: [
     {
-      t: "Only+状语 倒装 / Never 等否定副词倒装（写作压轴句型）",
-      rule: "Only + 状语（从句/介词短语/副词）放句首，主句必须部分倒装：把 be/助动词/情态动词提到主语前。Never、Not until、Hardly、By no means 等否定副词放句首，同样倒装。注意：Only 后面的从句本身不倒装，倒装只发生在主句。",
-      ex: "Only when the result came out did he realize how far he had walked. Never before had he felt so calm in an exam hall.",
-      excn: "只有当结果出来时，他才意识到自己走了多远。以前他从没在考场里这么冷静过。",
-      signal: "标志：句首 Only when... / Never / Not until → 往后找 be/情态/助动词提前（did he / had he / can you）。改错坑：Only then I knew ❌ → Only then did I know ✓",
-      quiz: { s: "Only then ___ I know the value of daily deposits. → ___", opts: ["did", "do", "would"], a: 0, why: "Only + 副词句首→主句部分倒装 did I know" }
+      t: "过去完成时 had done / had been done（兽的旧伤与旧账）",
+      rule: "两个过去的动作或状态，更早的那个用 had done；主语是承受者用 had been done。三大标志：① by + 过去时间点 ② before/after 连接两个过去动作 ③ years of... 追因句。",
+      ex: "Years of empty praise had eroded the beast, and by nightfall the Dean had fled across the sea.",
+      excn: "多年的空洞表扬侵蚀了词穷兽；到夜幕降临时，教务长已经逃到了海的另一边。",
+      signal: "by + 过去时间点 / years of + 追因 → had done；被动伤情用 had been done",
+      quiz: { s: "By the time the ceremony began, the beast ___ into one small syllable.", opts: ["had shrunk", "shrank", "has shrunk"], a: 0, why: "by the time + 过去时从句 → 主句过去的过去 had shrunk；shrank 缺「先完成」参照；has shrunk 是现在完成时越位" }
     },
     {
-      t: "强调句 It is/was...that/who",
-      rule: "把句子某成分放进 It is/was 和 that 之间加以强调：It was + 被强调部分 + that + 其余部分，强调人可用 who。判断方法：去掉 It is/was...that 框架，剩下的词能还原成完整句子 → 强调句。强调过去的事用 was；谓语动词本身不能被强调。",
-      ex: "It was not the score but the twenty-chapter journey that was the real reward. It was Juanjuan who reminded him to write his name.",
-      excn: "真正的奖励不是分数，而是二十章的旅程。是卷卷提醒他写名字的。",
-      signal: "辨析陷阱：It was in the hall where ❌ → that ✓（强调地点也用 that）；It is clear that... 是主语从句不是强调句（去掉框架不成句）",
-      quiz: { s: "It was in the exam hall ___ he met all his old friends. → ___", opts: ["that", "where", "which"], a: 0, why: "强调句强调地点也用 that；去掉框架须还原成完整句" }
+      t: "as if / as though + 虚拟语气（与事实相反）",
+      rule: "as if/as though 从句表「仿佛」：与现在事实相反 → 一般过去式（be 一律用 were）；与过去事实相反 → had done。若所述可能为真，则用陈述语气。",
+      ex: "The beast trembled as if it were waiting for a kind reader all its life.",
+      excn: "词穷兽微微发抖，仿佛它一辈子都在等一位善良的读者。",
+      signal: "「仿佛/好像（非事实）」→ as if + 过去式/were；⚠️ 别写成 as if it will wait",
+      quiz: { s: "The candidates wrote as if they ___ no words left at all.", opts: ["had", "have", "will have"], a: 0, why: "与现在事实相反的虚拟 → 过去式 had（他们其实有词，只是被兽吞了）；have/will have 是陈述语气" }
     },
     {
-      t: "改错十雷区总复习（终章大阅兵）",
-      rule: "①时态：and/but 前后一致，last week 用过去式；②主谓一致：the number of+单数，a number of+复数，either...or 就近；③名词数：one of + 复数；④冠词：a/an 看音素，the same；⑤词性：系动词后用 adj，修饰动词用 adv；⑥代词：主宾格、反身 oneself；⑦非谓语：enjoy+doing，介词后 doing，done 表被动；⑧介词：固定搭配、because of+名词；⑨连词：although 不与 but 连用；⑩平行结构：not only...but also 两边对等。",
-      ex: "Everyone in our class has passed the exam, including the boy who used to get up late.",
-      excn: "我们班每个人都通过了考试，包括那个曾经爱睡懒觉的男孩。",
-      signal: "检查口诀：一句读三遍——先看谓语时态和主谓一致，再看名词单复数和冠词，最后查词性、代词、介词、连词、非谓语、平行结构。十雷区逐个点名，一个都不能漏。",
-      quiz: { s: "He is one of the students who ___ passed the exam. → ___（雷区③名词数）", opts: ["has", "have", "is"], a: 1, why: "one of + 复数名词，定语从句修饰 students→复数 have" }
+      t: "not A but B 与强调句 It is...that（写作升格双刃）",
+      rule: "not A but B：否定 A、肯定 B（The motive was not hunger but neglect）。强调句 It is/was + 被强调部分 + that/who：去掉框架后句子仍完整。写作里先用 not...but 立论，再用强调句钉死重点——汉译英与作文升格的两件套。",
+      ex: "It was appreciation, not punishment, that gave three hundred pens back their courage.",
+      excn: "正是欣赏而非惩罚，把勇气还给了三百支笔。",
+      signal: "去掉 It is...that 后句子完整 → 强调句；强调物用 that；not 后接被否定项，but 后接真正原因",
+      quiz: { s: "It was honest use, not empty praise, that ___ the beast at last.", opts: ["tamed", "was tamed", "taming"], a: 0, why: "强调句框架内是完整谓语 → 主动语态 tamed（用词驯服了兽）；was tamed 语态反了；taming 非谓语缺谓语" }
+    },
+    {
+      t: "真题高频 · 定语从句 that/which（先行词是物）",
+      rule: "先行词是物 → that/which 皆可（that 更常用）；先行词被 all/every/序数词修饰时惯用 that；关系词在从句中作主语时不可省略。改错雷区：what 不能引导定语从句。",
+      ex: "The old words that had once been loved came home the moment the chant began.",
+      excn: "曾被好好爱过的旧词，在吟唱响起的那一刻回了家。",
+      signal: "空格前有名词（words/stones/ledger）→ 定语从句选 that/which；what ❌；从句缺主语 → 关系词不能省",
+      quiz: { s: "The Echo Stones kept the old words ___ had once been loved.", opts: ["that", "what", "who"], a: 0, why: "先行词 words 是物 → that；what 不能引导定语从句；who 只指人" }
+    },
+    {
+      t: "真题高频 · 一般过去时被动 was/were done",
+      rule: "主语是动作承受者 → was/were + 过去分词。真题两大坑：① 漏 be（The purge regulate by... ❌）② 主动被动颠倒。判断法：主语能不能自己发出动作？账本「被管制」、教务长「被逐」→ 被动。",
+      ex: "The ledger was silenced, and the Dean was driven out of the city.",
+      excn: "账本被噤了声，教务长被逐出了城。",
+      signal: "主语与动词是「被」的关系 + 过去时间 → was/were done；by 后接施动者",
+      quiz: { s: "The tenth-year purge ___ by men who loved to regulate.", opts: ["was built", "built", "was building"], a: 0, why: "purge（清零）是被「制造」的承受者 → was built；built 主动意为清零去造别的东西，逻辑反；was building 进行时矛盾" }
     }
   ],
   quiz: [
     {
-      q: "When the teacher asked him to answer, his mind went completely ______.",
-      options: ["blank", "blind", "empty", "white"],
-      answer: 0,
-      explain: "mind went blank 固定搭配「大脑一片空白」，本章主角词；blind 失明的；empty 强调容器空；white 只说颜色。"
+      q: "Years of wind and empty praise had ______ the beast's heart.",
+      options: ["escaped", "erupted", "evolved", "eroded"], answer: 3, explain: "erode 侵蚀、一点点磨损（had + 过去分词）；erupt 爆发；evolve 进化；escape 逃跑。语境「多年的表扬慢慢磨掉了它的心」→ eroded。"
     },
     {
-      q: "He received the admission letter and ______ it without hesitation.",
-      options: ["accepted", "received", "refused", "avoided"],
-      answer: 0,
-      explain: "receive 客观收到（信到手），accept 主观接受（愿意收下）。前半句已用 received，毫不犹豫收下 → accepted；refused 拒绝与语境矛盾。这对老朋友在 ch08/ch18 易混区都练过——终章压轴考点。"
+      q: "The whole city ______ the beast: it wanted honest use, not food.",
+      options: ["understood", "misled", "misunderstood", "missed"], answer: 2, explain: "misunderstand 误解（mis- 错 + understand）；句意「全城都误解了它」→ misunderstood；understood 理解（方向反）；misled 误导；missed 错过。"
     },
     {
-      q: "The high score was the best ______ for his ten months of hard work.",
-      options: ["reward", "award", "price", "bargain"],
-      answer: 0,
-      explain: "reward 回报：努力换来的酬劳，搭配 as a reward for；award 是发给赢家的荣誉奖；price 价格；bargain 便宜货（ch07 回忆杀）。努力对应的是回报。"
+      q: "With three precise paragraphs, A-Luo finally ______ what force never could.",
+      options: ["conquered", "covered", "compared", "counted"], answer: 0, explain: "conquer 征服、攻克；cover 覆盖；count 数；compare 比较。「精准征服了武力征服不了的」→ conquered。"
     },
     {
-      q: "Only when you stay calm in the exam hall ______ your best.",
-      options: ["can you do", "you can do", "did you do", "you did do"],
-      answer: 0,
-      explain: "Only + 状语从句置于句首 → 主句部分倒装：can you do your best。从句 you stay calm 不倒装；正常语序是 you can do your best。陈述句语序 you can do 是最大陷阱。"
+      q: "The tenth-year purge ______ into silence by the old bureau.",
+      options: ["regulated", "was regulating", "was regulated", "regulate"], answer: 2, explain: "语法题：purge（清零）是被「管制」的承受者 → was regulated 被动语态；regulated/was regulating 主动语态逻辑反；regulate 原形缺 be。"
     },
     {
-      q: "It was in the exam hall ______ A-Luo met all his old friends again — on paper.",
-      options: ["that", "where", "which", "when"],
-      answer: 0,
-      explain: "强调句：It was + 地点 + that，强调地点也只用 that 不用 where。检验法：去掉 It was...that，剩下 A-Luo met all his old friends in the exam hall 仍是完整句子。"
+      q: "It was honest use, not empty praise, that ______ the beast at last.",
+      options: ["was tamed", "tamed", "to tame", "taming"], answer: 1, explain: "强调句框架 It was...that 内部是完整谓语：honest use（主动）驯服了兽 → tamed；was tamed 语态颠倒；taming/to tame 缺谓语。"
     },
     {
-      q: "改错：The number of students who take the exam increase every year.",
-      options: ["increase → increases", "take → takes", "students → student", "year → years"],
-      answer: 0,
-      explain: "雷区②主谓一致：the number of + 复数名词作主语，谓语用单数 → increases；a number of 才配复数谓语。定语从句 who take 修饰 students 用复数没错——别被它骗去改 take。"
+      q: "The black-market trade in fake word-souls was run by a smooth-talking ______.",
+      options: ["auditor", "author", "auctioneer", "audience"], answer: 2, explain: "复现 ch06 旧词 auctioneer 拍卖师（黑市之夜的老熟人）；audience 观众；auditor 审计员；author 作者。"
     },
     {
-      q: "英译汉选择：Where there is a will, there is a way.",
-      options: ["那里有一份遗嘱，那里就有一条路。", "有志者事竟成。", "有意愿的人就有路可走。", "道路在某处，愿望在某处。"],
-      answer: 1,
-      explain: "will 在谚语里是名词「意志」，不是将来助动词也不是遗嘱——望文生义是英译汉头号陷阱。这是全书最后一句，也是守塔人和考卷一起送你的话。"
+      q: "An essay that only says 'good' or 'bad' stays ______ and starves the reader.",
+      options: ["valid", "vast", "vivid", "vague"],
+      answer: 3,
+      explain: "复现旧词 vague 含糊的、模糊的——词穷兽的口粮；valid 有效的；vast 广阔的；vivid 生动的（ch17 新词来串门的干扰项）。"
     },
     {
-      q: "Please pay attention ______ the instructions before you fill in the blanks.",
-      options: ["to", "on", "at", "for"],
+      q: "Zhou Qing opened the hidden ledger so that the whole hall could ______ every score.",
+      options: ["venture", "visit", "vary", "verify"], answer: 0, explain: "复现 ch18 旧词 verify 核实、查证——周擎倒戈举证的武器；vary 变化；venture 冒险；visit 参观。"
+    },
+    {
+      q: "改错：The beast leaned over the page as if it is starving for ten years of honest words.",
+      options: ["it is starving → it were starving", "leaned over → was leaned over", "as if → so that", "ten years → ten year"],
       answer: 0,
-      explain: "pay attention to 固定搭配；同族还有 the answer to / the key to——to 家族是完形改错双高频，改错题最爱把它挖成 on/for。"
+      explain: "改错雷区·虚拟语气（as if 从句）：as if 表「仿佛」且内容与事实相反，从句用虚拟，be 动词一律用 were → as if it were starving；B lean over 表「俯身向」，主语兽主动发出动作，用被动 was leaned 错误；C as if 引导方式状语从句表「仿佛」，so that 表目的或结果，逻辑不通；D ten years 表十年，数词大于一必须用复数 years。"
+    },
+    {
+      q: "汉译英：正是诚实的使用，而不是空洞的表扬，驯服了词穷兽。",
+      options: ["It was honest use, not empty praise, that tamed the beast.", "It was honest use, not empty praise, what tamed the beast.", "It was honest use, not empty praise, which tamed the beast.", "Honest use was it that tamed the beast, not empty praise."],
+      answer: 0,
+      explain: "考点：强调句 It was + 被强调部分 + that...（去掉框架后句子仍完整），强调物一律用 that；B 错在 what 不能引导强调句；C 错在 which 不进入强调句框架；D 错在语序混乱，被强调部分必须紧跟在 It was 之后，不能倒置成 Honest use was it。"
     }
   ]
 });
