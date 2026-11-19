@@ -81,6 +81,7 @@ const App = {
     document.getElementById("phrasal-view").classList.add("hidden");
     document.getElementById("score-view").classList.add("hidden");
     document.getElementById("syn-view").classList.add("hidden");
+    if (window.PHRASAL) document.getElementById("phrasal-verb-count").textContent = window.PHRASAL.verbs.length;
     this.renderMap();
     window.scrollTo(0, 0);
   },
